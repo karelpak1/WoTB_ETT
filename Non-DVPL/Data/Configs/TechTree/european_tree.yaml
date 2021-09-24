@@ -1,0 +1,43 @@
+premium_rows: 2
+
+tanks:
+#<!-- TIER_1 -->
+    F01_Vickers_MkF:
+        position: [1, 4]
+#<!-- TIER_1 -->
+    Pl06_10TP:
+        position: [2, 4]
+#<!-- TIER_3 -->
+    Pl07_14TP:
+        position: [3, 4]
+#<!-- TIER_4 -->
+    S04_Lago-I:
+        position: [4, 4]
+#<!-- TIER_5 -->
+    S02_StrvM42:
+        position: [5, 4]
+#<!-- TIER_6 -->
+    It10_P43_BD:
+        position: [6, 2]
+    It10_P43_bis:
+        position: [6, 4]
+#<!-- TIER_7 -->
+    It09_P43_ter:
+        position: [7, 4]
+#<!-- TIER_8 -->
+    It13_Progetto_M35_mod_46:
+        position: [8, 1]
+    S25_EMIL_51:
+        position: [8, 2]
+    It14_P44_Pantera:
+        position: [8, 4]
+#<!-- TIER_9 -->
+    Pl08_50TP_prot:
+        position: [9, 2]
+    It12_Prototipo_Standard_B:
+        position: [9, 4]
+#<!-- TIER_10 -->
+    S16_Kranvagn:
+        position: [10, 2]
+    It08_Progetto_M40_mod65:
+        position: [10, 4]
