@@ -111,7 +111,7 @@
 		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -181,7 +181,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
-			<hellgames>vampire</hellgames>
+			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -233,7 +233,7 @@
 		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>dreadnought</arcade>
+			<arcade>close_assault</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -345,7 +345,7 @@
 		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>scout</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -395,7 +395,7 @@
 		<tags>AT-SPG mediumAT-SPG enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>long_support</arcade>
+			<arcade>scout</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -485,8 +485,8 @@
 		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>close_assault</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</IS8>
@@ -514,8 +514,8 @@
 		<tags>AT-SPG mediumAT-SPG largeCaliberTankRammer_user enhancedTorsions3t_user wetCombatPack_class2_user</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>long_support</arcade>
-			<hellgames>hunter</hellgames>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -708,6 +708,7 @@
 		<description>#ussr_vehicles:Churchill_LL_descr</description>
 		<price>2400<gold/>
 		</price>
+		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank lendLeaseVehicle mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>5</level>
@@ -871,7 +872,8 @@
 		<userString>#ussr_vehicles:SU122_44</userString>
 		<description>#ussr_vehicles:SU122_44_descr</description>
 		<price>5100<gold/>
-    </price>
+		</price>
+		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG mediumAT-SPG enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>7</level>
@@ -908,8 +910,8 @@
 		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>scout</arcade>
+			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</R113_Object_730>
@@ -976,7 +978,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>supertest development production</configurationModes>
 	</IS-2Sh>
@@ -1205,8 +1207,8 @@
 		<tags>heavyTank sinai</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<arcade>scout</arcade>
+			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R134_Object_252U>
@@ -1294,7 +1296,7 @@
 		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>halfheavy</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -1404,7 +1406,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai InGame noRating</tags>
+		<tags>heavyTank sinai</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

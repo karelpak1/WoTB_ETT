@@ -22,6 +22,12 @@
 "usa:M10_Wolverine": ['other:Oth24_StuH_42HW']
 "ussr:SU-85": ['other:Oth24_StuH_42HW']
 #<!-- TIER_6 -->
+#Light
+"france:AMX_12t": ['other:Oth27_M24_AMX']
+"germany:VK2801": ['other:Oth27_M24_AMX']
+"usa:A94_T37": ['other:Oth27_M24_AMX']
+"usa:M24_Chaffee": ['other:Oth27_M24_AMX']
+"ussr:MT25": ['other:Oth27_M24_AMX']
 #Medium
 "european:S07_Strv_74": ['other:Strv_74A2','other:Oth18_BDT-5B']
 "european:It10_P43_bis": ['other:Strv_74A2','other:Oth18_BDT-5B']

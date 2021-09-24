@@ -57,11 +57,11 @@ tanks:
         position: [6, 1]
     GB40_Gun_Carrier_Churchill:
         position: [6, 2]
-    GB40_Gun_Carrier_BP:
-        position: [6, 3]
     GB_Churchill_MkVI:
-        position: [6, 4]
+        position: [6, 3]
     GB85_Cromwell_Berlin:
+        position: [6, 4]
+    GB40_Gun_Carrier_BP:
         position: [6, 5]
     GB21_A27BP:
         position: [6, 6]

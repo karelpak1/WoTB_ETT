@@ -9,7 +9,7 @@
 		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -68,7 +68,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -82,7 +82,7 @@
 		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -417,7 +417,7 @@
 		<level>6</level>
 		<combatRole>
 			<arcade>close_support</arcade>
-			<hellgames>hunter</hellgames>
+			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -468,7 +468,7 @@
 		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>dreadnought</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>

@@ -191,7 +191,7 @@
 		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>close_assault</arcade>
+			<arcade>dreadnought</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -259,7 +259,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>sniper</arcade>
-			<hellgames>vampire</hellgames>
+			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -349,7 +349,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter</hellgames>
+			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -425,7 +425,7 @@
 		<tags>lightTank wetCombatPack_class1_user mediumCaliberTankRammer_user aimingStabilizer_Mk1_user enhancedTorsions1t_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -490,7 +490,7 @@
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T110>
@@ -520,7 +520,7 @@
 		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user noImprovedVentilation enhancedHorizontal_springs_class3_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>long_support</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -536,7 +536,7 @@
 		<tags>AT-SPG mediumAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user noImprovedVentilation enhancedTorsions1t_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>long_support</arcade>
+			<arcade>scout</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -580,7 +580,8 @@
 		<description>#usa_vehicles:T26_E4_SuperPershing_descr</description>
 		<shortUserString>#usa_vehicles:T26_E4_SuperPershing_short</shortUserString>
 		<price>7200<gold/>
-    </price>
+		</price>
+		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
 		<level>8</level>
@@ -600,8 +601,8 @@
 		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>close_support</arcade>
-			<hellgames>hunter_2</hellgames>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -632,7 +633,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -713,8 +714,8 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
-			<hellgames>vampire_2</hellgames>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -745,7 +746,7 @@
 		<tags>lightTank wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions3t_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>scout</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -825,6 +826,7 @@
 		<description>#usa_vehicles:M6A2E1_descr</description>
 		<price>5200<gold/>
 		</price>
+		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank largeCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk2_user enhancedVertical_springs_class3_user</tags>
 		<level>7</level>
@@ -1074,7 +1076,7 @@
 		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>dreadnought</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1158,7 +1160,7 @@
 		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>close_assault</arcade>
+			<arcade>long_support</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>

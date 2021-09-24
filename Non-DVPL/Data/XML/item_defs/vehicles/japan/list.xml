@@ -363,7 +363,7 @@
 		<tags>AT-SPG heavyAT-SPG</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>long_support</arcade>
+			<arcade>cavalry</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>

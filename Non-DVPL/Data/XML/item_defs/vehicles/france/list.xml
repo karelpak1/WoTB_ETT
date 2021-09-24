@@ -119,7 +119,7 @@
 		<level>10</level>
 		<combatRole>
 			<arcade>scout</arcade>
-			<hellgames>vampire</hellgames>
+			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
@@ -165,7 +165,7 @@
 		<tags>lightTank wetCombatPack_class1_user enhancedTorsions1t_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>scout</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -192,7 +192,7 @@
 		<tags>heavyTank wetCombatPack_class2_user aimingStabilizer_Mk2_user enhancedTorsions5t_user</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>close_assault</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -207,7 +207,7 @@
 		<tags>lightTank wetCombatPack_class1_user enhancedTorsions1t_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>scout</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -311,7 +311,7 @@
 		<level>7</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter</hellgames>
+			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
@@ -342,8 +342,8 @@
 		<tags>AT-SPG mediumAT-SPG wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedSprings_class2_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>long_support</arcade>
-			<hellgames>hunter</hellgames>
+			<arcade>scout</arcade>
+			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
@@ -420,11 +420,12 @@
 		<description>#france_vehicles:FCM_50t_descr</description>
 		<price>7350<gold/>
 		</price>
+		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>long_support</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -458,7 +459,7 @@
 		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>dreadnought</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -543,7 +544,7 @@
 		<tags>mediumTank collectible</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -665,7 +666,7 @@
 		<price>7350<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-        <notInShop>false</notInShop>
+		<notInShop>false</notInShop>
 		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
@@ -682,11 +683,9 @@
 		<description>#france_vehicles:F19_Lorraine40t_Com_descr</description>
 		<price>7200<gold/>
 		</price>
-		<sellPrice>3600<gold/>
-		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible</tags>
+		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -695,4 +694,22 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</F19_Lorraine40t_Com>
+	<F89_Canon_dassaut_105>
+		<id>73</id>
+		<userString>#france_vehicles:F89_Canon_dassaut_105</userString>
+		<shortUserString>#france_vehicles:F89_Canon_dassaut_105_short</shortUserString>
+		<description>#france_vehicles:F19_F89_Canon_dassaut_105_descr</description>
+		<price>7350<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F89_Canon_dassaut_105>
 </root>

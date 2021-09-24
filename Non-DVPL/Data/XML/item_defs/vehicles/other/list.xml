@@ -94,7 +94,7 @@
 		<tags>AT-SPG lightAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions1t_user fictional</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>long_support</arcade>
+			<arcade>close_assault</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -199,7 +199,7 @@
 		<price>1</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame deprecated fictional</tags>
+		<tags>mediumTank InGame fictional</tags>
 		<level>1</level>
 		<configurationModes>production development</configurationModes>
 	</Oth10_WarDuck>
@@ -215,7 +215,7 @@
 		<tags>mediumTank fictional</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>halfheavy</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -271,7 +271,7 @@
 		<tags>heavyTank eventCamouflage_user collectible fictional</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>cavalry</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -304,7 +304,7 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<combatRole>
-			<arcade>scout</arcade>
+			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -323,7 +323,7 @@
 		<notInShop>false</notInShop>
 		<combatRole>
 			<arcade>scout</arcade>
-			<hellgames>vampire</hellgames>
+			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<tags>mediumTank eventCamouflage_user InGame fictional</tags>
@@ -411,7 +411,7 @@
 		<tags>heavyTank eventCamouflage_user fictional</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>cavalry</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -435,4 +435,24 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Oth26_StrvM42HW>
+	<Oth27_M24_AMX>
+		<id>33</id>
+		<userString>#other_vehicles:Oth27_M24_AMX</userString>
+		<shortUserString>#other_vehicles:Oth27_M24_AMX_short</shortUserString>
+		<description>#other_vehicles:Oth27_M24_AMX_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<notInShop>false</notInShop>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Oth27_M24_AMX>
 </root>
