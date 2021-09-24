@@ -35,6 +35,8 @@ tanks:
     ELC_AMX:
         position: [5, 8]
 #<!-- TIER_6 -->
+    ARL_44BP:
+        position: [6, 5]
     ARL_V39:
         position: [6, 6]
     ARL_44:
@@ -77,6 +79,8 @@ tanks:
     F75_Char_de_25t:
         position: [9, 8]
 #<!-- TIER_10 -->
+    F82_AMX_M4_Mle1949_Ter:
+        position: [10, 4]
     F72_AMX_30:
         position: [10, 5]
     AMX_50Fosh_155:

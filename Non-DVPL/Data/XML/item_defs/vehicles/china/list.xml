@@ -12,7 +12,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
 		</combatRole>
-		<configurationModes>development production supertest</configurationModes>
+		<configurationModes>development production</configurationModes>
 	</Ch01_Type59>
 	<Ch03_WZ-111>
 		<id>3</id>
@@ -28,7 +28,7 @@
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
-		<configurationModes>development production supertest</configurationModes>
+		<configurationModes>development production</configurationModes>
 	</Ch03_WZ-111>
 	<Ch04_T34_1>
 		<id>4</id>

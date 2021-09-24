@@ -17,7 +17,7 @@
 		<description>#france_vehicles:RenaultFT_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank </tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<notInShop>false</notInShop>
 		<configurationModes>production development supertest</configurationModes>
@@ -460,6 +460,25 @@
 		<level>1</level>
 		<configurationModes>development production supertest</configurationModes>
 	</RenaultR35>
+	<F82_AMX_M4_Mle1949_Ter>
+		<id>17</id>
+		<userString>#france_vehicles:F82_AMX_M4_Mle1949_Ter</userString>
+		<shortUserString>#france_vehicles:F82_AMX_M4_Mle1949_Ter_short</shortUserString>
+		<description>#france_vehicles:F82_AMX_M4_Mle1949_Ter_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F82_AMX_M4_Mle1949_Ter>
 	<F19_Lorraine40t>
 		<id>31</id>
 		<userString>#france_vehicles:F19_Lorraine40t</userString>
@@ -547,4 +566,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F69_AMX_13_57GF>
+	<ARL_44BP>
+		<id>67</id>
+		<userString>#france_vehicles:ARL_44BP</userString>
+		<shortUserString>#france_vehicles:ARL_44BP_short</shortUserString>
+		<description>#france_vehicles:ARL_44BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</ARL_44BP>
 </root>

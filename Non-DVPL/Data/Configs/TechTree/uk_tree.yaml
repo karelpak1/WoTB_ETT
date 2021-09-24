@@ -3,9 +3,9 @@ premium_rows: 5
 tanks:
 #<!-- TIER_1 -->
     GB01_Medium_Mark_I:
-        position: [1, 4]
+        position: [1, 3]
     GB_Mark_I:
-        position: [1, 5]
+        position: [1, 4]
     GB69_Cruiser_Mk_II:
         position: [1, 8]
 #<!-- TIER_2 -->
@@ -48,9 +48,9 @@ tanks:
         position: [5, 5]
     GB73_AT2:
         position: [5, 6]
-    GB08_Churchill_I:
-        position: [5, 8]
     GB20_Crusader:
+        position: [5, 8]
+    GB08_Churchill_I:
         position: [5, 10]
 #<!-- TIER_6 -->
     GB35_Sentinel_AC_IV:

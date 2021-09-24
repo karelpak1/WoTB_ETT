@@ -31,7 +31,7 @@
 		<shortUserString>#usa_vehicles:T1_Cunningham_short</shortUserString>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank</tags>
+		<tags>lightTank </tags>
 		<level>1</level>
 		<notInShop>false</notInShop>
 		<configurationModes>production development supertest</configurationModes>
@@ -1150,7 +1150,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame</tags>
+		<tags>mediumTank</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
