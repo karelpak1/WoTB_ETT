@@ -69,6 +69,8 @@ tanks:
     VK1602:
         position: [5, 17]
 #<!-- TIER_6 -->
+    VK2801_BP:
+        position: [6, 5]
     DickerMax:
         position: [6, 6]
     PzIV_schmalturm:

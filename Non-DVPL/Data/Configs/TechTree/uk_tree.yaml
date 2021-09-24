@@ -116,7 +116,6 @@ tanks:
         position: [9, 9]
     GB12_Conqueror:
         position: [9, 10]
-        
 #<!-- TIER_10 -->
     GB84_Chieftain_Mk6:
         position: [10, 3]

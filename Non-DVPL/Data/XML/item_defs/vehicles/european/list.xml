@@ -169,16 +169,74 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl08_50TP_prot>
+	<S07_Strv_74>
+		<id>14</id>
+		<userString>#european_vehicles:S07_Strv_74</userString>
+		<shortUserString>#european_vehicles:S07_Strv_74_short</shortUserString>
+		<description>#european_vehicles:S07_Strv_74_descr</description>
+		<price>930500</price>
+		<enrichmentPermanentCost>5700</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</S07_Strv_74>
+	<S13_Leo>
+		<id>15</id>
+		<userString>#european_vehicles:S13_Leo</userString>
+		<shortUserString>#european_vehicles:S13_Leo_short</shortUserString>
+		<description>#european_vehicles:S13_Leo_descr</description>
+		<price>1350000</price>
+		<enrichmentPermanentCost>10400</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</S13_Leo>
+	<S18_EMIL_1951E1>
+		<id>13</id>
+		<userString>#european_vehicles:S18_EMIL_1951E1</userString>
+		<shortUserString>#european_vehicles:S18_EMIL_1951E1_short</shortUserString>
+		<description>#european_vehicles:S18_EMIL_1951E1_descr</description>
+		<price>2552000</price>
+		<enrichmentPermanentCost>14800</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</S18_EMIL_1951E1>
+	<S17_EMIL_1952E2>
+		<id>16</id>
+		<userString>#european_vehicles:S17_EMIL_1952E2</userString>
+		<shortUserString>#european_vehicles:S17_EMIL_1952E2_short</shortUserString>
+		<description>#european_vehicles:S17_EMIL_1952E2_descr</description>
+		<price>3600000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</S17_EMIL_1952E2>
 	<S16_Kranvagn>
 		<id>17</id>
 		<userString>#european_vehicles:S16_Kranvagn</userString>
 		<shortUserString>#european_vehicles:S16_Kranvagn_short</shortUserString>
 		<description>#european_vehicles:S16_Kranvagn_descr</description>
-		<price>1<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>heavyTank InGame</tags>
+		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -195,7 +253,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>

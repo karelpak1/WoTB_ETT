@@ -816,7 +816,7 @@
 		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>long_support</arcade>
 			<hellgames>hunter_2</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -941,7 +941,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai enhancedTorsions5t_user wetCombatPack_class2_user aimingStabilizer_Mk2_user InGame fictional</tags>
+		<tags>heavyTank sinai enhancedTorsions5t_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1005,7 +1005,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1019,7 +1019,7 @@
 		<description>#ussr_vehicles:MS-1_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank</tags>
+		<tags>lightTank secret</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</MS-1_tutorial_bot>
@@ -1029,7 +1029,7 @@
 		<description>#ussr_vehicles:MS-1_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank</tags>
+		<tags>lightTank secret</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</MS-1_tutorial_bot2>
@@ -1089,7 +1089,7 @@
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank</tags>
+		<tags>lightTank secret</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
 	</T-26_tutorial_bot>
@@ -1100,7 +1100,7 @@
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank</tags>
+		<tags>lightTank secret</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
 	</T-26_tutorial_bot2>
@@ -1219,7 +1219,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame</tags>
+		<tags>mediumTank</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1227,4 +1227,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R98_T44_85>
+	<R146_STG>
+		<id>85</id>
+		<userString>#ussr_vehicles:R146_STG</userString>
+		<shortUserString>#ussr_vehicles:R146_STG_short</shortUserString>
+		<description>#ussr_vehicles:R146_STG_descr</description>
+		<price>7300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R146_STG>
 </root>

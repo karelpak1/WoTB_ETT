@@ -6,7 +6,7 @@
 		<shortUserString>#gb_vehicles:GB01_Medium_Mark_I_short</shortUserString>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>mediumTank lightTankArtefacts_User improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
+		<tags>mediumTank improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
 		<level>1</level>
 		<notInShop>false</notInShop>
 		<configurationModes>production development supertest</configurationModes>
@@ -569,7 +569,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame improvedVentilation_class1_user mediumCaliberTankRammer_user</tags>
+		<tags>heavyTank improvedVentilation_class1_user mediumCaliberTankRammer_user grousers_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</GB_Mark_I>
@@ -628,7 +628,7 @@
 		<shortUserString>#gb_vehicles:GB01_Medium_Mark_I_short</shortUserString>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>mediumTank lightTankArtefacts_User improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
+		<tags>mediumTank secret lightTankArtefacts_User improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</GB01_Medium_Mark_I_tutorial_bot>
@@ -639,7 +639,7 @@
 		<shortUserString>#gb_vehicles:GB01_Medium_Mark_I_short</shortUserString>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>mediumTank lightTankArtefacts_User improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
+		<tags>mediumTank secret lightTankArtefacts_User improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</GB01_Medium_Mark_I_tutorial_bot2>
@@ -735,7 +735,7 @@
 		<description>#gb_vehicles:GB03_Cruiser_Mk_I_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank</tags>
+		<tags>lightTank secret</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
 	</GB03_Cruiser_Mk_I_tutorial_bot>
@@ -746,7 +746,7 @@
 		<description>#gb_vehicles:GB03_Cruiser_Mk_I_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank</tags>
+		<tags>lightTank secret</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
 	</GB03_Cruiser_Mk_I_tutorial_bot2>
@@ -953,7 +953,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame</tags>
+		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>sniper</arcade>

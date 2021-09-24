@@ -70,8 +70,6 @@ tanks:
     AMX_13_90:
         position: [8, 8]
 #<!-- TIER_9 -->
-    F71_AMX_30_prototype:
-        position: [9, 5]
     AMX50_Foch:
         position: [9, 6]
     AMX_50_120:

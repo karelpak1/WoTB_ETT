@@ -2,10 +2,10 @@ premium_rows: 7
 
 tanks:
 #<!-- TIER_1 -->
-    Ch07_Vickers_MkE_Type_BT26:
-        position: [1, 9]
     Ch06_Renault_NC31:
         position: [1, 6]
+    Ch07_Vickers_MkE_Type_BT26:
+        position: [1, 9]
 #<!-- TIER_2 -->
     Ch_LT_vz38:
         position: [2, 9]
