@@ -566,7 +566,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>halfheavy</arcade>
+			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -922,7 +922,7 @@
 		<shortUserString>#usa_vehicles:T1_Cunningham_short</shortUserString>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret</tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</T1_Cunningham_tutorial_bot>
@@ -933,7 +933,7 @@
 		<shortUserString>#usa_vehicles:T1_Cunningham_short</shortUserString>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret</tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</T1_Cunningham_tutorial_bot2>
@@ -946,7 +946,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank</tags>
+		<tags>lightTank InGame</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -964,7 +964,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton</tags>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -992,7 +992,7 @@
 		<description>#usa_vehicles:M2_lt_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret</tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
 	</M2_lt_tutorial_bot>
@@ -1003,7 +1003,7 @@
 		<description>#usa_vehicles:M2_lt_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret</tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
 	</M2_lt_tutorial_bot2>
@@ -1087,8 +1087,8 @@
 		<tags>lightTank</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>scout</arcade>
-			<hellgames>vampire_2</hellgames>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A99_T92E1>
@@ -1102,8 +1102,8 @@
 		<tags>lightTank</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>scout</arcade>
-			<hellgames>vampire_2</hellgames>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A116_XM551>
@@ -1158,4 +1158,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A121_T26E3>
+	<M4A3E8_BP>
+		<id>83</id>
+		<userString>#usa_vehicles:M4A3E8_BP</userString>
+		<shortUserString>#usa_vehicles:M4A3E8_BP_short</shortUserString>
+		<description>#usa_vehicles:M4A3E8_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M4A3E8_BP>
 </root>

@@ -272,7 +272,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible fictional</tags>
+		<tags>mediumTank eventCamouflage_user collectible fictional</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -280,4 +280,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It10_P43_BD>
+	<Cz04_T50_51>
+		<id>21</id>
+		<userString>#european_vehicles:Cz04_T50_51</userString>
+		<shortUserString>#european_vehicles:Cz04_T50_51_short</shortUserString>
+		<description>#european_vehicles:Cz04_T50_51_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz04_T50_51>
 </root>

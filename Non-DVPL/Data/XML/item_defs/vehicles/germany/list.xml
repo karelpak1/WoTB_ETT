@@ -65,7 +65,7 @@
 		<tags>mediumTank beast enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>sniper</arcade>
+			<arcade>cavalry</arcade>
 			<hellgames>hunter</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -1095,7 +1095,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1112,7 +1112,7 @@
 		<price>10000<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>heavyTank largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<tags>heavyTank eventCamouflage_user InGame fictional</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
@@ -1160,7 +1160,7 @@
 		<description>#germany_vehicles:PzII_descr</description>
 		<price>3000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret enhancedSprings_user</tags>
+		<tags>lightTank enhancedSprings_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</PzII_tutorial_bot>
@@ -1171,7 +1171,7 @@
 		<description>#germany_vehicles:Ltraktor_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret</tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</Ltraktor_tutorial_bot>
@@ -1182,7 +1182,7 @@
 		<description>#germany_vehicles:Ltraktor_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret</tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</Ltraktor_tutorial_bot2>
@@ -1261,7 +1261,7 @@
 		<description>#germany_vehicles:PzII_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret</tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
 	</PzII_tutorial_bot2>

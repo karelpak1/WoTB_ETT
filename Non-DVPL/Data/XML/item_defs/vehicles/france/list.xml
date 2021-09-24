@@ -39,7 +39,7 @@
 		<shortUserString>#france_vehicles:D1_short</shortUserString>
 		<description>#france_vehicles:D1_descr</description>
 		<notInShop>false</notInShop>
-        <price>25<gold/>
+		<price>25<gold/>
         </price>
 		<sellPrice>25<gold/>
 		</sellPrice>
@@ -84,7 +84,7 @@
 		<shortUserString>#france_vehicles:AMX40_short</shortUserString>
 		<description>#france_vehicles:AMX40_descr</description>
 		<notInShop>false</notInShop>
-        <price>100<gold/>
+		<price>100<gold/>
         </price>
 		<sellPrice>100<gold/>
 		</sellPrice>
@@ -245,7 +245,7 @@
 		<shortUserString>#france_vehicles:RenaultFT_AC_short</shortUserString>
 		<description>#france_vehicles:RenaultFT_AC_descr</description>
 		<notInShop>false</notInShop>
-        <price>25<gold/>
+		<price>25<gold/>
         </price>
 		<sellPrice>25<gold/>
 		</sellPrice>
@@ -260,7 +260,7 @@
 		<shortUserString>#france_vehicles:RenaultUE57_short</shortUserString>
 		<description>#france_vehicles:RenaultUE57_descr</description>
 		<notInShop>false</notInShop>
-        <price>50<gold/>
+		<price>50<gold/>
         </price>
 		<sellPrice>50<gold/>
 		</sellPrice>
@@ -365,7 +365,7 @@
 		<tags>AT-SPG heavyAT-SPG enhancedLongitudinalTorsions_user wetCombatPack_class2_user</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>long_support</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
@@ -471,7 +471,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible</tags>
+		<tags>heavyTank collectible InGame</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
