@@ -1236,7 +1236,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame</tags>
+		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>

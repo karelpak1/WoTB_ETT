@@ -26,6 +26,8 @@ tanks:
     Ch20_Type58:
         position: [6, 9]
 #<!-- TIER_7 -->
+    Ch42_M41D:
+        position: [7, 6]    
     Ch02_Type62:
         position: [7, 7]
     Ch35_T-34-2G_FT:

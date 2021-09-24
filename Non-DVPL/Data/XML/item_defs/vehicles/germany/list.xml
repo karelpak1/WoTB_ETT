@@ -1384,4 +1384,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</VK2801_BP>
+	<PzVI_AusfBP>
+		<id>89</id>
+		<userString>#germany_vehicles:PzVI_AusfBP</userString>
+		<shortUserString>#germany_vehicles:PzVI_AusfBP_short</shortUserString>
+		<description>#germany_vehicles:PzVI_AusfBP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank beast collectible fictional</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</PzVI_AusfBP>
 </root>

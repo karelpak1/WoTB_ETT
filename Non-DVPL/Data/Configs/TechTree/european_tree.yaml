@@ -45,6 +45,8 @@ tanks:
     It12_Prototipo_Standard_B:
         position: [9, 4]
 #<!-- TIER_10 -->
+    Cz04_T50_51:
+        position: [10, 2]   
     S16_Kranvagn:
         position: [10, 3]
     It08_Progetto_M40_mod65:

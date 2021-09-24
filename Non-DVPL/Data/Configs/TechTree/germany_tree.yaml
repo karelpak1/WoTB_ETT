@@ -70,8 +70,10 @@ tanks:
         position: [5, 17]
 #<!-- TIER_6 -->
     VK2801_BP:
-        position: [6, 5]
+        position: [6, 4]
     DickerMax:
+        position: [6, 5]
+    PzVI_AusfBP:
         position: [6, 6]
     PzIV_schmalturm:
         position: [6, 7]

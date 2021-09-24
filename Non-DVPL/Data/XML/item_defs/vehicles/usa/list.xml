@@ -1177,4 +1177,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</M4A3E8_BP>
+	<A116_XM551_Exp>
+		<id>85</id>
+		<userString>#usa_vehicles:A116_XM551_Exp</userString>
+		<shortUserString>#usa_vehicles:A116_XM551_Exp_short</shortUserString>
+		<description>#usa_vehicles:A116_XM551_Exp_descr</description>
+		<price>5<gold/>
+		</price>
+		<sellPrice>5<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible noRandom noRating noNanomaps noTournaments</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A116_XM551_Exp>
 </root>
