@@ -1376,7 +1376,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank collectible</tags>
+		<tags>lightTank collectible fictional</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>sniper</arcade>
@@ -1384,6 +1384,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</VK2801_BP>
+	<G112_JagdPanzer_105>
+		<id>88</id>
+		<userString>#germany_vehicles:G112_JagdPanzer_105</userString>
+		<shortUserString>#germany_vehicles:G112_JagdPanzer_105_short</shortUserString>
+		<description>#germany_vehicles:G112_JagdPanzer_105_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G112_JagdPanzer_105>
 	<PzVI_AusfBP>
 		<id>89</id>
 		<userString>#germany_vehicles:PzVI_AusfBP</userString>

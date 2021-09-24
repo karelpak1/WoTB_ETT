@@ -961,4 +961,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB94_Centurion_Mk5-1_RAAC>
+	<GB99_Turtle_Mk1>
+		<id>80</id>
+		<userString>#uk_vehicles:GB99_Turtle_Mk1</userString>
+		<shortUserString>#uk_vehicles:GB99_Turtle_Mk1_short</shortUserString>
+		<description>#uk_vehicles:GB99_Turtle_Mk1_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG InGame</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB99_Turtle_Mk1>
 </root>

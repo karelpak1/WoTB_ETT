@@ -272,7 +272,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank eventCamouflage_user collectible fictional</tags>
+		<tags>mediumTank eventCamouflage_user collectible</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -280,16 +280,31 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It10_P43_BD>
+	<Pl03_PzV_Pudel>
+		<id>20</id>
+		<userString>#european_vehicles:Pl03_PzV_Pudel</userString>
+		<shortUserString>#european_vehicles:Pl03_PzV_Pudel_short</shortUserString>
+		<description>#european_vehicles:Pl03_PzV_Pudel_descr</description>
+		<price>2900<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank beast</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pl03_PzV_Pudel>
 	<Cz04_T50_51>
 		<id>21</id>
 		<userString>#european_vehicles:Cz04_T50_51</userString>
 		<shortUserString>#european_vehicles:Cz04_T50_51_short</shortUserString>
 		<description>#european_vehicles:Cz04_T50_51_descr</description>
-		<price>1<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>mediumTank InGame</tags>
+		<tags>mediumTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>sniper</arcade>
@@ -297,4 +312,81 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz04_T50_51>
+	<Cz02_T50>
+		<id>22</id>
+		<userString>#european_vehicles:Cz02_T50</userString>
+		<shortUserString>#european_vehicles:Cz02_T50_short</shortUserString>
+		<description>#european_vehicles:Cz02_T50_descr</description>
+		<price>3480000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz02_T50>
+	<Cz07_TVP_46>
+		<id>23</id>
+		<userString>#european_vehicles:Cz07_TVP_46</userString>
+		<shortUserString>#european_vehicles:Cz07_TVP_46_short</shortUserString>
+		<description>#european_vehicles:Cz07_TVP_46_descr</description>
+		<price>2410000</price>
+		<enrichmentPermanentCost>12800</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz07_TVP_46>
+	<Cz05_T34-100>
+		<id>24</id>
+		<userString>#european_vehicles:Cz05_T34-100</userString>
+		<shortUserString>#european_vehicles:Cz05_T34-100_short</shortUserString>
+		<description>#european_vehicles:Cz05_T34-100_descr</description>
+		<price>1420000</price>
+		<enrichmentPermanentCost>10300</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz05_T34-100>
+	<Cz08_T-25>
+		<id>25</id>
+		<userString>#european_vehicles:Cz08_T-25</userString>
+		<shortUserString>#european_vehicles:Cz08_T-25_short</shortUserString>
+		<description>#european_vehicles:Cz08_T-25_descr</description>
+		<price>920000</price>
+		<enrichmentPermanentCost>4500</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz08_T-25>
+	<Cz13_T-27>
+		<id>26</id>
+		<userString>#european_vehicles:Cz13_T-27</userString>
+		<shortUserString>#european_vehicles:Cz13_T-27_short</shortUserString>
+		<description>#european_vehicles:Cz13_T-27_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz13_T-27>
 </root>

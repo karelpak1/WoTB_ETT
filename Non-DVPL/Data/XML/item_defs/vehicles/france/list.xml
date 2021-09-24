@@ -577,7 +577,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible</tags>
+		<tags>heavyTank collectible fictional</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -585,4 +585,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</ARL_44BP>
+	<F69_AMX_13D>
+		<id>68</id>
+		<userString>#france_vehicles:F69_AMX_13D</userString>
+		<shortUserString>#france_vehicles:F69_AMX_13D_short</shortUserString>
+		<description>#france_vehicles:F69_AMX_13D_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank fictional</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</F69_AMX_13D>
 </root>

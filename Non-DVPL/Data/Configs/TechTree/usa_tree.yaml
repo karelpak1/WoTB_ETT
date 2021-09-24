@@ -55,6 +55,8 @@ tanks:
     M4_Sherman:
         position: [5, 14]
 #<!-- TIER_6 -->
+    M6E2BP:
+        position: [6, 6]
     M4A3E8_BP:
         position: [6, 7]
     A104_M4A3E8A:

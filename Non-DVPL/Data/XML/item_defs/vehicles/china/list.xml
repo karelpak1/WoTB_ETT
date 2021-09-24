@@ -472,4 +472,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch42_M41D>
+	<Type_58BP>
+		<id>35</id>
+		<userString>#china_vehicles:Type_58BP</userString>
+		<shortUserString>#china_vehicles:Type_58BP_short</shortUserString>
+		<description>#china_vehicles:Type_58BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Type_58BP>
 </root>

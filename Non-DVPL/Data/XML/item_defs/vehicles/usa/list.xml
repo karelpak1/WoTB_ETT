@@ -1169,7 +1169,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible</tags>
+		<tags>mediumTank collectible fictional</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1182,9 +1182,9 @@
 		<userString>#usa_vehicles:A116_XM551_Exp</userString>
 		<shortUserString>#usa_vehicles:A116_XM551_Exp_short</shortUserString>
 		<description>#usa_vehicles:A116_XM551_Exp_descr</description>
-		<price>5<gold/>
+		<price>10<gold/>
 		</price>
-		<sellPrice>5<gold/>
+		<sellPrice>10<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1196,4 +1196,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A116_XM551_Exp>
+	<M6E2BP>
+		<id>86</id>
+		<userString>#usa_vehicles:M6E2BP</userString>
+		<shortUserString>#usa_vehicles:M6E2BP_short</shortUserString>
+		<description>#usa_vehicles:M6E2BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank collectible fictional</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M6E2BP>
 </root>

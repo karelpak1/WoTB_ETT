@@ -567,6 +567,23 @@
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Object263>
+	<Object_907>
+		<id>61</id>
+		<userString>#ussr_vehicles:Object_907</userString>
+		<description>#ussr_vehicles:Object_907_descr</description>
+		<shortUserString>#ussr_vehicles:Object_907_short</shortUserString>
+		<price>15000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Object_907>
 	<MT25>
 		<id>65</id>
 		<userString>#ussr_vehicles:MT25</userString>
@@ -1244,4 +1261,40 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</R146_STG>
+	<R110_Object_260>
+		<id>87</id>
+		<userString>#ussr_vehicles:R110_Object_260</userString>
+		<shortUserString>#ussr_vehicles:R110_Object_260_short</shortUserString>
+		<description>#ussr_vehicles:R110_Object_260_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R110_Object_260>
+	<R158_LT_432>
+		<id>88</id>
+		<userString>#ussr_vehicles:R158_LT_432</userString>
+		<shortUserString>#ussr_vehicles:R158_LT_432_short</shortUserString>
+		<description>#ussr_vehicles:R158_LT_432_descr</description>
+		<price>7000<gold/>
+		 </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank InGame</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R158_LT_432>
 </root>
