@@ -202,7 +202,7 @@
 		<tags>mediumTank</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -426,4 +426,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</S07_Strv74BP>
+	<Pl15_60TP>
+		<id>28</id>
+		<userString>#european_vehicles:Pl15_60TP</userString>
+		<shortUserString>#european_vehicles:Pl15_60TP_short</shortUserString>
+		<description>#european_vehicles:Pl15_60TP_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Pl15_60TP>
 </root>

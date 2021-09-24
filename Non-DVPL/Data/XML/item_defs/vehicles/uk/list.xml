@@ -848,7 +848,7 @@
 		<tags>AT-SPG heavyAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>

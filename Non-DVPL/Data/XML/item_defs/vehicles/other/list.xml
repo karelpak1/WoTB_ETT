@@ -359,7 +359,7 @@
 		<tags>heavyTank fictional</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>dreadnought</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>

@@ -72,16 +72,18 @@ tanks:
         position: [5, 18]
 #<!-- TIER_6 -->
     VK2801_BP:
-        position: [6, 4]
+        position: [6, 3]
     DickerMax:
-        position: [6, 5]
+        position: [6, 4]
     PzVI_AusfBP:
-        position: [6, 6]
+        position: [6, 5]
     PzIV_schmalturm:
-        position: [6, 7]
+        position: [6, 6]
     PzVI_AusfTU:
-        position: [6, 8]
+        position: [6, 7]
     G136_Tiger_131:
+        position: [6, 8]
+    VK3002DB_BP:
         position: [6, 9]
     VK3002M:
         position: [6, 10]

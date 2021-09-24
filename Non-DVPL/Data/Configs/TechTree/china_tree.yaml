@@ -20,6 +20,8 @@ tanks:
         position: [5, 9]
 #<!-- TIER_6 -->
     Type_58BP:
+        position: [6, 5]
+    Type_58TU:
         position: [6, 6]
     Ch24_Type64:
         position: [6, 7]

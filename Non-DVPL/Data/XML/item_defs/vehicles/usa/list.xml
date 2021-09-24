@@ -91,7 +91,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>sniper</arcade>
+			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -177,7 +177,7 @@
 		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>close_assault</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -1379,11 +1379,11 @@
 		<userString>#usa_vehicles:A130_Super_Hellcat</userString>
 		<shortUserString>#usa_vehicles:A130_Super_Hellcat_short</shortUserString>
 		<description>#usa_vehicles:A130_Super_Hellcat_descr</description>
-		<price>1<gold/>
+		<price>5000<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG InGame noRating</tags>
+		<tags>AT-SPG mediumAT-SPG</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>long_support</arcade>

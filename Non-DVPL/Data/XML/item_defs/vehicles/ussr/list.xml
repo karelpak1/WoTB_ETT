@@ -1331,7 +1331,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible</tags>
+		<tags>heavyTank sinai collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1395,4 +1395,21 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</R154_T-34E-43>
+	<R160_object_244>
+		<id>91</id>
+		<userString>#ussr_vehicles:R160_object_244</userString>
+		<shortUserString>#ussr_vehicles:R160_object_244_short</shortUserString>
+		<description>#ussr_vehicles:R160_object_244_descr</description>
+		<price>3000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai InGame noRating</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R160_object_244>
 </root>

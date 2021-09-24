@@ -59,6 +59,8 @@ tanks:
     Cz02_T50:
         position: [9, 6]
 #<!-- TIER_10 -->
+    Pl15_60TP:
+        position: [10, 3]
     S16_Kranvagn:
         position: [10, 4]
     It08_Progetto_M40_mod65:
