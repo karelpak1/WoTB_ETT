@@ -1,109 +1,113 @@
-premium_rows: 10
+premium_rows: 11
 
 tanks:
 #<!-- TIER_1 -->
     M2_lt:
-        position: [1, 13]
+        position: [1, 14]
     T1_Cunningham:
-        position: [1, 9]
+        position: [1, 10]
 #<!-- TIER_2 -->
     T18:
-        position: [2, 6]
-    T1_E6:
         position: [2, 7]
-    T2_lt:
+    T1_E6:
         position: [2, 8]
-    T2_med:
+    T2_lt:
         position: [2, 9]
-    T7_Combat_Car:
+    T2_med:
         position: [2, 10]
+    T7_Combat_Car:
+        position: [2, 11]
     M3_Stuart:
-        position: [2, 13]
+        position: [2, 14]
 #<!-- TIER_3 -->
     M2_med:
-        position: [3, 8]
-    T82:
         position: [3, 9]
-    M22_Locust:
+    T82:
         position: [3, 10]
+    M22_Locust:
+        position: [3, 11]
     M5_Stuart:
-        position: [3, 13]
+        position: [3, 14]
 #<!-- TIER_4 -->
     M3_Grant:
-        position: [4, 8]
-    T40:
         position: [4, 9]
-    A77_T6M:
+    T40:
         position: [4, 10]
+    A77_T6M:
+        position: [4, 11]
     M8A1:
-        position: [4, 12]
+        position: [4, 13]
     M7_med:
-        position: [4, 14]
+        position: [4, 16]
 #<!-- TIER_5 -->
     M4A2E4:
-        position: [5, 7]
-    Ram-II:
         position: [5, 8]
-    T14:
+    Ram-II:
         position: [5, 9]
-    T49:
+    T14:
         position: [5, 10]
+    T49:
+        position: [5, 11]
     M10_Wolverine:
-        position: [5, 12]
-    T1_hvy:
         position: [5, 13]
-    M4_Sherman:
+    T1_hvy:
         position: [5, 14]
+    M4_Sherman:
+        position: [5, 16]
 #<!-- TIER_6 -->
     A104_M4A3E8A:
-        position: [6, 5]
-    Sherman_Jumbo:
         position: [6, 6]
-    M6E2BP:
+    Sherman_Jumbo:
         position: [6, 7]
-    M4A3E8_BP:
+    M6E2BP:
         position: [6, 8]
-    M4A3E8TU:
+    M4A3E8_BP:
         position: [6, 9]
-    T21:
+    M4A3E8TU:
         position: [6, 10]
-    M18_Hellcat:
+    T21:
         position: [6, 11]
-    M36_Slagger:
+    M18_Hellcat:
         position: [6, 12]
-    M6:
+    M36_Slagger:
         position: [6, 13]
-    M4A3E8_Sherman:
+    M6:
         position: [6, 14]
-    A94_T37:
-        position: [6, 15]
-    M24_Chaffee:
+    M4A3E8_Sherman:
         position: [6, 16]
+    A94_T37:
+        position: [6, 17]
+    M24_Chaffee:
+        position: [6, 18]
 #<!-- TIER_7 -->
-    M6A2E1:    
+    M18E2BP:    
         position: [7, 5]
-    A130_Super_Hellcat:
+    M6A2E1:    
         position: [7, 6]
-    T23E3:
+    A130_Super_Hellcat:
         position: [7, 7]
-    A121_T26E3:
+    T23E3:
         position: [7, 8]
-    A102_T28_concept:
+    A121_T26E3:
         position: [7, 9]
-    T49_Rocket:
+    A102_T28_concept:
         position: [7, 10]
-    T25_2:
+    T49_Rocket:
         position: [7, 11]
-    T25_AT:
+    T25_2:
         position: [7, 12]
-    T29:
+    T25_AT:
         position: [7, 13]
-    T20:
+    T29:
         position: [7, 14]
-    T71:
+    M-7-Y:
         position: [7, 15]
-    M41_Bulldog:
+    T20:
         position: [7, 16]
+    T71:
+        position: [7, 17]
+    M41_Bulldog:
+        position: [7, 18]
 #<!-- TIER_8 -->
     A115_Chrysler_K:
         position: [8, 1]
@@ -125,51 +129,57 @@ tanks:
         position: [8, 9]
     T95E2:
         position: [8, 10]
-    T28_Prototype:
+    A122_TS-5:
         position: [8, 11]
-    T28:
+    T28_Prototype:
         position: [8, 12]
-    T32:
+    T28:
         position: [8, 13]
-    Pershing:
+    T32:
         position: [8, 14]
-    T69:
+    M-3-Y:
         position: [8, 15]
-    A100_T49:
+    Pershing:
         position: [8, 16]
+    T69:
+        position: [8, 17]
+    A100_T49:
+        position: [8, 18]
 #<!-- TIER_9 -->
     A125_AEP_1:
-        position: [9, 10]
-    T30:
         position: [9, 11]
-    T95:
+    T30:
         position: [9, 12]
-    M103:
+    T95:
         position: [9, 13]
-    M46_Patton:
+    M103:
         position: [9, 14]
-    T54E1:
+    M-5-Y:
         position: [9, 15]
-    A99_T92E1:
+    M46_Patton:
         position: [9, 16]
+    T54E1:
+        position: [9, 17]
+    A99_T92E1:
+        position: [9, 18]
 #<!-- TIER_10 -->
-    M-6-Y:
-        position: [10, 7]
     M60:
-        position: [10, 8]
-    A116_XM551_Exp:
         position: [10, 9]
-    A95_T95E6:
+    A116_XM551_Exp:
         position: [10, 10]
-    T110E4:
+    A95_T95E6:
         position: [10, 11]
-    T110E3:
+    T110E4:
         position: [10, 12]
-    T110:
+    T110E3:
         position: [10, 13]
-    M48A1:
+    T110:
         position: [10, 14]
-    T57_58:
+    M-6-Y:
         position: [10, 15]
-    A116_XM551:
+    M48A1:
         position: [10, 16]
+    T57_58:
+        position: [10, 17]
+    A116_XM551:
+        position: [10, 18]

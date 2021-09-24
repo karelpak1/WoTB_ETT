@@ -46,13 +46,16 @@ tanks:
     A-20:
         position: [4, 17]
 #<!-- TIER_5 -->
+
     Churchill_LL:
-        position: [5, 11]
+        position: [5, 10]
     KV-220:
-        position: [5, 12]
+        position: [5, 11]
     Matilda_II_LL:
-        position: [5, 13]
+        position: [5, 12]
     SU_85I:
+        position: [5, 13]
+    R154_T-34E-43:
         position: [5, 14]
     SU-85:
         position: [5, 16]

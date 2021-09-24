@@ -49,8 +49,10 @@ tanks:
         position: [4, 14]
 #<!-- TIER_5 -->
     Krupp-38D:
-        position: [5, 4]
+        position: [5, 3]
     PzIII_IV:
+        position: [5, 4]
+    Pz_IV_AusfBT:
         position: [5, 5]
     PzIV_Hydro:
         position: [5, 6]

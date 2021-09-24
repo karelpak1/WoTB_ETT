@@ -1282,11 +1282,13 @@
 		<userString>#usa_vehicles:A125_AEP_1</userString>
 		<shortUserString>#usa_vehicles:A125_AEP_1_short</shortUserString>
 		<description>#usa_vehicles:A125_AEP_1_descr</description>
-		<price>9000<gold/>
+		<price>15000<gold/>
 		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1294,16 +1296,32 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A125_AEP_1>
+	<A122_TS-5>
+		<id>88</id>
+		<userString>#usa_vehicles:A122_TS-5</userString>
+		<shortUserString>#usa_vehicles:A122_TS-5_short</shortUserString>
+		<description>#usa_vehicles:A122_TS-5_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A122_TS-5>
 	<M-6-Y>
 		<id>89</id>
 		<userString>#usa_vehicles:M-6-Y</userString>
 		<shortUserString>#usa_vehicles:M-6-Y_short</shortUserString>
 		<description>#usa_vehicles:M-6-Y_descr</description>
-		<price>500<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1311,6 +1329,51 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</M-6-Y>
+	<M-5-Y>
+		<id>90</id>
+		<userString>#usa_vehicles:M-5-Y</userString>
+		<shortUserString>#usa_vehicles:M-5-Y_short</shortUserString>
+		<description>#usa_vehicles:M-5-Y_descr</description>
+		<price>3640000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M-5-Y>
+	<M-3-Y>
+		<id>91</id>
+		<userString>#usa_vehicles:M-3-Y</userString>
+		<shortUserString>#usa_vehicles:M-3-Y_short</shortUserString>
+		<description>#usa_vehicles:M-3-Y_descr</description>
+		<price>2610000</price>
+		<enrichmentPermanentCost>13600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M-3-Y>
+	<M-7-Y>
+		<id>92</id>
+		<userString>#usa_vehicles:M-7-Y</userString>
+		<shortUserString>#usa_vehicles:M-7-Y_short</shortUserString>
+		<description>#usa_vehicles:M-7-Y_descr</description>
+		<price>1450300</price>
+		<enrichmentPermanentCost>10600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M-7-Y>
 	<A130_Super_Hellcat>
 		<id>93</id>
 		<userString>#usa_vehicles:A130_Super_Hellcat</userString>
@@ -1329,4 +1392,24 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</A130_Super_Hellcat>
+	<M18E2BP>
+		<id>94</id>
+		<userString>#usa_vehicles:M18E2BP</userString>
+		<shortUserString>#usa_vehicles:M18E2BP_short</shortUserString>
+		<description>#usa_vehicles:M18E2BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M18E2BP>
 </root>

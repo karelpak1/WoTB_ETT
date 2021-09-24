@@ -1490,15 +1490,16 @@
 		<userString>#germany_vehicles:G147_mPanzer_64</userString>
 		<shortUserString>#germany_vehicles:G147_mPanzer_64_short</shortUserString>
 		<description>#germany_vehicles:G147_mPanzer_64_descr</description>
-		<price>1<gold/>
+		<price>5000<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame noRating</tags>
+		<tags>lightTank</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G147_mPanzer_64>
@@ -1520,4 +1521,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G144_Kpz_50t>
+	<Pz_IV_AusfBT>
+		<id>92</id>
+		<userString>#germany_vehicles:Pz_IV_AusfBT</userString>
+		<shortUserString>#germany_vehicles:Pz_IV_AusfBT_short</shortUserString>
+		<description>#germany_vehicles:Pz_IV_AusfBT_descr</description>
+		<price>250<gold/></price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Pz_IV_AusfBT>
 </root>

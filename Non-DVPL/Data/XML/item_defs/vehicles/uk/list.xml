@@ -585,7 +585,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame improvedVentilation_class1_user mediumCaliberTankRammer_user</tags>
+		<tags>heavyTank InGame improvedVentilation_class1_user mediumCaliberTankRammer_user grousers_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</GB_Mark_I>
