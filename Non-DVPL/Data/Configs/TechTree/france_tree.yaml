@@ -35,6 +35,8 @@ tanks:
     ELC_AMX:
         position: [5, 10]
 #<!-- TIER_6 -->
+    F113_PzV_FR:
+        position: [6, 6]
     ARL_44BP:
         position: [6, 7]
     ARL_V39:
@@ -53,19 +55,19 @@ tanks:
     AMX_13_75:
         position: [7, 10]
 #<!-- TIER_8 -->
-    F84_Somua_SM:
-        position: [8, 1]
     F69_AMX_13D:
-        position: [8, 2]
+        position: [8, 1]
     F68_AMX_Chasseur_de_char_46:
-        position: [8, 3]
+        position: [8, 2]
     F74_AMX_M4_1949:
-        position: [8, 4]
+        position: [8, 3]
     FCM_50t:
-        position: [8, 5]
+        position: [8, 4]
     F19_Lorraine40t:
-        position: [8, 6]
+        position: [8, 5]
     F73_M4A1_Revalorise:
+        position: [8, 6]
+    F84_Somua_SM:
         position: [8, 7]
     AMX_AC_Mle1948:
         position: [8, 8]
@@ -83,9 +85,9 @@ tanks:
     F75_Char_de_25t:
         position: [9, 10]
 #<!-- TIER_10 -->
-    F82_AMX_M4_Mle1949_Ter:
-        position: [10, 6]
     F72_AMX_30:
+        position: [10, 6]
+    F82_AMX_M4_Mle1949_Ter:
         position: [10, 7]
     AMX_50Fosh_155:
         position: [10, 8]

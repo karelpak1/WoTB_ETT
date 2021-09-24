@@ -55,13 +55,15 @@ tanks:
     M4_Sherman:
         position: [5, 14]
 #<!-- TIER_6 -->
-    M6E2BP:
-        position: [6, 6]
-    M4A3E8_BP:
-        position: [6, 7]
     A104_M4A3E8A:
-        position: [6, 8]
+        position: [6, 5]
     Sherman_Jumbo:
+        position: [6, 6]
+    M6E2BP:
+        position: [6, 7]
+    M4A3E8_BP:
+        position: [6, 8]
+    M4A3E8TU:
         position: [6, 9]
     T21:
         position: [6, 10]
@@ -78,7 +80,9 @@ tanks:
     M24_Chaffee:
         position: [6, 16]
 #<!-- TIER_7 -->
-    M6A2E1:
+    M6A2E1:    
+        position: [7, 5]
+    A130_Super_Hellcat:
         position: [7, 6]
     T23E3:
         position: [7, 7]

@@ -53,15 +53,15 @@ tanks:
     GB08_Churchill_I:
         position: [5, 11]
 #<!-- TIER_6 -->
-    GB21_A27BP:
-        position: [6, 1]
     GB35_Sentinel_AC_IV:
-        position: [6, 2]
+        position: [6, 1]
     GB40_Gun_Carrier_Churchill:
-        position: [6, 3]
+        position: [6, 2]
     GB_Churchill_MkVI:
-        position: [6, 4]
+        position: [6, 3]
     GB85_Cromwell_Berlin:
+        position: [6, 4]
+    GB21_A27BP:
         position: [6, 5]
     GB63_TOG_II:
         position: [6, 6]
@@ -87,17 +87,17 @@ tanks:
     GB10_Black_Prince:
         position: [7, 11]
 #<!-- TIER_8 -->
-    GB99_Turtle_Mk1:
-        position: [8, 1]
     GB93_Caernarvon_AX:
-        position: [8, 2]
+        position: [8, 1]
     GB94_Centurion_Mk5-1_RAAC:
-        position: [8, 3]
+        position: [8, 2]
     GB87_Chieftain_T95_turret:
-        position: [8, 4]
+        position: [8, 3]
     GB97_Chimera:
-        position: [8, 5]
+        position: [8, 4]
     GB_Centurion_MkDF:
+        position: [8, 5]
+    GB99_Turtle_Mk1:
         position: [8, 6]
     GB72_AT15:
         position: [8, 7]

@@ -592,9 +592,11 @@
 		<shortUserString>#ussr_vehicles:Object_907_short</shortUserString>
 		<price>15000<gold/>
 		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame</tags>
+		<tags>mediumTank collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1298,6 +1300,26 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</R146_STG>
+	<T34_85TU>
+		<id>86</id>
+		<userString>#ussr_vehicles:T34_85TU</userString>
+		<shortUserString>#ussr_vehicles:T34_85TU_short</shortUserString>
+		<description>#ussr_vehicles:T34_85TU_descr</description>
+		<price>10<gold/>
+		</price>
+		<sellPrice>10<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</T34_85TU>
 	<R110_Object_260>
 		<id>87</id>
 		<userString>#ussr_vehicles:R110_Object_260</userString>
@@ -1326,7 +1348,7 @@
 		 </price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame</tags>
+		<tags>lightTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1335,4 +1357,24 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</R158_LT_432>
+	<T34_85BP>
+		<id>89</id>
+		<userString>#ussr_vehicles:T34_85BP</userString>
+		<shortUserString>#ussr_vehicles:T34_85BP_short</shortUserString>
+		<description>#ussr_vehicles:T34_85BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</T34_85BP>
 </root>

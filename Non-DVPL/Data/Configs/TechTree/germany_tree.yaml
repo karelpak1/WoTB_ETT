@@ -70,12 +70,14 @@ tanks:
         position: [5, 18]
 #<!-- TIER_6 -->
     VK2801_BP:
-        position: [6, 5]
+        position: [6, 4]
     DickerMax:
-        position: [6, 6]
+        position: [6, 5]
     PzVI_AusfBP:
-        position: [6, 7]
+        position: [6, 6]
     PzIV_schmalturm:
+        position: [6, 7]
+    PzVI_AusfTU:
         position: [6, 8]
     G136_Tiger_131:
         position: [6, 9]
@@ -94,9 +96,9 @@ tanks:
     VK2801:
         position: [6, 19]
 #<!-- TIER_7 -->
-    G147_mPanzer_64:
-        position: [7, 6]
     E-25:
+        position: [7, 6]
+    G147_mPanzer_64:
         position: [7, 7]
     Panther_M10:
         position: [7, 8]
@@ -175,6 +177,8 @@ tanks:
     Pro_Ag_A:
         position: [9, 18]
 #<!-- TIER_10 -->
+    G144_Kpz_50t :
+        position: [10, 9]
     G_VK9001P:
         position: [10, 10]
     G121_Grille_15_L63:

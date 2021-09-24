@@ -18,8 +18,10 @@ tanks:
         position: [5, 5]
 #<!-- TIER_6 -->
     It10_P43_BD:
-        position: [6, 2]
+        position: [6, 1]
     Pl03_PzV_Pudel:
+        position: [6, 2]
+    S07_Strv74BP:
         position: [6, 3]
     S07_Strv_74:
         position: [6, 4]
@@ -35,9 +37,9 @@ tanks:
     Cz05_T34-100:
         position: [7, 6]
 #<!-- TIER_8 -->
-    It13_Progetto_M35_mod_46:
-        position: [8, 1]
     S25_EMIL_51:
+        position: [8, 1]
+    It13_Progetto_M35_mod_46:
         position: [8, 2]
     Cz13_T-27:
         position: [8, 3]

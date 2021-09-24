@@ -406,4 +406,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz13_T-27>
+	<S07_Strv74BP>
+		<id>27</id>
+		<userString>#european_vehicles:S07_Strv74BP</userString>
+		<shortUserString>#european_vehicles:S07_Strv74BP_short</shortUserString>
+		<description>#european_vehicles:S07_Strv74BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</S07_Strv74BP>
 </root>

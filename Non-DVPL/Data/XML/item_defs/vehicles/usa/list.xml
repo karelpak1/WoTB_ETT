@@ -1219,6 +1219,26 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</M4A3E8_BP>
+	<M4A3E8TU>
+		<id>84</id>
+		<userString>#usa_vehicles:M4A3E8TU</userString>
+		<shortUserString>#usa_vehicles:M4A3E8TU_short</shortUserString>
+		<description>#usa_vehicles:M4A3E8TU_descr</description>
+		<price>10<gold/>
+		</price>
+		<sellPrice>10<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M4A3E8TU>
 	<A116_XM551_Exp>
 		<id>85</id>
 		<userString>#usa_vehicles:A116_XM551_Exp</userString>
@@ -1291,4 +1311,22 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</M-6-Y>
+	<A130_Super_Hellcat>
+		<id>93</id>
+		<userString>#usa_vehicles:A130_Super_Hellcat</userString>
+		<shortUserString>#usa_vehicles:A130_Super_Hellcat_short</shortUserString>
+		<description>#usa_vehicles:A130_Super_Hellcat_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG InGame noRating</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A130_Super_Hellcat>
 </root>
