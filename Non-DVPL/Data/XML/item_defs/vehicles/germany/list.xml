@@ -11,6 +11,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzIV>
@@ -52,6 +53,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</StuGIII>
@@ -67,6 +69,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzV>
@@ -82,6 +85,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</JagdPzIV>
@@ -195,6 +199,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</JagdPanther>
@@ -210,6 +215,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</VK3002DB>
@@ -266,6 +272,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</VK1602>
@@ -300,6 +307,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzIII_IV>
@@ -345,6 +353,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</VK3001P>
@@ -374,6 +383,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Ferdinand>
@@ -388,6 +398,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</JagdTiger>
@@ -418,6 +429,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Panther_II>
@@ -463,6 +475,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</VK2801>
@@ -478,6 +491,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</E-50>
@@ -523,6 +537,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Sturer_Emil>
@@ -538,6 +553,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</JagdPantherII>
@@ -553,6 +569,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Nashorn>
@@ -568,6 +585,7 @@
 		<combatRole>
 			<arcade>devastator</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</JagdPz_E100>
@@ -583,6 +601,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</E50_Ausf_M>
@@ -628,6 +647,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Indien_Panzer>
@@ -643,6 +663,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</VK3002DB_V1>
@@ -658,6 +679,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Leopard1>
@@ -673,6 +695,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Pro_Ag_A>
@@ -692,6 +715,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</VK3002M>
@@ -711,6 +735,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Pz_Sfl_IVc>
@@ -726,6 +751,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Waffentrager_IV>
@@ -741,6 +767,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</RhB_Waffentrager>
@@ -782,6 +809,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</G103_RU_251>
@@ -797,6 +825,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</G113_SP_I_C>
@@ -812,6 +841,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</G121_Grille_15_L63>
@@ -828,6 +858,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzV_PzIV>
@@ -919,6 +950,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</T-25>
@@ -953,6 +985,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzIV_Hydro>
@@ -969,6 +1002,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</JagdTiger_SdKfz_185>
@@ -986,6 +1020,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</DickerMax>
@@ -1003,6 +1038,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzIV_schmalturm>
@@ -1020,6 +1056,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Panther_M10>
@@ -1067,6 +1104,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</G106_PzKpfwPanther_AusfF>
@@ -1084,6 +1122,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</G120_M41_90>
@@ -1134,6 +1173,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</JagdTiger_SdKfz_185_Snowstorm>
@@ -1150,6 +1190,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</E-25>
@@ -1217,6 +1258,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Krupp-38D>
@@ -1251,6 +1293,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G114_Rheinmetall_Scorpion>
@@ -1309,6 +1352,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G119_Pz58_Mutz>
@@ -1381,6 +1425,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</VK2801_BP>
@@ -1398,6 +1443,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G112_JagdPanzer_105>
@@ -1420,4 +1466,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</PzVI_AusfBP>
+	<G147_mPanzer_64>
+		<id>90</id>
+		<userString>#germany_vehicles:G147_mPanzer_64</userString>
+		<shortUserString>#germany_vehicles:G147_mPanzer_64_short</shortUserString>
+		<description>#germany_vehicles:G147_mPanzer_64_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank InGame noRating</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G147_mPanzer_64>
 </root>

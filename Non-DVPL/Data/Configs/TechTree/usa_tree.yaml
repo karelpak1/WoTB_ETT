@@ -134,6 +134,8 @@ tanks:
     A100_T49:
         position: [8, 16]
 #<!-- TIER_9 -->
+    A125_AEP_1:
+        position: [9, 10]
     T30:
         position: [9, 11]
     T95:
@@ -147,6 +149,8 @@ tanks:
     A99_T92E1:
         position: [9, 16]
 #<!-- TIER_10 -->
+    M-6-Y:
+        position: [10, 7]
     M60:
         position: [10, 8]
     A116_XM551_Exp:

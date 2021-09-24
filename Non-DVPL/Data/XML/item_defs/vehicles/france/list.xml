@@ -120,6 +120,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</Bat_Chatillon25t>
@@ -150,6 +151,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX_13_90>
@@ -165,6 +167,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX_13_75>
@@ -206,6 +209,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX_12t>
@@ -292,6 +296,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</S_35CA>
@@ -307,6 +312,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX_AC_Mle1946>
@@ -322,6 +328,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX50_Foch>
@@ -337,6 +344,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</ARL_V39>
@@ -352,6 +360,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX_AC_Mle1948>
@@ -367,6 +376,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</AMX_50Fosh_155>
@@ -382,6 +392,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</ELC_AMX>
@@ -399,6 +410,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</F68_AMX_Chasseur_de_char_46>
@@ -414,6 +426,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</FCM_50t>
@@ -429,6 +442,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</F75_Char_de_25t>
@@ -493,6 +507,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F19_Lorraine40t>
@@ -510,6 +525,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</F71_AMX_30_prototype>
@@ -529,6 +545,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</F72_AMX_30>
@@ -546,6 +563,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F73_M4A1_Revalorise>
@@ -563,6 +581,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F69_AMX_13_57GF>
@@ -599,7 +618,25 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</F69_AMX_13D>
+	<F84_Somua_SM>
+		<id>69</id>
+		<userString>#france_vehicles:F84_Somua_SM</userString>
+		<shortUserString>#france_vehicles:F84_Somua_SM_short</shortUserString>
+		<description>#france_vehicles:F84_Somua_SM_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F84_Somua_SM>
 </root>

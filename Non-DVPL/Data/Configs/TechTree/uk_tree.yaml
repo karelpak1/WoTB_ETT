@@ -53,6 +53,8 @@ tanks:
     GB08_Churchill_I:
         position: [5, 11]
 #<!-- TIER_6 -->
+    GB21_A27BP:
+        position: [6, 1]
     GB35_Sentinel_AC_IV:
         position: [6, 2]
     GB40_Gun_Carrier_Churchill:

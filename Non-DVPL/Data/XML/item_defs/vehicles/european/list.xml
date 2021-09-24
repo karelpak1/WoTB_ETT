@@ -11,6 +11,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It08_Progetto_M40_mod65>
@@ -26,6 +27,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It12_Prototipo_Standard_B>
@@ -41,6 +43,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It14_P44_Pantera>
@@ -56,6 +59,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It09_P43_ter>
@@ -71,6 +75,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It10_P43_bis>
@@ -86,6 +91,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</S02_StrvM42>
@@ -147,6 +153,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It13_Progetto_M35_mod_46>
@@ -181,6 +188,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</S07_Strv_74>
@@ -196,6 +204,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</S13_Leo>
@@ -277,6 +286,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It10_P43_BD>
@@ -294,6 +304,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl03_PzV_Pudel>
@@ -309,6 +320,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz04_T50_51>
@@ -324,6 +336,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz02_T50>
@@ -339,6 +352,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz07_TVP_46>
@@ -354,6 +368,7 @@
 		<combatRole>
 			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz05_T34-100>
@@ -369,6 +384,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz08_T-25>
@@ -377,15 +393,16 @@
 		<userString>#european_vehicles:Cz13_T-27</userString>
 		<shortUserString>#european_vehicles:Cz13_T-27_short</shortUserString>
 		<description>#european_vehicles:Cz13_T-27_descr</description>
-		<price>1<gold/>
+		<price>7500<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame</tags>
+		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz13_T-27>

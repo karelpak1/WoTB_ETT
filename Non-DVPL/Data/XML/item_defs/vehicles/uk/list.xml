@@ -49,6 +49,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB21_Cromwell>
@@ -64,6 +65,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB20_Crusader>
@@ -197,6 +199,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB22_Comet>
@@ -212,6 +215,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB24_Centurion_Mk3>
@@ -227,6 +231,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB23_Centurion>
@@ -282,6 +287,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB70_FV4202_105>
@@ -347,6 +353,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB72_AT15>
@@ -361,6 +368,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB73_AT2>
@@ -386,6 +394,7 @@
 		<combatRole>
 			<arcade>devastator</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB48_FV215b_183>
@@ -400,6 +409,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB74_AT8>
@@ -419,6 +429,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB40_Gun_Carrier_Churchill>
@@ -433,6 +444,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB75_AT7>
@@ -464,6 +476,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB32_Tortoise>
@@ -480,6 +493,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB68_Matilda_Black_Prince>
@@ -510,6 +524,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB71_AT_15A>
@@ -557,6 +572,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB85_Cromwell_Berlin>
@@ -569,7 +585,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame improvedVentilation_class1_user mediumCaliberTankRammer_user grousers_user event_battles</tags>
+		<tags>heavyTank InGame improvedVentilation_class1_user mediumCaliberTankRammer_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</GB_Mark_I>
@@ -587,6 +603,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB35_Sentinel_AC_IV>
@@ -604,6 +621,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB44_Archer_Custom>
@@ -655,6 +673,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</GB19_Sherman_Firefly>
@@ -691,6 +710,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</GB_Sherman_V>
@@ -762,6 +782,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB81_FV4004>
@@ -777,6 +798,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB80_Charioteer>
@@ -795,6 +817,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<notInShop>false</notInShop>
 		<configurationModes>development production</configurationModes>
@@ -811,6 +834,7 @@
 		<combatRole>
 			<arcade>devastator</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB83_4005>
@@ -826,6 +850,7 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB41_Challenger>
@@ -843,6 +868,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB97_Chimera>
@@ -877,6 +903,7 @@
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB_Centurion_MkDF>
@@ -911,6 +938,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB_Vickers_Light_105>
@@ -926,6 +954,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB_Vickers_Cruiser>
@@ -941,6 +970,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB_FV301>
@@ -958,6 +988,7 @@
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB94_Centurion_Mk5-1_RAAC>
@@ -975,7 +1006,28 @@
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB99_Turtle_Mk1>
+	<GB21_A27BP>
+		<id>81</id>
+		<userString>#uk_vehicles:GB21_A27BP</userString>
+		<shortUserString>#uk_vehicles:GB21_A27BP_short</shortUserString>
+		<description>#uk_vehicles:GB21_A27BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB21_A27BP>
 </root>
