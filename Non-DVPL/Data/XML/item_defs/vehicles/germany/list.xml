@@ -65,7 +65,7 @@
 		<tags>mediumTank beast enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>sniper</arcade>
+			<arcade>cavalry</arcade>
 			<hellgames>hunter</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>

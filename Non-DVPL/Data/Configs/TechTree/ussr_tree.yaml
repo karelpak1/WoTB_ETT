@@ -83,14 +83,16 @@ tanks:
         position: [6, 18]
 #<!-- TIER_7 -->
     R71_IS_2B:
-        position: [7, 8]
+        position: [7, 7]
     R116_ISU122C_Berlin:
-        position: [7, 9]
+        position: [7, 8]
     KV-13:
-        position: [7, 10]
+        position: [7, 9]
     SU122_44:
-        position: [7, 11]
+        position: [7, 10]
     T-34-85_Rudy:
+        position: [7, 11]
+    R98_T44_85:
         position: [7, 12]
     SU-152:
         position: [7, 13]

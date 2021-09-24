@@ -816,7 +816,7 @@
 		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>long_support</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -1183,7 +1183,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank fictional</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1210,4 +1210,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</KV-1s-BP>
+	<R98_T44_85>
+		<id>84</id>
+		<userString>#ussr_vehicles:R98_T44_85</userString>
+		<shortUserString>#ussr_vehicles:R98_T44_85_short</shortUserString>
+		<description>#ussr_vehicles:R98_T44_85_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R98_T44_85>
 </root>

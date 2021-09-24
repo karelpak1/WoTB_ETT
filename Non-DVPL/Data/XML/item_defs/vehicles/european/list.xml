@@ -178,7 +178,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank InGame</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -195,7 +195,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank InGame</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -214,7 +214,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible</tags>
+		<tags>mediumTank collectible fictional</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>

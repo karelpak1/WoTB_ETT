@@ -569,7 +569,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank secret InGame deprecated improvedVentilation_class1_user mediumCaliberTankRammer_user grousers_user event_battles</tags>
+		<tags>heavyTank InGame deprecated improvedVentilation_class1_user mediumCaliberTankRammer_user grousers_user event_battles</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</GB_Mark_I>
@@ -628,7 +628,7 @@
 		<shortUserString>#gb_vehicles:GB01_Medium_Mark_I_short</shortUserString>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>mediumTank secret lightTankArtefacts_User improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
+		<tags>mediumTank lightTankArtefacts_User improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</GB01_Medium_Mark_I_tutorial_bot>
@@ -639,7 +639,7 @@
 		<shortUserString>#gb_vehicles:GB01_Medium_Mark_I_short</shortUserString>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>mediumTank secret lightTankArtefacts_User improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
+		<tags>mediumTank lightTankArtefacts_User improvedVentilation_class1_user enhancedVertical_elastic_elements_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</GB01_Medium_Mark_I_tutorial_bot2>
@@ -735,7 +735,7 @@
 		<description>#gb_vehicles:GB03_Cruiser_Mk_I_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret</tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
 	</GB03_Cruiser_Mk_I_tutorial_bot>
@@ -746,7 +746,7 @@
 		<description>#gb_vehicles:GB03_Cruiser_Mk_I_descr</description>
 		<price>0</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>lightTank secret</tags>
+		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
 	</GB03_Cruiser_Mk_I_tutorial_bot2>
@@ -944,4 +944,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB_FV301>
+	<GB94_Centurion_Mk5-1_RAAC>
+		<id>79</id>
+		<userString>#uk_vehicles:GB94_Centurion_Mk5-1_RAAC</userString>
+		<shortUserString>#uk_vehicles:GB94_Centurion_Mk5-1_RAAC_short</shortUserString>
+		<description>#uk_vehicles:GB94_Centurion_Mk5-1_RAAC_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB94_Centurion_Mk5-1_RAAC>
 </root>

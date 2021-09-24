@@ -299,7 +299,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai collectible</tags>
+		<tags>heavyTank sinai collectible fictional</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -318,7 +318,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible</tags>
+		<tags>mediumTank collectible fictional</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
