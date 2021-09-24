@@ -1386,7 +1386,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame noRating</tags>
+		<tags>mediumTank</tags>
 		<level>5</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1412,4 +1412,19 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R160_object_244>
+	<MS-1obr21>
+		<id>92</id>
+		<userString>#ussr_vehicles:MS-1obr21</userString>
+		<shortUserString>#ussr_vehicles:MS-1obr21_short</shortUserString>
+		<description>#ussr_vehicles:MS-1obr21_descr</description>
+		<price>25<gold/>
+		</price>
+		<sellPrice>25<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible</tags>
+		<level>2</level>
+		<configurationModes>development production</configurationModes>
+	</MS-1obr21>
 </root>

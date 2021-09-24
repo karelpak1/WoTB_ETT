@@ -1,139 +1,141 @@
-premium_rows: 6
+premium_rows: 7
 
 tanks:
 #<!-- TIER_1 -->
     GB01_Medium_Mark_I:
-        position: [1, 4]
-    GB_Mark_I:
         position: [1, 5]
+    GB_Mark_I:
+        position: [1, 6]
     GB69_Cruiser_Mk_II:
-        position: [1, 9]
+        position: [1, 10]
 #<!-- TIER_2 -->
     GB03_Cruiser_Mk_I:
-        position: [2, 3]
-    GB76_Mk_VIC:
         position: [2, 4]
-    GB05_Vickers_Medium_Mk_II:
+    GB76_Mk_VIC:
         position: [2, 5]
-    GB39_Universal_CarrierQF2:
+    GB05_Vickers_Medium_Mk_II:
         position: [2, 6]
+    GB39_Universal_CarrierQF2:
+        position: [2, 7]
     GB58_Cruiser_Mk_III:
-        position: [2, 9]
+        position: [2, 10]
 #<!-- TIER_3 -->
     GB06_Vickers_Medium_Mk_III:
-        position: [3, 5]
-    GB42_Valentine_AT:
         position: [3, 6]
+    GB42_Valentine_AT:
+        position: [3, 7]
     GB59_Cruiser_Mk_IV:
-        position: [3, 9]
+        position: [3, 10]
 #<!-- TIER_4 -->
     Sentinel_AC1:
-        position: [4, 4]
-    GB60_Covenanter:
         position: [4, 5]
-    GB04_Valentine:
+    GB60_Covenanter:
         position: [4, 6]
-    GB57_Alecto:
+    GB04_Valentine:
         position: [4, 7]
+    GB57_Alecto:
+        position: [4, 8]
     GB07_Matilda:
-        position: [4, 10]
+        position: [4, 11]
 #<!-- TIER_5 -->
     GB44_Archer_Custom:
-        position: [5, 3]
-    GB51_Excelsior:
         position: [5, 4]
-    GB68_Matilda_Black_Prince:
+    GB51_Excelsior:
         position: [5, 5]
-    GB_Sherman_V:
+    GB68_Matilda_Black_Prince:
         position: [5, 6]
-    GB73_AT2:
+    GB_Sherman_V:
         position: [5, 7]
+    GB73_AT2:
+        position: [5, 8]
     GB20_Crusader:
-        position: [5, 9]
+        position: [5, 10]
     GB08_Churchill_I:
-        position: [5, 11]
+        position: [5, 12]
 #<!-- TIER_6 -->
     GB35_Sentinel_AC_IV:
         position: [6, 1]
     GB40_Gun_Carrier_Churchill:
         position: [6, 2]
-    GB_Churchill_MkVI:
+    GB40_Gun_Carrier_BP:
         position: [6, 3]
-    GB85_Cromwell_Berlin:
+    GB_Churchill_MkVI:
         position: [6, 4]
-    GB21_A27BP:
+    GB85_Cromwell_Berlin:
         position: [6, 5]
-    GB63_TOG_II:
+    GB21_A27BP:
         position: [6, 6]
-    GB74_AT8:
+    GB63_TOG_II:
         position: [6, 7]
-    GB19_Sherman_Firefly:
+    GB74_AT8:
         position: [6, 8]
-    GB21_Cromwell:
+    GB19_Sherman_Firefly:
         position: [6, 9]
+    GB21_Cromwell:
+        position: [6, 10]
     GB09_Churchill_VII:
-        position: [6, 11]
+        position: [6, 12]
 #<!-- TIER_7 -->
     GB71_AT_15A:
-        position: [7, 5]
-    GB52_FV201_A45:
         position: [7, 6]
-    GB75_AT7:
+    GB52_FV201_A45:
         position: [7, 7]
-    GB41_Challenger:
+    GB75_AT7:
         position: [7, 8]
-    GB22_Comet:
+    GB41_Challenger:
         position: [7, 9]
+    GB22_Comet:
+        position: [7, 10]
     GB10_Black_Prince:
-        position: [7, 11]
+        position: [7, 12]
 #<!-- TIER_8 -->
     GB93_Caernarvon_AX:
-        position: [8, 1]
-    GB94_Centurion_Mk5-1_RAAC:
         position: [8, 2]
-    GB87_Chieftain_T95_turret:
+    GB94_Centurion_Mk5-1_RAAC:
         position: [8, 3]
-    GB97_Chimera:
+    GB87_Chieftain_T95_turret:
         position: [8, 4]
-    GB_Centurion_MkDF:
+    GB97_Chimera:
         position: [8, 5]
-    GB99_Turtle_Mk1:
+    GB_Centurion_MkDF:
         position: [8, 6]
-    GB72_AT15:
+    GB99_Turtle_Mk1:
         position: [8, 7]
-    GB80_Charioteer:
+    GB72_AT15:
         position: [8, 8]
-    GB23_Centurion:
+    GB80_Charioteer:
         position: [8, 9]
+    GB23_Centurion:
+        position: [8, 10]
     GB_FV301:
-        position: [8, 10]  
+        position: [8, 11]  
     GB11_Caernarvon:
-        position: [8, 11]
+        position: [8, 12]
 #<!-- TIER_9 -->
     GB32_Tortoise:
-        position: [9, 7]
-    GB81_FV4004:
         position: [9, 8]
-    GB24_Centurion_Mk3:
+    GB81_FV4004:
         position: [9, 9]
-    GB_Vickers_Cruiser:
+    GB24_Centurion_Mk3:
         position: [9, 10]
-    GB12_Conqueror:
+    GB_Vickers_Cruiser:
         position: [9, 11]
+    GB12_Conqueror:
+        position: [9, 12]
 #<!-- TIER_10 -->
     GB84_Chieftain_Mk6:
-        position: [10, 4]
-    GB92_FV217:
         position: [10, 5]
-    GB91_Super_Conqueror:
+    GB92_FV217:
         position: [10, 6]
-    GB48_FV215b_183:
+    GB91_Super_Conqueror:
         position: [10, 7]
-    GB83_4005:
+    GB48_FV215b_183:
         position: [10, 8]
-    GB70_FV4202_105:
+    GB83_4005:
         position: [10, 9]
-    GB_Vickers_Light_105:
+    GB70_FV4202_105:
         position: [10, 10]
-    GB13_FV215b:
+    GB_Vickers_Light_105:
         position: [10, 11]
+    GB13_FV215b:
+        position: [10, 12]

@@ -7,6 +7,8 @@ tanks:
     T-26:
         position: [1, 17]
 #<!-- TIER_2 -->
+    MS-1obr21:
+        position: [2, 12]
     AT-1:
         position: [2, 13]
     Tetrarch_LL:
