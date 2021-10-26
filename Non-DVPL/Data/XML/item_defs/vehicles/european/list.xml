@@ -431,11 +431,9 @@
 		<userString>#european_vehicles:Pl15_60TP</userString>
 		<shortUserString>#european_vehicles:Pl15_60TP_short</shortUserString>
 		<description>#european_vehicles:Pl15_60TP_descr</description>
-		<price>1<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -443,4 +441,102 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Pl15_60TP>
+	<Pl05_50TP_Tyszkiewicza>
+		<id>29</id>
+		<userString>#european_vehicles:Pl05_50TP_Tyszkiewicza</userString>
+		<shortUserString>#european_vehicles:Pl05_50TP_Tyszkiewicza_short</shortUserString>
+		<description>#european_vehicles:Pl05_50TP_Tyszkiewicza_descr</description>
+		<price>3561000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Pl05_50TP_Tyszkiewicza>
+	<Pl13_53TP_Markowskiego>
+		<id>30</id>
+		<userString>#european_vehicles:Pl13_53TP_Markowskiego</userString>
+		<shortUserString>#european_vehicles:Pl13_53TP_Markowskiego_short</shortUserString>
+		<description>#european_vehicles:Pl13_53TP_Markowskiego_descr</description>
+		<price>2567800</price>
+		<enrichmentPermanentCost>13700</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Pl13_53TP_Markowskiego>
+	<Pl10_40TP_Habicha>
+		<id>31</id>
+		<userString>#european_vehicles:Pl10_40TP_Habicha</userString>
+		<shortUserString>#european_vehicles:Pl10_40TP_Habicha_short</shortUserString>
+		<description>#european_vehicles:Pl10_40TP_Habicha_descr</description>
+		<price>900000</price>
+		<enrichmentPermanentCost>5300</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Pl10_40TP_Habicha>
+	<Pl11_45TP_Habicha>
+		<id>32</id>
+		<userString>#european_vehicles:Pl11_45TP_Habicha</userString>
+		<shortUserString>#european_vehicles:Pl11_45TP_Habicha_short</shortUserString>
+		<description>#european_vehicles:Pl11_45TP_Habicha_descr</description>
+		<price>1430000</price>
+		<enrichmentPermanentCost>10100</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Pl11_45TP_Habicha>
+	<S26_Lancen_C>
+		<id>33</id>
+		<userString>#european_vehicles:S26_Lancen_C</userString>
+		<shortUserString>#european_vehicles:S26_Lancen_C_short</shortUserString>
+		<description>#european_vehicles:S26_Lancen_C_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</S26_Lancen_C>
+	<Cz08_T-25BP>
+		<id>34</id>
+		<userString>#european_vehicles:Cz08_T-25BP</userString>
+		<shortUserString>#european_vehicles:Cz08_T-25BP_short</shortUserString>
+		<description>#european_vehicles:Cz08_T-25BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz08_T-25BP>
 </root>
