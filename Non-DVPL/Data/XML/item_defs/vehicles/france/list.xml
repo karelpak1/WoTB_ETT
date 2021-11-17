@@ -703,7 +703,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG InGame noRating</tags>
+		<tags>AT-SPG mediumAT-SPG</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -712,4 +712,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F89_Canon_dassaut_105>
+	<F_AMX-12BP>
+		<id>74</id>
+		<userString>#france_vehicles:F_AMX-12BP</userString>
+		<shortUserString>#france_vehicles:F_AMX-12BP_short</shortUserString>
+		<description>#france_vehicles:F_AMX-12BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F_AMX-12BP>
 </root>

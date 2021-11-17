@@ -35,6 +35,8 @@ tanks:
     ELC_AMX:
         position: [5, 13]
 #<!-- TIER_6 -->
+    F_AMX-12BP:
+        position: [6, 8]
     F113_PzV_FR:
         position: [6, 9]
     ARL_44BP:

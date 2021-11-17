@@ -1429,4 +1429,40 @@
 		<level>2</level>
 		<configurationModes>development production</configurationModes>
 	</MS-1obr21>
+	<R132_T100LT>
+		<id>95</id>
+		<userString>#ussr_vehicles:R132_T100LT</userString>
+		<shortUserString>#ussr_vehicles:R132_T100LT_short</shortUserString>
+		<description>#ussr_vehicles:R132_T100LT_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank InGame noRating</tags>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<level>10</level>
+		<configurationModes>development production</configurationModes>
+	</R132_T100LT>
+	<R149_Object_268_4>
+		<id>96</id>
+		<userString>#ussr_vehicles:R149_Object_268_4</userString>
+		<shortUserString>#ussr_vehicles:R149_Object_268_4_short</shortUserString>
+		<description>#ussr_vehicles:R149_Object_268_4_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R149_Object_268_4>
 </root>

@@ -1548,10 +1548,11 @@
 		<userString>#germany_vehicles:G109_Steyr_WT</userString>
 		<shortUserString>#germany_vehicles:G109_Steyr_WT_short</shortUserString>
 		<description>#germany_vehicles:G109_Steyr_WT_descr</description>
-		<price>250<gold/></price>
+		<price>7300<gold/>
+		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG InGame noRating</tags>
+		<tags>AT-SPG mediumAT-SPG</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>long_support</arcade>
