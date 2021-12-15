@@ -510,7 +510,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame noRating</tags>
+		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>sniper</arcade>
@@ -539,4 +539,40 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz08_T-25BP>
+	<Cz14_Skoda_T-56>
+		<id>35</id>
+		<userString>#european_vehicles:Cz14_Skoda_T-56</userString>
+		<shortUserString>#european_vehicles:Cz14_Skoda_T-56_short</shortUserString>
+		<description>#european_vehicles:Cz14_Skoda_T-56_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz14_Skoda_T-56>
+	<S13_Leo_NY>
+		<id>36</id>
+		<userString>#european_vehicles:S13_Leo_NY</userString>
+		<shortUserString>#european_vehicles:S13_Leo_NY_short</shortUserString>
+		<description>#european_vehicles:S13_Leo_NY_descr</description>
+		<price>2500<gold/></price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</S13_Leo_NY>
 </root>

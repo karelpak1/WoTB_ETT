@@ -1,47 +1,49 @@
-premium_rows: 4
+premium_rows: 5
 
 tanks:
 #<!-- TIER_1 -->
     F01_Vickers_MkF:
-        position: [1, 6]
+        position: [1, 7]
 #<!-- TIER_2 -->
     Pl06_10TP:
-        position: [2, 6]
+        position: [2, 7]
 #<!-- TIER_3 -->
     Pl07_14TP:
-        position: [3, 6]
+        position: [3, 7]
 #<!-- TIER_4 -->
     S04_Lago-I:
-        position: [4, 6]
+        position: [4, 7]
 #<!-- TIER_5 -->
     S02_StrvM42:
-        position: [5, 6]
+        position: [5, 7]
 #<!-- TIER_6 -->
     Cz08_T-25BP:
-        position: [6, 1]
-    It10_P43_BD:
         position: [6, 2]
-    Pl03_PzV_Pudel:
+    It10_P43_BD:
         position: [6, 3]
-    S07_Strv74BP:
+    Pl03_PzV_Pudel:
         position: [6, 4]
-    S07_Strv_74:
+    S07_Strv74BP:
         position: [6, 5]
-    Pl10_40TP_Habicha:
+    S07_Strv_74:
         position: [6, 6]
-    It10_P43_bis:
+    Pl10_40TP_Habicha:
         position: [6, 7]
-    Cz08_T-25:
+    It10_P43_bis:
         position: [6, 8]
+    Cz08_T-25:
+        position: [6, 9]
 #<!-- TIER_7 -->
-    S13_Leo:
+    S13_Leo_NY:
         position: [7, 5]
-    Pl11_45TP_Habicha:
+    S13_Leo:
         position: [7, 6]
-    It09_P43_ter:
+    Pl11_45TP_Habicha:
         position: [7, 7]
-    Cz05_T34-100:
+    It09_P43_ter:
         position: [7, 8]
+    Cz05_T34-100:
+        position: [7, 9]
 #<!-- TIER_8 -->
     S25_EMIL_51:
         position: [8, 1]
@@ -51,31 +53,33 @@ tanks:
         position: [8, 3]
     Cz13_T-27:
         position: [8, 4]
-    S18_EMIL_1951E1:
+    Cz14_Skoda_T-56:
         position: [8, 5]
-    Pl13_53TP_Markowskiego:
+    S18_EMIL_1951E1:
         position: [8, 6]
-    It14_P44_Pantera:
+    Pl13_53TP_Markowskiego:
         position: [8, 7]
-    Cz07_TVP_46:
+    It14_P44_Pantera:
         position: [8, 8]
+    Cz07_TVP_46:
+        position: [8, 9]
 #<!-- TIER_9 -->
     Pl08_50TP_prot:
-        position: [9, 4]
-    S17_EMIL_1952E2:
         position: [9, 5]
-    Pl05_50TP_Tyszkiewicza:
+    S17_EMIL_1952E2:
         position: [9, 6]
-    It12_Prototipo_Standard_B:
+    Pl05_50TP_Tyszkiewicza:
         position: [9, 7]
-    Cz02_T50:
+    It12_Prototipo_Standard_B:
         position: [9, 8]
+    Cz02_T50:
+        position: [9, 9]
 #<!-- TIER_10 -->
     S16_Kranvagn:
-        position: [10, 5]
-    Pl15_60TP:
         position: [10, 6]
-    It08_Progetto_M40_mod65:
+    Pl15_60TP:
         position: [10, 7]
-    Cz04_T50_51:
+    It08_Progetto_M40_mod65:
         position: [10, 8]
+    Cz04_T50_51:
+        position: [10, 9]

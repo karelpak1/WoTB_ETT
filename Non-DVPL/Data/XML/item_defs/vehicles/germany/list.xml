@@ -1598,4 +1598,40 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G142_M48RPz>
+	<G_E-75RT>
+		<id>96</id>
+		<userString>#germany_vehicles:G_E-75RT</userString>
+		<shortUserString>#germany_vehicles:G_E-75RT_short</shortUserString>
+		<description>#germany_vehicles:G_E-75RT_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</G_E-75RT>
+	<JagdPzIV_AusfBP>
+		<id>97</id>
+		<userString>#germany_vehicles:JagdPzIV_AusfBP</userString>
+		<shortUserString>#germany_vehicles:JagdPzIV_AusfBP_short</shortUserString>
+		<description>#germany_vehicles:JagdPzIV_AusfBP_descr</description>
+		<price>500<gold/></price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<notInShop>false</notInShop>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</JagdPzIV_AusfBP>
 </root>

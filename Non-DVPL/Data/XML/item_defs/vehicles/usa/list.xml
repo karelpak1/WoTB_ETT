@@ -1419,10 +1419,13 @@
 		<userString>#usa_vehicles:A128_Concept_1b</userString>
 		<shortUserString>#usa_vehicles:A128_Concept_1b_short</shortUserString>
 		<description>#usa_vehicles:A128_Concept_1b_descr</description>
-		<price>1</price>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
