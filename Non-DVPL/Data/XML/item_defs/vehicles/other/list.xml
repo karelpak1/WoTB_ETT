@@ -492,4 +492,23 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Oth29_A15HW>
+	<Oth31_T150BP>
+		<id>36</id>
+		<userString>#other_vehicles:Oth31_T150BP</userString>
+		<shortUserString>#other_vehicles:Oth31_T150BP_short</shortUserString>
+		<description>#other_vehicles:Oth31_T150BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth31_T150BP>
 </root>

@@ -1548,7 +1548,7 @@
 		<userString>#germany_vehicles:G109_Steyr_WT</userString>
 		<shortUserString>#germany_vehicles:G109_Steyr_WT_short</shortUserString>
 		<description>#germany_vehicles:G109_Steyr_WT_descr</description>
-		<price>7300<gold/>
+		<price>5500<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1589,7 +1589,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>

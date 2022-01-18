@@ -1429,16 +1429,46 @@
 		<level>2</level>
 		<configurationModes>development production</configurationModes>
 	</MS-1obr21>
+	<R_Object_84>
+		<id>93</id>
+		<userString>#ussr_vehicles:R_Object_84</userString>
+		<shortUserString>#ussr_vehicles:R_Object_84_short</shortUserString>
+		<description>#ussr_vehicles:R_Object_84_descr</description>
+		<price>3450000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R_Object_84>
+	<R131_LTG>
+		<id>94</id>
+		<userString>#ussr_vehicles:R131_LTG</userString>
+		<shortUserString>#ussr_vehicles:R131_LTG_short</shortUserString>
+		<description>#ussr_vehicles:R131_LTG_descr</description>
+		<price>1380000</price>
+		<enrichmentPermanentCost>11000</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R131_LTG>
 	<R132_T100LT>
 		<id>95</id>
 		<userString>#ussr_vehicles:R132_T100LT</userString>
 		<shortUserString>#ussr_vehicles:R132_T100LT_short</shortUserString>
 		<description>#ussr_vehicles:R132_T100LT_descr</description>
-		<price>1<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>lightTank InGame noRating</tags>
+		<tags>lightTank</tags>
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
@@ -1452,11 +1482,13 @@
 		<userString>#ussr_vehicles:R149_Object_268_4</userString>
 		<shortUserString>#ussr_vehicles:R149_Object_268_4_short</shortUserString>
 		<description>#ussr_vehicles:R149_Object_268_4_descr</description>
-		<price>1<gold/>
+		<price>15000<gold/>
 		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG InGame noRating</tags>
+		<tags>AT-SPG heavyAT-SPG collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>devastator</arcade>
@@ -1465,4 +1497,39 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</R149_Object_268_4>
+	<R172_Object_752>
+		<id>98</id>
+		<userString>#ussr_vehicles:R172_Object_752</userString>
+		<shortUserString>#ussr_vehicles:R172_Object_752_short</shortUserString>
+		<description>#ussr_vehicles:R172_Object_752_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R172_Object_752>
+	<R180_Object_274A>
+		<id>99</id>
+		<userString>#ussr_vehicles:R180_Object_274A</userString>
+		<shortUserString>#ussr_vehicles:R180_Object_274A_short</shortUserString>
+		<description>#ussr_vehicles:R180_Object_274A_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R180_Object_274A>
 </root>

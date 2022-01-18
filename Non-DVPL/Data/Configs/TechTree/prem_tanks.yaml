@@ -40,6 +40,14 @@
 "uk:GB21_Cromwell": ['other:Strv_74A2','other:Oth18_BDT-5B']
 "usa:M4A3E8_Sherman": ['other:Strv_74A2','other:Oth18_BDT-5B']
 "ussr:T-34-85": ['other:Strv_74A2','other:Oth18_BDT-5B']
+#Heavy
+"european:Pl10_40TP_Habicha": ['other:Oth31_T150BP']
+"france:ARL_44": ['other:Oth31_T150BP']
+"germany:VK3601H": ['other:Oth31_T150BP']
+"uk:GB09_Churchill_VII": ['other:Oth31_T150BP']
+"usa:M6": ['other:Oth31_T150BP']
+"ussr:KV-1s": ['other:Oth31_T150BP']
+"ussr:KV2": ['other:Oth31_T150BP']
 #<!-- TIER_7 -->
 #Medium
 "european:S13_Leo": ['other:AMX_dracula','other:Sega_Edelweiss']
@@ -53,6 +61,7 @@
 "usa:T20": ['other:Oth12_Sega_Hafen','other:Oth20_M4FL10']
 "ussr:T-43": ['other:AMX_dracula','other:Sega_Edelweiss']
 #Heavy
+"european:Pl11_45TP_Habicha": ['other:Oth25_HWT20_FalconFire','other:Sega_Nameless']
 "france:AMX_M4_1945": ['other:Oth25_HWT20_FalconFire','other:Sega_Nameless']
 "germany:PzVI_Tiger_P": ['other:Oth14_MdM_AshKnight','other:Oth09_WH_Predator']
 "germany:PzVI": ['other:Oth06_Sega_Lupus','other:Oth16_KV_TG']

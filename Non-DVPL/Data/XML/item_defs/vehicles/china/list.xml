@@ -531,4 +531,22 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Type_58TU>
+	<Ch43_WZ-122_2>
+		<id>37</id>
+		<userString>#china_vehicles:Ch43_WZ-122_2</userString>
+		<shortUserString>#china_vehicles:Ch43_WZ-122_2_short</shortUserString>
+		<description>#china_vehicles:Ch43_WZ-122_2_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch43_WZ-122_2>
 </root>
