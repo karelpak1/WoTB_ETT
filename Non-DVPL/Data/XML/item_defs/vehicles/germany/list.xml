@@ -1607,7 +1607,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
@@ -1634,4 +1634,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</JagdPzIV_AusfBP>
+	<G_VK3502_BP>
+		<id>98</id>
+		<userString>#germany_vehicles:G_VK3502_BP</userString>
+		<shortUserString>#germany_vehicles:G_VK3502_BP_short</shortUserString>
+		<description>#germany_vehicles:G_VK3502_BP_descr</description>
+		<price>500<gold/></price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G_VK3502_BP>
 </root>

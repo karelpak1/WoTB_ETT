@@ -55,6 +55,8 @@ tanks:
     Type_61:
         position: [9, 4]
 #<!-- TIER_10 -->
+    J25_Type71:
+        position: [10, 2]
     J20_Ho_Ri_type3:
         position: [10, 3]
     ST_B1:

@@ -72,6 +72,8 @@ tanks:
         position: [5, 20]
 #<!-- TIER_6 -->
     VK2801_BP:
+        position: [6, 3]
+    G_VK3502_BP:
         position: [6, 4]
     DickerMax:
         position: [6, 5]

@@ -1192,7 +1192,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank eventCamouflage_user</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
