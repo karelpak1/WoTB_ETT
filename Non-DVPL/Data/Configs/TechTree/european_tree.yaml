@@ -34,6 +34,8 @@ tanks:
     Cz08_T-25:
         position: [6, 9]
 #<!-- TIER_7 -->
+    Pl119_CS_52_LIS:
+        position: [7, 4]
     S13_Leo_NY:
         position: [7, 5]
     S13_Leo:

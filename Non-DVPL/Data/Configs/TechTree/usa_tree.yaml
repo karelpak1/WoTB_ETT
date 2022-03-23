@@ -1,187 +1,191 @@
-premium_rows: 11
+premium_rows: 13
 
 tanks:
 #<!-- TIER_1 -->
     M2_lt:
-        position: [1, 14]
+        position: [1, 16]
     T1_Cunningham:
-        position: [1, 10]
+        position: [1, 12]
 #<!-- TIER_2 -->
     T18:
-        position: [2, 7]
-    T1_E6:
-        position: [2, 8]
-    T2_lt:
         position: [2, 9]
-    T2_med:
+    T1_E6:
         position: [2, 10]
-    T7_Combat_Car:
+    T2_lt:
         position: [2, 11]
+    T2_med:
+        position: [2, 12]
+    T7_Combat_Car:
+        position: [2, 13]
     M3_Stuart:
-        position: [2, 14]
+        position: [2, 16]
 #<!-- TIER_3 -->
     M2_med:
-        position: [3, 9]
-    T82:
-        position: [3, 10]
-    M22_Locust:
         position: [3, 11]
+    T82:
+        position: [3, 12]
+    M22_Locust:
+        position: [3, 13]
     M5_Stuart:
-        position: [3, 14]
+        position: [3, 16]
 #<!-- TIER_4 -->
     M3_Grant:
-        position: [4, 9]
-    T40:
-        position: [4, 10]
-    A77_T6M:
         position: [4, 11]
-    M8A1:
+    T40:
+        position: [4, 12]
+    A77_T6M:
         position: [4, 13]
+    M8A1:
+        position: [4, 15]
     M7_med:
-        position: [4, 16]
+        position: [4, 18]
 #<!-- TIER_5 -->
     M4A2E4:
-        position: [5, 8]
-    Ram-II:
-        position: [5, 9]
-    T14:
         position: [5, 10]
-    T49:
+    Ram-II:
         position: [5, 11]
-    M10_Wolverine:
+    T14:
+        position: [5, 12]
+    T49:
         position: [5, 13]
+    M10_Wolverine:
+        position: [5, 15]
     T1_hvy:
-        position: [5, 14]
-    M4_Sherman:
         position: [5, 16]
+    M4_Sherman:
+        position: [5, 18]
 #<!-- TIER_6 -->
     M18E2BP:    
-        position: [6, 5]
-    A104_M4A3E8A:
-        position: [6, 6]
-    Sherman_Jumbo:
         position: [6, 7]
-    M6E2BP:
+    A104_M4A3E8A:
         position: [6, 8]
-    M4A3E8_BP:
+    Sherman_Jumbo:
         position: [6, 9]
-    M4A3E8TU:
+    M6E2BP:
         position: [6, 10]
-    T21:
+    M4A3E8_BP:
         position: [6, 11]
-    M18_Hellcat:
+    M4A3E8TU:
         position: [6, 12]
-    M36_Slagger:
+    T21:
         position: [6, 13]
-    M6:
+    M18_Hellcat:
         position: [6, 14]
-    M4A3E8_Sherman:
+    M36_Slagger:
+        position: [6, 15]
+    M6:
         position: [6, 16]
-    A94_T37:
-        position: [6, 17]
-    M24_Chaffee:
+    M4A3E8_Sherman:
         position: [6, 18]
+    A94_T37:
+        position: [6, 19]
+    M24_Chaffee:
+        position: [6, 20]
 #<!-- TIER_7 -->
     M6A2E1:    
-        position: [7, 6]
-    A130_Super_Hellcat:
-        position: [7, 7]
-    T23E3:
         position: [7, 8]
-    A121_T26E3:
+    A130_Super_Hellcat:
         position: [7, 9]
-    A102_T28_concept:
+    T23E3:
         position: [7, 10]
-    T49_Rocket:
+    A121_T26E3:
         position: [7, 11]
-    T25_2:
+    A102_T28_concept:
         position: [7, 12]
-    T25_AT:
+    T49_Rocket:
         position: [7, 13]
-    T29:
+    T25_2:
         position: [7, 14]
-    M-7-Y:
+    T25_AT:
         position: [7, 15]
-    T20:
+    T29:
         position: [7, 16]
-    T71:
+    M-7-Y:
         position: [7, 17]
-    M41_Bulldog:
+    T20:
         position: [7, 18]
+    T71:
+        position: [7, 19]
+    M41_Bulldog:
+        position: [7, 20]
 #<!-- TIER_8 -->
     A115_Chrysler_K:
         position: [8, 1]
     M6A2E1_exp:
         position: [8, 2]
-    A111_T25_Pilot:
+    M-3-Y-Midas:
         position: [8, 3]
-    T26_E4_SuperPershing:
+    A111_T25_Pilot:
         position: [8, 4]
-    A117_T26E5:
+    T26_E4_SuperPershing:
         position: [8, 5]
-    A68_T28D:
+    A117_T26E5:
         position: [8, 6]
-    T34_hvy:
+    A68_T28D:
         position: [8, 7]
-    T34_hvy_Freedom:
+    T34_hvy:
         position: [8, 8]
-    A124_T54E2:
+    T34_hvy_Freedom:
         position: [8, 9]
-    T95E2:
+    A124_T54E2:
         position: [8, 10]
-    A122_TS-5:
+    A132_T77:
         position: [8, 11]
-    T28_Prototype:
+    T95E2:
         position: [8, 12]
-    T28:
+    A122_TS-5:
         position: [8, 13]
-    T32:
+    T28_Prototype:
         position: [8, 14]
-    M-3-Y:
+    T28:
         position: [8, 15]
-    Pershing:
+    T32:
         position: [8, 16]
-    T69:
+    M-3-Y:
         position: [8, 17]
-    A100_T49:
+    Pershing:
         position: [8, 18]
+    T69:
+        position: [8, 19]
+    A100_T49:
+        position: [8, 20]
 #<!-- TIER_9 -->
     A125_AEP_1:
-        position: [9, 11]
-    T30:
-        position: [9, 12]
-    T95:
         position: [9, 13]
-    M103:
+    T30:
         position: [9, 14]
-    M-5-Y:
+    T95:
         position: [9, 15]
-    M46_Patton:
+    M103:
         position: [9, 16]
-    T54E1:
+    M-5-Y:
         position: [9, 17]
-    A99_T92E1:
+    M46_Patton:
         position: [9, 18]
+    T54E1:
+        position: [9, 19]
+    A99_T92E1:
+        position: [9, 20]
 #<!-- TIER_10 -->
     A128_Concept_1b:
-        position: [10, 8]
-    M60:
-        position: [10, 9]
-    A116_XM551_Exp:
         position: [10, 10]
-    A95_T95E6:
+    M60:
         position: [10, 11]
-    T110E4:
+    A116_XM551_Exp:
         position: [10, 12]
-    T110E3:
+    A95_T95E6:
         position: [10, 13]
-    T110:
+    T110E4:
         position: [10, 14]
-    M-6-Y:
+    T110E3:
         position: [10, 15]
-    M48A1:
+    T110:
         position: [10, 16]
-    T57_58:
+    M-6-Y:
         position: [10, 17]
-    A116_XM551:
+    M48A1:
         position: [10, 18]
+    T57_58:
+        position: [10, 19]
+    A116_XM551:
+        position: [10, 20]

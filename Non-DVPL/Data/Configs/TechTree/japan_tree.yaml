@@ -45,6 +45,8 @@ tanks:
     Chi_Ri:
         position: [7, 4]
 #<!-- TIER_8 -->
+    J24_Type_57:
+        position: [8, 2]
     J22_Ho_Ri_type96:
         position: [8, 3]
     STA_1:

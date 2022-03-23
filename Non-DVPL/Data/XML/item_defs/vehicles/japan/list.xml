@@ -386,4 +386,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J25_Type71>
+	<J24_Type_57>
+		<id>27</id>
+		<userString>#japan_vehicles:J24_Type_57</userString>
+		<shortUserString>#japan_vehicles:J24_Type_57_short</shortUserString>
+		<description>#japan_vehicles:J24_Type_57_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J24_Type_57>
 </root>

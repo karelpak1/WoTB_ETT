@@ -1433,4 +1433,39 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A128_Concept_1b>
+	<M-3-Y-Midas>
+		<id>97</id>
+		<userString>#usa_vehicles:M-3-Y-Midas</userString>
+		<shortUserString>#usa_vehicles:M-3-Y-Midas_short</shortUserString>
+		<description>#usa_vehicles:M-3-Y-Midas_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M-3-Y-Midas>
+	<A132_T77>
+		<id>99</id>
+		<userString>#usa_vehicles:A132_T77</userString>
+		<shortUserString>#usa_vehicles:A132_T77_short</shortUserString>
+		<description>#usa_vehicles:A132_T77_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A132_T77>
 </root>

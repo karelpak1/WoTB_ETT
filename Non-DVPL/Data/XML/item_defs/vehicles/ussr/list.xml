@@ -1502,11 +1502,13 @@
 		<userString>#ussr_vehicles:R172_Object_752</userString>
 		<shortUserString>#ussr_vehicles:R172_Object_752_short</shortUserString>
 		<description>#ussr_vehicles:R172_Object_752_descr</description>
-		<price>1<gold/>
+		<price>10000<gold/>
 		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>devastator</arcade>
@@ -1519,7 +1521,7 @@
 		<userString>#ussr_vehicles:R180_Object_274A</userString>
 		<shortUserString>#ussr_vehicles:R180_Object_274A_short</shortUserString>
 		<description>#ussr_vehicles:R180_Object_274A_descr</description>
-		<price>1<gold/>
+		<price>7300<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>

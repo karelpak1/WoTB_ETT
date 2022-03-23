@@ -85,16 +85,16 @@
 "ussr:SU100M1": ['other:Oth08_WH_Vindicator','other:WZ-135G_FT']
 #<!-- TIER_8 -->
 #Medium
-"european:It14_P44_Pantera": ['other:Akawara']
-"european:Cz07_TVP_46": ['other:Akawara']
-"germany:Panther_II": ['other:Akawara']
-"germany:Indien_Panzer": ['other:Akawara']
-"china:Ch05_T34_2": ['other:Akawara']
-"japan:STA_1": ['other:Akawara']
-"uk:GB23_Centurion": ['other:Akawara']
-"usa:Pershing": ['other:Akawara']
-"usa:T69": ['other:Akawara']
-"ussr:T-44": ['other:Akawara']
+"european:It14_P44_Pantera": ['other:Akawara','other:Oth30_T54MS']
+"european:Cz07_TVP_46": ['other:Akawara','other:Oth30_T54MS']
+"germany:Panther_II": ['other:Akawara','other:Oth30_T54MS']
+"germany:Indien_Panzer": ['other:Akawara','other:Oth30_T54MS']
+"china:Ch05_T34_2": ['other:Akawara','other:Oth30_T54MS']
+"japan:STA_1": ['other:Akawara','other:Oth30_T54MS']
+"uk:GB23_Centurion": ['other:Akawara','other:Oth30_T54MS']
+"usa:Pershing": ['other:Akawara','other:Oth30_T54MS']
+"usa:T69": ['other:Akawara','other:Oth30_T54MS']
+"ussr:T-44": ['other:Akawara','other:Oth30_T54MS']
 #<!-- TIER_9 -->
 #Medium
 "european:It12_Prototipo_Standard_B": ['other:Oth11_T-55A']

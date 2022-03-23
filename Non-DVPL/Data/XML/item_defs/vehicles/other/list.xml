@@ -492,6 +492,23 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Oth29_A15HW>
+	<Oth30_T54MS>
+		<id>35</id>
+		<userString>#other_vehicles:Oth30_T54MS</userString>
+		<shortUserString>#other_vehicles:Oth30_T54MS_short</shortUserString>
+		<description>#other_vehicles:Oth30_T54MS_descr</description>
+		<price>7200<gold/></price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth30_T54MS>
 	<Oth31_T150BP>
 		<id>36</id>
 		<userString>#other_vehicles:Oth31_T150BP</userString>
