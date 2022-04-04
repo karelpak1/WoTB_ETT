@@ -1052,4 +1052,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB40_Gun_Carrier_BP>
+	<GB109_GSOR_1008>
+		<id>83</id>
+		<userString>#uk_vehicles:GB109_GSOR_1008</userString>
+		<shortUserString>#uk_vehicles:GB109_GSOR_1008_short</shortUserString>
+		<description>#uk_vehicles:GB109_GSOR_1008_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</GB109_GSOR_1008>
 </root>
