@@ -204,7 +204,7 @@
 		<sellPrice>1200<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>heavyTank collectible beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional</tags>
+		<tags>heavyTank collectible beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional eventCamouflage_user</tags>
 		<notInShop>false</notInShop>
 		<level>6</level>
 		<combatRole>
@@ -224,7 +224,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible enhancedLevers_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional</tags>
+		<tags>mediumTank collectible enhancedLevers_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional eventCamouflage_user</tags>
 		<level>5</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -262,7 +262,7 @@
 		<sellPrice>1200<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user fictional</tags>
+		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user fictional eventCamouflage_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
 	</G09_Hetzer_GuP>
@@ -309,7 +309,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai collectible fictional</tags>
+		<tags>heavyTank sinai collectible fictional eventCamouflage_user</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -328,7 +328,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible fictional</tags>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>

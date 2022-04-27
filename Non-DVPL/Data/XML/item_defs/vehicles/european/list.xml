@@ -299,7 +299,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank beast</tags>
+		<tags>mediumTank beast eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -593,4 +593,21 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Pl119_CS_52_LIS>
+	<Cz15_Skoda_T-45>
+		<id>38</id>
+		<userString>#european_vehicles:Cz15_Skoda_T-45</userString>
+		<shortUserString>#european_vehicles:Cz15_Skoda_T-45_short</shortUserString>
+		<description>#european_vehicles:Cz15_Skoda_T-45_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Cz15_Skoda_T-45>
 </root>

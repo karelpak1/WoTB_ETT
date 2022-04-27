@@ -597,7 +597,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible fictional</tags>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -614,7 +614,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank fictional</tags>
+		<tags>lightTank fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -649,7 +649,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank beast</tags>
+		<tags>mediumTank beast eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -685,7 +685,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -732,4 +732,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F_AMX-12BP>
+	<Achilles_FR>
+		<id>75</id>
+		<userString>#france_vehicles:Achilles_FR</userString>
+		<shortUserString>#france_vehicles:Achilles_FR_short</shortUserString>
+		<description>#france_vehicles:Achilles_FR_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Achilles_FR>
 </root>

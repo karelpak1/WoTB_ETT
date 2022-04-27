@@ -36,8 +36,10 @@ tanks:
         position: [5, 13]
 #<!-- TIER_6 -->
     F_AMX-12BP:
-        position: [6, 8]
+        position: [6, 7]
     F113_PzV_FR:
+        position: [6, 8]
+    Achilles_FR:
         position: [6, 9]
     ARL_44BP:
         position: [6, 10]

@@ -711,7 +711,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton</tags>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton eventCamouflage_user</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -907,7 +907,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user</tags>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -943,7 +943,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -982,7 +982,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame</tags>
+		<tags>lightTank InGame eventCamouflage_user</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -1090,7 +1090,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG fictional</tags>
+		<tags>AT-SPG heavyAT-SPG fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -1212,7 +1212,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible fictional</tags>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1232,7 +1232,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame</tags>
+		<tags>mediumTank collectible InGame eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1252,7 +1252,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank collectible noRandom noRating noNanomaps noTournaments</tags>
+		<tags>lightTank collectible noRandom noRating noNanomaps noTournaments eventCamouflage_user</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1271,7 +1271,7 @@
 		<sellPrice>500<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>heavyTank collectible fictional</tags>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

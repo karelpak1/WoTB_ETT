@@ -939,7 +939,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -991,7 +991,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai enhancedTorsions5t_user wetCombatPack_class2_user aimingStabilizer_Mk2_user InGame fictional</tags>
+		<tags>heavyTank sinai enhancedTorsions5t_user wetCombatPack_class2_user aimingStabilizer_Mk2_user InGame fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1021,7 +1021,7 @@
 		<price>4700<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user eventCamouflage_user</tags>
 		<notInShop>false</notInShop>
 		<level>7</level>
 		<combatRole>
@@ -1039,7 +1039,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1057,7 +1057,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<tags>heavyTank InGame sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1258,7 +1258,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible</tags>
+		<tags>heavyTank collectible eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1313,7 +1313,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame</tags>
+		<tags>mediumTank collectible InGame eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1370,7 +1370,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible fictional</tags>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>

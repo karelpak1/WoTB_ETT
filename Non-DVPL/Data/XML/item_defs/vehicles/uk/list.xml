@@ -587,7 +587,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame improvedVentilation_class1_user mediumCaliberTankRammer_user grousers_user</tags>
+		<tags>heavyTank InGame improvedVentilation_class1_user mediumCaliberTankRammer_user grousers_user eventCamouflage_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
 	</GB_Mark_I>
@@ -617,7 +617,7 @@
 		<price>3500<gold/>
         </price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>AT-SPG lightAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_user</tags>
+		<tags>AT-SPG lightAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_user eventCamouflage_user</tags>
 		<notInShop>false</notInShop>
 		<level>5</level>
 		<combatRole>
@@ -900,7 +900,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank fictional</tags>
+		<tags>mediumTank fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1023,7 +1023,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible fictional</tags>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>sniper</arcade>

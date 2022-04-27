@@ -35,8 +35,10 @@ tanks:
         position: [6, 9]
 #<!-- TIER_7 -->
     Pl119_CS_52_LIS:
-        position: [7, 4]
+        position: [7, 3]
     S13_Leo_NY:
+        position: [7, 4]
+    Cz15_Skoda_T-45:
         position: [7, 5]
     S13_Leo:
         position: [7, 6]

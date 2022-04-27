@@ -1169,7 +1169,7 @@
 		<price>7400<gold/>
     </price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>AT-SPG heavyAT-SPG beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<tags>AT-SPG heavyAT-SPG beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -1272,7 +1272,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<tags>heavyTank beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1421,7 +1421,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank collectible fictional</tags>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>sniper</arcade>
@@ -1441,7 +1441,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame</tags>
+		<tags>heavyTank collectible InGame eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1478,7 +1478,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank beast collectible fictional</tags>
+		<tags>heavyTank beast collectible fictional eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1534,7 +1534,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible fictional</tags>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
 		<level>5</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>
