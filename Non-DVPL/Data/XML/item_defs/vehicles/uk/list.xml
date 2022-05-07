@@ -1070,4 +1070,23 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</GB109_GSOR_1008>
+	<GB63_TOG_II_BP>
+		<id>84</id>
+		<userString>#uk_vehicles:GB63_TOG_II_BP</userString>
+		<shortUserString>#uk_vehicles:GB63_TOG_II_BP_short</shortUserString>
+		<description>#uk_vehicles:GB63_TOG_II_BP_descr</description>
+		<price>500<gold/>
+        </price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user collectible fictional</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>hunter_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB63_TOG_II_BP>
 </root>

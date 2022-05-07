@@ -131,21 +131,21 @@ tanks:
     G113_SP_I_C:
         position: [7, 21]
 #<!-- TIER_8 -->
-    G_E-75RT:
-        position: [8, 1]
     G_E-75TS:
-        position: [8, 2]
+        position: [8, 1]
     JagdTiger_SdKfz_185:
-        position: [8, 3]
+        position: [8, 2]
     JagdTiger_SdKfz_185_Snowstorm:
-        position: [8, 4]
+        position: [8, 3]
     G112_JagdPanzer_105:
+        position: [8, 4]
+    G_E-75RT:
         position: [8, 5]
     G120_M41_90:
         position: [8, 6]
-    G142_M48RPz:
-        position: [8, 7]
     Lowe:
+        position: [8, 7]
+    G142_M48RPz:
         position: [8, 8]
     G106_PzKpfwPanther_AusfF:
         position: [8, 9]

@@ -1464,7 +1464,6 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>vampire_2</hellgames>
-			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</A132_T77>
