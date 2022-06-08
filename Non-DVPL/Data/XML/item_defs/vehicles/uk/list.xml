@@ -1061,7 +1061,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG InGame noRating</tags>
+		<tags>AT-SPG mediumAT-SPG</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -1089,4 +1089,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB63_TOG_II_BP>
+	<GB112_Caliban>
+		<id>85</id>
+		<userString>#uk_vehicles:GB112_Caliban</userString>
+		<shortUserString>#uk_vehicles:GB112_Caliban_short</shortUserString>
+		<description>#uk_vehicles:GB112_Caliban_descr</description>
+		<price>500<gold/>
+        </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB112_Caliban>
 </root>

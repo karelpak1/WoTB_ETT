@@ -40,6 +40,8 @@ tanks:
     M7_med:
         position: [4, 18]
 #<!-- TIER_5 -->
+    A05_M4_105BD:
+        position: [5, 9]
     M4A2E4:
         position: [5, 10]
     Ram-II:
@@ -56,12 +58,14 @@ tanks:
         position: [5, 18]
 #<!-- TIER_6 -->
     M18E2BP:    
-        position: [6, 7]
+        position: [6, 6]
     A104_M4A3E8A:
-        position: [6, 8]
+        position: [6, 7]
     Sherman_Jumbo:
-        position: [6, 9]
+        position: [6, 8]
     M6E2BP:
+        position: [6, 9]
+    T21_BP:
         position: [6, 10]
     M4A3E8_BP:
         position: [6, 11]

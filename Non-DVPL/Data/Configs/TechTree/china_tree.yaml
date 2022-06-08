@@ -43,19 +43,19 @@ tanks:
 #<!-- TIER_8 -->
     Ch23_112:
         position: [8, 1]
-    Ch43_WZ-122_2:
-        position: [8, 2]
     Ch26_59_Patton:
-        position: [8, 3]
+        position: [8, 2]
     Ch14_T34_3:
-        position: [8, 4]
+        position: [8, 3]
     Ch01_Type59:
-        position: [8, 5]
+        position: [8, 4]
     Ch03_WZ-111:
-        position: [8, 6]
+        position: [8, 5]
     Ch_WZ-112v2:
-        position: [8, 7]
+        position: [8, 6]
     Ch39_WZ120_1G_FT:
+        position: [8, 7]
+    Ch43_WZ-122_2:
         position: [8, 8]
     Ch36_WZ-111-1G_FT:
         position: [8, 9]

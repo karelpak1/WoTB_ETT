@@ -369,16 +369,89 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J23_Chi_To_SPG>
+	<J30_Mitsu_108>
+		<id>21</id>
+		<userString>#japan_vehicles:J30_Mitsu_108</userString>
+		<shortUserString>#japan_vehicles:J30_Mitsu_108_short</shortUserString>
+		<description>#japan_vehicles:J30_Mitsu_108_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>4000</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J30_Mitsu_108>
+	<J29_Ju_Nu>
+		<id>22</id>
+		<userString>#japan_vehicles:J29_Ju_Nu</userString>
+		<shortUserString>#japan_vehicles:J29_Ju_Nu_short</shortUserString>
+		<description>#japan_vehicles:J29_Ju_Nu_descr</description>
+		<price>885000</price>
+		<enrichmentPermanentCost>5200</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J29_Ju_Nu>
+	<J28_Ju_To>
+		<id>23</id>
+		<userString>#japan_vehicles:J28_Ju_To</userString>
+		<shortUserString>#japan_vehicles:J28_Ju_To_short</shortUserString>
+		<description>#japan_vehicles:J28_Ju_To_descr</description>
+		<price>1450300</price>
+		<enrichmentPermanentCost>10600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J28_Ju_To>
+	<J27_Chi_Se>
+		<id>24</id>
+		<userString>#japan_vehicles:J27_Chi_Se</userString>
+		<shortUserString>#japan_vehicles:J27_Chi_Se_short</shortUserString>
+		<description>#japan_vehicles:J27_Chi_Se_descr</description>
+		<price>2610000</price>
+		<enrichmentPermanentCost>13600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J27_Chi_Se>
+	<J26_Type_68>
+		<id>25</id>
+		<userString>#japan_vehicles:J26_Type_68</userString>
+		<shortUserString>#japan_vehicles:J26_Type_68_short</shortUserString>
+		<description>#japan_vehicles:J26_Type_68_descr</description>
+		<price>3640000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J26_Type_68>
 	<J25_Type71>
 		<id>26</id>
 		<userString>#japan_vehicles:J25_Type71</userString>
 		<shortUserString>#japan_vehicles:J25_Type71_short</shortUserString>
 		<description>#japan_vehicles:J25_Type71_descr</description>
-		<price>1<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>heavyTank InGame</tags>
+		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

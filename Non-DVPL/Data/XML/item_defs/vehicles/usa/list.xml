@@ -1459,7 +1459,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1467,4 +1467,43 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</A132_T77>
+	<T21_BP>
+		<id>101</id>
+		<userString>#usa_vehicles:T21_BP</userString>
+		<shortUserString>#usa_vehicles:T21_BP_short</shortUserString>
+		<description>#usa_vehicles:T21_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</T21_BP>
+	<A05_M4_105BD>
+		<id>102</id>
+		<userString>#usa_vehicles:A05_M4_105BD</userString>
+		<shortUserString>#usa_vehicles:A05_M4_105BD_short</shortUserString>
+		<description>#usa_vehicles:A05_M4_105BD_descr</description>
+		<price>250<gold/></price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A05_M4_105BD>
 </root>
