@@ -1487,6 +1487,23 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</T21_BP>
+	<A141_M-4-Y>
+		<id>100</id>
+		<userString>#usa_vehicles:A141_M-4-Y</userString>
+		<shortUserString>#usa_vehicles:A141_M-4-Y_short</shortUserString>
+		<description>#usa_vehicles:A141_M-4-Y_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A141_M-4-Y>
 	<A05_M4_105BD>
 		<id>102</id>
 		<userString>#usa_vehicles:A05_M4_105BD</userString>

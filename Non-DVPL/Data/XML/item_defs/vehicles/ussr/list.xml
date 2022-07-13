@@ -1534,4 +1534,21 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</R180_Object_274A>
+	<R175_IS_2E>
+		<id>100</id>
+		<userString>#ussr_vehicles:R175_IS_2E</userString>
+		<shortUserString>#ussr_vehicles:R175_IS_2E_short</shortUserString>
+		<description>#ussr_vehicles:R175_IS_2E_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame sinai</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R175_IS_2E>
 </root>

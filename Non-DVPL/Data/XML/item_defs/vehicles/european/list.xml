@@ -602,7 +602,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame</tags>
+		<tags>heavyTank</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

@@ -528,4 +528,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth31_T150BP>
+	<Oth33_Blizzard_BP>
+		<id>38</id>
+		<userString>#other_vehicles:Oth33_Blizzard_BP</userString>
+		<shortUserString>#other_vehicles:Oth33_Blizzard_BP_short</shortUserString>
+		<description>#other_vehicles:Oth33_Blizzard_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Oth33_Blizzard_BP>
 </root>

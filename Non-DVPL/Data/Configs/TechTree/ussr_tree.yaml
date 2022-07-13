@@ -94,6 +94,8 @@ tanks:
         position: [6, 22]
 #<!-- TIER_7 -->
     R71_IS_2B:
+        position: [7, 9]
+    R175_IS_2E:
         position: [7, 10]
     R116_ISU122C_Berlin:
         position: [7, 11]

@@ -1103,7 +1103,6 @@
 		<combatRole>
 			<arcade>devastator</arcade>
 			<hellgames>hunter_2</hellgames>
-			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB112_Caliban>
