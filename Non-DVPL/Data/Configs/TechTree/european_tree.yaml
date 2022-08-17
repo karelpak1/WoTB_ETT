@@ -18,10 +18,12 @@ tanks:
         position: [5, 7]
 #<!-- TIER_6 -->
     Cz08_T-25BP:
-        position: [6, 2]
+        position: [6, 1]
     It10_P43_BD:
-        position: [6, 3]
+        position: [6, 2]
     Pl03_PzV_Pudel:
+        position: [6, 3]
+    It10_P43_bis_BP:
         position: [6, 4]
     S07_Strv74BP:
         position: [6, 5]
@@ -79,6 +81,8 @@ tanks:
     Cz02_T50:
         position: [9, 9]
 #<!-- TIER_10 -->
+    It21_Controcarro3_Minotauro:
+        position: [10, 4]
     It20_Car_Comb_45t:
         position: [10, 5]
     S16_Kranvagn:

@@ -175,7 +175,9 @@ tanks:
         position: [8, 21]
 #<!-- TIER_9 -->
     G_KpfPz_70:
-        position: [9, 12]
+        position: [9, 11]
+    Waffentrager_IV_CL:
+        position: [9, 12]     
     Waffentrager_IV:
         position: [9, 13]
     JagdTiger:

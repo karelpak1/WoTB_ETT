@@ -1496,7 +1496,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1523,4 +1523,41 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A05_M4_105BD>
+	<M36_BP>
+		<id>103</id>
+		<userString>#usa_vehicles:M36_BP</userString>
+		<shortUserString>#usa_vehicles:M36_BP_short</shortUserString>
+		<description>#usa_vehicles:M36_BP_descr</description>
+		<price>500<gold/></price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M36_BP>
+	<A140_ASTRON_REX_105>
+		<id>104</id>
+		<userString>#usa_vehicles:A140_ASTRON_REX_105</userString>
+		<shortUserString>#usa_vehicles:A140_ASTRON_REX_105_short</shortUserString>
+		<description>#usa_vehicles:A140_ASTRON_REX_105_descr</description>
+		<price>1<gold/> 
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A140_ASTRON_REX_105>
 </root>

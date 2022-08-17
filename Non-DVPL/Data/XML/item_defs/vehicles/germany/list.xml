@@ -1652,4 +1652,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G_VK3502_BP>
+	<Waffentrager_IV_CL>
+		<id>99</id>
+		<userString>#germany_vehicles:Waffentrager_IV_CL</userString>
+		<shortUserString>#germany_vehicles:Waffentrager_IV_CL_short</shortUserString>
+		<description>#germany_vehicles:Waffentrager_IV_CL_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible eventCamouflage_user fictional</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Waffentrager_IV_CL>
 </root>

@@ -1094,11 +1094,11 @@
 		<userString>#uk_vehicles:GB112_Caliban</userString>
 		<shortUserString>#uk_vehicles:GB112_Caliban_short</shortUserString>
 		<description>#uk_vehicles:GB112_Caliban_descr</description>
-		<price>500<gold/>
+		<price>7600<gold/>
         </price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>devastator</arcade>
@@ -1106,4 +1106,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB112_Caliban>
+	<GB_Churchill_MkVIII>
+		<id>86</id>
+		<userString>#uk_vehicles:GB_Churchill_MkVIII</userString>
+		<shortUserString>#uk_vehicles:GB_Churchill_MkVIII_short</shortUserString>
+		<description>#uk_vehicles:GB_Churchill_MkVIII_descr</description>
+		<price>500<gold/>
+        </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>hunter_2</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</GB_Churchill_MkVIII>
 </root>
