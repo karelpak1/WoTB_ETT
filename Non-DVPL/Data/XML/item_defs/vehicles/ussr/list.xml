@@ -24,7 +24,7 @@
 		<level>5</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -38,7 +38,7 @@
 		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -127,7 +127,7 @@
 		<level>6</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>berserk</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</KV-1s>
@@ -248,7 +248,7 @@
 		<level>10</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>berserk</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</IS-4>
@@ -300,7 +300,7 @@
 		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -411,7 +411,7 @@
 		<level>7</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -453,8 +453,8 @@
 		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>dreadnought</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<arcade>revenger</arcade>
+			<hellgames>berserk</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</KV4>
@@ -499,7 +499,7 @@
 		<tags>heavyTank enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>5</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -681,7 +681,7 @@
 		<tags>heavyTank collectible enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>5</level>
 		<combatRole>
-			<arcade>dreadnought</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -785,7 +785,7 @@
 		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>dreadnought</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -879,7 +879,7 @@
 		<level>7</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -926,7 +926,7 @@
 		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -977,7 +977,7 @@
 		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>supertest development production</configurationModes>
@@ -991,10 +991,10 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai enhancedTorsions5t_user wetCombatPack_class2_user aimingStabilizer_Mk2_user InGame fictional eventCamouflage_user</tags>
+		<tags>heavyTank sinai enhancedTorsions5t_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -1060,7 +1060,7 @@
 		<tags>heavyTank InGame sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -1097,7 +1097,7 @@
 		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1225,7 +1225,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1543,7 +1543,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame sinai</tags>
+		<tags>heavyTank sinai</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

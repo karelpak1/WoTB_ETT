@@ -15,6 +15,12 @@
 "japan:Chi_Nu": ['other:Oth29_A15HW','other:Oth17_BDT-5A']
 "usa:M4_Sherman": ['other:Oth15_RustCrab','other:Oth17_BDT-5A']
 "ussr:T-34": ['other:Oth29_A15HW','other:Oth17_BDT-5A']
+#Heavy
+"france:BDR_G1B": ['other:Oth35_PanzerMejai']
+"japan:J30_Mitsu_108": ['other:Oth35_PanzerMejai']
+"uk:GB08_Churchill_I": ['other:Oth35_PanzerMejai']
+"usa:T1_hvy": ['other:Oth35_PanzerMejai']
+"ussr:KV1": ['other:Oth35_PanzerMejai']
 #TD
 "france:S_35CA": ['other:Oth24_StuH_42HW']
 "germany:StuGIII": ['other:Oth24_StuH_42HW']
@@ -62,7 +68,7 @@
 "usa:T20": ['other:Oth12_Sega_Hafen','other:Oth20_M4FL10']
 "ussr:T-43": ['other:AMX_dracula','other:Sega_Edelweiss']
 #Heavy
-"european:Pl11_45TP_Habicha": ['other:Oth25_HWT20_FalconFire','other:Sega_Nameless']
+"european:Pl11_45TP_Habicha": ['other:Oth34_PanzerMummy','other:Sega_Nameless']
 "france:AMX_M4_1945": ['other:Oth25_HWT20_FalconFire','other:Sega_Nameless']
 "germany:PzVI_Tiger_P": ['other:Oth14_MdM_AshKnight','other:Oth09_WH_Predator']
 "germany:PzVI": ['other:Oth06_Sega_Lupus','other:Oth16_KV_TG']
@@ -70,7 +76,7 @@
 "japan:J28_Ju_To": ['other:Oth23_Werewolf','other:Oth16_KV_TG']
 "uk:GB10_Black_Prince": ['other:Oth25_HWT20_FalconFire','other:Oth22_Sega_Vulcan']
 "usa:T29": ['other:Oth14_MdM_AshKnight','other:Oth16_KV_TG']
-"usa:M-7-Y": ['other:Oth28_Sturmfeur_HW','other:Sega_Nameless']
+"usa:M-7-Y": ['other:Oth28_Sturmfeur_HW','other:Oth34_PanzerMummy']
 "ussr:IS": ['other:Oth06_Sega_Lupus','other:Oth09_WH_Predator']
 "ussr:KV-3": ['other:Oth23_Werewolf','other:Oth28_Sturmfeur_HW']
 #TD

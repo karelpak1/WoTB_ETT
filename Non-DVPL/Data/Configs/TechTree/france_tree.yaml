@@ -1,107 +1,109 @@
-premium_rows: 10
+premium_rows: 11
 
 tanks:
 #<!-- TIER_1 -->
     RenaultFT:
-        position: [1, 9]
+        position: [1, 10]
     RenaultR35:
-        position: [1, 12]
+        position: [1, 13]
 #<!-- TIER_2 -->
     D1:
-        position: [2, 9]
-    RenaultFT_AC:
         position: [2, 10]
+    RenaultFT_AC:
+        position: [2, 11]
     AMX38:
-        position: [2, 12]
+        position: [2, 13]
 #<!-- TIER_3 -->
     FCM_36Pak40:
-        position: [3, 9]
-    RenaultUE57:
         position: [3, 10]
+    RenaultUE57:
+        position: [3, 11]
     D2:
-        position: [3, 12]
+        position: [3, 13]
 #<!-- TIER_4 -->
     AMX40:
-        position: [4, 10]
-    Somua_Sau_40:
         position: [4, 11]
-    B1:
+    Somua_Sau_40:
         position: [4, 12]
+    B1:
+        position: [4, 13]
 #<!-- TIER_5 -->
     S_35CA:
-        position: [5, 11]
-    BDR_G1B:
         position: [5, 12]
-    ELC_AMX:
+    BDR_G1B:
         position: [5, 13]
+    ELC_AMX:
+        position: [5, 14]
 #<!-- TIER_6 -->
     F_AMX-12BP:
-        position: [6, 7]
-    F113_PzV_FR:
         position: [6, 8]
-    Achilles_FR:
+    F113_PzV_FR:
         position: [6, 9]
-    ARL_44BP:
+    Achilles_FR:
         position: [6, 10]
-    ARL_V39:
+    ARL_44BP:
         position: [6, 11]
-    ARL_44:
+    ARL_V39:
         position: [6, 12]
-    AMX_12t:
+    ARL_44:
         position: [6, 13]
+    AMX_12t:
+        position: [6, 14]
 #<!-- TIER_7 -->
     F69_AMX_13_57GF:
-        position: [7, 10]
-    AMX_AC_Mle1946:
         position: [7, 11]
-    AMX_M4_1945:
+    AMX_AC_Mle1946:
         position: [7, 12]
-    AMX_13_75:
+    AMX_M4_1945:
         position: [7, 13]
+    AMX_13_75:
+        position: [7, 14]
 #<!-- TIER_8 -->
-    F89_Canon_dassaut_105:
+    F117_Alt_Proto_AMX_30:
         position: [8, 1]
-    F68_AMX_Chasseur_de_char_46:
+    F89_Canon_dassaut_105:
         position: [8, 2]
-    F69_AMX_13D:
+    F68_AMX_Chasseur_de_char_46:
         position: [8, 3]
-    F74_AMX_M4_1949:
+    F69_AMX_13D:
         position: [8, 4]
-    F116_Bat_Chat_Bourrasque:
+    F74_AMX_M4_1949:
         position: [8, 5]
-    FCM_50t:
+    F116_Bat_Chat_Bourrasque:
         position: [8, 6]
-    F19_Lorraine40t:
+    FCM_50t:
         position: [8, 7]
-    F19_Lorraine40t_Com:
+    F19_Lorraine40t:
         position: [8, 8]
-    F73_M4A1_Revalorise:
+    F19_Lorraine40t_Com:
         position: [8, 9]
-    F84_Somua_SM:
+    F73_M4A1_Revalorise:
         position: [8, 10]
-    AMX_AC_Mle1948:
+    F84_Somua_SM:
         position: [8, 11]
-    AMX_50_100:
+    AMX_AC_Mle1948:
         position: [8, 12]
-    AMX_13_90:
+    AMX_50_100:
         position: [8, 13]
+    AMX_13_90:
+        position: [8, 14]
 #<!-- TIER_9 -->
     F71_AMX_30_prototype:
-        position: [9, 10]
-    AMX50_Foch:
         position: [9, 11]
-    AMX_50_120:
+    AMX50_Foch:
         position: [9, 12]
-    F75_Char_de_25t:
+    AMX_50_120:
         position: [9, 13]
+    F75_Char_de_25t:
+        position: [9, 14]
 #<!-- TIER_10 -->
     F72_AMX_30:
-        position: [10, 9]
-    F82_AMX_M4_Mle1949_Ter:
         position: [10, 10]
-    AMX_50Fosh_155:
+    F82_AMX_M4_Mle1949_Ter:
         position: [10, 11]
-    AMX_50B:
+    AMX_50Fosh_155:
         position: [10, 12]
-    Bat_Chatillon25t:
+    AMX_50B:
         position: [10, 13]
+    Bat_Chatillon25t:
+        position: [10, 14]

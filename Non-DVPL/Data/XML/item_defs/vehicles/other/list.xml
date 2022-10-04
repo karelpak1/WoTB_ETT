@@ -60,7 +60,7 @@
 		<tags>AT-SPG mediumAT-SPG eventCamouflage_user wetCombatPack_class1_user fictional</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -95,7 +95,7 @@
 		<level>7</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
-			<hellgames>hunter</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -130,7 +130,7 @@
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>berserk</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Oth06_Sega_Lupus>
@@ -234,7 +234,7 @@
 		<tags>heavyTank eventCamouflage_user collectible fictional</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -253,7 +253,7 @@
 		<level>5</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
-			<hellgames>vampire_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -290,7 +290,7 @@
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
-		<tags>mediumTank eventCamouflage_user InGame fictional</tags>
+		<tags>mediumTank eventCamouflage_user fictional</tags>
 		<level>5</level>
 		<configurationModes>development production</configurationModes>
 	</Oth17_BDT-5A>
@@ -308,7 +308,7 @@
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
-		<tags>mediumTank eventCamouflage_user InGame fictional</tags>
+		<tags>mediumTank eventCamouflage_user fictional</tags>
 		<level>6</level>
 		<configurationModes>development production</configurationModes>
 	</Oth18_BDT-5B>
@@ -326,7 +326,7 @@
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
-		<tags>mediumTank eventCamouflage_user InGame fictional</tags>
+		<tags>mediumTank eventCamouflage_user fictional</tags>
 		<level>7</level>
 		<configurationModes>development production</configurationModes>
 	</Oth19_BDT-5C>
@@ -360,7 +360,7 @@
 		<level>7</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>berserk</hellgames>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth22_Sega_Vulcan>
@@ -548,4 +548,40 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Oth33_Blizzard_BP>
+	<Oth35_PanzerMejai>
+		<id>39</id>
+		<userString>#other_vehicles:Oth35_PanzerMejai</userString>
+		<shortUserString>#other_vehicles:Oth35_PanzerMejai_short</shortUserString>
+		<description>#other_vehicles:Oth35_PanzerMejai_descr</description>
+		<price>250<gold/>
+		</price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user collectible fictional</tags>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<level>5</level>
+		<configurationModes>development production</configurationModes>
+	</Oth35_PanzerMejai>
+	<Oth34_PanzerMummy>
+		<id>40</id>
+		<userString>#other_vehicles:Oth34_PanzerMummy</userString>
+		<shortUserString>#other_vehicles:Oth34_PanzerMummy_short</shortUserString>
+		<description>#other_vehicles:Oth34_PanzerMummy_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>berserk</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth34_PanzerMummy>
 </root>

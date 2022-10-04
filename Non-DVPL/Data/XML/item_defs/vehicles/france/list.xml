@@ -295,7 +295,7 @@
 		<level>5</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
@@ -359,7 +359,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
@@ -752,4 +752,22 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Achilles_FR>
+	<F117_Alt_Proto_AMX_30>
+		<id>77</id>
+		<userString>#france_vehicles:F117_Alt_Proto_AMX_30</userString>
+		<shortUserString>#france_vehicles:F117_Alt_Proto_AMX_30_short</shortUserString>
+		<description>#france_vehicles:F117_Alt_Proto_AMX_30_descr</description>
+		<price>7350<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</F117_Alt_Proto_AMX_30>
 </root>

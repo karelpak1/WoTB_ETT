@@ -44,7 +44,7 @@
 		<level>7</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
-			<hellgames>vampire_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -129,7 +129,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
-			<hellgames>vampire_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -208,7 +208,7 @@
 		<notInShop>false</notInShop>
 		<level>6</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>

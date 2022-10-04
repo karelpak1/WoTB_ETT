@@ -94,8 +94,8 @@
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class3_user</tags>
 		<level>5</level>
 		<combatRole>
-			<arcade>dreadnought</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<arcade>revenger</arcade>
+			<hellgames>berserk</hellgames>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB08_Churchill_I>
@@ -198,7 +198,7 @@
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
-			<hellgames>vampire_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -351,7 +351,7 @@
 		<tags>AT-SPG heavyAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class3_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -408,7 +408,7 @@
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
-			<hellgames>hunter</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -428,7 +428,7 @@
 		<level>6</level>
 		<combatRole>
 			<arcade>sniper</arcade>
-			<hellgames>hunter_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -474,7 +474,7 @@
 		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedHorizontal_springs_class3_user</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -491,7 +491,7 @@
 		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_elastic_elements_user</tags>
 		<level>5</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -622,7 +622,7 @@
 		<level>5</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -691,7 +691,7 @@
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class3_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
@@ -835,7 +835,7 @@
 		<level>10</level>
 		<combatRole>
 			<arcade>devastator</arcade>
-			<hellgames>hunter</hellgames>
+			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1123,4 +1123,23 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</GB_Churchill_MkVIII>
+	<GB09_Churchill_VII_BP>
+		<id>87</id>
+		<userString>#uk_vehicles:GB09_Churchill_VII_BP</userString>
+		<shortUserString>#uk_vehicles:GB09_Churchill_VII_BP_short</shortUserString>
+		<description>#uk_vehicles:GB09_Churchill_VII_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user collectible fictional</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>hunter_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB09_Churchill_VII_BP>
 </root>
