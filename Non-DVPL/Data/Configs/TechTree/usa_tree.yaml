@@ -58,8 +58,10 @@ tanks:
         position: [5, 20]
 #<!-- TIER_6 -->
     M18E2BP:    
-        position: [6, 7]
+        position: [6, 6]
     M36_BP:    
+        position: [6, 7]
+    M24_Chaffee_BP:    
         position: [6, 8]
     A104_M4A3E8A:
         position: [6, 9]

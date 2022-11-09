@@ -635,11 +635,9 @@
 		<userString>#european_vehicles:It21_Controcarro3_Minotauro</userString>
 		<shortUserString>#european_vehicles:It21_Controcarro3_Minotauro_short</shortUserString>
 		<description>#european_vehicles:It21_Controcarro3_Minotauro_descr</description>
-		<price>15000<gold/>
-		</price>
+		<price>6500000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG InGame noRating</tags>
+		<tags>AT-SPG heavyAT-SPG</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -648,6 +646,86 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</It21_Controcarro3_Minotauro>
+	<It19_Controcarro_1MK2_Ciclope>
+		<id>41</id>
+		<userString>#european_vehicles:It19_Controcarro_1MK2_Ciclope</userString>
+		<shortUserString>#european_vehicles:It19_Controcarro_1MK2_Ciclope_short</shortUserString>
+		<description>#european_vehicles:It19_Controcarro_1MK2_Ciclope_descr</description>
+		<price>3480000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<level>9</level>
+		<configurationModes>development production</configurationModes>
+	</It19_Controcarro_1MK2_Ciclope>
+	<It18_Semovente_mod_64>
+		<id>42</id>
+		<userString>#european_vehicles:It18_Semovente_mod_64</userString>
+		<shortUserString>#european_vehicles:It18_Semovente_mod_64_short</shortUserString>
+		<description>#european_vehicles:It18_Semovente_mod_64_descr</description>
+		<price>2410000</price>
+		<enrichmentPermanentCost>12700</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<level>8</level>
+		<configurationModes>development production</configurationModes>
+	</It18_Semovente_mod_64>
+	<It17_Semovente_mod_56>
+		<id>43</id>
+		<userString>#european_vehicles:It17_Semovente_mod_56</userString>
+		<shortUserString>#european_vehicles:It17_Semovente_mod_56_short</shortUserString>
+		<description>#european_vehicles:It17_Semovente_mod_56_descr</description>
+		<price>1420000</price>
+		<enrichmentPermanentCost>10400</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<level>7</level>
+		<configurationModes>development production</configurationModes>
+	</It17_Semovente_mod_56>
+	<It16_Bassoto>
+		<id>44</id>
+		<userString>#european_vehicles:It16_Bassoto</userString>
+		<shortUserString>#european_vehicles:It16_Bassoto_short</shortUserString>
+		<description>#european_vehicles:It16_Bassoto_descr</description>
+		<price>920000</price>
+		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<level>6</level>
+		<configurationModes>development production</configurationModes>
+	</It16_Bassoto>
+	<It15_Semovente_M41>
+		<id>45</id>
+		<userString>#european_vehicles:It15_Semovente_M41</userString>
+		<shortUserString>#european_vehicles:It15_Semovente_M41_short</shortUserString>
+		<description>#european_vehicles:It15_Semovente_M41_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3400</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<level>5</level>
+		<configurationModes>development production</configurationModes>
+	</It15_Semovente_M41>
 	<It10_P43_bis_BP>
 		<id>46</id>
 		<userString>#european_vehicles:It10_P43_bis_BP</userString>
@@ -687,4 +765,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</S31_Strv_K>
+	<It22_Progetto_C45_mod_71>
+		<id>48</id>
+		<userString>#european_vehicles:It22_Progetto_C45_mod_71</userString>
+		<shortUserString>#european_vehicles:It22_Progetto_C45_mod_71_short</shortUserString>
+		<description>#european_vehicles:It22_Progetto_C45_mod_71_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>vampire_2</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</It22_Progetto_C45_mod_71>
 </root>

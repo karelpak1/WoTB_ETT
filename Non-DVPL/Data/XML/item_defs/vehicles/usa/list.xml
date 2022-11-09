@@ -1252,7 +1252,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank collectible noRandom noRating noNanomaps noTournaments eventCamouflage_user</tags>
+		<tags>lightTank collectible noRandom noRating noNanomaps noTournamentsNanomaps noTournamentsRandom eventCamouflage_user</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1547,11 +1547,11 @@
 		<userString>#usa_vehicles:A140_ASTRON_REX_105</userString>
 		<shortUserString>#usa_vehicles:A140_ASTRON_REX_105_short</shortUserString>
 		<description>#usa_vehicles:A140_ASTRON_REX_105_descr</description>
-		<price>1<gold/> 
+		<price>7500<gold/> 
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame noRating</tags>
+		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1560,4 +1560,24 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</A140_ASTRON_REX_105>
+	<M24_Chaffee_BP>
+		<id>105</id>
+		<userString>#usa_vehicles:M24_Chaffee_BP</userString>
+		<shortUserString>#usa_vehicles:M24_Chaffee_BP_short</shortUserString>
+		<description>#usa_vehicles:M24_Chaffee_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</M24_Chaffee_BP>
 </root>

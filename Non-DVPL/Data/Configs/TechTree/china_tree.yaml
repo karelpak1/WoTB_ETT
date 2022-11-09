@@ -64,6 +64,8 @@ tanks:
     Ch11_110:
         position: [8, 11]
 #<!-- TIER_9 -->
+    Ch45_WZ_114:
+        position: [9, 8]
     Ch37_WZ-111G_FT:
         position: [9, 9]
     Ch18_WZ-120:
@@ -72,8 +74,10 @@ tanks:
         position: [9, 11]
 #<!-- TIER_10 -->
     Ch25_121_mod_1971B:
-        position: [10, 7]
+        position: [10, 6]
     Ch41_WZ_111_5A:
+        position: [10, 7]
+    Ch29_Type_62C_prot:
         position: [10, 8]
     CH38_WZ113G-FT:
         position: [10, 9]

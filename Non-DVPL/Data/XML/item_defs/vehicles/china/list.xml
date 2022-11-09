@@ -549,4 +549,43 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch43_WZ-122_2>
+	<Ch45_WZ_114>
+		<id>38</id>
+		<userString>#china_vehicles:Ch45_WZ_114</userString>
+		<shortUserString>#china_vehicles:Ch45_WZ_114_short</shortUserString>
+		<description>#china_vehicles:Ch45_WZ_114_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<level>9</level>
+		<configurationModes>production development</configurationModes>
+	</Ch45_WZ_114>
+	<Ch29_Type_62C_prot>
+		<id>40</id>
+		<userString>#china_vehicles:Ch29_Type_62C_prot</userString>
+		<shortUserString>#china_vehicles:Ch29_Type_62C_prot_short</shortUserString>
+		<description>#china_vehicles:Ch29_Type_62C_prot_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>20<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible InGame</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch29_Type_62C_prot>
 </root>

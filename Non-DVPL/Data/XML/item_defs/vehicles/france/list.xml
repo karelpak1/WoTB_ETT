@@ -752,6 +752,19 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Achilles_FR>
+	<Bat-Chat-25CL>
+		<id>76</id>
+		<userString>#france_vehicles:Bat-Chat-25CL</userString>
+		<shortUserString>#france_vehicles:Bat-Chat-25CL_short</shortUserString>
+		<description>#france_vehicles:Bat-Chat-25CL_descr</description>
+		<price>500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank</tags>
+		<level>9</level>
+		<configurationModes>development production</configurationModes>
+	</Bat-Chat-25CL>
 	<F117_Alt_Proto_AMX_30>
 		<id>77</id>
 		<userString>#france_vehicles:F117_Alt_Proto_AMX_30</userString>
