@@ -1551,4 +1551,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R175_IS_2E>
+	<R119_Object_777>
+		<id>101</id>
+		<userString>#ussr_vehicles:R119_Object_777</userString>
+		<shortUserString>#ussr_vehicles:R119_Object_777_short</shortUserString>
+		<description>#ussr_vehicles:R119_Object_777_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame</tags>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+		</combatRole>
+		<level>10</level>
+		<configurationModes>development production</configurationModes>
+	</R119_Object_777>
 </root>

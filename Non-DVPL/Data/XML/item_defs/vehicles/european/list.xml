@@ -757,7 +757,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -782,4 +782,21 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</It22_Progetto_C45_mod_71>
+	<S32_Bofors_Tornvagn>
+		<id>49</id>
+		<userString>#european_vehicles:S32_Bofors_Tornvagn</userString>
+		<shortUserString>#european_vehicles:S32_Bofors_Tornvagn_short</shortUserString>
+		<description>#european_vehicles:S32_Bofors_Tornvagn_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</S32_Bofors_Tornvagn>
 </root>
