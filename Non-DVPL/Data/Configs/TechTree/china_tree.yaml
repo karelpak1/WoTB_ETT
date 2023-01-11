@@ -20,10 +20,12 @@ tanks:
         position: [5, 10]
 #<!-- TIER_6 -->
     Type_58BP:
-        position: [6, 6]
+        position: [6, 5]
     Type_58TU:
-        position: [6, 7]
+        position: [6, 6]
     Ch24_Type64:
+        position: [6, 7]
+    Ch15_59_16_BP:
         position: [6, 8]
     Ch34_WZ-131G_FT:
         position: [6, 9]

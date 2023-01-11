@@ -1600,4 +1600,40 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</M6E2V2_BP>
+	<A146_TL_7_120>
+		<id>107</id>
+		<userString>#usa_vehicles:A146_TL_7_120</userString>
+		<shortUserString>#usa_vehicles:A146_TL_7_120_short</shortUserString>
+		<description>#usa_vehicles:A146_TL_7_120_descr</description>
+		<price>10000</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A146_TL_7_120>
+	<A142_Pawlack_Tank>
+		<id>108</id>
+		<userString>#usa_vehicles:A142_Pawlack_Tank</userString>
+		<shortUserString>#usa_vehicles:A142_Pawlack_Tank_short</shortUserString>
+		<description>#usa_vehicles:A142_Pawlack_Tank_descr</description>
+		<price>2500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A142_Pawlack_Tank>
 </root>

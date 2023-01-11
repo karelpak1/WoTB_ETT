@@ -774,11 +774,11 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>close_assault</arcade>
-			<hellgames>vampire_2</hellgames>
+			<arcade>halfheavy</arcade>
+			<hellgames>werewolf_2</hellgames>
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</It22_Progetto_C45_mod_71>

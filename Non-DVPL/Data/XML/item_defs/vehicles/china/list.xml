@@ -560,7 +560,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<combatRole>
 			<arcade>dreadnought</arcade>
 			<hellgames>werewolf</hellgames>
@@ -588,4 +588,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch29_Type_62C_prot>
+	<Ch15_59_16_BP>
+		<id>41</id>
+		<userString>#china_vehicles:Ch15_59_16_BP</userString>
+		<shortUserString>#china_vehicles:Ch15_59_16_BP_short</shortUserString>
+		<description>#china_vehicles:Ch15_59_16_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch15_59_16_BP>
 </root>
