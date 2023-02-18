@@ -1672,4 +1672,21 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Waffentrager_IV_CL>
+	<G140_HWK_30>
+		<id>100</id>
+		<userString>#germany_vehicles:G140_HWK_30</userString>
+		<shortUserString>#germany_vehicles:G140_HWK_30_short</shortUserString>
+		<description>#germany_vehicles:G140_HWK_30_descr</description>
+		<price>7000<gold/> </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank InGame</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</G140_HWK_30>
 </root>

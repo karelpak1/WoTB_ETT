@@ -1562,7 +1562,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame</tags>
+		<tags>heavyTank collectible</tags>
 		<combatRole>
 			<arcade>devastator</arcade>
 			<hellgames>hunter</hellgames>

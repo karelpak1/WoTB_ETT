@@ -761,7 +761,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank</tags>
+		<tags>lightTank InGame noRating</tags>
 		<level>9</level>
 		<configurationModes>development production</configurationModes>
 	</Bat-Chat-25CL>
@@ -783,4 +783,22 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</F117_Alt_Proto_AMX_30>
+	<F114_Projet_4_1>
+		<id>78</id>
+		<userString>#france_vehicles:F114_Projet_4_1</userString>
+		<shortUserString>#france_vehicles:F114_Projet_4_1_short</shortUserString>
+		<description>#france_vehicles:F114_Projet_4_1_descr</description>
+		<price>2500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</F114_Projet_4_1>
 </root>

@@ -138,6 +138,21 @@
 		<level>4</level>
 		<configurationModes>development production</configurationModes>
 	</Ch09_M5>
+	<Ch16_WZ_131>
+		<id>13</id>
+		<userString>#china_vehicles:Ch16_WZ_131</userString>
+		<description>#china_vehicles:Ch16_WZ_131_descr</description>
+		<price>1420000</price>
+		<enrichmentPermanentCost>10600</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<level>7</level>
+		<configurationModes>development production</configurationModes>
+	</Ch16_WZ_131>
 	<Ch10_IS2>
 		<id>14</id>
 		<userString>#china_vehicles:Ch10_IS2</userString>
@@ -152,6 +167,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch10_IS2>
+	<Ch17_WZ131_1_WZ132>
+		<id>15</id>
+		<userString>#china_vehicles:Ch17_WZ131_1_WZ132</userString>
+		<description>#china_vehicles:Ch17_WZ131_1_WZ132_descr</description>
+		<price>2410000</price>
+		<enrichmentPermanentCost>13600</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<level>8</level>
+		<configurationModes>development production</configurationModes>
+	</Ch17_WZ131_1_WZ132>
 	<Ch19_121>
 		<id>16</id>
 		<userString>#china_vehicles:Ch19_121</userString>
@@ -193,6 +223,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch21_T34>
+	<Ch15_59_16>
+		<id>19</id>
+		<userString>#china_vehicles:Ch15_59_16</userString>
+		<description>#china_vehicles:Ch15_59_16_descr</description>
+		<price>920000</price>
+		<enrichmentPermanentCost>5200</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch15_59_16>
 	<Ch20_Type58>
 		<id>20</id>
 		<userString>#china_vehicles:Ch20_Type58</userString>
@@ -568,21 +613,33 @@
 		<level>9</level>
 		<configurationModes>production development</configurationModes>
 	</Ch45_WZ_114>
+	<Ch28_WZ_132A>
+		<id>39</id>
+		<userString>#china_vehicles:Ch28_WZ_132A</userString>
+		<shortUserString>#china_vehicles:Ch28_WZ_132A_short</shortUserString>
+		<description>#china_vehicles:Ch28_WZ_132A_descr</description>
+		<price>3480000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch28_WZ_132A>
 	<Ch29_Type_62C_prot>
 		<id>40</id>
 		<userString>#china_vehicles:Ch29_Type_62C_prot</userString>
 		<shortUserString>#china_vehicles:Ch29_Type_62C_prot_short</shortUserString>
 		<description>#china_vehicles:Ch29_Type_62C_prot_descr</description>
-		<price>500<gold/>
-		</price>
-		<sellPrice>20<gold/>
-		</sellPrice>
+		<price>6300000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>lightTank collectible InGame</tags>
+		<tags>lightTank</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>scout</arcade>
+			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 		</combatRole>
@@ -608,4 +665,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch15_59_16_BP>
+	<Ch34_WZ-131G_FT_BP>
+		<id>42</id>
+		<userString>#china_vehicles:Ch34_WZ-131G_FT_BP</userString>
+		<shortUserString>#china_vehicles:Ch34_WZ-131G_FT_BP_short</shortUserString>
+		<description>#china_vehicles:Ch34_WZ-131G_FT_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch34_WZ-131G_FT_BP>
 </root>
