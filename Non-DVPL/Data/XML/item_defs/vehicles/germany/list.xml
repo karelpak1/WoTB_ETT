@@ -1689,4 +1689,24 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</G140_HWK_30>
+	<Nashorn_BP>
+		<id>102</id>
+		<userString>#germany_vehicles:Nashorn_BP</userString>
+		<shortUserString>#germany_vehicles:Nashorn_BP_short</shortUserString>
+		<description>#germany_vehicles:Nashorn_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Nashorn_BP>
 </root>

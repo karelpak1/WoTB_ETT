@@ -1610,12 +1610,11 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>vampire</hellgames>
-			<lunar>moon_rover</lunar>
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</A146_TL_7_120>
@@ -1628,7 +1627,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1636,4 +1635,39 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</A142_Pawlack_Tank>
+	<T49_Fearless>
+		<id>109</id>
+		<userString>#usa_vehicles:T49_Fearless</userString>
+		<shortUserString>#usa_vehicles:T49_Fearless_short</shortUserString>
+		<description>#usa_vehicles:T49_Fearless_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</T49_Fearless>
+	<A136_T42>
+		<id>111</id>
+		<userString>#usa_vehicles:A136_T42</userString>
+		<shortUserString>#usa_vehicles:A136_T42_short</shortUserString>
+		<description>#usa_vehicles:A136_T42_descr</description>
+		<price>5000<gold/> </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A136_T42>
 </root>

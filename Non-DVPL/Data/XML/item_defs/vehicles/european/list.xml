@@ -799,4 +799,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</S32_Bofors_Tornvagn>
+	<Cz17_Vz_55>
+		<id>51</id>
+		<userString>#european_vehicles:Cz17_Vz_55</userString>
+		<shortUserString>#european_vehicles:Cz17_Vz_55_short</shortUserString>
+		<description>#european_vehicles:Cz17_Vz_55_descr</description>
+		<price>100<gold/>
+		</price>
+		<sellPrice>50<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Cz17_Vz_55>
 </root>

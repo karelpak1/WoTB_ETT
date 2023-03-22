@@ -166,6 +166,8 @@ tanks:
         position: [8, 22]
 #<!-- TIER_9 -->
     K-91:
+        position: [9, 13]
+    R181_Object_452K:
         position: [9, 14]
     R172_Object_752:
         position: [9, 15]

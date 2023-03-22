@@ -1570,4 +1570,24 @@
 		<level>10</level>
 		<configurationModes>development production</configurationModes>
 	</R119_Object_777>
+	<R181_Object_452K>
+		<id>102</id>
+		<userString>#ussr_vehicles:R181_Object_452K</userString>
+		<shortUserString>#ussr_vehicles:R181_Object_452K_short</shortUserString>
+		<description>#ussr_vehicles:R181_Object_452K_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R181_Object_452K>
 </root>
