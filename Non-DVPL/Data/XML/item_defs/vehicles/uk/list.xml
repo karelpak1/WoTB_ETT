@@ -1142,4 +1142,38 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB09_Churchill_VII_BP>
+	<GB11_Caernarvon_D>
+		<id>88</id>
+		<userString>#uk_vehicles:GB11_Caernarvon_D</userString>
+		<shortUserString>#uk_vehicles:GB11_Caernarvon_D_short</shortUserString>
+		<description>#uk_vehicles:GB11_Caernarvon_D_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB11_Caernarvon_D>
+	<GB111_Charlemagne>
+		<id>89</id>
+		<userString>#uk_vehicles:GB111_Charlemagne</userString>
+		<shortUserString>#uk_vehicles:GB111_Charlemagne_short</shortUserString>
+		<description>#uk_vehicles:GB111_Charlemagne_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB111_Charlemagne>
 </root>

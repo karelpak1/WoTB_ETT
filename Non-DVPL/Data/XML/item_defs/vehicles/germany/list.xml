@@ -1680,7 +1680,7 @@
 		<price>7000<gold/> </price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame</tags>
+		<tags>lightTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>scout</arcade>

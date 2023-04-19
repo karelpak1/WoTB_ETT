@@ -788,11 +788,13 @@
 		<userString>#france_vehicles:F114_Projet_4_1</userString>
 		<shortUserString>#france_vehicles:F114_Projet_4_1_short</shortUserString>
 		<description>#france_vehicles:F114_Projet_4_1_descr</description>
-		<price>2500<gold/>
+		<price>10000<gold/>
 		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame noRating</tags>
+		<tags>mediumTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>sniper</arcade>
@@ -801,4 +803,24 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</F114_Projet_4_1>
+	<F34_ARL_V39_BP>
+		<id>79</id>
+		<userString>#france_vehicles:F34_ARL_V39_BP</userString>
+		<shortUserString>#france_vehicles:F34_ARL_V39_BP_short</shortUserString>
+		<description>#france_vehicles:F34_ARL_V39_BP_descr</description>
+        <price>500<gold/>
+        </price>
+        <sellPrice>500<gold/>
+        </sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F34_ARL_V39_BP>
 </root>

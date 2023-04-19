@@ -1653,6 +1653,24 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</T49_Fearless>
+	<A151_TS_60>
+		<id>110</id>
+		<userString>#usa_vehicles:A151_TS_60</userString>
+		<shortUserString>#usa_vehicles:A151_TS_60_short</shortUserString>
+		<description>#usa_vehicles:A151_TS_60_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A151_TS_60>
 	<A136_T42>
 		<id>111</id>
 		<userString>#usa_vehicles:A136_T42</userString>

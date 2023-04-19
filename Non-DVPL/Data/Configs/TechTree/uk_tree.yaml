@@ -96,10 +96,14 @@ tanks:
         position: [7, 15]
 #<!-- TIER_8 -->
     GB93_Caernarvon_AX:
-        position: [8, 3]
+        position: [8, 1]
+    GB11_Caernarvon_D:
+        position: [8, 2]
     GB112_Caliban:
-        position: [8, 4]
+        position: [8, 3]
     GB94_Centurion_Mk5-1_RAAC:
+        position: [8, 4]
+    GB111_Charlemagne:
         position: [8, 5]
     GB87_Chieftain_T95_turret:
         position: [8, 6]
