@@ -476,4 +476,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J24_Type_57>
+	<J29_Ju_Nu_BP>
+		<id>28</id>
+		<userString>#japan_vehicles:J29_Ju_Nu_BP</userString>
+		<shortUserString>#japan_vehicles:J29_Ju_Nu_BP_short</shortUserString>
+		<description>#japan_vehicles:J29_Ju_Nu_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J29_Ju_Nu_BP>
 </root>

@@ -799,18 +799,30 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</S32_Bofors_Tornvagn>
+	<Cz16_TNH_T_vz51>
+		<id>50</id>
+		<userString>#european_vehicles:Cz16_TNH_T_vz51</userString>
+		<shortUserString>#european_vehicles:Cz16_TNH_T_vz51_short</shortUserString>
+		<description>#european_vehicles:Cz16_TNH_T_vz51_descr</description>
+		<price>3570000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz16_TNH_T_vz51>
 	<Cz17_Vz_55>
 		<id>51</id>
 		<userString>#european_vehicles:Cz17_Vz_55</userString>
 		<shortUserString>#european_vehicles:Cz17_Vz_55_short</shortUserString>
 		<description>#european_vehicles:Cz17_Vz_55_descr</description>
-		<price>100<gold/>
-		</price>
-		<sellPrice>50<gold/>
-		</sellPrice>
+		<price>6500000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>revenger</arcade>
@@ -819,4 +831,87 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Cz17_Vz_55>
+	<Cz08_T-25BPS>
+		<id>52</id>
+		<userString>#european_vehicles:Cz08_T-25BPS</userString>
+		<shortUserString>#european_vehicles:Cz08_T-25BPS_short</shortUserString>
+		<description>#european_vehicles:Cz08_T-25BPS_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz08_T-25BPS>
+	<Cz18_TNH_105_1000>
+		<id>53</id>
+		<userString>#european_vehicles:Cz18_TNH_105_1000</userString>
+		<shortUserString>#european_vehicles:Cz18_TNH_105_1000_short</shortUserString>
+		<description>#european_vehicles:Cz18_TNH_105_1000_descr</description>
+		<price>2580000</price>
+		<enrichmentPermanentCost>12700</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz18_TNH_105_1000>
+	<Cz19_Vz_44_1>
+		<id>54</id>
+		<userString>#european_vehicles:Cz19_Vz_44_1</userString>
+		<shortUserString>#european_vehicles:Cz19_Vz_44_1_short</shortUserString>
+		<description>#european_vehicles:Cz19_Vz_44_1_descr</description>
+		<price>1490000</price>
+		<enrichmentPermanentCost>10400</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz19_Vz_44_1>
+	<Cz29_Skoda_P-JS>
+		<id>55</id>
+		<userString>#european_vehicles:Cz29_Skoda_P-JS</userString>
+		<shortUserString>#european_vehicles:Cz29_Skoda_P-JS_short</shortUserString>
+		<description>#european_vehicles:Cz29_Skoda_P-JS_descr</description>
+		<price>900000</price>
+		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz29_Skoda_P-JS>
+	<S23_Strv_81>
+		<id>57</id>
+		<userString>#european_vehicles:S23_Strv_81</userString>
+		<shortUserString>#european_vehicles:S23_Strv_81_short</shortUserString>
+		<description>#european_vehicles:S23_Strv_81_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</S23_Strv_81>
 </root>

@@ -1176,4 +1176,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB111_Charlemagne>
+	<GB106_Cobra>
+		<id>90</id>
+		<userString>#uk_vehicles:GB106_Cobra</userString>
+		<shortUserString>#uk_vehicles:GB106_Cobra_short</shortUserString>
+		<description>#uk_vehicles:GB106_Cobra_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB106_Cobra>
 </root>

@@ -58,14 +58,14 @@
 "ussr:KV2": ['other:Oth31_T150BP']
 #<!-- TIER_7 -->
 #Medium
-"european:S13_Leo": ['other:AMX_dracula','other:Sega_Edelweiss']
+"european:S13_Leo": ['other:AMX_dracula','other:Oth36_Indien_Panzer_S1']
 "european:It09_P43_ter": ['other:Oth12_Sega_Hafen','other:Oth19_BDT-5C']
 "european:Cz05_T34-100": ['other:Oth20_M4FL10','other:Oth19_BDT-5C']
 "germany:PzV": ['other:AMX_dracula','other:Sega_Edelweiss']
-"germany:VK3002DB": ['other:Oth12_Sega_Hafen','other:Oth20_M4FL10']
+"germany:VK3002DB": ['other:Oth36_Indien_Panzer_S1','other:Oth20_M4FL10']
 "china:Ch04_T34_1": ['other:AMX_dracula','other:Sega_Edelweiss']
 "japan:Chi_Ri": ['other:Oth12_Sega_Hafen','other:Oth19_BDT-5C']
-"uk:GB22_Comet": ['other:Oth20_M4FL10','other:Oth19_BDT-5C']
+"uk:GB22_Comet": ['other:Oth20_M4FL10','other:Oth36_Indien_Panzer_S1']
 "usa:T20": ['other:Oth12_Sega_Hafen','other:Oth20_M4FL10']
 "ussr:T-43": ['other:AMX_dracula','other:Sega_Edelweiss']
 #Heavy
@@ -94,15 +94,15 @@
 "ussr:SU100M1": ['other:Oth08_WH_Vindicator','other:WZ-135G_FT']
 #<!-- TIER_8 -->
 #Medium
-"european:It14_P44_Pantera": ['other:Akawara','other:Oth30_T54MS']
+"european:It14_P44_Pantera": ['other:Akawara', 'other:Oth37_T26_E4_SuperPershing_S1']
 "european:Cz07_TVP_46": ['other:Akawara','other:Oth30_T54MS']
-"germany:Panther_II": ['other:Akawara','other:Oth30_T54MS']
-"germany:Indien_Panzer": ['other:Akawara','other:Oth30_T54MS']
+"germany:Panther_II": ['other:Oth37_T26_E4_SuperPershing_S1','other:Oth30_T54MS']
+"germany:Indien_Panzer": ['other:Akawara', 'other:Oth37_T26_E4_SuperPershing_S1']
 "china:Ch05_T34_2": ['other:Akawara','other:Oth30_T54MS']
-"japan:STA_1": ['other:Akawara','other:Oth30_T54MS']
-"uk:GB23_Centurion": ['other:Akawara','other:Oth30_T54MS']
+"japan:STA_1": ['other:Oth37_T26_E4_SuperPershing_S1','other:Oth30_T54MS']
+"uk:GB23_Centurion": ['other:Akawara', 'other:Oth37_T26_E4_SuperPershing_S1']
 "usa:Pershing": ['other:Akawara','other:Oth30_T54MS']
-"usa:T69": ['other:Akawara','other:Oth30_T54MS']
+"usa:T69": ['other:Oth37_T26_E4_SuperPershing_S1','other:Oth30_T54MS']
 "ussr:T-44": ['other:Akawara','other:Oth30_T54MS']
 #<!-- TIER_9 -->
 #Medium
@@ -116,3 +116,18 @@
 "usa:M46_Patton": ['other:Oth11_T-55A']
 "usa:T54E1": ['other:Oth11_T-55A']
 "ussr:T-54": ['other:Oth11_T-55A']
+#Heavy
+"european:S17_EMIL_1952E2": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"european:Pl05_50TP_Tyszkiewicza": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"european:Cz16_TNH_T_vz51": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"france:AMX_50_120": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"germany:VK4502P": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"germany:E-75": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"germany:G110_Mauschen": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"china:Ch12_111_1_2_3": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"japan:J26_Type_68": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"uk:GB12_Conqueror": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"usa:M103": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"usa:M-5-Y": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"ussr:ST_I": ['other:Oth38_50TP_Tyszkiewicza_S1']
+"ussr:IS8": ['other:Oth38_50TP_Tyszkiewicza_S1']

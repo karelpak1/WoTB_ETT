@@ -685,4 +685,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch34_WZ-131G_FT_BP>
+	<Ch44_114_SP2>
+		<id>43</id>
+		<userString>#china_vehicles:Ch44_114_SP2</userString>
+		<shortUserString>#china_vehicles:Ch44_114_SP2_short</shortUserString>
+		<description>#china_vehicles:Ch44_114_SP2_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch44_114_SP2>
 </root>

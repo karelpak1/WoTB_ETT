@@ -808,10 +808,10 @@
 		<userString>#france_vehicles:F34_ARL_V39_BP</userString>
 		<shortUserString>#france_vehicles:F34_ARL_V39_BP_short</shortUserString>
 		<description>#france_vehicles:F34_ARL_V39_BP_descr</description>
-        <price>500<gold/>
+		<price>500<gold/>
         </price>
-        <sellPrice>500<gold/>
-        </sellPrice>
+		<sellPrice>500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
@@ -823,4 +823,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F34_ARL_V39_BP>
+	<F11_Renault_G1R>
+		<id>80</id>
+		<userString>#france_vehicles:F11_Renault_G1R</userString>
+		<shortUserString>#france_vehicles:F11_Renault_G1R_short</shortUserString>
+		<description>#france_vehicles:F11_Renault_G1R_descr</description>
+		<price>250<gold/>
+		</price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F11_Renault_G1R>
 </root>

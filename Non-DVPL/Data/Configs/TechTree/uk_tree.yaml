@@ -126,6 +126,8 @@ tanks:
     GB11_Caernarvon:
         position: [8, 15]
 #<!-- TIER_9 -->
+    GB106_Cobra:
+        position: [9, 10]
     GB32_Tortoise:
         position: [9, 11]
     GB81_FV4004:

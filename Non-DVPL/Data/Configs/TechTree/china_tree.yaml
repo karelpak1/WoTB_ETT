@@ -85,6 +85,8 @@ tanks:
     Ch28_WZ_132A:
         position: [9, 12]
 #<!-- TIER_10 -->
+    Ch44_114_SP2:
+        position: [10, 6]
     Ch25_121_mod_1971B:
         position: [10, 7]
     Ch41_WZ_111_5A:

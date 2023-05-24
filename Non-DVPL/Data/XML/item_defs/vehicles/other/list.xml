@@ -584,4 +584,63 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth34_PanzerMummy>
+	<Oth36_Indien_Panzer_S1>
+		<id>41</id>
+		<userString>#other_vehicles:Oth36_Indien_Panzer_S1</userString>
+		<shortUserString>#other_vehicles:Oth36_Indien_Panzer_S1_short</shortUserString>
+		<description>#other_vehicles:Oth36_Indien_Panzer_S1_descr</description>
+		<notInShop>false</notInShop>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth36_Indien_Panzer_S1>
+	<Oth37_T26_E4_SuperPershing_S1>
+		<id>42</id>
+		<userString>#other_vehicles:Oth37_T26_E4_SuperPershing_S1</userString>
+		<shortUserString>#other_vehicles:Oth37_T26_E4_SuperPershing_S1_short</shortUserString>
+		<description>#other_vehicles:Oth37_T26_E4_SuperPershing_S1_descr</description>
+		<notInShop>false</notInShop>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>1000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth37_T26_E4_SuperPershing_S1>
+	<Oth38_50TP_Tyszkiewicza_S1>
+		<id>43</id>
+		<userString>#other_vehicles:Oth38_50TP_Tyszkiewicza_S1</userString>
+		<shortUserString>#other_vehicles:Oth38_50TP_Tyszkiewicza_S1_short</shortUserString>
+		<description>#other_vehicles:Oth38_50TP_Tyszkiewicza_S1_descr</description>
+		<notInShop>false</notInShop>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>1500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth38_50TP_Tyszkiewicza_S1>
 </root>

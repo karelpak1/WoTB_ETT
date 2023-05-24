@@ -28,6 +28,8 @@ tanks:
     B1:
         position: [4, 13]
 #<!-- TIER_5 -->
+    F11_Renault_G1R:
+        position: [5, 11]
     S_35CA:
         position: [5, 12]
     BDR_G1B:

@@ -1676,10 +1676,11 @@
 		<userString>#usa_vehicles:A136_T42</userString>
 		<shortUserString>#usa_vehicles:A136_T42_short</shortUserString>
 		<description>#usa_vehicles:A136_T42_descr</description>
-		<price>5000<gold/> </price>
+		<price>5000<gold/> 
+		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame</tags>
+		<tags>mediumTank</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
