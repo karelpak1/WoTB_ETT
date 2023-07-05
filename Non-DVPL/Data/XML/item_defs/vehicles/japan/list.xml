@@ -46,6 +46,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Chi_Ri>
@@ -62,6 +63,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Chi_Nu>
@@ -89,6 +91,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Chi_To>
@@ -131,6 +134,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</STA_1>
@@ -162,6 +166,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Type_61>
@@ -178,6 +183,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</ST_B1>
@@ -210,6 +216,7 @@
 		<combatRole>
 			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</PzVI_GuP>
@@ -230,6 +237,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Pz_IV_AusfH>
@@ -248,6 +256,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</Chi_Nu_Kai>
@@ -279,6 +288,7 @@
 			<arcade>devastator</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J20_Ho_Ri_type3>
@@ -295,6 +305,7 @@
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J21_Ho_Ri>
@@ -314,6 +325,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</IS-2_GuP>
@@ -334,6 +346,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Firefly_GuP>
@@ -350,6 +363,7 @@
 			<arcade>close_support</arcade>
 			<hellgames>werewolf_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J22_Ho_Ri_type96>
@@ -366,6 +380,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J23_Chi_To_SPG>
@@ -381,6 +396,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J30_Mitsu_108>
@@ -396,6 +412,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J29_Ju_Nu>
@@ -411,6 +428,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J28_Ju_To>
@@ -426,6 +444,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J27_Chi_Se>
@@ -441,6 +460,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J26_Type_68>
@@ -456,6 +476,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J25_Type71>
@@ -473,6 +494,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J24_Type_57>
@@ -492,6 +514,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J29_Ju_Nu_BP>

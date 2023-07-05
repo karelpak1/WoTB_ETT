@@ -50,6 +50,7 @@
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB21_Cromwell>
@@ -66,6 +67,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB20_Crusader>
@@ -96,6 +98,7 @@
 		<combatRole>
 			<arcade>revenger</arcade>
 			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB08_Churchill_I>
@@ -111,6 +114,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB10_Black_Prince>
@@ -126,6 +130,7 @@
 		<combatRole>
 			<arcade>scout</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB11_Caernarvon>
@@ -140,6 +145,7 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB12_Conqueror>
@@ -154,6 +160,7 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB09_Churchill_VII>
@@ -200,6 +207,7 @@
 			<arcade>scout</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB22_Comet>
@@ -216,6 +224,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB24_Centurion_Mk3>
@@ -232,6 +241,7 @@
 			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB23_Centurion>
@@ -246,6 +256,7 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB13_FV215b>
@@ -288,6 +299,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB70_FV4202_105>
@@ -354,6 +366,7 @@
 			<arcade>revenger</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB72_AT15>
@@ -369,6 +382,7 @@
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB73_AT2>
@@ -395,6 +409,7 @@
 			<arcade>close_assault</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB48_FV215b_183>
@@ -410,6 +425,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB74_AT8>
@@ -430,6 +446,7 @@
 			<arcade>sniper</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB40_Gun_Carrier_Churchill>
@@ -445,6 +462,7 @@
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB75_AT7>
@@ -462,6 +480,7 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</GB87_Chieftain_T95_turret>
@@ -477,6 +496,7 @@
 			<arcade>revenger</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB32_Tortoise>
@@ -494,6 +514,7 @@
 			<arcade>revenger</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB68_Matilda_Black_Prince>
@@ -510,6 +531,7 @@
 		<combatRole>
 			<arcade>dreadnought</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB63_TOG_II>
@@ -527,6 +549,7 @@
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB71_AT_15A>
@@ -542,6 +565,7 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB51_Excelsior>
@@ -575,6 +599,7 @@
 			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB85_Cromwell_Berlin>
@@ -606,6 +631,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB35_Sentinel_AC_IV>
@@ -624,6 +650,7 @@
 			<arcade>long_support</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</GB44_Archer_Custom>
@@ -676,6 +703,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</GB19_Sherman_Firefly>
@@ -693,6 +721,7 @@
 		<combatRole>
 			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</GB_Churchill_MkVI>
@@ -713,6 +742,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production supertest</configurationModes>
 	</GB_Sherman_V>
@@ -730,6 +760,7 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB84_Chieftain_Mk6>
@@ -747,6 +778,7 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB52_FV201_A45>
@@ -785,6 +817,7 @@
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB81_FV4004>
@@ -801,6 +834,7 @@
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB80_Charioteer>
@@ -820,6 +854,7 @@
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<notInShop>false</notInShop>
 		<configurationModes>development production</configurationModes>
@@ -837,6 +872,7 @@
 			<arcade>devastator</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB83_4005>
@@ -853,6 +889,7 @@
 			<arcade>long_support</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB41_Challenger>
@@ -871,6 +908,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB97_Chimera>
@@ -888,6 +926,7 @@
 		<combatRole>
 			<arcade>long_support</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB93_Caernarvon_AX>
@@ -906,6 +945,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB_Centurion_MkDF>
@@ -924,6 +964,7 @@
 		<combatRole>
 			<arcade>dreadnought</arcade>
 			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<notInShop>false</notInShop>
 		<configurationModes>development production</configurationModes>
@@ -941,6 +982,7 @@
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB_Vickers_Light_105>
@@ -957,6 +999,7 @@
 			<arcade>scout</arcade>
 			<hellgames>werewolf_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB_Vickers_Cruiser>
@@ -973,6 +1016,7 @@
 			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB_FV301>
@@ -991,6 +1035,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB94_Centurion_Mk5-1_RAAC>
@@ -1009,6 +1054,7 @@
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB99_Turtle_Mk1>
@@ -1029,6 +1075,7 @@
 			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB21_A27BP>
@@ -1049,6 +1096,7 @@
 			<arcade>close_support</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB40_Gun_Carrier_BP>
@@ -1067,6 +1115,7 @@
 			<arcade>long_support</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</GB109_GSOR_1008>
@@ -1086,6 +1135,7 @@
 		<combatRole>
 			<arcade>dreadnought</arcade>
 			<hellgames>hunter_2</hellgames>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB63_TOG_II_BP>
@@ -1103,6 +1153,7 @@
 		<combatRole>
 			<arcade>devastator</arcade>
 			<hellgames>hunter_2</hellgames>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB112_Caliban>
@@ -1120,6 +1171,7 @@
 		<combatRole>
 			<arcade>dreadnought</arcade>
 			<hellgames>hunter_2</hellgames>
+			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</GB_Churchill_MkVIII>
@@ -1139,6 +1191,7 @@
 		<combatRole>
 			<arcade>dreadnought</arcade>
 			<hellgames>hunter_2</hellgames>
+			<gravitizing>hunter_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB09_Churchill_VII_BP>
@@ -1156,6 +1209,7 @@
 		<combatRole>
 			<arcade>revenger</arcade>
 			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB11_Caernarvon_D>
@@ -1168,11 +1222,12 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB111_Charlemagne>
@@ -1193,6 +1248,7 @@
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB106_Cobra>
