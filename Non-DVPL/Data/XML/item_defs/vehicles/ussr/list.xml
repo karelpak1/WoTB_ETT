@@ -1667,4 +1667,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R181_Object_452K>
+	<R194_ST_62_var_2>
+		<id>103</id>
+		<userString>#ussr_vehicles:R194_ST_62_var_2</userString>
+		<shortUserString>#ussr_vehicles:R194_ST_62_var_2_short</shortUserString>
+		<description>#ussr_vehicles:R194_ST_62_var_2_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R194_ST_62_var_2>
 </root>

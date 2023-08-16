@@ -1684,7 +1684,8 @@
 		<userString>#usa_vehicles:A146_TL_7_120</userString>
 		<shortUserString>#usa_vehicles:A146_TL_7_120_short</shortUserString>
 		<description>#usa_vehicles:A146_TL_7_120_descr</description>
-		<price>10000</price>
+		<price>10000<gold/>
+		</price>
 		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -1773,4 +1774,25 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</A136_T42>
+	<A153_XM66F>
+		<id>112</id>
+		<userString>#usa_vehicles:A153_XM66F</userString>
+		<shortUserString>#usa_vehicles:A153_XM66F_short</shortUserString>
+		<description>#usa_vehicles:A153_XM66F_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A153_XM66F>
 </root>
