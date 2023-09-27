@@ -1,0 +1,211 @@
+premium_rows: 16
+
+tanks:
+#<!-- TIER_1 -->
+    MS-1:
+        position: [1, 15]
+    T-26:
+        position: [1, 19]
+#<!-- TIER_2 -->
+    MS-1obr21:
+        position: [2, 14]
+    AT-1:
+        position: [2, 15]
+    Tetrarch_LL:
+        position: [2, 16]
+    BT-2:
+        position: [2, 19]
+#<!-- TIER_3 -->
+    R105_BT_7A:
+        position: [3, 8]
+    BT-SV:
+        position: [3, 9]
+    LTP:
+        position: [3, 10]
+    M3_Stuart_LL:
+        position: [3, 11]
+    SU-76:
+        position: [3, 12]
+    SU76I:
+        position: [3, 13]
+    T-127:
+        position: [3, 14]
+    T-46:
+        position: [3, 15]
+    R43_T-70_57:
+        position: [3, 16]
+    BT-7:
+        position: [3, 19]
+#<!-- TIER_4 -->
+    A-32:
+        position: [4, 14]
+    T-28:
+        position: [4, 15]
+    Valentine_LL:
+        position: [4, 16]
+    GAZ-74b:
+        position: [4, 18]
+    A-20:
+        position: [4, 19]
+#<!-- TIER_5 -->
+    Churchill_LL:
+        position: [5, 12]
+    KV-220:
+        position: [5, 13]
+    Matilda_II_LL:
+        position: [5, 14]
+    SU_85I:
+        position: [5, 15]
+    R154_T-34E-43:
+        position: [5, 16]
+    SU-85:
+        position: [5, 18]
+    T-34:
+        position: [5, 19]
+    KV1:
+        position: [5, 22]
+#<!-- TIER_6 --> 
+    R140_M4A2_Loza:
+        position: [6, 9]
+    R160_object_244:
+        position: [6, 10]
+    SU100Y:
+        position: [6, 11]
+    T150:
+        position: [6, 12]
+    T34_85TU:
+        position: [6, 13]
+    T-34-85_Victory:
+        position: [6, 14]
+    T34_85BP:
+        position: [6, 15]
+    KV-1s-BP:
+        position: [6, 16]
+    SU-100:
+        position: [6, 18]
+    T-34-85:
+        position: [6, 19]
+    MT25:
+        position: [6, 21]
+    KV-1s:
+        position: [6, 22]
+    KV2:
+        position: [6, 23]
+#<!-- TIER_7 -->
+    R71_IS_2B:
+        position: [7, 10]
+    R175_IS_2E:
+        position: [7, 11]
+    R116_ISU122C_Berlin:
+        position: [7, 12]
+    KV-13:
+        position: [7, 13]
+    SU122_44:
+        position: [7, 14]
+    T-34-85_Rudy:
+        position: [7, 15]
+    R98_T44_85:
+        position: [7, 16]
+    SU-152:
+        position: [7, 17]
+    SU100M1:
+        position: [7, 18]
+    T-43:
+        position: [7, 19]
+    R107_LTB:
+        position: [7, 20]
+    R131_LTG:
+        position: [7, 21]
+    IS:
+        position: [7, 22]
+    KV-3:
+        position: [7, 23]
+#<!-- TIER_8 -->
+    IS-2Sh:
+        position: [8, 1]
+    R115_IS-3_auto:
+        position: [8, 2]
+    R113_Object_730:
+        position: [8, 3]
+    Object252:
+        position: [8, 4]
+    Object252_Fearless:
+        position: [8, 5]
+    R111_ISU130:
+        position: [8, 6]
+    KV-5:
+        position: [8, 7]
+    R158_LT_432:
+        position: [8, 8]
+    R134_Object_252U:
+        position: [8, 9]
+    R180_Object_274A:
+        position: [8, 10]
+    R194_ST_62_var_2:
+        position: [8, 11]
+    R146_STG:
+        position: [8, 12]
+    R159_SU_130PM:
+        position: [8, 13]
+    R63_ST_IBD:
+        position: [8, 14]
+    R127_T44_100_P:
+        position: [8, 15]
+    R112_T54_45:
+        position: [8, 16]
+    ISU-152:
+        position: [8, 17]
+    SU-101:
+        position: [8, 18]
+    T-44:
+        position: [8, 19]
+    R109_T54S:
+        position: [8, 21]
+    IS-3:
+        position: [8, 22]
+    KV4:
+        position: [8, 23]
+#<!-- TIER_9 -->
+    K-91:
+        position: [9, 14]
+    R181_Object_452K:
+        position: [9, 15]
+    R172_Object_752:
+        position: [9, 16]
+    Object_704:
+        position: [9, 17]
+    SU122_54:
+        position: [9, 18]
+    T-54:
+        position: [9, 20]
+    R_Object_84:
+        position: [9, 21]
+    IS8:
+        position: [9, 22]
+    ST_I:
+        position: [9, 23]
+#<!-- TIER_10 -->
+    R110_Object_260:
+        position: [10, 12]
+    R149_Object_268_4:
+        position: [10, 13]
+    R119_Object_777:
+        position: [10, 14]
+    Object_907:
+        position: [10, 15]
+    R120_T22SR:
+        position: [10, 16]
+    Object268:
+        position: [10, 17]
+    Object263:
+        position: [10, 18]
+    Object_140:
+        position: [10, 19]
+    T62A:
+        position: [10, 20]
+    R132_T100LT:
+        position: [10, 21]
+    IS-7:
+        position: [10, 22]
+    IS-4:
+        position: [10, 23]

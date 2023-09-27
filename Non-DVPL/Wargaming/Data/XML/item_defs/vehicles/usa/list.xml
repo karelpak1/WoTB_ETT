@@ -1,0 +1,1798 @@
+<root>
+	<T14>
+		<id>0</id>
+		<userString>#usa_vehicles:T14</userString>
+		<description>#usa_vehicles:T14_descr</description>
+		<price>2400<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T14>
+	<M3_Stuart>
+		<id>1</id>
+		<userString>#usa_vehicles:M3_Stuart</userString>
+		<description>#usa_vehicles:M3_Stuart_descr</description>
+		<price>1200</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</M3_Stuart>
+	<T1_Cunningham>
+		<id>2</id>
+		<userString>#usa_vehicles:T1_Cunningham</userString>
+		<description>#usa_vehicles:T1_Cunningham_descr</description>
+		<shortUserString>#usa_vehicles:T1_Cunningham_short</shortUserString>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<notInShop>false</notInShop>
+		<configurationModes>production development supertest</configurationModes>
+	</T1_Cunningham>
+	<M6>
+		<id>3</id>
+		<userString>#usa_vehicles:M6</userString>
+		<description>#usa_vehicles:M6_descr</description>
+		<price>885000</price>
+		<enrichmentPermanentCost>5200</enrichmentPermanentCost>
+		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class3_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M6>
+	<M4_Sherman>
+		<id>4</id>
+		<userString>#usa_vehicles:M4_Sherman</userString>
+		<description>#usa_vehicles:M4_Sherman_descr</description>
+		<shortUserString>#usa_vehicles:M4_Sherman_short</shortUserString>
+		<price>400000</price>
+		<enrichmentPermanentCost>4000</enrichmentPermanentCost>
+		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M4_Sherman>
+	<M4A3E8_Sherman>
+		<id>5</id>
+		<userString>#usa_vehicles:M4A3E8_Sherman</userString>
+		<description>#usa_vehicles:M4A3E8_Sherman_descr</description>
+		<shortUserString>#usa_vehicles:M4A3E8_Sherman_short</shortUserString>
+		<price>930500</price>
+		<enrichmentPermanentCost>5200</enrichmentPermanentCost>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M4A3E8_Sherman>
+	<T20>
+		<id>6</id>
+		<userString>#usa_vehicles:T20</userString>
+		<description>#usa_vehicles:T20_descr</description>
+		<price>1340000</price>
+		<enrichmentPermanentCost>10400</enrichmentPermanentCost>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T20>
+	<M2_lt>
+		<id>7</id>
+		<userString>#usa_vehicles:M2_lt</userString>
+		<description>#usa_vehicles:M2_lt_descr</description>
+		<shortUserString>#usa_vehicles:M2_lt_short</shortUserString>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank enhancedVertical_springs_user</tags>
+		<level>1</level>
+		<configurationModes>production development supertest</configurationModes>
+	</M2_lt>
+	<T30>
+		<id>10</id>
+		<userString>#usa_vehicles:T30</userString>
+		<description>#usa_vehicles:T30_descr</description>
+		<price>3550000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T30>
+	<T34_hvy>
+		<id>11</id>
+		<userString>#usa_vehicles:T34_hvy</userString>
+		<description>#usa_vehicles:T34_hvy_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T34_hvy>
+	<M3_Grant>
+		<id>12</id>
+		<userString>#usa_vehicles:M3_Grant</userString>
+		<description>#usa_vehicles:M3_Grant_descr</description>
+		<notInShop>false</notInShop>
+		<price>100<gold/>
+		</price>
+		<sellPrice>100<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</M3_Grant>
+	<T1_hvy>
+		<id>13</id>
+		<userString>#usa_vehicles:T1_hvy</userString>
+		<description>#usa_vehicles:T1_hvy_descr</description>
+		<shortUserString>#usa_vehicles:T1_hvy_short</shortUserString>
+		<price>400000</price>
+		<enrichmentPermanentCost>4000</enrichmentPermanentCost>
+		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class3_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T1_hvy>
+	<T29>
+		<id>15</id>
+		<userString>#usa_vehicles:T29</userString>
+		<description>#usa_vehicles:T29_descr</description>
+		<price>1450300</price>
+		<enrichmentPermanentCost>10600</enrichmentPermanentCost>
+		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T29>
+	<T32>
+		<id>17</id>
+		<userString>#usa_vehicles:T32</userString>
+		<description>#usa_vehicles:T32_descr</description>
+		<price>2610000</price>
+		<enrichmentPermanentCost>13600</enrichmentPermanentCost>
+		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T32>
+	<M2_med>
+		<id>19</id>
+		<userString>#usa_vehicles:M2_med</userString>
+		<description>#usa_vehicles:M2_med_descr</description>
+		<shortUserString>#usa_vehicles:M2_med_short</shortUserString>
+		<notInShop>false</notInShop>
+		<price>50<gold/>
+		</price>
+		<sellPrice>50<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</M2_med>
+	<M5_Stuart>
+		<id>20</id>
+		<userString>#usa_vehicles:M5_Stuart</userString>
+		<description>#usa_vehicles:M5_Stuart_descr</description>
+		<shortUserString>#usa_vehicles:M5_Stuart_short</shortUserString>
+		<price>6000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</M5_Stuart>
+	<M7_med>
+		<id>21</id>
+		<userString>#usa_vehicles:M7_med</userString>
+		<description>#usa_vehicles:M7_med_descr</description>
+		<shortUserString>#usa_vehicles:M7_med_short</shortUserString>
+		<price>85000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</M7_med>
+	<T2_med>
+		<id>22</id>
+		<userString>#usa_vehicles:T2_med</userString>
+		<description>#usa_vehicles:T2_med_descr</description>
+		<shortUserString>#usa_vehicles:T2_med_short</shortUserString>
+		<notInShop>false</notInShop>
+		<price>25<gold/>
+		</price>
+		<sellPrice>25<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible mediumCaliberTankRammer_user</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T2_med>
+	<Pershing>
+		<id>23</id>
+		<userString>#usa_vehicles:Pershing</userString>
+		<description>#usa_vehicles:Pershing_descr</description>
+		<shortUserString>#usa_vehicles:Pershing_short</shortUserString>
+		<price>2403000</price>
+		<enrichmentPermanentCost>13100</enrichmentPermanentCost>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Pershing>
+	<T18>
+		<id>24</id>
+		<userString>#usa_vehicles:T18</userString>
+		<description>#usa_vehicles:T18_descr</description>
+		<notInShop>false</notInShop>
+		<price>25<gold/>
+		</price>
+		<sellPrice>25<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG collectible lightAT-SPG improvedVentilation_class1_user enhancedVertical_springs_user enhancedVertical_springs_user</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T18>
+	<T82>
+		<id>25</id>
+		<userString>#usa_vehicles:T82</userString>
+		<description>#usa_vehicles:T82_descr</description>
+		<notInShop>false</notInShop>
+		<price>50<gold/>
+		</price>
+		<sellPrice>50<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG collectible lightAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T82>
+	<M10_Wolverine>
+		<id>27</id>
+		<userString>#usa_vehicles:M10_Wolverine</userString>
+		<description>#usa_vehicles:M10_Wolverine_descr</description>
+		<shortUserString>#usa_vehicles:M10_Wolverine_short</shortUserString>
+		<price>400000</price>
+		<enrichmentPermanentCost>3300</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user noImprovedVentilation enhancedVertical_springs_class2_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M10_Wolverine>
+	<M36_Slagger>
+		<id>28</id>
+		<userString>#usa_vehicles:M36_Slagger</userString>
+		<description>#usa_vehicles:M36_Slagger_descr</description>
+		<shortUserString>#usa_vehicles:M36_Slagger_short</shortUserString>
+		<price>884200</price>
+		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user noImprovedVentilation enhancedVertical_springs_class2_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M36_Slagger>
+	<T40>
+		<id>30</id>
+		<userString>#usa_vehicles:T40</userString>
+		<description>#usa_vehicles:T40_descr</description>
+		<notInShop>false</notInShop>
+		<price>100<gold/>
+		</price>
+		<sellPrice>100<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG collectible mediumAT-SPG noImprovedVentilation wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_class2_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T40>
+	<T28>
+		<id>32</id>
+		<userString>#usa_vehicles:T28</userString>
+		<description>#usa_vehicles:T28_descr</description>
+		<shortUserString>#usa_vehicles:T28_short</shortUserString>
+		<price>2580000</price>
+		<enrichmentPermanentCost>13600</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedVertical_springs_class3_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T28>
+	<T95>
+		<id>34</id>
+		<userString>#usa_vehicles:T95</userString>
+		<description>#usa_vehicles:T95_descr</description>
+		<price>3500000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedHorizontal_springs_class3_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T95>
+	<M46_Patton>
+		<id>35</id>
+		<userString>#usa_vehicles:M46_Patton</userString>
+		<description>#usa_vehicles:M46_Patton_descr</description>
+		<shortUserString>#usa_vehicles:M46_Patton_short</shortUserString>
+		<price>3450000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M46_Patton>
+	<T25_AT>
+		<id>36</id>
+		<userString>#usa_vehicles:T25_AT</userString>
+		<description>#usa_vehicles:T25_AT_descr</description>
+		<shortUserString>#usa_vehicles:T25_AT_short</shortUserString>
+		<price>1327000</price>
+		<enrichmentPermanentCost>11000</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T25_AT>
+	<M103>
+		<id>37</id>
+		<userString>#usa_vehicles:M103</userString>
+		<description>#usa_vehicles:M103_descr</description>
+		<price>3640000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M103>
+	<M24_Chaffee>
+		<id>38</id>
+		<userString>#usa_vehicles:M24_Chaffee</userString>
+		<description>#usa_vehicles:M24_Chaffee_descr</description>
+		<shortUserString>#usa_vehicles:M24_Chaffee_short</shortUserString>
+		<price>900000</price>
+		<enrichmentPermanentCost>3700</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user mediumCaliberTankRammer_user aimingStabilizer_Mk1_user enhancedTorsions1t_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M24_Chaffee>
+	<Sherman_Jumbo>
+		<id>39</id>
+		<userString>#usa_vehicles:Sherman_Jumbo</userString>
+		<description>#usa_vehicles:Sherman_Jumbo_descr</description>
+		<shortUserString>#usa_vehicles:Sherman_Jumbo_short</shortUserString>
+		<notInShop>false</notInShop>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>5500</enrichmentPermanentCost>
+		<tags>mediumTank collectible aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Sherman_Jumbo>
+	<M8A1>
+		<id>40</id>
+		<userString>#usa_vehicles:M8A1</userString>
+		<description>#usa_vehicles:M8A1_descr</description>
+		<price>85000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG lightAT-SPG noImprovedVentilation wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</M8A1>
+	<T49>
+		<id>41</id>
+		<userString>#usa_vehicles:T49</userString>
+		<description>#usa_vehicles:T49_descr</description>
+		<notInShop>false</notInShop>
+		<price>250<gold/>
+		</price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>4000</enrichmentPermanentCost>
+		<tags>AT-SPG collectible lightAT-SPG noImprovedVentilation wetCombatPack_class1_user mediumCaliberTankRammer_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T49>
+	<T110>
+		<id>42</id>
+		<userString>#usa_vehicles:T110</userString>
+		<description>#usa_vehicles:T110_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T110>
+	<T25_2>
+		<id>43</id>
+		<userString>#usa_vehicles:T25_2</userString>
+		<description>#usa_vehicles:T25_2_descr</description>
+		<shortUserString>#usa_vehicles:T25_2_short</shortUserString>
+		<price>1364000</price>
+		<enrichmentPermanentCost>10300</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user noImprovedVentilation</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T25_2>
+	<T28_Prototype>
+		<id>44</id>
+		<userString>#usa_vehicles:T28_Prototype</userString>
+		<description>#usa_vehicles:T28_Prototype_descr</description>
+		<shortUserString>#usa_vehicles:T28_Prototype_short</shortUserString>
+		<price>2650000</price>
+		<enrichmentPermanentCost>14100</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user noImprovedVentilation enhancedHorizontal_springs_class3_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T28_Prototype>
+	<M18_Hellcat>
+		<id>45</id>
+		<userString>#usa_vehicles:M18_Hellcat</userString>
+		<description>#usa_vehicles:M18_Hellcat_descr</description>
+		<shortUserString>#usa_vehicles:M18_Hellcat_short</shortUserString>
+		<price>950000</price>
+		<enrichmentPermanentCost>4900</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user noImprovedVentilation enhancedTorsions1t_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M18_Hellcat>
+	<T23E3>
+		<id>46</id>
+		<userString>#usa_vehicles:T23E3</userString>
+		<description>#usa_vehicles:T23E3_descr</description>
+		<price>4900<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T23E3>
+	<T110E4>
+		<id>51</id>
+		<userString>#usa_vehicles:T110E4</userString>
+		<description>#usa_vehicles:T110E4_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T110E4>
+	<T26_E4_SuperPershing>
+		<id>52</id>
+		<userString>#usa_vehicles:T26_E4_SuperPershing</userString>
+		<description>#usa_vehicles:T26_E4_SuperPershing_descr</description>
+		<shortUserString>#usa_vehicles:T26_E4_SuperPershing_short</shortUserString>
+		<price>7200<gold/>
+		</price>
+		<notInShop>false</notInShop>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T26_E4_SuperPershing>
+	<T110E3>
+		<id>54</id>
+		<userString>#usa_vehicles:T110E3</userString>
+		<description>#usa_vehicles:T110E3_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T110E3>
+	<M48A1>
+		<id>55</id>
+		<userString>#usa_vehicles:M48A1</userString>
+		<description>#usa_vehicles:M48A1_descr</description>
+		<shortUserString>#usa_vehicles:M48A1_short</shortUserString>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M48A1>
+	<T69>
+		<id>57</id>
+		<userString>#usa_vehicles:T69</userString>
+		<description>#usa_vehicles:T69_descr</description>
+		<shortUserString>#usa_vehicles:T69_short</shortUserString>
+		<price>2403000</price>
+		<enrichmentPermanentCost>12000</enrichmentPermanentCost>
+		<tags>mediumTank aimingStabilizer_Mk1_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T69>
+	<T57_58>
+		<id>58</id>
+		<userString>#usa_vehicles:T57_58</userString>
+		<description>#usa_vehicles:T57_58_descr</description>
+		<shortUserString>#usa_vehicles:T57_58_short</shortUserString>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank aimingStabilizer_Mk2_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T57_58>
+	<T21>
+		<id>59</id>
+		<userString>#usa_vehicles:T21</userString>
+		<description>#usa_vehicles:T21_descr</description>
+		<notInShop>false</notInShop>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>4400</enrichmentPermanentCost>
+		<tags>lightTank collectible wetCombatPack_class1_user mediumCaliberTankRammer_user aimingStabilizer_Mk1_user enhancedTorsions1t_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T21>
+	<T54E1>
+		<id>60</id>
+		<userString>#usa_vehicles:T54E1</userString>
+		<description>#usa_vehicles:T54E1_descr</description>
+		<price>3600000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank aimingStabilizer_Mk1_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T54E1>
+	<T71>
+		<id>61</id>
+		<userString>#usa_vehicles:T71</userString>
+		<description>#usa_vehicles:T71_descr</description>
+		<price>1400000</price>
+		<enrichmentPermanentCost>10500</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions1t_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T71>
+	<M60>
+		<id>62</id>
+		<userString>#usa_vehicles:M60</userString>
+		<description>#usa_vehicles:M60_descr</description>
+		<price>250<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton eventCamouflage_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M60>
+	<A94_T37>
+		<id>65</id>
+		<userString>#usa_vehicles:T37</userString>
+		<description>#usa_vehicles:T37_descr</description>
+		<shortUserString>#usa_vehicles:T37_short</shortUserString>
+		<price>910000</price>
+		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions1t_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</A94_T37>
+	<M41_Bulldog>
+		<id>70</id>
+		<userString>#usa_vehicles:M41_Bulldog</userString>
+		<description>#usa_vehicles:M41_Bulldog_descr</description>
+		<shortUserString>#usa_vehicles:M41_Bulldog_short</shortUserString>
+		<price>1370000</price>
+		<enrichmentPermanentCost>10500</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions3t_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production supertest development</configurationModes>
+	</M41_Bulldog>
+	<A100_T49>
+		<id>71</id>
+		<userString>#usa_vehicles:A100_T49</userString>
+		<description>#usa_vehicles:A100_T49_descr</description>
+		<shortUserString>#usa_vehicles:A100_T49_short</shortUserString>
+		<price>2380000</price>
+		<enrichmentPermanentCost>14500</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions3t_user largeCaliberTankRammer_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production supertest development</configurationModes>
+	</A100_T49>
+	<T2_lt>
+		<id>201</id>
+		<userString>#usa_vehicles:T2_lt</userString>
+		<description>#usa_vehicles:T2_lt_descr</description>
+		<shortUserString>#usa_vehicles:T2_lt_short</shortUserString>
+		<price>650<gold/>
+		</price>
+		<sellPrice>650<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T2_lt>
+	<Ram-II>
+		<id>202</id>
+		<userString>#usa_vehicles:Ram-II</userString>
+		<description>#usa_vehicles:Ram-II_descr</description>
+		<notInShop>false</notInShop>
+		<price>1750<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Ram-II>
+	<M4A2E4>
+		<id>204</id>
+		<userString>#usa_vehicles:M4A2E4</userString>
+		<description>#usa_vehicles:M4A2E4_descr</description>
+		<notInShop>false</notInShop>
+		<shortUserString>#usa_vehicles:M4A2E4_short</shortUserString>
+		<price>2350<gold/>
+		</price>
+		<sellPrice>2350<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M4A2E4>
+	<M6A2E1>
+		<id>205</id>
+		<userString>#usa_vehicles:M6A2E1</userString>
+		<description>#usa_vehicles:M6A2E1_descr</description>
+		<price>5200<gold/>
+		</price>
+		<notInShop>false</notInShop>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank largeCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk2_user enhancedVertical_springs_class3_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M6A2E1>
+	<M22_Locust>
+		<id>206</id>
+		<userString>#usa_vehicles:M22_Locust</userString>
+		<description>#usa_vehicles:M22_Locust_descr</description>
+		<shortUserString>#usa_vehicles:M22_Locust_short</shortUserString>
+		<notInShop>false</notInShop>
+		<price>1000<gold/>
+		</price>
+		<sellPrice>1000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</M22_Locust>
+	<M6A2E1_exp>
+		<id>207</id>
+		<userString>#usa_vehicles:M6A2E1_exp</userString>
+		<description>#usa_vehicles:M6A2E1_exp_descr</description>
+		<shortUserString>#usa_vehicles:M6A2E1_exp_short</shortUserString>
+		<notInShop>false</notInShop>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank largeCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk2_user enhancedVertical_springs_class3_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</M6A2E1_exp>
+	<T1_E6>
+		<id>209</id>
+		<userString>#usa_vehicles:T1_E6</userString>
+		<description>#usa_vehicles:T1_E6_descr</description>
+		<shortUserString>#usa_vehicles:T1_E6_short</shortUserString>
+		<price>750<gold/>
+		</price>
+		<sellPrice>750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T1_E6>
+	<T7_Combat_Car>
+		<id>215</id>
+		<userString>#usa_vehicles:T7_Combat_Car</userString>
+		<description>#usa_vehicles:T7_Combat_Car_descr</description>
+		<shortUserString>#usa_vehicles:T7_Combat_Car_short</shortUserString>
+		<price>650<gold/>
+		</price>
+		<sellPrice>650<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T7_Combat_Car>
+	<A104_M4A3E8A>
+		<id>219</id>
+		<userString>#usa_vehicles:A104_M4A3E8A</userString>
+		<description>#usa_vehicles:A104_M4A3E8A_descr</description>
+		<shortUserString>#usa_vehicles:A104_M4A3E8A_short</shortUserString>
+		<price>4000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</A104_M4A3E8A>
+	<A102_T28_concept>
+		<id>221</id>
+		<userString>#usa_vehicles:A102_T28_concept</userString>
+		<description>#usa_vehicles:A102_T28_concept_descr</description>
+		<shortUserString>#usa_vehicles:A102_T28_concept_short</shortUserString>
+		<price>4950<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedVertical_springs_class3_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</A102_T28_concept>
+	<T34_hvy_Freedom>
+		<id>253</id>
+		<userString>#usa_vehicles:T34_hvy_Freedom</userString>
+		<shortUserString>#usa_vehicles:T34_hvy_Freedom_short</shortUserString>
+		<description>#usa_vehicles:T34_hvy_Freedom_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T34_hvy_Freedom>
+	<T1_Cunningham_tutorial_bot>
+		<id>254</id>
+		<userString>#usa_vehicles:T1_Cunningham</userString>
+		<description>#usa_vehicles:T1_Cunningham_descr</description>
+		<shortUserString>#usa_vehicles:T1_Cunningham_short</shortUserString>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T1_Cunningham_tutorial_bot>
+	<T1_Cunningham_tutorial_bot2>
+		<id>255</id>
+		<userString>#usa_vehicles:T1_Cunningham</userString>
+		<description>#usa_vehicles:T1_Cunningham_descr</description>
+		<shortUserString>#usa_vehicles:T1_Cunningham_short</shortUserString>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T1_Cunningham_tutorial_bot2>
+	<T49_Rocket>
+		<id>26</id>
+		<userString>#usa_vehicles:T49_Rocket</userString>
+		<shortUserString>#usa_vehicles:T49_Rocket_short</shortUserString>
+		<description>#usa_vehicles:T49_Rocket_descr</description>
+		<price>1<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank InGame eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<leasing>20.09.2017 00:00</leasing>
+		<configurationModes>development production supertest</configurationModes>
+	</T49_Rocket>
+	<T95E2>
+		<id>47</id>
+		<userString>#usa_vehicles:T95E2</userString>
+		<shortUserString>#usa_vehicles:T95E2_short</shortUserString>
+		<description>#usa_vehicles:T95E2_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</T95E2>
+	<A77_T6M>
+		<id>48</id>
+		<userString>#usa_vehicles:A77_T6M</userString>
+		<shortUserString>#usa_vehicles:A77_T6M_short</shortUserString>
+		<description>#usa_vehicles:A77_T6M_descr</description>
+		<price>1500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>4</level>
+		<configurationModes>development production</configurationModes>
+	</A77_T6M>
+	<M2_lt_tutorial_bot>
+		<id>72</id>
+		<userString>#usa_vehicles:M2_lt</userString>
+		<shortUserString>#usa_vehicles:M2_lt_short</shortUserString>
+		<description>#usa_vehicles:M2_lt_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<configurationModes>development production</configurationModes>
+	</M2_lt_tutorial_bot>
+	<M2_lt_tutorial_bot2>
+		<id>73</id>
+		<userString>#usa_vehicles:M2_lt</userString>
+		<shortUserString>#usa_vehicles:M2_lt_short</shortUserString>
+		<description>#usa_vehicles:M2_lt_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<configurationModes>development production</configurationModes>
+	</M2_lt_tutorial_bot2>
+	<A95_T95E6>
+		<id>74</id>
+		<userString>#usa_vehicles:A95_T95E6</userString>
+		<shortUserString>#usa_vehicles:A95_T95E6_short</shortUserString>
+		<description>#usa_vehicles:A95_T95E6_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A95_T95E6>
+	<A115_Chrysler_K>
+		<id>75</id>
+		<userString>#usa_vehicles:A115_Chrysler_K</userString>
+		<shortUserString>#usa_vehicles:A115_Chrysler_K_short</shortUserString>
+		<description>#usa_vehicles:A115_Chrysler_K_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A115_Chrysler_K>
+	<A68_T28D>
+		<id>76</id>
+		<userString>#usa_vehicles:A68_T28D</userString>
+		<shortUserString>#usa_vehicles:A68_T28D_short</shortUserString>
+		<description>#usa_vehicles:A68_T28D_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A68_T28D>
+	<A117_T26E5>
+		<id>77</id>
+		<userString>#usa_vehicles:A117_T26E5</userString>
+		<shortUserString>#usa_vehicles:A117_T26E5_short</shortUserString>
+		<description>#usa_vehicles:A117_T26E5_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A117_T26E5>
+	<A99_T92E1>
+		<id>78</id>
+		<userString>#usa_vehicles:A99_T92E1</userString>
+		<shortUserString>#usa_vehicles:A99_T92E1_short</shortUserString>
+		<description>#usa_vehicles:A99_T92E1_descr</description>
+		<price>3600000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A99_T92E1>
+	<A116_XM551>
+		<id>79</id>
+		<userString>#usa_vehicles:A116_XM551</userString>
+		<shortUserString>#usa_vehicles:A116_XM551_short</shortUserString>
+		<description>#usa_vehicles:A116_XM551_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A116_XM551>
+	<A124_T54E2>
+		<id>80</id>
+		<userString>#usa_vehicles:A124_T54E2</userString>
+		<shortUserString>#usa_vehicles:A124_T54E2_short</shortUserString>
+		<description>#usa_vehicles:A124_T54E2_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A124_T54E2>
+	<A111_T25_Pilot>
+		<id>81</id>
+		<userString>#usa_vehicles:A111_T25_Pilot</userString>
+		<shortUserString>#usa_vehicles:A111_T25_Pilot_short</shortUserString>
+		<description>#usa_vehicles:A111_T25_Pilot_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A111_T25_Pilot>
+	<A121_T26E3>
+		<id>82</id>
+		<userString>#usa_vehicles:A121_T26E3</userString>
+		<shortUserString>#usa_vehicles:A121_T26E3_short</shortUserString>
+		<description>#usa_vehicles:A121_T26E3_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A121_T26E3>
+	<M4A3E8_BP>
+		<id>83</id>
+		<userString>#usa_vehicles:M4A3E8_BP</userString>
+		<shortUserString>#usa_vehicles:M4A3E8_BP_short</shortUserString>
+		<description>#usa_vehicles:M4A3E8_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M4A3E8_BP>
+	<M4A3E8TU>
+		<id>84</id>
+		<userString>#usa_vehicles:M4A3E8TU</userString>
+		<shortUserString>#usa_vehicles:M4A3E8TU_short</shortUserString>
+		<description>#usa_vehicles:M4A3E8TU_descr</description>
+		<price>10<gold/>
+		</price>
+		<sellPrice>10<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M4A3E8TU>
+	<A116_XM551_Exp>
+		<id>85</id>
+		<userString>#usa_vehicles:A116_XM551_Exp</userString>
+		<shortUserString>#usa_vehicles:A116_XM551_Exp_short</shortUserString>
+		<description>#usa_vehicles:A116_XM551_Exp_descr</description>
+		<price>10<gold/>
+		</price>
+		<sellPrice>10<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible noRandom noRating noNanomaps noTournamentsNanomaps noTournamentsRandom eventCamouflage_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A116_XM551_Exp>
+	<M6E2BP>
+		<id>86</id>
+		<userString>#usa_vehicles:M6E2BP</userString>
+		<shortUserString>#usa_vehicles:M6E2BP_short</shortUserString>
+		<description>#usa_vehicles:M6E2BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M6E2BP>
+	<A125_AEP_1>
+		<id>87</id>
+		<userString>#usa_vehicles:A125_AEP_1</userString>
+		<shortUserString>#usa_vehicles:A125_AEP_1_short</shortUserString>
+		<description>#usa_vehicles:A125_AEP_1_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A125_AEP_1>
+	<A122_TS-5>
+		<id>88</id>
+		<userString>#usa_vehicles:A122_TS-5</userString>
+		<shortUserString>#usa_vehicles:A122_TS-5_short</shortUserString>
+		<description>#usa_vehicles:A122_TS-5_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A122_TS-5>
+	<M-6-Y>
+		<id>89</id>
+		<userString>#usa_vehicles:M-6-Y</userString>
+		<shortUserString>#usa_vehicles:M-6-Y_short</shortUserString>
+		<description>#usa_vehicles:M-6-Y_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</M-6-Y>
+	<M-5-Y>
+		<id>90</id>
+		<userString>#usa_vehicles:M-5-Y</userString>
+		<shortUserString>#usa_vehicles:M-5-Y_short</shortUserString>
+		<description>#usa_vehicles:M-5-Y_descr</description>
+		<price>3640000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M-5-Y>
+	<M-3-Y>
+		<id>91</id>
+		<userString>#usa_vehicles:M-3-Y</userString>
+		<shortUserString>#usa_vehicles:M-3-Y_short</shortUserString>
+		<description>#usa_vehicles:M-3-Y_descr</description>
+		<price>2610000</price>
+		<enrichmentPermanentCost>13600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M-3-Y>
+	<M-7-Y>
+		<id>92</id>
+		<userString>#usa_vehicles:M-7-Y</userString>
+		<shortUserString>#usa_vehicles:M-7-Y_short</shortUserString>
+		<description>#usa_vehicles:M-7-Y_descr</description>
+		<price>1450300</price>
+		<enrichmentPermanentCost>10600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M-7-Y>
+	<A130_Super_Hellcat>
+		<id>93</id>
+		<userString>#usa_vehicles:A130_Super_Hellcat</userString>
+		<shortUserString>#usa_vehicles:A130_Super_Hellcat_short</shortUserString>
+		<description>#usa_vehicles:A130_Super_Hellcat_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A130_Super_Hellcat>
+	<M18E2BP>
+		<id>94</id>
+		<userString>#usa_vehicles:M18E2BP</userString>
+		<shortUserString>#usa_vehicles:M18E2BP_short</shortUserString>
+		<description>#usa_vehicles:M18E2BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M18E2BP>
+	<A128_Concept_1b>
+		<id>96</id>
+		<userString>#usa_vehicles:A128_Concept_1b</userString>
+		<shortUserString>#usa_vehicles:A128_Concept_1b_short</shortUserString>
+		<description>#usa_vehicles:A128_Concept_1b_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A128_Concept_1b>
+	<M-3-Y-Midas>
+		<id>97</id>
+		<userString>#usa_vehicles:M-3-Y-Midas</userString>
+		<shortUserString>#usa_vehicles:M-3-Y-Midas_short</shortUserString>
+		<description>#usa_vehicles:M-3-Y-Midas_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M-3-Y-Midas>
+	<A132_T77>
+		<id>99</id>
+		<userString>#usa_vehicles:A132_T77</userString>
+		<shortUserString>#usa_vehicles:A132_T77_short</shortUserString>
+		<description>#usa_vehicles:A132_T77_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>vampire_2</hellgames>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A132_T77>
+	<T21_BP>
+		<id>101</id>
+		<userString>#usa_vehicles:T21_BP</userString>
+		<shortUserString>#usa_vehicles:T21_BP_short</shortUserString>
+		<description>#usa_vehicles:T21_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</T21_BP>
+	<A141_M-4-Y>
+		<id>100</id>
+		<userString>#usa_vehicles:A141_M-4-Y</userString>
+		<shortUserString>#usa_vehicles:A141_M-4-Y_short</shortUserString>
+		<description>#usa_vehicles:A141_M-4-Y_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A141_M-4-Y>
+	<A05_M4_105BD>
+		<id>102</id>
+		<userString>#usa_vehicles:A05_M4_105BD</userString>
+		<shortUserString>#usa_vehicles:A05_M4_105BD_short</shortUserString>
+		<description>#usa_vehicles:A05_M4_105BD_descr</description>
+		<price>250<gold/></price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A05_M4_105BD>
+	<M36_BP>
+		<id>103</id>
+		<userString>#usa_vehicles:M36_BP</userString>
+		<shortUserString>#usa_vehicles:M36_BP_short</shortUserString>
+		<description>#usa_vehicles:M36_BP_descr</description>
+		<price>500<gold/></price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</M36_BP>
+	<A140_ASTRON_REX_105>
+		<id>104</id>
+		<userString>#usa_vehicles:A140_ASTRON_REX_105</userString>
+		<shortUserString>#usa_vehicles:A140_ASTRON_REX_105_short</shortUserString>
+		<description>#usa_vehicles:A140_ASTRON_REX_105_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A140_ASTRON_REX_105>
+	<M24_Chaffee_BP>
+		<id>105</id>
+		<userString>#usa_vehicles:M24_Chaffee_BP</userString>
+		<shortUserString>#usa_vehicles:M24_Chaffee_BP_short</shortUserString>
+		<description>#usa_vehicles:M24_Chaffee_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</M24_Chaffee_BP>
+	<M6E2V2_BP>
+		<id>106</id>
+		<userString>#usa_vehicles:M6E2V2_BP</userString>
+		<shortUserString>#usa_vehicles:M6E2V2_BP_short</shortUserString>
+		<description>#usa_vehicles:M6E2V2_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</M6E2V2_BP>
+	<A146_TL_7_120>
+		<id>107</id>
+		<userString>#usa_vehicles:A146_TL_7_120</userString>
+		<shortUserString>#usa_vehicles:A146_TL_7_120_short</shortUserString>
+		<description>#usa_vehicles:A146_TL_7_120_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A146_TL_7_120>
+	<A142_Pawlack_Tank>
+		<id>108</id>
+		<userString>#usa_vehicles:A142_Pawlack_Tank</userString>
+		<shortUserString>#usa_vehicles:A142_Pawlack_Tank_short</shortUserString>
+		<description>#usa_vehicles:A142_Pawlack_Tank_descr</description>
+		<price>2500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A142_Pawlack_Tank>
+	<T49_Fearless>
+		<id>109</id>
+		<userString>#usa_vehicles:T49_Fearless</userString>
+		<shortUserString>#usa_vehicles:T49_Fearless_short</shortUserString>
+		<description>#usa_vehicles:T49_Fearless_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</T49_Fearless>
+	<A151_TS_60>
+		<id>110</id>
+		<userString>#usa_vehicles:A151_TS_60</userString>
+		<shortUserString>#usa_vehicles:A151_TS_60_short</shortUserString>
+		<description>#usa_vehicles:A151_TS_60_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A151_TS_60>
+	<A136_T42>
+		<id>111</id>
+		<userString>#usa_vehicles:A136_T42</userString>
+		<shortUserString>#usa_vehicles:A136_T42_short</shortUserString>
+		<description>#usa_vehicles:A136_T42_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</A136_T42>
+	<A153_XM66F>
+		<id>112</id>
+		<userString>#usa_vehicles:A153_XM66F</userString>
+		<shortUserString>#usa_vehicles:A153_XM66F_short</shortUserString>
+		<description>#usa_vehicles:A153_XM66F_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A153_XM66F>
+</root>

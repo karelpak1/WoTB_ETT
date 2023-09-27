@@ -1,0 +1,217 @@
+premium_rows: 17
+
+tanks:
+#<!-- TIER_1 -->
+    M2_lt:
+        position: [1, 20]
+    T1_Cunningham:
+        position: [1, 16]
+#<!-- TIER_2 -->
+    T18:
+        position: [2, 13]
+    T1_E6:
+        position: [2, 14]
+    T2_lt:
+        position: [2, 15]
+    T2_med:
+        position: [2, 16]
+    T7_Combat_Car:
+        position: [2, 17]
+    M3_Stuart:
+        position: [2, 20]
+#<!-- TIER_3 -->
+    M2_med:
+        position: [3, 15]
+    T82:
+        position: [3, 16]
+    M22_Locust:
+        position: [3, 17]
+    M5_Stuart:
+        position: [3, 20]
+#<!-- TIER_4 -->
+    M3_Grant:
+        position: [4, 15]
+    T40:
+        position: [4, 16]
+    A77_T6M:
+        position: [4, 17]
+    M8A1:
+        position: [4, 19]
+    M7_med:
+        position: [4, 22]
+#<!-- TIER_5 -->
+    A05_M4_105BD:
+        position: [5, 13]
+    M4A2E4:
+        position: [5, 14]
+    Ram-II:
+        position: [5, 15]
+    T14:
+        position: [5, 16]
+    T49:
+        position: [5, 17]
+    M10_Wolverine:
+        position: [5, 19]
+    T1_hvy:
+        position: [5, 20]
+    M4_Sherman:
+        position: [5, 22]
+#<!-- TIER_6 -->
+    M18E2BP:
+        position: [6, 6]
+    M6E2V2_BP:
+        position: [6, 7]
+    M36_BP:
+        position: [6, 8]
+    M24_Chaffee_BP:
+        position: [6, 9]
+    A104_M4A3E8A:
+        position: [6, 10]
+    Sherman_Jumbo:
+        position: [6, 11]
+    M6E2BP:
+        position: [6, 12]
+    A142_Pawlack_Tank:
+        position: [6, 13]
+    T21_BP:
+        position: [6, 14]
+    M4A3E8_BP:
+        position: [6, 15]
+    M4A3E8TU:
+        position: [6, 16]
+    T21:
+        position: [6, 17]
+    M18_Hellcat:
+        position: [6, 18]
+    M36_Slagger:
+        position: [6, 19]
+    M6:
+        position: [6, 20]
+    M4A3E8_Sherman:
+        position: [6, 22]
+    A94_T37:
+        position: [6, 23]
+    M24_Chaffee:
+        position: [6, 24]
+#<!-- TIER_7 -->
+    M6A2E1:
+        position: [7, 11]
+    A130_Super_Hellcat:
+        position: [7, 12]
+    T23E3:
+        position: [7, 13]
+    A121_T26E3:
+        position: [7, 14]
+    A102_T28_concept:
+        position: [7, 15]
+    A136_T42:
+        position: [7, 16]
+    T49_Rocket:
+        position: [7, 17]
+    T25_2:
+        position: [7, 18]
+    T25_AT:
+        position: [7, 19]
+    T29:
+        position: [7, 20]
+    M-7-Y:
+        position: [7, 21]
+    T20:
+        position: [7, 22]
+    T71:
+        position: [7, 23]
+    M41_Bulldog:
+        position: [7, 24]
+#<!-- TIER_8 -->
+    A140_ASTRON_REX_105:
+        position: [8, 1]
+    A115_Chrysler_K:
+        position: [8, 2]
+    A141_M-4-Y:
+        position: [8, 3]
+    M6A2E1_exp:
+        position: [8, 4]
+    M-3-Y-Midas:
+        position: [8, 5]
+    A111_T25_Pilot:
+        position: [8, 6]
+    T26_E4_SuperPershing:
+        position: [8, 7]
+    A117_T26E5:
+        position: [8, 8]
+    A68_T28D:
+        position: [8, 9]
+    T34_hvy:
+        position: [8, 10]
+    T34_hvy_Freedom:
+        position: [8, 11]
+    T49_Fearless:
+        position: [8, 12]
+    A124_T54E2:
+        position: [8, 13]
+    A132_T77:
+        position: [8, 14]
+    T95E2:
+        position: [8, 15]
+    A122_TS-5:
+        position: [8, 16]
+    A151_TS_60:
+        position: [8, 17]
+    T28_Prototype:
+        position: [8, 18]
+    T28:
+        position: [8, 19]
+    T32:
+        position: [8, 20]
+    M-3-Y:
+        position: [8, 21]
+    Pershing:
+        position: [8, 22]
+    T69:
+        position: [8, 23]
+    A100_T49:
+        position: [8, 24]
+#<!-- TIER_9 -->
+    A125_AEP_1:
+        position: [9, 16]
+    A146_TL_7_120:
+        position: [9, 17]
+    T30:
+        position: [9, 18]
+    T95:
+        position: [9, 19]
+    M103:
+        position: [9, 20]
+    M-5-Y:
+        position: [9, 21]
+    M46_Patton:
+        position: [9, 22]
+    T54E1:
+        position: [9, 23]
+    A99_T92E1:
+        position: [9, 24]
+#<!-- TIER_10 -->
+    A128_Concept_1b:
+        position: [10, 13]
+    M60:
+        position: [10, 14]
+    A116_XM551_Exp:
+        position: [10, 15]
+    A95_T95E6:
+        position: [10, 16]
+    A153_XM66F:
+        position: [10, 17]
+    T110E4:
+        position: [10, 18]
+    T110E3:
+        position: [10, 19]
+    T110:
+        position: [10, 20]
+    M-6-Y:
+        position: [10, 21]
+    M48A1:
+        position: [10, 22]
+    T57_58:
+        position: [10, 23]
+    A116_XM551:
+        position: [10, 24]

@@ -1,0 +1,746 @@
+<root>
+	<Ch01_Type59>
+		<id>0</id>
+		<userString>#china_vehicles:Ch01_Type59</userString>
+		<description>#china_vehicles:Ch01_Type59_descr</description>
+		<price>10000<gold/> </price>
+		<notInShop>false</notInShop>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</Ch01_Type59>
+	<Ch03_WZ-111>
+		<id>3</id>
+		<userString>#china_vehicles:Ch03_WZ-111</userString>
+		<description>#china_vehicles:Ch03_WZ-111_descr</description>
+		<price>7250<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</Ch03_WZ-111>
+	<Ch04_T34_1>
+		<id>4</id>
+		<userString>#china_vehicles:Ch04_T34_1</userString>
+		<description>#china_vehicles:Ch04_T34_1_descr</description>
+		<price>1400000</price>
+		<enrichmentPermanentCost>10900</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch04_T34_1>
+	<Ch06_Renault_NC31>
+		<id>5</id>
+		<userString>#china_vehicles:Ch06_Renault_NC31</userString>
+		<description>#china_vehicles:Ch06_Renault_NC31_descr</description>
+		<shortUserString>#china_vehicles:Ch06_Renault_NC31_short</shortUserString>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<notInShop>false</notInShop>
+		<configurationModes>development production</configurationModes>
+	</Ch06_Renault_NC31>
+	<Ch05_T34_2>
+		<id>6</id>
+		<userString>#china_vehicles:Ch05_T34_2</userString>
+		<description>#china_vehicles:Ch05_T34_2_descr</description>
+		<price>2480000</price>
+		<enrichmentPermanentCost>13500</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch05_T34_2>
+	<Ch18_WZ-120>
+		<id>7</id>
+		<userString>#china_vehicles:Ch18_WZ-120</userString>
+		<description>#china_vehicles:Ch18_WZ-120_descr</description>
+		<price>3520000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch18_WZ-120>
+	<Ch12_111_1_2_3>
+		<id>8</id>
+		<userString>#china_vehicles:Ch12_111_1_2_3</userString>
+		<description>#china_vehicles:Ch12_111_1_2_3_descr</description>
+		<shortUserString>#china_vehicles:Ch12_111_1_2_3_short</shortUserString>
+		<price>3500000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch12_111_1_2_3>
+	<Ch07_Vickers_MkE_Type_BT26>
+		<id>9</id>
+		<userString>#china_vehicles:Ch07_Vickers_MkE_Type_BT26</userString>
+		<description>#china_vehicles:Ch07_Vickers_MkE_Type_BT26_descr</description>
+		<shortUserString>#china_vehicles:Ch07_Vickers_MkE_Type_BT26_short</shortUserString>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank enhancedSuspension_Vikkers_user</tags>
+		<level>1</level>
+		<configurationModes>development production</configurationModes>
+	</Ch07_Vickers_MkE_Type_BT26>
+	<Ch11_110>
+		<id>11</id>
+		<userString>#china_vehicles:Ch11_110</userString>
+		<description>#china_vehicles:Ch11_110_descr</description>
+		<price>2600000</price>
+		<enrichmentPermanentCost>13700</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch11_110>
+	<Ch09_M5>
+		<id>12</id>
+		<userString>#china_vehicles:Ch09_M5</userString>
+		<description>#china_vehicles:Ch09_M5_descr</description>
+		<price>85000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
+		<level>4</level>
+		<configurationModes>development production</configurationModes>
+	</Ch09_M5>
+	<Ch16_WZ_131>
+		<id>13</id>
+		<userString>#china_vehicles:Ch16_WZ_131</userString>
+		<description>#china_vehicles:Ch16_WZ_131_descr</description>
+		<price>1420000</price>
+		<enrichmentPermanentCost>10600</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<level>7</level>
+		<configurationModes>development production</configurationModes>
+	</Ch16_WZ_131>
+	<Ch10_IS2>
+		<id>14</id>
+		<userString>#china_vehicles:Ch10_IS2</userString>
+		<description>#china_vehicles:Ch10_IS2_descr</description>
+		<price>1450000</price>
+		<enrichmentPermanentCost>10100</enrichmentPermanentCost>
+		<tags>heavyTank sinai</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch10_IS2>
+	<Ch17_WZ131_1_WZ132>
+		<id>15</id>
+		<userString>#china_vehicles:Ch17_WZ131_1_WZ132</userString>
+		<description>#china_vehicles:Ch17_WZ131_1_WZ132_descr</description>
+		<price>2410000</price>
+		<enrichmentPermanentCost>13600</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<level>8</level>
+		<configurationModes>development production</configurationModes>
+	</Ch17_WZ131_1_WZ132>
+	<Ch19_121>
+		<id>16</id>
+		<userString>#china_vehicles:Ch19_121</userString>
+		<description>#china_vehicles:Ch19_121_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user largeCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch19_121>
+	<Ch08_Type97_Chi_Ha>
+		<id>17</id>
+		<userString>#china_vehicles:Ch08_Type97_Chi_Ha</userString>
+		<description>#china_vehicles:Ch08_Type97_Chi_Ha_descr</description>
+		<shortUserString>#china_vehicles:Ch08_Type97_Chi_Ha_short</shortUserString>
+		<price>6000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank wetCombatPack_class1_user</tags>
+		<level>3</level>
+		<configurationModes>development production</configurationModes>
+	</Ch08_Type97_Chi_Ha>
+	<Ch21_T34>
+		<id>18</id>
+		<userString>#china_vehicles:Ch21_T34</userString>
+		<description>#china_vehicles:Ch21_T34_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3800</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch21_T34>
+	<Ch15_59_16>
+		<id>19</id>
+		<userString>#china_vehicles:Ch15_59_16</userString>
+		<description>#china_vehicles:Ch15_59_16_descr</description>
+		<price>920000</price>
+		<enrichmentPermanentCost>5200</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch15_59_16>
+	<Ch20_Type58>
+		<id>20</id>
+		<userString>#china_vehicles:Ch20_Type58</userString>
+		<description>#china_vehicles:Ch20_Type58_descr</description>
+		<price>920000</price>
+		<enrichmentPermanentCost>5300</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch20_Type58>
+	<Ch22_113>
+		<id>21</id>
+		<userString>#china_vehicles:Ch22_113</userString>
+		<description>#china_vehicles:Ch22_113_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch22_113>
+	<Ch23_112>
+		<id>252</id>
+		<userString>#china_vehicles:Ch23_112</userString>
+		<description>#china_vehicles:Ch23_112_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Ch23_112>
+	<Ch02_Type62>
+		<id>255</id>
+		<userString>#china_vehicles:Ch02_Type62</userString>
+		<description>#china_vehicles:Ch02_Type62_descr</description>
+		<price>5500<gold/>
+    </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Ch02_Type62>
+	<Ch24_Type64>
+		<id>10</id>
+		<userString>#china_vehicles:Ch24_Type64</userString>
+		<shortUserString>#china_vehicles:Ch24_Type64_short</shortUserString>
+		<description>#china_vehicles:Ch24_Type64_descr</description>
+		<price>5500<gold/>
+    </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</Ch24_Type64>
+	<Ch25_121_mod_1971B>
+		<id>22</id>
+		<userString>#china_vehicles:Ch25_121_mod_1971B</userString>
+		<shortUserString>#china_vehicles:Ch25_121_mod_1971B_short</shortUserString>
+		<description>#china_vehicles:Ch25_121_mod_1971B_descr</description>
+		<price>30000<gold/>
+    </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank enhancedTorsions3t_user largeCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch25_121_mod_1971B>
+	<Ch26_59_Patton>
+		<id>23</id>
+		<userString>#china_vehicles:Ch26_59_Patton</userString>
+		<shortUserString>#china_vehicles:Ch26_59_Patton_short</shortUserString>
+		<description>#china_vehicles:Ch26_59_Patton_descr</description>
+		<price>7250<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch26_59_Patton>
+	<Ch14_T34_3>
+		<id>24</id>
+		<userString>#china_vehicles:Ch14_T34_3</userString>
+		<shortUserString>#china_vehicles:Ch14_T34_3_short</shortUserString>
+		<description>#china_vehicles:Ch14_T34_3_descr</description>
+		<price>7500<gold/>
+    </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch14_T34_3>
+	<CH38_WZ113G-FT>
+		<id>25</id>
+		<userString>#china_vehicles:CH38_WZ113G-FT</userString>
+		<shortUserString>#china_vehicles:CH38_WZ113G-FT_short</shortUserString>
+		<description>#china_vehicles:CH38_WZ113G-FT_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</CH38_WZ113G-FT>
+	<Ch_LT_vz38>
+		<id>26</id>
+		<userString>#china_vehicles:Ch_LT_vz38</userString>
+		<shortUserString>#china_vehicles:Ch_LT_vz38_short</shortUserString>
+		<description>#china_vehicles:Ch_LT_vz38_descr</description>
+		<price>1200</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>2</level>
+		<configurationModes>development production</configurationModes>
+	</Ch_LT_vz38>
+	<Ch39_WZ120_1G_FT>
+		<id>27</id>
+		<userString>#china_vehicles:Ch39_WZ120_1G_FT</userString>
+		<shortUserString>#china_vehicles:Ch39_WZ120_1G_FT_short</shortUserString>
+		<description>#china_vehicles:Ch39_WZ120_1G_FT_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch39_WZ120_1G_FT>
+	<Ch_WZ-112v2>
+		<id>28</id>
+		<userString>#china_vehicles:Ch_WZ-112v2</userString>
+		<shortUserString>#china_vehicles:Ch_WZ-112v2_short</shortUserString>
+		<description>#china_vehicles:Ch_WZ-112v2_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch_WZ-112v2>
+	<Ch35_T-34-2G_FT>
+		<id>29</id>
+		<userString>#china_vehicles:Ch35_T-34-2G_FT</userString>
+		<shortUserString>#china_vehicles:Ch35_T-34-2G_FT_short</shortUserString>
+		<description>#china_vehicles:Ch35_T-34-2G_FT_descr</description>
+		<price>1440000</price>
+		<enrichmentPermanentCost>10400</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch35_T-34-2G_FT>
+	<Ch34_WZ-131G_FT>
+		<id>30</id>
+		<userString>#china_vehicles:Ch34_WZ-131G_FT</userString>
+		<shortUserString>#china_vehicles:Ch34_WZ-131G_FT_short</shortUserString>
+		<description>#china_vehicles:Ch34_WZ-131G_FT_descr</description>
+		<price>910000</price>
+		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch34_WZ-131G_FT>
+	<Ch36_WZ-111-1G_FT>
+		<id>31</id>
+		<userString>#china_vehicles:Ch36_WZ-111-1G_FT</userString>
+		<shortUserString>#china_vehicles:Ch36_WZ-111-1G_FT_short</shortUserString>
+		<description>#china_vehicles:Ch36_WZ-111-1G_FT_descr</description>
+		<price>2500000</price>
+		<enrichmentPermanentCost>12700</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch36_WZ-111-1G_FT>
+	<Ch37_WZ-111G_FT>
+		<id>32</id>
+		<userString>#china_vehicles:Ch37_WZ-111G_FT</userString>
+		<shortUserString>#china_vehicles:Ch37_WZ-111G_FT_short</shortUserString>
+		<description>#china_vehicles:Ch37_WZ-111G_FT_descr</description>
+		<price>3350000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch37_WZ-111G_FT>
+	<Ch41_WZ_111_5A>
+		<id>33</id>
+		<userString>#china_vehicles:Ch41_WZ_111_5A</userString>
+		<shortUserString>#china_vehicles:Ch41_WZ_111_5A_short</shortUserString>
+		<description>#china_vehicles:Ch41_WZ_111_5A_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch41_WZ_111_5A>
+	<Ch42_M41D>
+		<id>34</id>
+		<userString>#china_vehicles:Ch42_M41D</userString>
+		<shortUserString>#china_vehicles:Ch42_M41D_short</shortUserString>
+		<description>#china_vehicles:Ch42_M41D_descr</description>
+		<price>5300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch42_M41D>
+	<Type_58BP>
+		<id>35</id>
+		<userString>#china_vehicles:Type_58BP</userString>
+		<shortUserString>#china_vehicles:Type_58BP_short</shortUserString>
+		<description>#china_vehicles:Type_58BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Type_58BP>
+	<Type_58TU>
+		<id>36</id>
+		<userString>#china_vehicles:Type_58TU</userString>
+		<shortUserString>#china_vehicles:Type_58TU_short</shortUserString>
+		<description>#china_vehicles:Type_58TU_descr</description>
+		<price>10<gold/>
+		</price>
+		<sellPrice>10<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Type_58TU>
+	<Ch43_WZ-122_2>
+		<id>37</id>
+		<userString>#china_vehicles:Ch43_WZ-122_2</userString>
+		<shortUserString>#china_vehicles:Ch43_WZ-122_2_short</shortUserString>
+		<description>#china_vehicles:Ch43_WZ-122_2_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch43_WZ-122_2>
+	<Ch45_WZ_114>
+		<id>38</id>
+		<userString>#china_vehicles:Ch45_WZ_114</userString>
+		<shortUserString>#china_vehicles:Ch45_WZ_114_short</shortUserString>
+		<description>#china_vehicles:Ch45_WZ_114_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<level>9</level>
+		<configurationModes>production development</configurationModes>
+	</Ch45_WZ_114>
+	<Ch28_WZ_132A>
+		<id>39</id>
+		<userString>#china_vehicles:Ch28_WZ_132A</userString>
+		<shortUserString>#china_vehicles:Ch28_WZ_132A_short</shortUserString>
+		<description>#china_vehicles:Ch28_WZ_132A_descr</description>
+		<price>3480000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch28_WZ_132A>
+	<Ch29_Type_62C_prot>
+		<id>40</id>
+		<userString>#china_vehicles:Ch29_Type_62C_prot</userString>
+		<shortUserString>#china_vehicles:Ch29_Type_62C_prot_short</shortUserString>
+		<description>#china_vehicles:Ch29_Type_62C_prot_descr</description>
+		<price>6300000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch29_Type_62C_prot>
+	<Ch15_59_16_BP>
+		<id>41</id>
+		<userString>#china_vehicles:Ch15_59_16_BP</userString>
+		<shortUserString>#china_vehicles:Ch15_59_16_BP_short</shortUserString>
+		<description>#china_vehicles:Ch15_59_16_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch15_59_16_BP>
+	<Ch34_WZ-131G_FT_BP>
+		<id>42</id>
+		<userString>#china_vehicles:Ch34_WZ-131G_FT_BP</userString>
+		<shortUserString>#china_vehicles:Ch34_WZ-131G_FT_BP_short</shortUserString>
+		<description>#china_vehicles:Ch34_WZ-131G_FT_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch34_WZ-131G_FT_BP>
+	<Ch44_114_SP2>
+		<id>43</id>
+		<userString>#china_vehicles:Ch44_114_SP2</userString>
+		<shortUserString>#china_vehicles:Ch44_114_SP2_short</shortUserString>
+		<description>#china_vehicles:Ch44_114_SP2_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch44_114_SP2>
+</root>

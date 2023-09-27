@@ -1,0 +1,221 @@
+premium_rows: 15
+
+tanks:
+#<!-- TIER_1 -->
+    Ltraktor:
+        position: [1, 14]
+    PzII:
+        position: [1, 18]
+#<!-- TIER_2 -->
+    PanzerJager_I:
+        position: [2, 14]
+    H39_captured:
+        position: [2, 15]
+    Pz35t:
+        position: [2, 18]
+#<!-- TIER_3 -->
+    G100_Gtraktor_Krupp:
+        position: [3, 7]
+    G20_Marder_II:
+        position: [3, 8]
+    Pz38t:
+        position: [3, 9]
+    Pz_II_AusfG:
+        position: [3, 10]
+    PzII_J:
+        position: [3, 11]
+    PzIII_A:
+        position: [3, 12]
+    Pz_IV_AusfA:
+        position: [3, 13]
+    S35_captured:
+        position: [3, 14]
+    T-15:
+        position: [3, 15]
+    PzIII:
+        position: [3, 18]
+#<!-- TIER_4 -->
+    DW_II:
+        position: [4, 12]
+    PzII_Luchs:
+        position: [4, 13]
+    Pz38_NA:
+        position: [4, 14]
+    B-1bis_captured:
+        position: [4, 15]
+    Hetzer:
+        position: [4, 17]
+    Pz_IV_AusfD:
+        position: [4, 19]
+#<!-- TIER_5 -->
+    Krupp-38D:
+        position: [5, 8]
+    PzIII_IV:
+        position: [5, 9]
+    Pz_IV_AusfBT:
+        position: [5, 10]
+    PzIV_Hydro:
+        position: [5, 11]
+    PzV_PzIV:
+        position: [5, 12]
+    Pz_Sfl_IVc:
+        position: [5, 13]
+    T-25:
+        position: [5, 14]
+    VK3001H:
+        position: [5, 15]
+    StuGIII:
+        position: [5, 17]
+    PzIV:
+        position: [5, 19]
+    VK1602:
+        position: [5, 23]
+#<!-- TIER_6 -->
+    VK2801_BP:
+        position: [6, 5]
+    G_VK3502_BP:
+        position: [6, 6]
+    DickerMax:
+        position: [6, 7]
+    Nashorn_BP:
+        position: [6, 8]
+    PzVI_AusfBP:
+        position: [6, 9]
+    JagdPzIV_AusfBP:
+        position: [6, 10]
+    PzIV_schmalturm:
+        position: [6, 11]
+    PzVI_AusfTU:
+        position: [6, 12]
+    G136_Tiger_131:
+        position: [6, 13]
+    VK3002DB_BP:
+        position: [6, 14]
+    VK3002M:
+        position: [6, 15]
+    Nashorn:
+        position: [6, 16]
+    JagdPzIV:
+        position: [6, 17]
+    VK3001P:
+        position: [6, 19]
+    VK3601H:
+        position: [6, 21]
+    VK3002DB_V1:
+        position: [6, 22]
+    VK2801:
+        position: [6, 24]
+#<!-- TIER_7 -->
+    E-25:
+        position: [7, 10]
+    G147_mPanzer_64:
+        position: [7, 11]
+    Panther_M10:
+        position: [7, 12]
+    G109_Steyr_WT:
+        position: [7, 13]
+    S01_Frankentank:
+        position: [7, 14]
+    G118_VK4503:
+        position: [7, 15]
+    Sturer_Emil:
+        position: [7, 16]
+    JagdPanther:
+        position: [7, 17]
+    PzVI_Tiger_P:
+        position: [7, 19]
+    PzVI:
+        position: [7, 21]
+    PzV:
+        position: [7, 22]
+    VK3002DB:
+        position: [7, 23]
+    G113_SP_I_C:
+        position: [7, 24]
+#<!-- TIER_8 -->
+    G_E-75TS:
+        position: [8, 1]
+    G140_HWK_30:
+        position: [8, 2]
+    JagdTiger_SdKfz_185:
+        position: [8, 3]
+    JagdTiger_SdKfz_185_Snowstorm:
+        position: [8, 4]
+    G112_JagdPanzer_105:
+        position: [8, 5]
+    G_E-75RT:
+        position: [8, 6]
+    G154_Kpz_07_RH:
+        position: [8, 7]
+    G164_Kpz_Pr_68_P:
+        position: [8, 8]
+    G120_M41_90:
+        position: [8, 9]
+    Lowe:
+        position: [8, 10]
+    G142_M48RPz:
+        position: [8, 11]
+    G106_PzKpfwPanther_AusfF:
+        position: [8, 12]
+    G119_Pz58_Mutz:
+        position: [8, 13]
+    G114_Rheinmetall_Scorpion:
+        position: [8, 14]
+    G138_VK16801P:
+        position: [8, 15]
+    RhB_Waffentrager:
+        position: [8, 16]
+    JagdPantherII:
+        position: [8, 17]
+    Ferdinand:
+        position: [8, 18]
+    VK4502A:
+        position: [8, 19]
+    G115_VK10001P:
+        position: [8, 20]
+    PzVIB_Tiger_II:
+        position: [8, 21]
+    Panther_II:
+        position: [8, 22]
+    Indien_Panzer:
+        position: [8, 23]
+    G103_RU_251:
+        position: [8, 24]
+#<!-- TIER_9 -->
+    G_KpfPz_70:
+        position: [9, 14]
+    Waffentrager_IV_CL:
+        position: [9, 15]     
+    Waffentrager_IV:
+        position: [9, 16]
+    JagdTiger:
+        position: [9, 17]
+    VK4502P:
+        position: [9, 19]
+    G110_Mauschen:
+        position: [9, 20]
+    E-75:
+        position: [9, 21]
+    E-50:
+        position: [9, 22]
+    Pro_Ag_A:
+        position: [9, 23]
+#<!-- TIER_10 -->
+    G144_Kpz_50t :
+        position: [10, 14]
+    G_VK9001P:
+        position: [10, 15]
+    G121_Grille_15_L63:
+        position: [10, 16]
+    JagdPz_E100:
+        position: [10, 17]
+    VK7201:
+        position: [10, 19]
+    Maus:
+        position: [10, 20]
+    E-100:
+        position: [10, 21]
+    E50_Ausf_M:
+        position: [10, 22]
+    Leopard1:
+        position: [10, 23]

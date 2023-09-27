@@ -1,0 +1,521 @@
+<root>
+	<Chi_Ni>
+		<id>1</id>
+		<userString>#japan_vehicles:Chi_Ni</userString>
+		<description>#japan_vehicles:Chi_Ni_descr</description>
+		<shortUserString>#japan_vehicles:Chi_Ni_short</shortUserString>
+		<price>1200</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</Chi_Ni>
+	<NC27>
+		<id>2</id>
+		<userString>#japan_vehicles:NC27</userString>
+		<shortUserString>#japan_vehicles:NC27_short</shortUserString>
+		<description>#japan_vehicles:NC27_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<notInShop>false</notInShop>
+		<configurationModes>production development supertest</configurationModes>
+	</NC27>
+	<Ha_Go>
+		<id>3</id>
+		<userString>#japan_vehicles:Ha_Go</userString>
+		<description>#japan_vehicles:Ha_Go_descr</description>
+		<shortUserString>#japan_vehicles:Ha_Go_short</shortUserString>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<configurationModes>production development supertest</configurationModes>
+	</Ha_Go>
+	<Chi_Ri>
+		<id>4</id>
+		<userString>#japan_vehicles:Chi_Ri</userString>
+		<description>#japan_vehicles:Chi_Ri_descr</description>
+		<shortUserString>#japan_vehicles:Chi_Ri_short</shortUserString>
+		<price>1440000</price>
+		<enrichmentPermanentCost>10300</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSprings_class2_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Chi_Ri>
+	<Chi_Nu>
+		<id>5</id>
+		<userString>#japan_vehicles:Chi_Nu</userString>
+		<shortUserString>#japan_vehicles:Chi_Nu_short</shortUserString>
+		<description>#japan_vehicles:Chi_Nu_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3600</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSprings_class2_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Chi_Nu>
+	<Chi_He>
+		<id>6</id>
+		<userString>#japan_vehicles:Chi_He</userString>
+		<shortUserString>#japan_vehicles:Chi_He_short</shortUserString>
+		<description>#japan_vehicles:Chi_He_descr</description>
+		<price>85000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</Chi_He>
+	<Chi_To>
+		<id>7</id>
+		<userString>#japan_vehicles:Chi_To</userString>
+		<shortUserString>#japan_vehicles:Chi_To_short</shortUserString>
+		<description>#japan_vehicles:Chi_To_descr</description>
+		<price>940000</price>
+		<enrichmentPermanentCost>4500</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSprings_class2_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Chi_To>
+	<Chi_Ha>
+		<id>8</id>
+		<userString>#japan_vehicles:Chi_Ha</userString>
+		<description>#japan_vehicles:Chi_Ha_descr</description>
+		<shortUserString>#japan_vehicles:Chi_Ha_short</shortUserString>
+		<price>6000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank wetCombatPack_class1_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</Chi_Ha>
+	<Ke_Ni>
+		<id>9</id>
+		<userString>#japan_vehicles:Ke_Ni</userString>
+		<shortUserString>#japan_vehicles:Ke_Ni_short</shortUserString>
+		<description>#japan_vehicles:Ke_Ni_descr</description>
+		<notInShop>false</notInShop>
+		<price>50<gold/>
+		</price>
+		<sellPrice>50<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible enhancedSprings_user wetCombatPack_class1_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</Ke_Ni>
+	<STA_1>
+		<id>10</id>
+		<userString>#japan_vehicles:STA_1</userString>
+		<description>#japan_vehicles:STA_1_descr</description>
+		<shortUserString>#japan_vehicles:STA_1_short</shortUserString>
+		<price>2550000</price>
+		<enrichmentPermanentCost>12800</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</STA_1>
+	<Ke_Ho>
+		<id>11</id>
+		<userString>#japan_vehicles:Ke_Ho</userString>
+		<shortUserString>#japan_vehicles:Ke_Ho_short</shortUserString>
+		<description>#japan_vehicles:Ke_Ho_descr</description>
+		<notInShop>false</notInShop>
+		<price>100<gold/>
+		</price>
+		<sellPrice>100<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</Ke_Ho>
+	<Type_61>
+		<id>13</id>
+		<userString>#japan_vehicles:Type_61</userString>
+		<description>#japan_vehicles:Type_61_descr</description>
+		<shortUserString>#japan_vehicles:Type_61_short</shortUserString>
+		<price>3600000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Type_61>
+	<ST_B1>
+		<id>14</id>
+		<userString>#japan_vehicles:ST_B1</userString>
+		<description>#japan_vehicles:ST_B1_descr</description>
+		<shortUserString>#japan_vehicles:ST_B1_short</shortUserString>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</ST_B1>
+	<Ke_Ni_B>
+		<id>202</id>
+		<userString>#japan_vehicles:Ke_Ni_B</userString>
+		<shortUserString>#japan_vehicles:Ke_Ni_B_short</shortUserString>
+		<description>#japan_vehicles:Ke_Ni_B_descr</description>
+		<price>950<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank enhancedSuspension_Christie_user wetCombatPack_class1_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</Ke_Ni_B>
+	<PzVI_GuP>
+		<id>248</id>
+		<userString>#japan_vehicles:PzVI_GuP</userString>
+		<shortUserString>#japan_vehicles:PzVI_GuP_short</shortUserString>
+		<description>#japan_vehicles:PzVI_GuP_descr</description>
+		<price>1200<gold/>
+		</price>
+		<sellPrice>1200<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank collectible beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional eventCamouflage_user</tags>
+		<notInShop>false</notInShop>
+		<level>6</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</PzVI_GuP>
+	<Pz_IV_AusfH>
+		<id>249</id>
+		<userString>#japan_vehicles:Pz_IV_AusfH</userString>
+		<shortUserString>#japan_vehicles:Pz_IV_AusfH_short</shortUserString>
+		<description>#japan_vehicles:Pz_IV_AusfH_descr</description>
+		<price>1200<gold/>
+    </price>
+		<sellPrice>1200<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible enhancedLevers_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional eventCamouflage_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Pz_IV_AusfH>
+	<Chi_Nu_Kai>
+		<id>255</id>
+		<userString>#japan_vehicles:Chi_Nu_Kai</userString>
+		<shortUserString>#japan_vehicles:Chi_Nu_Kai_short</shortUserString>
+		<description>#japan_vehicles:Chi_Nu_Kai_descr</description>
+		<notInShop>false</notInShop>
+		<price>2100<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Chi_Nu_Kai>
+	<G09_Hetzer_GuP>
+		<id>203</id>
+		<userString>#japan_vehicles:Hetzer_GuP</userString>
+		<shortUserString>#japan_vehicles:Hetzer_GuP_short</shortUserString>
+		<description>#japan_vehicles:Hetzer_descr</description>
+		<notInShop>false</notInShop>
+		<price>1200<gold/>
+		</price>
+		<sellPrice>1200<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user fictional eventCamouflage_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</G09_Hetzer_GuP>
+	<J20_Ho_Ri_type3>
+		<id>15</id>
+		<userString>#japan_vehicles:J20_Ho_Ri_type3</userString>
+		<shortUserString>#japan_vehicles:J20_Ho_Ri_type3_short</shortUserString>
+		<description>#japan_vehicles:J20_Ho_Ri_type3_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J20_Ho_Ri_type3>
+	<J21_Ho_Ri>
+		<id>16</id>
+		<userString>#japan_vehicles:J21_Ho_Ri</userString>
+		<shortUserString>#japan_vehicles:J21_Ho_Ri_short</shortUserString>
+		<description>#japan_vehicles:J21_Ho_Ri_descr</description>
+		<price>3450000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J21_Ho_Ri>
+	<IS-2_GuP>
+		<id>17</id>
+		<userString>#japan_vehicles:IS-2_GuP</userString>
+		<shortUserString>#japan_vehicles:IS-2_GuP_short</shortUserString>
+		<description>#japan_vehicles:IS-2_GuP_descr</description>
+		<price>1200<gold/>
+		</price>
+		<sellPrice>1200<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</IS-2_GuP>
+	<Firefly_GuP>
+		<id>18</id>
+		<userString>#japan_vehicles:Firefly_GuP</userString>
+		<shortUserString>#japan_vehicles:Firefly_GuP_short</shortUserString>
+		<description>#japan_vehicles:Firefly_GuP_descr</description>
+		<price>250<gold/>
+        </price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Firefly_GuP>
+	<J22_Ho_Ri_type96>
+		<id>19</id>
+		<userString>#japan_vehicles:J22_Ho_Ri_type96</userString>
+		<shortUserString>#japan_vehicles:J22_Ho_Ri_type96_short</shortUserString>
+		<description>#japan_vehicles:J22_Ho_Ri_type96_descr</description>
+		<price>2570000</price>
+		<enrichmentPermanentCost>13000</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J22_Ho_Ri_type96>
+	<J23_Chi_To_SPG>
+		<id>20</id>
+		<userString>#japan_vehicles:J23_Chi_To_SPG</userString>
+		<shortUserString>#japan_vehicles:J23_Chi_To_SPG_short</shortUserString>
+		<description>#japan_vehicles:J23_Chi_To_SPG_descr</description>
+		<price>1345000</price>
+		<enrichmentPermanentCost>10300</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J23_Chi_To_SPG>
+	<J30_Mitsu_108>
+		<id>21</id>
+		<userString>#japan_vehicles:J30_Mitsu_108</userString>
+		<shortUserString>#japan_vehicles:J30_Mitsu_108_short</shortUserString>
+		<description>#japan_vehicles:J30_Mitsu_108_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>4000</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J30_Mitsu_108>
+	<J29_Ju_Nu>
+		<id>22</id>
+		<userString>#japan_vehicles:J29_Ju_Nu</userString>
+		<shortUserString>#japan_vehicles:J29_Ju_Nu_short</shortUserString>
+		<description>#japan_vehicles:J29_Ju_Nu_descr</description>
+		<price>885000</price>
+		<enrichmentPermanentCost>5200</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J29_Ju_Nu>
+	<J28_Ju_To>
+		<id>23</id>
+		<userString>#japan_vehicles:J28_Ju_To</userString>
+		<shortUserString>#japan_vehicles:J28_Ju_To_short</shortUserString>
+		<description>#japan_vehicles:J28_Ju_To_descr</description>
+		<price>1450300</price>
+		<enrichmentPermanentCost>10600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J28_Ju_To>
+	<J27_Chi_Se>
+		<id>24</id>
+		<userString>#japan_vehicles:J27_Chi_Se</userString>
+		<shortUserString>#japan_vehicles:J27_Chi_Se_short</shortUserString>
+		<description>#japan_vehicles:J27_Chi_Se_descr</description>
+		<price>2610000</price>
+		<enrichmentPermanentCost>13600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J27_Chi_Se>
+	<J26_Type_68>
+		<id>25</id>
+		<userString>#japan_vehicles:J26_Type_68</userString>
+		<shortUserString>#japan_vehicles:J26_Type_68_short</shortUserString>
+		<description>#japan_vehicles:J26_Type_68_descr</description>
+		<price>3640000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J26_Type_68>
+	<J25_Type71>
+		<id>26</id>
+		<userString>#japan_vehicles:J25_Type71</userString>
+		<shortUserString>#japan_vehicles:J25_Type71_short</shortUserString>
+		<description>#japan_vehicles:J25_Type71_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J25_Type71>
+	<J24_Type_57>
+		<id>27</id>
+		<userString>#japan_vehicles:J24_Type_57</userString>
+		<shortUserString>#japan_vehicles:J24_Type_57_short</shortUserString>
+		<description>#japan_vehicles:J24_Type_57_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J24_Type_57>
+	<J29_Ju_Nu_BP>
+		<id>28</id>
+		<userString>#japan_vehicles:J29_Ju_Nu_BP</userString>
+		<shortUserString>#japan_vehicles:J29_Ju_Nu_BP_short</shortUserString>
+		<description>#japan_vehicles:J29_Ju_Nu_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J29_Ju_Nu_BP>
+</root>

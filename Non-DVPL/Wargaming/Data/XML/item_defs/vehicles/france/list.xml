@@ -1,0 +1,885 @@
+<root>
+	<D2>
+		<id>1</id>
+		<userString>#france_vehicles:D2</userString>
+		<shortUserString>#france_vehicles:D2_short</shortUserString>
+		<description>#france_vehicles:D2_descr</description>
+		<price>6000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</D2>
+	<RenaultFT>
+		<id>2</id>
+		<userString>#france_vehicles:RenaultFT</userString>
+		<shortUserString>#france_vehicles:RenaultFT_short</shortUserString>
+		<description>#france_vehicles:RenaultFT_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<notInShop>false</notInShop>
+		<configurationModes>production development supertest</configurationModes>
+	</RenaultFT>
+	<B1>
+		<id>4</id>
+		<userString>#france_vehicles:B1</userString>
+		<shortUserString>#france_vehicles:B1_short</shortUserString>
+		<description>#france_vehicles:B1_descr</description>
+		<price>85000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class2_user enhancedSprings_class3_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</B1>
+	<D1>
+		<id>6</id>
+		<userString>#france_vehicles:D1</userString>
+		<shortUserString>#france_vehicles:D1_short</shortUserString>
+		<description>#france_vehicles:D1_descr</description>
+		<notInShop>false</notInShop>
+		<price>25<gold/>
+        </price>
+		<sellPrice>25<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</D1>
+	<FCM_36Pak40>
+		<id>9</id>
+		<userString>#france_vehicles:FCM_36Pak40</userString>
+		<shortUserString>#france_vehicles:FCM_36Pak40_short</shortUserString>
+		<description>#france_vehicles:FCM_36Pak40_descr</description>
+		<price>950<gold/>
+		</price>
+		<sellPrice>950<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
+		<level>3</level>
+		<configurationModes>development production supertest</configurationModes>
+	</FCM_36Pak40>
+	<ARL_44>
+		<id>10</id>
+		<userString>#france_vehicles:ARL_44</userString>
+		<shortUserString>#france_vehicles:ARL_44_short</shortUserString>
+		<description>#france_vehicles:ARL_44_descr</description>
+		<price>925000</price>
+		<enrichmentPermanentCost>6000</enrichmentPermanentCost>
+		<tags>heavyTank largeCaliberTankRammer_user wetCombatPack_class2_user enhancedSprings_class3_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</ARL_44>
+	<AMX40>
+		<id>11</id>
+		<userString>#france_vehicles:AMX40</userString>
+		<shortUserString>#france_vehicles:AMX40_short</shortUserString>
+		<description>#france_vehicles:AMX40_descr</description>
+		<notInShop>false</notInShop>
+		<price>100<gold/>
+        </price>
+		<sellPrice>100<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_user</tags>
+		<level>4</level>
+		<configurationModes>development production supertest</configurationModes>
+	</AMX40>
+	<AMX_50_100>
+		<id>12</id>
+		<userString>#france_vehicles:AMX_50_100</userString>
+		<shortUserString>#france_vehicles:AMX_50_100_short</shortUserString>
+		<description>#france_vehicles:AMX_50_100_descr</description>
+		<price>2552500</price>
+		<enrichmentPermanentCost>15000</enrichmentPermanentCost>
+		<tags>heavyTank aimingStabilizer_Mk2_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</AMX_50_100>
+	<Bat_Chatillon25t>
+		<id>14</id>
+		<userString>#france_vehicles:Bat_Chatillon25t</userString>
+		<shortUserString>#france_vehicles:Bat_Chatillon25t_short</shortUserString>
+		<description>#france_vehicles:Bat_Chatillon25t_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions3t_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</Bat_Chatillon25t>
+	<AMX_50_120>
+		<id>15</id>
+		<userString>#france_vehicles:AMX_50_120</userString>
+		<shortUserString>#france_vehicles:AMX_50_120_short</shortUserString>
+		<description>#france_vehicles:AMX_50_120_descr</description>
+		<price>3565000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank aimingStabilizer_Mk2_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</AMX_50_120>
+	<AMX_13_90>
+		<id>19</id>
+		<userString>#france_vehicles:AMX_13_90</userString>
+		<shortUserString>#france_vehicles:AMX_13_90_short</shortUserString>
+		<description>#france_vehicles:AMX_13_90_descr</description>
+		<price>2370000</price>
+		<enrichmentPermanentCost>15000</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user enhancedTorsions1t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</AMX_13_90>
+	<AMX_13_75>
+		<id>20</id>
+		<userString>#france_vehicles:AMX_13_75</userString>
+		<shortUserString>#france_vehicles:AMX_13_75_short</shortUserString>
+		<description>#france_vehicles:AMX_13_75_descr</description>
+		<price>1345000</price>
+		<enrichmentPermanentCost>11000</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user enhancedTorsions1t_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</AMX_13_75>
+	<AMX38>
+		<id>23</id>
+		<userString>#france_vehicles:AMX38</userString>
+		<shortUserString>#france_vehicles:AMX38_short</shortUserString>
+		<description>#france_vehicles:AMX38_descr</description>
+		<price>1200</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
+		<level>2</level>
+		<configurationModes>development production supertest</configurationModes>
+	</AMX38>
+	<AMX_50B>
+		<id>24</id>
+		<userString>#france_vehicles:AMX_50_68t</userString>
+		<shortUserString>#france_vehicles:AMX_50_68t_short</shortUserString>
+		<description>#france_vehicles:AMX_50_68t_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank wetCombatPack_class2_user aimingStabilizer_Mk2_user enhancedTorsions5t_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</AMX_50B>
+	<AMX_12t>
+		<id>25</id>
+		<userString>#france_vehicles:AMX_12t</userString>
+		<shortUserString>#france_vehicles:AMX_12t_short</shortUserString>
+		<description>#france_vehicles:AMX_12t_descr</description>
+		<price>875000</price>
+		<enrichmentPermanentCost>6000</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user enhancedTorsions1t_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</AMX_12t>
+	<BDR_G1B>
+		<id>26</id>
+		<userString>#france_vehicles:BDR_G1B</userString>
+		<shortUserString>#france_vehicles:BDR_G1B_short</shortUserString>
+		<description>#france_vehicles:BDR_G1B_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3900</enrichmentPermanentCost>
+		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class2_user enhancedSprings_class3_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</BDR_G1B>
+	<AMX_M4_1945>
+		<id>27</id>
+		<userString>#france_vehicles:AMX_M4_1945</userString>
+		<shortUserString>#france_vehicles:AMX_M4_1945_short</shortUserString>
+		<description>#france_vehicles:AMX_M4_1945_descr</description>
+		<price>1395000</price>
+		<enrichmentPermanentCost>10800</enrichmentPermanentCost>
+		<tags>heavyTank largeCaliberTankRammer_user wetCombatPack_class2_user enhancedSprings_class3_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</AMX_M4_1945>
+	<RenaultFT_AC>
+		<id>30</id>
+		<userString>#france_vehicles:RenaultFT_AC</userString>
+		<shortUserString>#france_vehicles:RenaultFT_AC_short</shortUserString>
+		<description>#france_vehicles:RenaultFT_AC_descr</description>
+		<notInShop>false</notInShop>
+		<price>25<gold/>
+        </price>
+		<sellPrice>25<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user</tags>
+		<level>2</level>
+		<configurationModes>development production supertest</configurationModes>
+	</RenaultFT_AC>
+	<RenaultUE57>
+		<id>32</id>
+		<userString>#france_vehicles:RenaultUE57</userString>
+		<shortUserString>#france_vehicles:RenaultUE57_short</shortUserString>
+		<description>#france_vehicles:RenaultUE57_descr</description>
+		<notInShop>false</notInShop>
+		<price>50<gold/>
+        </price>
+		<sellPrice>50<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
+		<level>3</level>
+		<configurationModes>development production supertest</configurationModes>
+	</RenaultUE57>
+	<Somua_Sau_40>
+		<id>38</id>
+		<userString>#france_vehicles:Somua_Sau_40</userString>
+		<shortUserString>#france_vehicles:Somua_Sau_40_short</shortUserString>
+		<description>#france_vehicles:Somua_Sau_40_descr</description>
+		<price>85000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG lightAT-SPG wetCombatPack_class1_user mediumCaliberTankRammer_user improvedVentilation_class1_user enhancedSprings_user</tags>
+		<level>4</level>
+		<configurationModes>development production supertest</configurationModes>
+	</Somua_Sau_40>
+	<S_35CA>
+		<id>39</id>
+		<userString>#france_vehicles:S_35CA</userString>
+		<shortUserString>#france_vehicles:S_35CA_short</shortUserString>
+		<description>#france_vehicles:S_35CA_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3700</enrichmentPermanentCost>
+		<tags>AT-SPG lightAT-SPG wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedSprings_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</S_35CA>
+	<AMX_AC_Mle1946>
+		<id>42</id>
+		<userString>#france_vehicles:AMX_AC_Mle1946</userString>
+		<description>#france_vehicles:AMX_AC_Mle1946_descr</description>
+		<shortUserString>#france_vehicles:AMX_AC_Mle1946_short</shortUserString>
+		<price>1350000</price>
+		<enrichmentPermanentCost>10600</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG enhancedLongitudinalTorsions_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</AMX_AC_Mle1946>
+	<AMX50_Foch>
+		<id>43</id>
+		<userString>#france_vehicles:AMX50_Foch</userString>
+		<description>#france_vehicles:AMX50_Foch_descr</description>
+		<shortUserString>#france_vehicles:AMX50_Foch_short</shortUserString>
+		<price>3670000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG enhancedLongitudinalTorsions_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</AMX50_Foch>
+	<ARL_V39>
+		<id>45</id>
+		<userString>#france_vehicles:ARL_V39</userString>
+		<shortUserString>#france_vehicles:ARL_V39_short</shortUserString>
+		<description>#france_vehicles:ARL_V39_descr</description>
+		<price>900000</price>
+		<enrichmentPermanentCost>4400</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedSprings_class2_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</ARL_V39>
+	<AMX_AC_Mle1948>
+		<id>47</id>
+		<userString>#france_vehicles:AMX_AC_Mle1948</userString>
+		<description>#france_vehicles:AMX_AC_Mle1948_descr</description>
+		<shortUserString>#france_vehicles:AMX_AC_Mle1948_short</shortUserString>
+		<price>2570000</price>
+		<enrichmentPermanentCost>13900</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</AMX_AC_Mle1948>
+	<AMX_50Fosh_155>
+		<id>54</id>
+		<userString>#france_vehicles:AMX_50Fosh_155</userString>
+		<description>#france_vehicles:AMX_50Fosh_155_descr</description>
+		<shortUserString>#france_vehicles:AMX_50Fosh_155_short</shortUserString>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG enhancedLongitudinalTorsions_user wetCombatPack_class2_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</AMX_50Fosh_155>
+	<ELC_AMX>
+		<id>55</id>
+		<userString>#france_vehicles:ELC_AMX</userString>
+		<shortUserString>#france_vehicles:ELC_AMX_short</shortUserString>
+		<description>#france_vehicles:ELC_AMX_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3600</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedTorsions1t_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</ELC_AMX>
+	<F68_AMX_Chasseur_de_char_46>
+		<id>248</id>
+		<userString>#france_vehicles:F68_AMX_Chasseur_de_char_46</userString>
+		<shortUserString>#france_vehicles:F68_AMX_Chasseur_de_char_46_short</shortUserString>
+		<description>#france_vehicles:F68_AMX_Chasseur_de_char_46_descr</description>
+		<price>7300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</F68_AMX_Chasseur_de_char_46>
+	<FCM_50t>
+		<id>250</id>
+		<userString>#france_vehicles:FCM_50t</userString>
+		<description>#france_vehicles:FCM_50t_descr</description>
+		<price>7350<gold/>
+		</price>
+		<notInShop>false</notInShop>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</FCM_50t>
+	<F75_Char_de_25t>
+		<id>7</id>
+		<userString>#france_vehicles:F75_Char_de_25t</userString>
+		<shortUserString>#france_vehicles:F75_Char_de_25t_short</shortUserString>
+		<description>#france_vehicles:F75_Char_de_25t_descr</description>
+		<price>3450000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions3t_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</F75_Char_de_25t>
+	<F74_AMX_M4_1949>
+		<id>65</id>
+		<userString>#france_vehicles:F74_AMX_M4_1949</userString>
+		<shortUserString>#france_vehicles:F74_AMX_M4_1949_short</shortUserString>
+		<description>#france_vehicles:F74_AMX_M4_1949_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F74_AMX_M4_1949>
+	<RenaultR35>
+		<id>62</id>
+		<userString>#france_vehicles:RenaultR35</userString>
+		<shortUserString>#france_vehicles:RenaultR35_short</shortUserString>
+		<description>#france_vehicles:RenaultR35_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank wetCombatPack_class1_user enhancedHorizontal_springs_user</tags>
+		<level>1</level>
+		<configurationModes>development production supertest</configurationModes>
+	</RenaultR35>
+	<F82_AMX_M4_Mle1949_Ter>
+		<id>17</id>
+		<userString>#france_vehicles:F82_AMX_M4_Mle1949_Ter</userString>
+		<shortUserString>#france_vehicles:F82_AMX_M4_Mle1949_Ter_short</shortUserString>
+		<description>#france_vehicles:F82_AMX_M4_Mle1949_Ter_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F82_AMX_M4_Mle1949_Ter>
+	<F19_Lorraine40t>
+		<id>31</id>
+		<userString>#france_vehicles:F19_Lorraine40t</userString>
+		<shortUserString>#france_vehicles:F19_Lorraine40t_short</shortUserString>
+		<description>#france_vehicles:F19_Lorraine40t_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank aimingStabilizer_Mk2_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F19_Lorraine40t>
+	<F71_AMX_30_prototype>
+		<id>21</id>
+		<userString>#france_vehicles:F71_AMX_30_prototype</userString>
+		<shortUserString>#france_vehicles:F71_AMX_30_prototype_short</shortUserString>
+		<description>#france_vehicles:F71_AMX_30_prototype_descr</description>
+		<price>15000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</F71_AMX_30_prototype>
+	<F72_AMX_30>
+		<id>33</id>
+		<userString>#france_vehicles:F72_AMX_30</userString>
+		<shortUserString>#france_vehicles:F72_AMX_30_short</shortUserString>
+		<description>#france_vehicles:F72_AMX_30_descr</description>
+		<price>30000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production supertest</configurationModes>
+	</F72_AMX_30>
+	<F73_M4A1_Revalorise>
+		<id>63</id>
+		<userString>#france_vehicles:F73_M4A1_Revalorise</userString>
+		<shortUserString>#france_vehicles:F73_M4A1_Revalorise_short</shortUserString>
+		<description>#france_vehicles:F73_M4A1_Revalorise_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F73_M4A1_Revalorise>
+	<F69_AMX_13_57GF>
+		<id>64</id>
+		<userString>#france_vehicles:F69_AMX_13_57GF</userString>
+		<shortUserString>#france_vehicles:F69_AMX_13_57GF_short</shortUserString>
+		<description>#france_vehicles:F69_AMX_13_57GF_descr</description>
+		<price>4900<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank wetCombatPack_class1_user enhancedTorsions1t_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F69_AMX_13_57GF>
+	<ARL_44BP>
+		<id>67</id>
+		<userString>#france_vehicles:ARL_44BP</userString>
+		<shortUserString>#france_vehicles:ARL_44BP_short</shortUserString>
+		<description>#france_vehicles:ARL_44BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</ARL_44BP>
+	<F69_AMX_13D>
+		<id>68</id>
+		<userString>#france_vehicles:F69_AMX_13D</userString>
+		<shortUserString>#france_vehicles:F69_AMX_13D_short</shortUserString>
+		<description>#france_vehicles:F69_AMX_13D_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</F69_AMX_13D>
+	<F84_Somua_SM>
+		<id>69</id>
+		<userString>#france_vehicles:F84_Somua_SM</userString>
+		<shortUserString>#france_vehicles:F84_Somua_SM_short</shortUserString>
+		<description>#france_vehicles:F84_Somua_SM_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F84_Somua_SM>
+	<F113_PzV_FR>
+		<id>70</id>
+		<userString>#france_vehicles:F113_PzV_FR</userString>
+		<shortUserString>#france_vehicles:F113_PzV_FR_short</shortUserString>
+		<description>#france_vehicles:F113_PzV_FR_descr</description>
+		<price>2900<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank beast eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</F113_PzV_FR>
+	<F116_Bat_Chat_Bourrasque>
+		<id>71</id>
+		<userString>#france_vehicles:F116_Bat_Chat_Bourrasque</userString>
+		<shortUserString>#france_vehicles:F116_Bat_Chat_Bourrasque_short</shortUserString>
+		<description>#france_vehicles:F116_Bat_Chat_Bourrasque_descr</description>
+		<price>7350<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F116_Bat_Chat_Bourrasque>
+	<F19_Lorraine40t_Com>
+		<id>72</id>
+		<userString>#france_vehicles:F19_Lorraine40t_Com</userString>
+		<shortUserString>#france_vehicles:F19_Lorraine40t_Com_short</shortUserString>
+		<description>#france_vehicles:F19_Lorraine40t_Com_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</F19_Lorraine40t_Com>
+	<F89_Canon_dassaut_105>
+		<id>73</id>
+		<userString>#france_vehicles:F89_Canon_dassaut_105</userString>
+		<shortUserString>#france_vehicles:F89_Canon_dassaut_105_short</shortUserString>
+		<description>#france_vehicles:F19_F89_Canon_dassaut_105_descr</description>
+		<price>7350<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F89_Canon_dassaut_105>
+	<F_AMX-12BP>
+		<id>74</id>
+		<userString>#france_vehicles:F_AMX-12BP</userString>
+		<shortUserString>#france_vehicles:F_AMX-12BP_short</shortUserString>
+		<description>#france_vehicles:F_AMX-12BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F_AMX-12BP>
+	<Achilles_FR>
+		<id>75</id>
+		<userString>#france_vehicles:Achilles_FR</userString>
+		<shortUserString>#france_vehicles:Achilles_FR_short</shortUserString>
+		<description>#france_vehicles:Achilles_FR_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Achilles_FR>
+	<Bat-Chat-25CL>
+		<id>76</id>
+		<userString>#france_vehicles:Bat-Chat-25CL</userString>
+		<shortUserString>#france_vehicles:Bat-Chat-25CL_short</shortUserString>
+		<description>#france_vehicles:Bat-Chat-25CL_descr</description>
+		<price>500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank InGame noRating</tags>
+		<level>9</level>
+		<configurationModes>development production</configurationModes>
+	</Bat-Chat-25CL>
+	<F117_Alt_Proto_AMX_30>
+		<id>77</id>
+		<userString>#france_vehicles:F117_Alt_Proto_AMX_30</userString>
+		<shortUserString>#france_vehicles:F117_Alt_Proto_AMX_30_short</shortUserString>
+		<description>#france_vehicles:F117_Alt_Proto_AMX_30_descr</description>
+		<price>7350<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</F117_Alt_Proto_AMX_30>
+	<F114_Projet_4_1>
+		<id>78</id>
+		<userString>#france_vehicles:F114_Projet_4_1</userString>
+		<shortUserString>#france_vehicles:F114_Projet_4_1_short</shortUserString>
+		<description>#france_vehicles:F114_Projet_4_1_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</F114_Projet_4_1>
+	<F34_ARL_V39_BP>
+		<id>79</id>
+		<userString>#france_vehicles:F34_ARL_V39_BP</userString>
+		<shortUserString>#france_vehicles:F34_ARL_V39_BP_short</shortUserString>
+		<description>#france_vehicles:F34_ARL_V39_BP_descr</description>
+		<price>500<gold/>
+        </price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F34_ARL_V39_BP>
+	<F11_Renault_G1R>
+		<id>80</id>
+		<userString>#france_vehicles:F11_Renault_G1R</userString>
+		<shortUserString>#france_vehicles:F11_Renault_G1R_short</shortUserString>
+		<description>#france_vehicles:F11_Renault_G1R_descr</description>
+		<price>250<gold/>
+		</price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F11_Renault_G1R>
+</root>

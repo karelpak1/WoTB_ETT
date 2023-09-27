@@ -1,0 +1,1689 @@
+<root>
+	<T-34>
+		<id>0</id>
+		<userString>#ussr_vehicles:T-34</userString>
+		<description>#ussr_vehicles:T-34_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3800</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T-34>
+	<SU-85>
+		<id>1</id>
+		<userString>#ussr_vehicles:SU-85</userString>
+		<description>#ussr_vehicles:SU-85_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3400</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</SU-85>
+	<IS>
+		<id>2</id>
+		<userString>#ussr_vehicles:IS</userString>
+		<description>#ussr_vehicles:IS_descr</description>
+		<price>1424000</price>
+		<enrichmentPermanentCost>10100</enrichmentPermanentCost>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</IS>
+	<BT-7>
+		<id>3</id>
+		<userString>#ussr_vehicles:BT-7</userString>
+		<description>#ussr_vehicles:BT-7_descr</description>
+		<price>6000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank enhancedSuspension_Christie_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</BT-7>
+	<BT-2>
+		<id>4</id>
+		<userString>#ussr_vehicles:BT-2</userString>
+		<description>#ussr_vehicles:BT-2_descr</description>
+		<price>1200</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank enhancedSuspension_Christie_user</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</BT-2>
+	<T-28>
+		<id>6</id>
+		<userString>#ussr_vehicles:T-28</userString>
+		<description>#ussr_vehicles:T-28_descr</description>
+		<notInShop>false</notInShop>
+		<price>100<gold/>
+		</price>
+		<sellPrice>100<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible enhancedSuspension_candle_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T-28>
+	<A-20>
+		<id>8</id>
+		<userString>#ussr_vehicles:A-20</userString>
+		<description>#ussr_vehicles:A-20_descr</description>
+		<price>85000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</A-20>
+	<SU-152>
+		<id>9</id>
+		<userString>#ussr_vehicles:SU-152</userString>
+		<description>#ussr_vehicles:SU-152_descr</description>
+		<price>1305000</price>
+		<enrichmentPermanentCost>10700</enrichmentPermanentCost>
+		<tags>AT-SPG heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</SU-152>
+	<T-34-85>
+		<id>10</id>
+		<userString>#ussr_vehicles:T-34-85</userString>
+		<description>#ussr_vehicles:T-34-85_descr</description>
+		<price>915000</price>
+		<enrichmentPermanentCost>5300</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T-34-85>
+	<KV-1s>
+		<id>11</id>
+		<userString>#ussr_vehicles:KV-1s</userString>
+		<description>#ussr_vehicles:KV-1s_descr</description>
+		<price>900000</price>
+		<enrichmentPermanentCost>5300</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</KV-1s>
+	<T-46>
+		<id>12</id>
+		<userString>#ussr_vehicles:T-46</userString>
+		<description>#ussr_vehicles:T-46_descr</description>
+		<notInShop>false</notInShop>
+		<price>50<gold/>
+		</price>
+		<sellPrice>50<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T-46>
+	<MS-1>
+		<id>13</id>
+		<userString>#ussr_vehicles:MS-1</userString>
+		<description>#ussr_vehicles:MS-1_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<notInShop>false</notInShop>
+		<configurationModes>production development supertest</configurationModes>
+	</MS-1>
+	<SU-100>
+		<id>14</id>
+		<userString>#ussr_vehicles:SU-100</userString>
+		<description>#ussr_vehicles:SU-100_descr</description>
+		<price>908900</price>
+		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</SU-100>
+	<T-44>
+		<id>17</id>
+		<userString>#ussr_vehicles:T-44</userString>
+		<description>#ussr_vehicles:T-44_descr</description>
+		<price>2390000</price>
+		<enrichmentPermanentCost>13500</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T-44>
+	<T-26>
+		<id>18</id>
+		<userString>#ussr_vehicles:T-26</userString>
+		<description>#ussr_vehicles:T-26_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank enhancedSuspension_Vikkers_user</tags>
+		<level>1</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T-26>
+	<AT-1>
+		<id>20</id>
+		<userString>#ussr_vehicles:AT-1</userString>
+		<description>#ussr_vehicles:AT-1_descr</description>
+		<notInShop>false</notInShop>
+		<price>25<gold/>
+		</price>
+		<sellPrice>25<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG collectible lightAT-SPG enhancedSuspension_Vikkers_user improvedVentilation_class1_user</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</AT-1>
+	<IS-3>
+		<id>21</id>
+		<userString>#ussr_vehicles:IS-3</userString>
+		<description>#ussr_vehicles:IS-3_descr</description>
+		<price>2568500</price>
+		<enrichmentPermanentCost>13700</enrichmentPermanentCost>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</IS-3>
+	<KV-3>
+		<id>23</id>
+		<userString>#ussr_vehicles:KV-3</userString>
+		<description>#ussr_vehicles:KV-3_descr</description>
+		<price>1390000</price>
+		<enrichmentPermanentCost>10200</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</KV-3>
+	<IS-4>
+		<id>24</id>
+		<userString>#ussr_vehicles:IS-4</userString>
+		<description>#ussr_vehicles:IS-4_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</IS-4>
+	<SU-76>
+		<id>25</id>
+		<userString>#ussr_vehicles:SU-76</userString>
+		<description>#ussr_vehicles:SU-76_descr</description>
+		<notInShop>false</notInShop>
+		<price>50<gold/>
+		</price>
+		<sellPrice>50<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG collectible lightAT-SPG enhancedTorsions1t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</SU-76>
+	<T-43>
+		<id>26</id>
+		<userString>#ussr_vehicles:T-43</userString>
+		<description>#ussr_vehicles:T-43_descr</description>
+		<price>1355000</price>
+		<enrichmentPermanentCost>10900</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T-43>
+	<GAZ-74b>
+		<id>27</id>
+		<userString>#ussr_vehicles:GAZ-74b</userString>
+		<description>#ussr_vehicles:GAZ-74b_descr</description>
+		<price>85000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG lightAT-SPG enhancedTorsions1t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</GAZ-74b>
+	<IS-7>
+		<id>28</id>
+		<userString>#ussr_vehicles:IS-7</userString>
+		<description>#ussr_vehicles:IS-7_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</IS-7>
+	<ISU-152>
+		<id>29</id>
+		<userString>#ussr_vehicles:ISU-152</userString>
+		<description>#ussr_vehicles:ISU-152_descr</description>
+		<price>2520000</price>
+		<enrichmentPermanentCost>14000</enrichmentPermanentCost>
+		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</ISU-152>
+	<T-54>
+		<id>31</id>
+		<userString>#ussr_vehicles:T-54</userString>
+		<description>#ussr_vehicles:T-54_descr</description>
+		<price>3450000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T-54>
+	<Object_704>
+		<id>32</id>
+		<userString>#ussr_vehicles:Object_704</userString>
+		<description>#ussr_vehicles:Object_704_descr</description>
+		<shortUserString>#ussr_vehicles:Object_704_short</shortUserString>
+		<price>3660000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Object_704>
+	<KV-13>
+		<id>35</id>
+		<userString>#ussr_vehicles:KV-13</userString>
+		<description>#ussr_vehicles:KV-13_descr</description>
+		<notInShop>false</notInShop>
+		<price>1500<gold/>
+		</price>
+		<sellPrice>1500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>10100</enrichmentPermanentCost>
+		<tags>mediumTank collectible enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</KV-13>
+	<Object252>
+		<id>36</id>
+		<userString>#ussr_vehicles:IS-6</userString>
+		<description>#ussr_vehicles:IS-6_descr</description>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Object252>
+	<SU-101>
+		<id>39</id>
+		<userString>#ussr_vehicles:SU-101</userString>
+		<description>#ussr_vehicles:SU-101_descr</description>
+		<shortUserString>#ussr_vehicles:SU-101_short</shortUserString>
+		<price>2560000</price>
+		<enrichmentPermanentCost>12700</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</SU-101>
+	<SU100M1>
+		<id>40</id>
+		<userString>#ussr_vehicles:SU100M1</userString>
+		<description>#ussr_vehicles:SU100M1_descr</description>
+		<price>1365000</price>
+		<enrichmentPermanentCost>10400</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</SU100M1>
+	<KV2>
+		<id>41</id>
+		<userString>#ussr_vehicles:KV2</userString>
+		<description>#ussr_vehicles:KV2_descr</description>
+		<price>920000</price>
+		<enrichmentPermanentCost>6000</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</KV2>
+	<ST_I>
+		<id>42</id>
+		<userString>#ussr_vehicles:ST_I</userString>
+		<description>#ussr_vehicles:ST_I_descr</description>
+		<price>3561000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</ST_I>
+	<KV4>
+		<id>43</id>
+		<userString>#ussr_vehicles:KV4</userString>
+		<description>#ussr_vehicles:KV4_descr</description>
+		<price>2430000</price>
+		<enrichmentPermanentCost>13400</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</KV4>
+	<T150>
+		<id>44</id>
+		<userString>#ussr_vehicles:T150</userString>
+		<description>#ussr_vehicles:T150_descr</description>
+		<notInShop>false</notInShop>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>5100</enrichmentPermanentCost>
+		<tags>heavyTank collectible enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T150>
+	<IS8>
+		<id>45</id>
+		<userString>#ussr_vehicles:IS8</userString>
+		<description>#ussr_vehicles:IS8_descr</description>
+		<price>3531000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</IS8>
+	<KV1>
+		<id>46</id>
+		<userString>#ussr_vehicles:KV1</userString>
+		<description>#ussr_vehicles:KV1_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3700</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</KV1>
+	<SU122_54>
+		<id>47</id>
+		<userString>#ussr_vehicles:SU122_54</userString>
+		<description>#ussr_vehicles:SU122_54_descr</description>
+		<shortUserString>#ussr_vehicles:SU122_54_short</shortUserString>
+		<price>3510000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG largeCaliberTankRammer_user enhancedTorsions3t_user wetCombatPack_class2_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</SU122_54>
+	<R127_T44_100_P>
+		<id>246</id>
+		<userString>#ussr_vehicles:R127_T44_100_P</userString>
+		<description>#ussr_vehicles:R127_T44_100_P_descr</description>
+		<shortUserString>#ussr_vehicles:R127_T44_100_P_short</shortUserString>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R127_T44_100_P>
+	<Object268>
+		<id>53</id>
+		<userString>#ussr_vehicles:Object268</userString>
+		<description>#ussr_vehicles:Object268_descr</description>
+		<shortUserString>#ussr_vehicles:Object268_short</shortUserString>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Object268>
+	<T62A>
+		<id>54</id>
+		<userString>#ussr_vehicles:T62A</userString>
+		<description>#ussr_vehicles:T62A_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T62A>
+	<Object263>
+		<id>56</id>
+		<userString>#ussr_vehicles:Object263</userString>
+		<description>#ussr_vehicles:Object263_descr</description>
+		<shortUserString>#ussr_vehicles:Object263_short</shortUserString>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user noImprovedVentilation</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Object263>
+	<Object_907>
+		<id>61</id>
+		<userString>#ussr_vehicles:Object_907</userString>
+		<description>#ussr_vehicles:Object_907_descr</description>
+		<shortUserString>#ussr_vehicles:Object_907_short</shortUserString>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Object_907>
+	<MT25>
+		<id>65</id>
+		<userString>#ussr_vehicles:MT25</userString>
+		<description>#ussr_vehicles:MT25_descr</description>
+		<price>880000</price>
+		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
+		<tags>lightTank wetCombatPack_class1_user enhancedTorsions1t_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</MT25>
+	<Object_140>
+		<id>66</id>
+		<userString>#ussr_vehicles:Object_140</userString>
+		<description>#ussr_vehicles:Object_140_descr</description>
+		<shortUserString>#ussr_vehicles:Object_140_short</shortUserString>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Object_140>
+	<R109_T54S>
+		<id>71</id>
+		<userString>#ussr_vehicles:R109_T54S</userString>
+		<shortUserString>#ussr_vehicles:R109_T54S_short</shortUserString>
+		<description>#ussr_vehicles:R109_T54S_descr</description>
+		<price>2410000</price>
+		<enrichmentPermanentCost>13400</enrichmentPermanentCost>
+		<tags>lightTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</R109_T54S>
+	<R107_LTB>
+		<id>72</id>
+		<userString>#ussr_vehicles:R107_LTB</userString>
+		<description>#ussr_vehicles:R107_LTB_descr</description>
+		<price>1380000</price>
+		<enrichmentPermanentCost>11000</enrichmentPermanentCost>
+		<tags>lightTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</R107_LTB>
+	<KV-220>
+		<id>200</id>
+		<userString>#ussr_vehicles:KV-220_test</userString>
+		<description>#ussr_vehicles:KV-220_descr</description>
+		<shortUserString>#ussr_vehicles:KV-220_test_short</shortUserString>
+		<price>2500<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</KV-220>
+	<Matilda_II_LL>
+		<id>201</id>
+		<userString>#ussr_vehicles:Matilda_II_LL</userString>
+		<description>#ussr_vehicles:Matilda_II_LL_descr</description>
+		<price>2400<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank lendLeaseVehicle mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Matilda_II_LL>
+	<Churchill_LL>
+		<id>202</id>
+		<userString>#ussr_vehicles:Churchill_LL</userString>
+		<description>#ussr_vehicles:Churchill_LL_descr</description>
+		<price>2400<gold/>
+		</price>
+		<notInShop>false</notInShop>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank lendLeaseVehicle mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Churchill_LL>
+	<BT-SV>
+		<id>204</id>
+		<userString>#ussr_vehicles:BT-SV</userString>
+		<description>#ussr_vehicles:BT-SV_descr</description>
+		<notInShop>false</notInShop>
+		<price>1000<gold/>
+		</price>
+		<sellPrice>1000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible enhancedSuspension_Christie_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</BT-SV>
+	<Valentine_LL>
+		<id>205</id>
+		<userString>#ussr_vehicles:Valentine_LL</userString>
+		<description>#ussr_vehicles:Valentine_LL_descr</description>
+		<notInShop>false</notInShop>
+		<price>1500<gold/>
+		</price>
+		<sellPrice>1500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible lendLeaseVehicle</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</Valentine_LL>
+	<M3_Stuart_LL>
+		<id>206</id>
+		<userString>#ussr_vehicles:M3_Stuart_LL</userString>
+		<description>#ussr_vehicles:M3_Stuart_LL_descr</description>
+		<notInShop>false</notInShop>
+		<price>850<gold/>
+		</price>
+		<sellPrice>850<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible lendLeaseVehicle</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</M3_Stuart_LL>
+	<A-32>
+		<id>207</id>
+		<userString>#ussr_vehicles:A-32</userString>
+		<description>#ussr_vehicles:A-32_descr</description>
+		<notInShop>false</notInShop>
+		<price>1450<gold/>
+		</price>
+		<sellPrice>1450<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<level>4</level>
+		<configurationModes>production development supertest</configurationModes>
+	</A-32>
+	<KV-5>
+		<id>208</id>
+		<userString>#ussr_vehicles:KV-5</userString>
+		<description>#ussr_vehicles:KV-5_descr</description>
+		<notInShop>false</notInShop>
+		<price>7550<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</KV-5>
+	<T-127>
+		<id>209</id>
+		<userString>#ussr_vehicles:T-127</userString>
+		<description>#ussr_vehicles:T-127_descr</description>
+		<notInShop>false</notInShop>
+		<price>950<gold/>
+		</price>
+		<sellPrice>950<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible wetCombatPack_class1_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</T-127>
+	<SU_85I>
+		<id>210</id>
+		<userString>#ussr_vehicles:SU_85I</userString>
+		<description>#ussr_vehicles:SU_85I_descr</description>
+		<price>2300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user grousers_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</SU_85I>
+	<SU76I>
+		<id>212</id>
+		<userString>#ussr_vehicles:SU76I</userString>
+		<description>#ussr_vehicles:SU76I_descr</description>
+		<price>1000<gold/>
+		</price>
+		<sellPrice>1000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG collectible mediumAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user grousers_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</SU76I>
+	<Tetrarch_LL>
+		<id>213</id>
+		<userString>#ussr_vehicles:Tetrarch_LL</userString>
+		<description>#ussr_vehicles:Tetrarch_LL_descr</description>
+		<shortUserString>#ussr_vehicles:Tetrarch_LL_short</shortUserString>
+		<price>700<gold/>
+		</price>
+		<sellPrice>700<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible lendLeaseVehicle</tags>
+		<level>2</level>
+		<configurationModes>production development supertest</configurationModes>
+	</Tetrarch_LL>
+	<SU100Y>
+		<id>214</id>
+		<userString>#ussr_vehicles:SU100Y</userString>
+		<description>#ussr_vehicles:SU100Y_descr</description>
+		<price>3000<gold/>
+    </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</SU100Y>
+	<SU122_44>
+		<id>216</id>
+		<userString>#ussr_vehicles:SU122_44</userString>
+		<description>#ussr_vehicles:SU122_44_descr</description>
+		<price>5100<gold/>
+		</price>
+		<notInShop>false</notInShop>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>AT-SPG mediumAT-SPG enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</SU122_44>
+	<LTP>
+		<id>221</id>
+		<userString>#ussr_vehicles:LTP</userString>
+		<description>#ussr_vehicles:LTP_descr</description>
+		<price>850<gold/>
+		</price>
+		<sellPrice>850<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible wetCombatPack_class1_user enhancedTorsions1t_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</LTP>
+	<R113_Object_730>
+		<id>230</id>
+		<userString>#ussr_vehicles:R113_Object_730</userString>
+		<description>#ussr_vehicles:R113_Object_730_descr</description>
+		<shortUserString>#ussr_vehicles:R113_Object_730_short</shortUserString>
+		<price>1500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</R113_Object_730>
+	<R71_IS_2B>
+		<id>231</id>
+		<userString>#ussr_vehicles:R71_IS_2B</userString>
+		<description>#ussr_vehicles:R71_IS_2B_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</R71_IS_2B>
+	<R116_ISU122C_Berlin>
+		<id>233</id>
+		<userString>#ussr_vehicles:R116_ISU122C_Berlin</userString>
+		<description>#ussr_vehicles:R116_ISU122C_Berlin_descr</description>
+		<price>4900<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</R116_ISU122C_Berlin>
+	<R112_T54_45>
+		<id>234</id>
+		<userString>#ussr_vehicles:R112_T54_45</userString>
+		<description>#ussr_vehicles:R112_T54_45_descr</description>
+		<shortUserString>#ussr_vehicles:R112_T54_45_short</shortUserString>
+		<price>7300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</R112_T54_45>
+	<IS-2Sh>
+		<id>235</id>
+		<userString>#ussr_vehicles:IS-2Sh</userString>
+		<description>#ussr_vehicles:IS-2Sh_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>supertest development production</configurationModes>
+	</IS-2Sh>
+	<R115_IS-3_auto>
+		<id>236</id>
+		<userString>#ussr_vehicles:R115_IS-3_auto</userString>
+		<description>#ussr_vehicles:R115_IS-3_auto_descr</description>
+		<shortUserString>#ussr_vehicles:R115_IS-3_auto_short</shortUserString>
+		<price>15000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai enhancedTorsions5t_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</R115_IS-3_auto>
+	<R105_BT_7A>
+		<id>238</id>
+		<userString>#ussr_vehicles:R105_BT_7A</userString>
+		<description>#ussr_vehicles:R105_BT_7A_descr</description>
+		<shortUserString>#ussr_vehicles:R105_BT_7A_short</shortUserString>
+		<price>850<gold/>
+		</price>
+		<sellPrice>850<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible enhancedSuspension_Christie_user</tags>
+		<level>3</level>
+		<configurationModes>production development supertest</configurationModes>
+	</R105_BT_7A>
+	<T-34-85_Rudy>
+		<id>250</id>
+		<userString>#ussr_vehicles:T-34-85_Rudy</userString>
+		<description>#ussr_vehicles:T-34-85_Rudy_descr</description>
+		<price>4700<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user eventCamouflage_user</tags>
+		<notInShop>false</notInShop>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T-34-85_Rudy>
+	<T-34-85_Victory>
+		<id>251</id>
+		<userString>#ussr_vehicles:T-34-85_Victory</userString>
+		<description>#ussr_vehicles:T-34-85_Victory_descr</description>
+		<price>3300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</T-34-85_Victory>
+	<Object252_Fearless>
+		<id>253</id>
+		<userString>#ussr_vehicles:IS-6_Fearless</userString>
+		<description>#ussr_vehicles:IS-6_Fearless_descr</description>
+		<shortUserString>#ussr_vehicles:IS-6_Fearless_short</shortUserString>
+		<price>7600<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Object252_Fearless>
+	<MS-1_tutorial_bot>
+		<id>254</id>
+		<userString>#ussr_vehicles:MS-1</userString>
+		<description>#ussr_vehicles:MS-1_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<configurationModes>production development supertest</configurationModes>
+	</MS-1_tutorial_bot>
+	<MS-1_tutorial_bot2>
+		<id>255</id>
+		<userString>#ussr_vehicles:MS-1</userString>
+		<description>#ussr_vehicles:MS-1_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<configurationModes>production development supertest</configurationModes>
+	</MS-1_tutorial_bot2>
+	<K-91>
+		<id>49</id>
+		<userString>#ussr_vehicles:K-91</userString>
+		<shortUserString>#ussr_vehicles:K-91_short</shortUserString>
+		<description>#ussr_vehicles:K-91_descr</description>
+		<price>15000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</K-91>
+	<R43_T-70_57>
+		<id>73</id>
+		<userString>#ussr_vehicles:R43_T-70_57</userString>
+		<shortUserString>#ussr_vehicles:R43_T-70_57_short</shortUserString>
+		<description>#ussr_vehicles:R43_T-70_57_descr</description>
+		<price>850<gold/>
+		</price>
+		<sellPrice>850<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible wetCombatPack_class1_user enhancedTorsions1t_user</tags>
+		<level>3</level>
+		<configurationModes>development production</configurationModes>
+	</R43_T-70_57>
+	<R111_ISU130>
+		<id>74</id>
+		<userString>#ussr_vehicles:R111_ISU130</userString>
+		<shortUserString>#ussr_vehicles:R111_ISU130_short</shortUserString>
+		<description>#ussr_vehicles:R111_ISU130_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG sinai heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R111_ISU130>
+	<T-26_tutorial_bot>
+		<id>75</id>
+		<userString>#ussr_vehicles:T-26</userString>
+		<description>#ussr_vehicles:T-26_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<configurationModes>development production</configurationModes>
+	</T-26_tutorial_bot>
+	<T-26_tutorial_bot2>
+		<id>76</id>
+		<userString>#ussr_vehicles:T-26</userString>
+		<description>#ussr_vehicles:T-26_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank</tags>
+		<level>1</level>
+		<configurationModes>development production</configurationModes>
+	</T-26_tutorial_bot2>
+	<R140_M4A2_Loza>
+		<id>77</id>
+		<userString>#ussr_vehicles:R140_M4A2_Loza</userString>
+		<shortUserString>#ussr_vehicles:R140_M4A2_Loza_short</shortUserString>
+		<description>#ussr_vehicles:R140_M4A2_Loza_descr</description>
+		<price>3100<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R140_M4A2_Loza>
+	<R120_T22SR>
+		<id>78</id>
+		<userString>#ussr_vehicles:R120_T22SR</userString>
+		<shortUserString>#ussr_vehicles:R120_T22SR_short</shortUserString>
+		<description>#ussr_vehicles:R120_T22SR_descr</description>
+		<price>30000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R120_T22SR>
+	<R134_Object_252U>
+		<id>80</id>
+		<userString>#ussr_vehicles:R134_Object_252U</userString>
+		<shortUserString>#ussr_vehicles:R134_Object_252U_short</shortUserString>
+		<description>#ussr_vehicles:R134_Object_252U_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R134_Object_252U>
+	<R159_SU_130PM>
+		<id>81</id>
+		<userString>#ussr_vehicles:R159_SU_130PM</userString>
+		<shortUserString>#ussr_vehicles:R159_SU_130PM_short</shortUserString>
+		<description>#ussr_vehicles:R159_SU_130PM_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R159_SU_130PM>
+	<R63_ST_IBD>
+		<id>82</id>
+		<userString>#ussr_vehicles:R63_ST_IBD</userString>
+		<shortUserString>#ussr_vehicles:R63_ST_IBD_short</shortUserString>
+		<description>#ussr_vehicles:R63_ST_IBD_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank fictional</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R63_ST_IBD>
+	<KV-1s-BP>
+		<id>83</id>
+		<userString>#ussr_vehicles:KV-1s-BP</userString>
+		<shortUserString>#ussr_vehicles:KV-1s-BP_short</shortUserString>
+		<description>#ussr_vehicles:KV-1s-BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</KV-1s-BP>
+	<R98_T44_85>
+		<id>84</id>
+		<userString>#ussr_vehicles:R98_T44_85</userString>
+		<shortUserString>#ussr_vehicles:R98_T44_85_short</shortUserString>
+		<description>#ussr_vehicles:R98_T44_85_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R98_T44_85>
+	<R146_STG>
+		<id>85</id>
+		<userString>#ussr_vehicles:R146_STG</userString>
+		<shortUserString>#ussr_vehicles:R146_STG_short</shortUserString>
+		<description>#ussr_vehicles:R146_STG_descr</description>
+		<price>7300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R146_STG>
+	<T34_85TU>
+		<id>86</id>
+		<userString>#ussr_vehicles:T34_85TU</userString>
+		<shortUserString>#ussr_vehicles:T34_85TU_short</shortUserString>
+		<description>#ussr_vehicles:T34_85TU_descr</description>
+		<price>10<gold/>
+		</price>
+		<sellPrice>10<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</T34_85TU>
+	<R110_Object_260>
+		<id>87</id>
+		<userString>#ussr_vehicles:R110_Object_260</userString>
+		<shortUserString>#ussr_vehicles:R110_Object_260_short</shortUserString>
+		<description>#ussr_vehicles:R110_Object_260_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R110_Object_260>
+	<R158_LT_432>
+		<id>88</id>
+		<userString>#ussr_vehicles:R158_LT_432</userString>
+		<shortUserString>#ussr_vehicles:R158_LT_432_short</shortUserString>
+		<description>#ussr_vehicles:R158_LT_432_descr</description>
+		<price>7000<gold/>
+		 </price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R158_LT_432>
+	<T34_85BP>
+		<id>89</id>
+		<userString>#ussr_vehicles:T34_85BP</userString>
+		<shortUserString>#ussr_vehicles:T34_85BP_short</shortUserString>
+		<description>#ussr_vehicles:T34_85BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</T34_85BP>
+	<R154_T-34E-43>
+		<id>90</id>
+		<userString>#ussr_vehicles:R154_T-34E-43</userString>
+		<shortUserString>#ussr_vehicles:R154_T-34E-43_short</shortUserString>
+		<description>#ussr_vehicles:R154_T-34E-43_descr</description>
+		<price>500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R154_T-34E-43>
+	<R160_object_244>
+		<id>91</id>
+		<userString>#ussr_vehicles:R160_object_244</userString>
+		<shortUserString>#ussr_vehicles:R160_object_244_short</shortUserString>
+		<description>#ussr_vehicles:R160_object_244_descr</description>
+		<price>3000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R160_object_244>
+	<MS-1obr21>
+		<id>92</id>
+		<userString>#ussr_vehicles:MS-1obr21</userString>
+		<shortUserString>#ussr_vehicles:MS-1obr21_short</shortUserString>
+		<description>#ussr_vehicles:MS-1obr21_descr</description>
+		<price>25<gold/>
+		</price>
+		<sellPrice>25<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible</tags>
+		<level>2</level>
+		<configurationModes>development production</configurationModes>
+	</MS-1obr21>
+	<R_Object_84>
+		<id>93</id>
+		<userString>#ussr_vehicles:R_Object_84</userString>
+		<shortUserString>#ussr_vehicles:R_Object_84_short</shortUserString>
+		<description>#ussr_vehicles:R_Object_84_descr</description>
+		<price>3450000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R_Object_84>
+	<R131_LTG>
+		<id>94</id>
+		<userString>#ussr_vehicles:R131_LTG</userString>
+		<shortUserString>#ussr_vehicles:R131_LTG_short</shortUserString>
+		<description>#ussr_vehicles:R131_LTG_descr</description>
+		<price>1380000</price>
+		<enrichmentPermanentCost>11000</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R131_LTG>
+	<R132_T100LT>
+		<id>95</id>
+		<userString>#ussr_vehicles:R132_T100LT</userString>
+		<shortUserString>#ussr_vehicles:R132_T100LT_short</shortUserString>
+		<description>#ussr_vehicles:R132_T100LT_descr</description>
+		<price>6100000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<level>10</level>
+		<configurationModes>development production</configurationModes>
+	</R132_T100LT>
+	<R149_Object_268_4>
+		<id>96</id>
+		<userString>#ussr_vehicles:R149_Object_268_4</userString>
+		<shortUserString>#ussr_vehicles:R149_Object_268_4_short</shortUserString>
+		<description>#ussr_vehicles:R149_Object_268_4_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R149_Object_268_4>
+	<R172_Object_752>
+		<id>98</id>
+		<userString>#ussr_vehicles:R172_Object_752</userString>
+		<shortUserString>#ussr_vehicles:R172_Object_752_short</shortUserString>
+		<description>#ussr_vehicles:R172_Object_752_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R172_Object_752>
+	<R180_Object_274A>
+		<id>99</id>
+		<userString>#ussr_vehicles:R180_Object_274A</userString>
+		<shortUserString>#ussr_vehicles:R180_Object_274A_short</shortUserString>
+		<description>#ussr_vehicles:R180_Object_274A_descr</description>
+		<price>7300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</R180_Object_274A>
+	<R175_IS_2E>
+		<id>100</id>
+		<userString>#ussr_vehicles:R175_IS_2E</userString>
+		<shortUserString>#ussr_vehicles:R175_IS_2E_short</shortUserString>
+		<description>#ussr_vehicles:R175_IS_2E_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank sinai</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R175_IS_2E>
+	<R119_Object_777>
+		<id>101</id>
+		<userString>#ussr_vehicles:R119_Object_777</userString>
+		<shortUserString>#ussr_vehicles:R119_Object_777_short</shortUserString>
+		<description>#ussr_vehicles:R119_Object_777_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<level>10</level>
+		<configurationModes>development production</configurationModes>
+	</R119_Object_777>
+	<R181_Object_452K>
+		<id>102</id>
+		<userString>#ussr_vehicles:R181_Object_452K</userString>
+		<shortUserString>#ussr_vehicles:R181_Object_452K_short</shortUserString>
+		<description>#ussr_vehicles:R181_Object_452K_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R181_Object_452K>
+	<R194_ST_62_var_2>
+		<id>103</id>
+		<userString>#ussr_vehicles:R194_ST_62_var_2</userString>
+		<shortUserString>#ussr_vehicles:R194_ST_62_var_2_short</shortUserString>
+		<description>#ussr_vehicles:R194_ST_62_var_2_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R194_ST_62_var_2>
+</root>

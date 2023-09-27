@@ -1,0 +1,720 @@
+<root>
+	<Strv_74A2>
+		<id>2</id>
+		<userString>#other_vehicles:Strv_74A2</userString>
+		<shortUserString>#other_vehicles:Strv_74A2_short</shortUserString>
+		<price>3000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank enhancedTorsions3t_user wetCombatPack_class1_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Strv_74A2>
+	<Sega_Edelweiss>
+		<id>3</id>
+		<userString>#other_vehicles:Sega_Edelweiss</userString>
+		<shortUserString>#other_vehicles:Sega_Edelweiss_short</shortUserString>
+		<price>4900<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Sega_Edelweiss>
+	<Sega_Nameless>
+		<id>5</id>
+		<userString>#other_vehicles:Sega_Nameless</userString>
+		<shortUserString>#other_vehicles:Sega_Nameless_short</shortUserString>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Sega_Nameless>
+	<Van_Helsing>
+		<id>6</id>
+		<userString>#other_vehicles:Van_Helsing</userString>
+		<shortUserString>#other_vehicles:Van_Helsing_short</shortUserString>
+		<price>4900<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG eventCamouflage_user wetCombatPack_class1_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Van_Helsing>
+	<Akawara>
+		<id>7</id>
+		<userString>#other_vehicles:Akawara</userString>
+		<shortUserString>#other_vehicles:Akawara_short</shortUserString>
+		<price>7300<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user fictional</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Akawara>
+	<WZ-135G_FT>
+		<id>8</id>
+		<userString>#other_vehicles:WZ-135G_FT</userString>
+		<shortUserString>#other_vehicles:WZ-135G_FT_short</shortUserString>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG lightAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions1t_user fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</WZ-135G_FT>
+	<AMX_dracula>
+		<id>248</id>
+		<userString>#other_vehicles:AMX_dracula</userString>
+		<shortUserString>#other_vehicles:AMX_dracula_short</shortUserString>
+		<description>#other_vehicles:AMX_dracula_descr</description>
+		<price>4900<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank eventCamouflage_user enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</AMX_dracula>
+	<Oth06_Sega_Lupus>
+		<id>14</id>
+		<userString>#other_vehicles:Sega_Lupus</userString>
+		<shortUserString>#other_vehicles:Sega_Lupus_short</shortUserString>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Oth06_Sega_Lupus>
+	<Oth08_WH_Vindicator>
+		<id>0</id>
+		<userString>#other_vehicles:Oth08_WH_Vindicator</userString>
+		<shortUserString>#other_vehicles:Oth08_WH_Vindicator_short</shortUserString>
+		<description>#other_vehicles:Oth08_WH_Vindicator_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG collectible eventCamouflage_user heavyAT-SPG enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Oth08_WH_Vindicator>
+	<Oth09_WH_Predator>
+		<id>4</id>
+		<userString>#other_vehicles:Oth09_WH_Predator</userString>
+		<shortUserString>#other_vehicles:Oth09_WH_Predator_short</shortUserString>
+		<description>#other_vehicles:Oth09_WH_Predator_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible eventCamouflage_user enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development supertest</configurationModes>
+	</Oth09_WH_Predator>
+	<Oth11_T-55A>
+		<id>15</id>
+		<userString>#other_vehicles:Oth11_T-55A</userString>
+		<shortUserString>#other_vehicles:Oth11_T-55A_short</shortUserString>
+		<description>#other_vehicles:Oth11_T-55A_descr</description>
+		<price>15000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth11_T-55A>
+	<Oth10_WarDuck>
+		<id>16</id>
+		<userString>#other_vehicles:Oth10_WarDuck</userString>
+		<shortUserString>#other_vehicles:Oth10_WarDuck_short</shortUserString>
+		<description>#other_vehicles:Oth10_WarDuck_descr</description>
+		<price>1</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank InGame fictional</tags>
+		<level>1</level>
+		<configurationModes>production development</configurationModes>
+	</Oth10_WarDuck>
+	<Oth12_Sega_Hafen>
+		<id>17</id>
+		<userString>#other_vehicles:Oth12_Sega_Hafen</userString>
+		<shortUserString>#other_vehicles:Oth12_Sega_Hafen_short</shortUserString>
+		<description>#other_vehicles:Oth12_Sega_Hafen_descr</description>
+		<price>4900<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth12_Sega_Hafen>
+	<Oth14_MdM_AshKnight>
+		<id>18</id>
+		<userString>#other_vehicles:Oth14_MdM_AshKnight</userString>
+		<shortUserString>#other_vehicles:Oth14_MdM_AshKnight_short</shortUserString>
+		<description>#other_vehicles:Oth14_MdM_AshKnight_descr</description>
+		<price>2500<gold/></price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user collectible fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth14_MdM_AshKnight>
+	<Oth15_RustCrab>
+		<id>19</id>
+		<userString>#other_vehicles:Oth15_RustCrab</userString>
+		<shortUserString>#other_vehicles:Oth15_RustCrab_short</shortUserString>
+		<description>#other_vehicles:Oth15_RustCrab_descr</description>
+		<price>250<gold/></price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank eventCamouflage_user collectible fictional</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth15_RustCrab>
+	<Oth16_KV_TG>
+		<id>20</id>
+		<userString>#other_vehicles:Oth16_KV_TG</userString>
+		<shortUserString>#other_vehicles:Oth16_KV_TG_short</shortUserString>
+		<description>#other_vehicles:Oth16_KV_TG_descr</description>
+		<price>5600<gold/></price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user collectible fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth16_KV_TG>
+	<Oth17_BDT-5A>
+		<id>21</id>
+		<userString>#other_vehicles:Oth17_BDT-5A</userString>
+		<shortUserString>#other_vehicles:Oth17_BDT-5A_short</shortUserString>
+		<description>#other_vehicles:Oth17_BDT-5A_descr</description>
+		<price>2500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<tags>mediumTank eventCamouflage_user fictional</tags>
+		<level>5</level>
+		<configurationModes>development production</configurationModes>
+	</Oth17_BDT-5A>
+	<Oth18_BDT-5B>
+		<id>22</id>
+		<userString>#other_vehicles:Oth18_BDT-5B</userString>
+		<shortUserString>#other_vehicles:Oth18_BDT-5B_short</shortUserString>
+		<description>#other_vehicles:Oth18_BDT-5B_descr</description>
+		<price>3500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<tags>mediumTank eventCamouflage_user fictional</tags>
+		<level>6</level>
+		<configurationModes>development production</configurationModes>
+	</Oth18_BDT-5B>
+	<Oth19_BDT-5C>
+		<id>23</id>
+		<userString>#other_vehicles:Oth19_BDT-5C</userString>
+		<shortUserString>#other_vehicles:Oth19_BDT-5C_short</shortUserString>
+		<description>#other_vehicles:Oth19_BDT-5C_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<tags>mediumTank eventCamouflage_user fictional</tags>
+		<level>7</level>
+		<configurationModes>development production</configurationModes>
+	</Oth19_BDT-5C>
+	<Oth20_M4FL10>
+		<id>24</id>
+		<userString>#other_vehicles:Oth20_M4FL10</userString>
+		<shortUserString>#other_vehicles:Oth20_M4FL10_short</shortUserString>
+		<description>#other_vehicles:Oth20_M4FL10_descr</description>
+		<price>5200<gold/></price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<tags>mediumTank</tags>
+		<level>7</level>
+		<configurationModes>development production</configurationModes>
+	</Oth20_M4FL10>
+	<Oth22_Sega_Vulcan>
+		<id>27</id>
+		<userString>#other_vehicles:Oth22_Sega_Vulcan</userString>
+		<shortUserString>#other_vehicles:Oth22_Sega_Vulcan_short</shortUserString>
+		<description>#other_vehicles:Oth22_Sega_Vulcan_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth22_Sega_Vulcan>
+	<Oth23_Werewolf>
+		<id>28</id>
+		<userString>#other_vehicles:Oth23_Werewolf</userString>
+		<shortUserString>#other_vehicles:Oth23_Werewolf_short</shortUserString>
+		<description>#other_vehicles:Oth23_Werewolf_descr</description>
+		<price>5000<gold/></price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Oth23_Werewolf>
+	<Oth24_StuH_42HW>
+		<id>29</id>
+		<userString>#other_vehicles:Oth24_StuH_42HW</userString>
+		<shortUserString>#other_vehicles:Oth24_StuH_42HW_short</shortUserString>
+		<description>#other_vehicles:Oth24_StuH_42HW_descr</description>
+		<price>250<gold/></price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG eventCamouflage_user collectible fictional</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth24_StuH_42HW>
+	<Oth25_HWT20_FalconFire>
+		<id>30</id>
+		<userString>#other_vehicles:Oth25_HWT20_FalconFire</userString>
+		<shortUserString>#other_vehicles:Oth25_HWT20_FalconFire_short</shortUserString>
+		<description>#other_vehicles:Oth25_HWT20_FalconFire_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth25_HWT20_FalconFire>
+	<Oth26_StrvM42HW>
+		<id>31</id>
+		<userString>#other_vehicles:Oth26_StrvM42HW</userString>
+		<shortUserString>#other_vehicles:Oth26_StrvM42HW_short</shortUserString>
+		<description>#other_vehicles:Oth26_StrvM42HW_descr</description>
+		<price>250<gold/></price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank eventCamouflage_user collectible fictional</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Oth26_StrvM42HW>
+	<Oth28_Sturmfeur_HW>
+		<id>32</id>
+		<userString>#other_vehicles:Oth28_Sturmfeur_HW</userString>
+		<shortUserString>#other_vehicles:Oth28_Sturmfeur_HW_short</shortUserString>
+		<description>#other_vehicles:Oth28_Sturmfeur_HW_descr</description>
+		<price>2500<gold/></price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Oth28_Sturmfeur_HW>
+	<Oth27_M24_AMX>
+		<id>33</id>
+		<userString>#other_vehicles:Oth27_M24_AMX</userString>
+		<shortUserString>#other_vehicles:Oth27_M24_AMX_short</shortUserString>
+		<description>#other_vehicles:Oth27_M24_AMX_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<notInShop>false</notInShop>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Oth27_M24_AMX>
+	<Oth29_A15HW>
+		<id>34</id>
+		<userString>#other_vehicles:Oth29_A15HW</userString>
+		<shortUserString>#other_vehicles:Oth29_A15HW_short</shortUserString>
+		<description>#other_vehicles:Oth29_A15HW_descr</description>
+		<price>250<gold/></price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Oth29_A15HW>
+	<Oth30_T54MS>
+		<id>35</id>
+		<userString>#other_vehicles:Oth30_T54MS</userString>
+		<shortUserString>#other_vehicles:Oth30_T54MS_short</shortUserString>
+		<description>#other_vehicles:Oth30_T54MS_descr</description>
+		<price>7200<gold/></price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth30_T54MS>
+	<Oth31_T150BP>
+		<id>36</id>
+		<userString>#other_vehicles:Oth31_T150BP</userString>
+		<shortUserString>#other_vehicles:Oth31_T150BP_short</shortUserString>
+		<description>#other_vehicles:Oth31_T150BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth31_T150BP>
+	<Oth33_Blizzard_BP>
+		<id>38</id>
+		<userString>#other_vehicles:Oth33_Blizzard_BP</userString>
+		<shortUserString>#other_vehicles:Oth33_Blizzard_BP_short</shortUserString>
+		<description>#other_vehicles:Oth33_Blizzard_BP_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</Oth33_Blizzard_BP>
+	<Oth35_PanzerMejai>
+		<id>39</id>
+		<userString>#other_vehicles:Oth35_PanzerMejai</userString>
+		<shortUserString>#other_vehicles:Oth35_PanzerMejai_short</shortUserString>
+		<description>#other_vehicles:Oth35_PanzerMejai_descr</description>
+		<price>250<gold/>
+		</price>
+		<sellPrice>250<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user collectible fictional</tags>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<level>5</level>
+		<configurationModes>development production</configurationModes>
+	</Oth35_PanzerMejai>
+	<Oth34_PanzerMummy>
+		<id>40</id>
+		<userString>#other_vehicles:Oth34_PanzerMummy</userString>
+		<shortUserString>#other_vehicles:Oth34_PanzerMummy_short</shortUserString>
+		<description>#other_vehicles:Oth34_PanzerMummy_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth34_PanzerMummy>
+	<Oth36_Indien_Panzer_S1>
+		<id>41</id>
+		<userString>#other_vehicles:Oth36_Indien_Panzer_S1</userString>
+		<shortUserString>#other_vehicles:Oth36_Indien_Panzer_S1_short</shortUserString>
+		<description>#other_vehicles:Oth36_Indien_Panzer_S1_descr</description>
+		<notInShop>false</notInShop>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth36_Indien_Panzer_S1>
+	<Oth37_T26_E4_SuperPershing_S1>
+		<id>42</id>
+		<userString>#other_vehicles:Oth37_T26_E4_SuperPershing_S1</userString>
+		<shortUserString>#other_vehicles:Oth37_T26_E4_SuperPershing_S1_short</shortUserString>
+		<description>#other_vehicles:Oth37_T26_E4_SuperPershing_S1_descr</description>
+		<notInShop>false</notInShop>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>1000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth37_T26_E4_SuperPershing_S1>
+	<Oth38_50TP_Tyszkiewicza_S1>
+		<id>43</id>
+		<userString>#other_vehicles:Oth38_50TP_Tyszkiewicza_S1</userString>
+		<shortUserString>#other_vehicles:Oth38_50TP_Tyszkiewicza_S1_short</shortUserString>
+		<description>#other_vehicles:Oth38_50TP_Tyszkiewicza_S1_descr</description>
+		<notInShop>false</notInShop>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>1500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth38_50TP_Tyszkiewicza_S1>
+	<Oth42_ForestWitch_HW23>
+		<id>45</id>
+		<userString>#other_vehicles:Oth42_ForestWitch_HW23</userString>
+		<shortUserString>#other_vehicles:Oth42_ForestWitch_HW23_short</shortUserString>
+		<description>#other_vehicles:Oth42_ForestWitch_HW23_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible eventCamouflage_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth42_ForestWitch_HW23>
+	<Oth43_WZ-122_2_Werewolf>
+		<id>48</id>
+		<userString>#other_vehicles:Oth43_WZ-122_2_Werewolf</userString>
+		<shortUserString>#other_vehicles:Oth43_WZ-122_2_Werewolf_short</shortUserString>
+		<description>#other_vehicles:Oth43_WZ-122_2_Werewolf_descr</description>
+		<price>7500<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth43_WZ-122_2_Werewolf>
+</root>
