@@ -1088,4 +1088,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz29_Skoda_P-JS_BP>
+	<Cz20_ShPTK_TVP_100>
+		<id>64</id>
+		<userString>#european_vehicles:Cz20_ShPTK_TVP_100</userString>
+		<shortUserString>#european_vehicles:Cz20_ShPTK_TVP_100_short</shortUserString>
+		<description>#european_vehicles:Cz20_ShPTK_TVP_100_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz20_ShPTK_TVP_100>
 </root>

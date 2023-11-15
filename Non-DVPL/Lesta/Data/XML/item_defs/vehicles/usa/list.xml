@@ -1785,7 +1785,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<tags>AT-SPG heavyAT-SPG collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_support</arcade>

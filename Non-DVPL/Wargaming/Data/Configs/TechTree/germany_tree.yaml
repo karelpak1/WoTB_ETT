@@ -106,6 +106,8 @@ tanks:
     VK2801:
         position: [6, 24]
 #<!-- TIER_7 -->
+    G85_Auf_Panther:
+        position: [7, 9]
     E-25:
         position: [7, 10]
     G147_mPanzer_64:

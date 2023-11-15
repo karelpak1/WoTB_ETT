@@ -761,4 +761,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth41_Centurion_Mk3_S2>
+	<Oth44_Charioteer_T>
+		<id>49</id>
+		<userString>#other_vehicles:Oth44_Charioteer_T</userString>
+		<shortUserString>#other_vehicles:Oth44_Charioteer_T_short</shortUserString>
+		<description>#other_vehicles:Oth44_Charioteer_T_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth44_Charioteer_T>
 </root>

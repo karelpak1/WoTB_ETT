@@ -1828,4 +1828,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G164_Kpz_Pr_68_P>
+	<G85_Auf_Panther>
+		<id>106</id>
+		<userString>#germany_vehicles:G85_Auf_Panther</userString>
+		<shortUserString>#germany_vehicles:G85_Auf_Panther_short</shortUserString>
+		<description>#germany_vehicles:G85_Auf_Panther_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible InGame noRating</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G85_Auf_Panther>
 </root>
