@@ -268,7 +268,7 @@
 		<notInShop>false</notInShop>
 		<price>1200<gold/>
 		</price>
-		<sellPrice>1200<gold/>
+		<sellPrice>100<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user fictional eventCamouflage_user</tags>

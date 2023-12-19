@@ -910,7 +910,7 @@
 		<description>#germany_vehicles:PzII_J_descr</description>
 		<notInShop>false</notInShop>
 		<price>1000<gold/></price>
-		<sellPrice>1000<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible enhancedTorsions1t_user</tags>
@@ -925,7 +925,7 @@
 		<notInShop>false</notInShop>
 		<price>1200<gold/>
     </price>
-		<sellPrice>1200<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible</tags>
@@ -939,7 +939,7 @@
 		<description>#germany_vehicles:B-1bis_captured_descr</description>
 		<price>1500<gold/>
 		</price>
-		<sellPrice>1500<gold/>
+		<sellPrice>100<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -954,7 +954,7 @@
 		<description>#germany_vehicles:H39_captured_descr</description>
 		<price>750<gold/>
 		</price>
-		<sellPrice>750<gold/>
+		<sellPrice>25<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1005,7 +1005,7 @@
 		<notInShop>false</notInShop>
 		<price>950<gold/>
 		</price>
-		<sellPrice>950<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible enhancedSprings_user wetCombatPack_class1_user</tags>
@@ -1132,7 +1132,7 @@
 		<description>#germany_vehicles:G100_Gtraktor_Krupp_descr</description>
 		<price>1200<gold/>
 		</price>
-		<sellPrice>1200<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1818,7 +1818,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame noRating</tags>
+		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>

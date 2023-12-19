@@ -185,6 +185,8 @@ tanks:
         position: [8, 24]
 #<!-- TIER_9 -->
     G_KpfPz_70:
+        position: [9, 13]
+    G162_Project_Kpz_07P_E:
         position: [9, 14]
     Waffentrager_IV_CL:
         position: [9, 15]     

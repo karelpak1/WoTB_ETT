@@ -576,7 +576,7 @@
 		<shortUserString>#gb_vehicles:GB76_Mk_VIC_short</shortUserString>
 		<price>750<gold/>
 		</price>
-		<sellPrice>750<gold/>
+		<sellPrice>25<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -660,7 +660,7 @@
 		<shortUserString>#gb_vehicles:Sentinel_AC1_short</shortUserString>
 		<price>1000<gold/>
 		</price>
-		<sellPrice>1000<gold/>
+		<sellPrice>100<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1261,7 +1261,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame noRating</tags>
+		<tags>lightTank</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>scout</arcade>

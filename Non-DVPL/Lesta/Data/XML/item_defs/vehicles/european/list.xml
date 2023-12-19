@@ -856,7 +856,6 @@
 		<combatRole>
 			<arcade>revenger</arcade>
 			<hellgames>werewolf_2</hellgames>
-			<lunar>moon_rover</lunar>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -873,7 +872,6 @@
 		<combatRole>
 			<arcade>revenger</arcade>
 			<hellgames>werewolf_2</hellgames>
-			<lunar>moon_rover</lunar>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development</configurationModes>

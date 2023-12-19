@@ -55,7 +55,7 @@
 		<description>#france_vehicles:FCM_36Pak40_descr</description>
 		<price>950<gold/>
 		</price>
-		<sellPrice>950<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>

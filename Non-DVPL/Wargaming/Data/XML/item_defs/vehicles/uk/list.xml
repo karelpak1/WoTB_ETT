@@ -1257,11 +1257,13 @@
 		<userString>#uk_vehicles:GB101_FV1066_Senlac</userString>
 		<shortUserString>#uk_vehicles:GB101_FV1066_Senlac_short</shortUserString>
 		<description>#uk_vehicles:GB101_FV1066_Senlac_descr</description>
-		<price>7600<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame noRating</tags>
+		<tags>lightTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>scout</arcade>

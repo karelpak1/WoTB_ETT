@@ -743,4 +743,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch44_114_SP2>
+	<Ch36_WZ-111-1G_FT_Com>
+		<id>50</id>
+		<userString>#china_vehicles:Ch36_WZ-111-1G_FT_Com</userString>
+		<shortUserString>#china_vehicles:Ch36_WZ-111-1G_FT_Com_short</shortUserString>
+		<description>#china_vehicles:Ch36_WZ-111-1G_FT_Com_descr</description>
+		<price>7200<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG InGame noRating eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch36_WZ-111-1G_FT_Com>
 </root>

@@ -814,7 +814,7 @@
 		<shortUserString>#usa_vehicles:T2_lt_short</shortUserString>
 		<price>650<gold/>
 		</price>
-		<sellPrice>650<gold/>
+		<sellPrice>25<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -886,7 +886,7 @@
 		<notInShop>false</notInShop>
 		<price>1000<gold/>
 		</price>
-		<sellPrice>1000<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
@@ -918,7 +918,7 @@
 		<shortUserString>#usa_vehicles:T1_E6_short</shortUserString>
 		<price>750<gold/>
 		</price>
-		<sellPrice>750<gold/>
+		<sellPrice>25<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -933,7 +933,7 @@
 		<shortUserString>#usa_vehicles:T7_Combat_Car_short</shortUserString>
 		<price>650<gold/>
 		</price>
-		<sellPrice>650<gold/>
+		<sellPrice>25<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>

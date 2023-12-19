@@ -764,7 +764,7 @@
 		<notInShop>false</notInShop>
 		<price>1000<gold/>
 		</price>
-		<sellPrice>1000<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible enhancedSuspension_Christie_user</tags>
@@ -778,7 +778,7 @@
 		<notInShop>false</notInShop>
 		<price>1500<gold/>
 		</price>
-		<sellPrice>1500<gold/>
+		<sellPrice>100<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible lendLeaseVehicle</tags>
@@ -792,7 +792,7 @@
 		<notInShop>false</notInShop>
 		<price>850<gold/>
 		</price>
-		<sellPrice>850<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible lendLeaseVehicle</tags>
@@ -806,7 +806,7 @@
 		<notInShop>false</notInShop>
 		<price>1450<gold/>
 		</price>
-		<sellPrice>1450<gold/>
+		<sellPrice>100<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>mediumTank collectible enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
@@ -837,7 +837,7 @@
 		<notInShop>false</notInShop>
 		<price>950<gold/>
 		</price>
-		<sellPrice>950<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>lightTank collectible wetCombatPack_class1_user</tags>
@@ -868,7 +868,7 @@
 		<description>#ussr_vehicles:SU76I_descr</description>
 		<price>1000<gold/>
 		</price>
-		<sellPrice>1000<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -883,7 +883,7 @@
 		<shortUserString>#ussr_vehicles:Tetrarch_LL_short</shortUserString>
 		<price>700<gold/>
 		</price>
-		<sellPrice>700<gold/>
+		<sellPrice>25<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -933,7 +933,7 @@
 		<description>#ussr_vehicles:LTP_descr</description>
 		<price>850<gold/>
 		</price>
-		<sellPrice>850<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1055,7 +1055,7 @@
 		<shortUserString>#ussr_vehicles:R105_BT_7A_short</shortUserString>
 		<price>850<gold/>
 		</price>
-		<sellPrice>850<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1162,7 +1162,7 @@
 		<description>#ussr_vehicles:R43_T-70_57_descr</description>
 		<price>850<gold/>
 		</price>
-		<sellPrice>850<gold/>
+		<sellPrice>50<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1662,7 +1662,6 @@
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf_2</hellgames>
-			<lunar>moon_rover</lunar>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
