@@ -1795,4 +1795,23 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A153_XM66F>
+	<A149_AMBT>
+		<id>115</id>
+		<userString>#usa_vehicles:A149_AMBT</userString>
+		<shortUserString>#usa_vehicles:A149_AMBT_short</shortUserString>
+		<description>#usa_vehicles:A149_AMBT_descr</description>
+		<price>7000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A149_AMBT>
 </root>

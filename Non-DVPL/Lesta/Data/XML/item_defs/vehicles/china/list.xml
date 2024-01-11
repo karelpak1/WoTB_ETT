@@ -752,7 +752,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG InGame noRating eventCamouflage_user</tags>
+		<tags>AT-SPG mediumAT-SPG eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_support</arcade>
