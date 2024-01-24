@@ -53,6 +53,8 @@ tanks:
     J28_Ju_To:
         position: [7, 6]
 #<!-- TIER_8 -->
+    J31_Type_5_Ka_Ri:
+        position: [8, 2]
     J24_Type_57:
         position: [8, 3]
     J22_Ho_Ri_type96:

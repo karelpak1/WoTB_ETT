@@ -188,11 +188,13 @@
 		<userString>#other_vehicles:Oth11_T-55A</userString>
 		<shortUserString>#other_vehicles:Oth11_T-55A_short</shortUserString>
 		<description>#other_vehicles:Oth11_T-55A_descr</description>
-		<price>15000<gold/>
+		<price>10000<gold/>
 		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -782,4 +784,66 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth44_Charioteer_T>
+	<Oth46_Charioteer_S3>
+		<id>55</id>
+		<userString>#other_vehicles:Oth46_Charioteer_S3</userString>
+		<shortUserString>#other_vehicles:Oth46_Charioteer_S3_short</shortUserString>
+		<description>#other_vehicles:Oth46_Charioteer_S3_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG lightAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth46_Charioteer_S3>
+	<Oth47_AMX_13_90_S3>
+		<id>56</id>
+		<userString>#other_vehicles:Oth47_AMX_13_90_S3</userString>
+		<shortUserString>#other_vehicles:Oth47_AMX_13_90_S3_short</shortUserString>
+		<description>#other_vehicles:Oth47_AMX_13_90_S3_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>1000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth47_AMX_13_90_S3>
+	<Oth48_EMIL_1951E1_S3>
+		<id>57</id>
+		<userString>#other_vehicles:Oth48_EMIL_1951E1_S3</userString>
+		<shortUserString>#other_vehicles:Oth48_EMIL_1951E1_S3_short</shortUserString>
+		<description>#other_vehicles:Oth48_EMIL_1951E1_S3_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>1500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth48_EMIL_1951E1_S3>
 </root>

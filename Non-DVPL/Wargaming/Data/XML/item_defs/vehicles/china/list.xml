@@ -743,6 +743,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch44_114_SP2>
+	<Type_58TUR>
+		<id>44</id>
+		<userString>#china_vehicles:Type_58TUR</userString>
+		<shortUserString>#china_vehicles:Type_58TUR_short</shortUserString>
+		<description>#china_vehicles:Type_58TUR_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Type_58TUR>
 	<Ch59_BZ58_2>
 		<id>45</id>
 		<userString>#china_vehicles:Ch59_BZ58_2</userString>
@@ -754,7 +775,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -768,11 +789,9 @@
 		<userString>#china_vehicles:Ch48_BZ_75</userString>
 		<shortUserString>#china_vehicles:Ch48_BZ_75_short</shortUserString>
 		<description>#china_vehicles:Ch48_BZ_75_descr</description>
-		<price>6100<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -781,4 +800,52 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch48_BZ_75>
+	<Ch49_BZ_68>
+		<id>47</id>
+		<userString>#china_vehicles:Ch49_BZ_68</userString>
+		<shortUserString>#china_vehicles:Ch49_BZ_68_short</shortUserString>
+		<description>#china_vehicles:Ch49_BZ_68_descr</description>
+		<price>3500000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch49_BZ_68>
+	<Ch51_BZ_58>
+		<id>48</id>
+		<userString>#china_vehicles:Ch51_BZ_58</userString>
+		<shortUserString>#china_vehicles:Ch51_BZ_58_short</shortUserString>
+		<description>#china_vehicles:Ch51_BZ_58_descr</description>
+		<price>1450000</price>
+		<enrichmentPermanentCost>10100</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch51_BZ_58>
+	<Ch50_BZ_166>
+		<id>49</id>
+		<userString>#china_vehicles:Ch50_BZ_166</userString>
+		<shortUserString>#china_vehicles:Ch50_BZ_166_short</shortUserString>
+		<description>#china_vehicles:Ch50_BZ_166_descr</description>
+		<price>2600000</price>
+		<enrichmentPermanentCost>13700</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch50_BZ_166>
 </root>

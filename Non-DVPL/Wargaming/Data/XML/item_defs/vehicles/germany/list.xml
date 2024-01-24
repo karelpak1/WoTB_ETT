@@ -1769,6 +1769,27 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</G140_HWK_30>
+	<G148_Elephant>
+		<id>101</id>
+		<userString>#germany_vehicles:G148_Elephant</userString>
+		<shortUserString>#germany_vehicles:G148_Elephant_short</shortUserString>
+		<description>#germany_vehicles:G148_Elephant_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G148_Elephant>
 	<Nashorn_BP>
 		<id>102</id>
 		<userString>#germany_vehicles:Nashorn_BP</userString>
@@ -1790,6 +1811,26 @@
 		</combatRole>
 		<configurationModes>production development</configurationModes>
 	</Nashorn_BP>
+	<PzVI_AusfTUR>
+		<id>103</id>
+		<userString>#germany_vehicles:PzVI_AusfTUR</userString>
+		<shortUserString>#germany_vehicles:PzVI_AusfTUR_short</shortUserString>
+		<description>#germany_vehicles:PzVI_AusfTUR_descr</description>
+		<price>500<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank beast collectible eventCamouflage_user</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</PzVI_AusfTUR>
 	<G154_Kpz_07_RH>
 		<id>104</id>
 		<userString>#germany_vehicles:G154_Kpz_07_RH</userString>
@@ -1841,7 +1882,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank collectible InGame noRating</tags>
+		<tags>lightTank collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -1871,4 +1912,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G162_Project_Kpz_07P_E>
+	<G119_Panzer58_SH>
+		<id>108</id>
+		<userString>#germany_vehicles:G119_Panzer58_SH</userString>
+		<shortUserString>#germany_vehicles:G119_Panzer58_SH_short</shortUserString>
+		<description>#germany_vehicles:G119_Panzer58_SH_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G119_Panzer58_SH>
 </root>

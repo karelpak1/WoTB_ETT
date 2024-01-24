@@ -20,8 +20,10 @@ tanks:
         position: [5, 10]
 #<!-- TIER_6 -->
     Type_58BP:
-        position: [6, 4]
+        position: [6, 3]
     Type_58TU:
+        position: [6, 4]
+    Type_58TUR:
         position: [6, 5]
     Ch24_Type64:
         position: [6, 6]
@@ -34,7 +36,7 @@ tanks:
     Ch20_Type58:
         position: [6, 10]
     Ch15_59_16:
-        position: [6, 12]
+        position: [6, 13]
 #<!-- TIER_7 -->
     Ch42_M41D:
         position: [7, 7]
@@ -42,12 +44,14 @@ tanks:
         position: [7, 8]
     Ch35_T-34-2G_FT:
         position: [7, 9]
-    Ch04_T34_1:
+    Ch51_BZ_58:
         position: [7, 10]
     Ch10_IS2:
         position: [7, 11]
-    Ch16_WZ_131:
+    Ch04_T34_1:
         position: [7, 12]
+    Ch16_WZ_131:
+        position: [7, 13]
 #<!-- TIER_8 -->
     Ch23_112:
         position: [8, 1]
@@ -67,12 +71,14 @@ tanks:
         position: [8, 8]
     Ch36_WZ-111-1G_FT:
         position: [8, 9]
-    Ch05_T34_2:
+    Ch50_BZ_166:
         position: [8, 10]
     Ch11_110:
         position: [8, 11]
-    Ch17_WZ131_1_WZ132:
+    Ch05_T34_2:
         position: [8, 12]
+    Ch17_WZ131_1_WZ132:
+        position: [8, 13]
 #<!-- TIER_9 -->
     Ch59_BZ58_2:
         position: [9, 7]
@@ -80,26 +86,28 @@ tanks:
         position: [9, 8]
     Ch37_WZ-111G_FT:
         position: [9, 9]
-    Ch18_WZ-120:
+    Ch49_BZ_68:
         position: [9, 10]
     Ch12_111_1_2_3:
         position: [9, 11]
-    Ch28_WZ_132A:
+    Ch18_WZ-120:
         position: [9, 12]
+    Ch28_WZ_132A:
+        position: [9, 13]
 #<!-- TIER_10 -->
     Ch44_114_SP2:
-        position: [10, 5]
-    Ch25_121_mod_1971B:
         position: [10, 6]
-    Ch48_BZ_75:
+    Ch25_121_mod_1971B:
         position: [10, 7]
     Ch41_WZ_111_5A:
         position: [10, 8]
     CH38_WZ113G-FT:
         position: [10, 9]
-    Ch19_121:
+    Ch48_BZ_75:
         position: [10, 10]
     Ch22_113:
         position: [10, 11]
-    Ch29_Type_62C_prot:
+    Ch19_121:
         position: [10, 12]
+    Ch29_Type_62C_prot:
+        position: [10, 13]

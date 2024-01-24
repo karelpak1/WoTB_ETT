@@ -1091,11 +1091,13 @@
 		<userString>#european_vehicles:Cz20_ShPTK_TVP_100</userString>
 		<shortUserString>#european_vehicles:Cz20_ShPTK_TVP_100_short</shortUserString>
 		<description>#european_vehicles:Cz20_ShPTK_TVP_100_descr</description>
-		<price>7200<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG InGame noRating</tags>
+		<tags>AT-SPG mediumAT-SPG collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>scout</arcade>

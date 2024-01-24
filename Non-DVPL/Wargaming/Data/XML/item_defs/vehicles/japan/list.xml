@@ -518,4 +518,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J29_Ju_Nu_BP>
+	<J31_Type_5_Ka_Ri>
+		<id>29</id>
+		<userString>#japan_vehicles:J31_Type_5_Ka_Ri</userString>
+		<shortUserString>#japan_vehicles:J31_Type_5_Ka_Ri_short</shortUserString>
+		<description>#japan_vehicles:J31_Type_5_Ka_Ri_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG InGame noRating collectible</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>long_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J31_Type_5_Ka_Ri>
 </root>

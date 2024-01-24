@@ -66,14 +66,16 @@ tanks:
         position: [5, 23]
 #<!-- TIER_6 --> 
     R140_M4A2_Loza:
-        position: [6, 10]
+        position: [6, 9]
     R160_object_244:
-        position: [6, 11]
+        position: [6, 10]
     SU100Y:
-        position: [6, 12]
+        position: [6, 11]
     T150:
-        position: [6, 13]
+        position: [6, 12]
     T34_85TU:
+        position: [6, 13]
+    T34_85TUR:
         position: [6, 14]
     T-34-85_Victory:
         position: [6, 15]
