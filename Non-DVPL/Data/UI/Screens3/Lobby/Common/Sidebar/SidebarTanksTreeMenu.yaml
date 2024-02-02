@@ -1,0 +1,56 @@
+Header:
+    version: "108"
+Prototypes:
+-   class: "UIControl"
+    name: "TechTreeMenu"
+    size: [88.000000, 200.000000]
+    input: false
+    components:
+        SizePolicy:
+            horizontalPolicy: "PercentOfParent"
+            verticalPolicy: "PercentOfChildrenSum"
+        UISwitchBarComponent:
+            onSelectElement: "ON_PRESSED_TAB"
+            onSelectElementData: "toEnum(_selectedElement, eNation)"
+            selectionEventType: "TOUCH_UP"
+        UIDataParamsComponent:
+            params:
+            - ["SessionDataModel", "session", "null", "{ \"playerTanks\" = { \"currentTank\" = null; }; }"]
+            - ["AccountDataModel", "account", "null", "{ }"]
+            - ["eNation", "selectedNation", "eNation.USA", "eNation.UK"]
+            - ["vector<eNation>", "nations", "[ ]", "[ eNation.USA; eNation.GERMANY; eNation.USSR; eNation.UK; eNation.JAPAN; eNation.CHINA; eNation.FRANCE; eNation.EUROPEAN; eNation.OTHER; ]"]
+            events:
+            - "ON_PRESSED_TAB"
+        UIDataLocalsComponent:
+            locals:
+            - ["string", "switchStyle", "when account.tutorialData.isTutorialActive -> \" none\", \" verticalDpad\""]
+            - ["eNation", "selectedNation1", "toEnum((int(selectedNation)), eNation)"]
+            - ["int", "selectedNationID", "(int(selectedNation))"]
+            - ["vector<eNation>", "nations", "[ eNation.USA; eNation.GERMANY; eNation.USSR; eNation.UK; eNation.JAPAN; eNation.CHINA; eNation.FRANCE; eNation.EUROPEAN; eNation.OTHER; ]"]
+        StyleSheet:
+            styles: "~res:/UI/Screens3/Lobby/TanksTechTree/Sidebar/SidebarTanksTree.style.yaml"
+    bindings:
+    - ["classes", "\"switch-mode\" + switchStyle"]
+    - ["UISwitchBarComponent.selectedElement", "selectedNationID"]
+    children:
+    -   class: "UIControl"
+        name: "Items"
+        size: [88.000000, 576.000000]
+        input: false
+        components:
+            LinearLayout:
+                orientation: "TopDown"
+            SizePolicy:
+                horizontalPolicy: "PercentOfParent"
+                verticalPolicy: "PercentOfChildrenSum"
+            UIRepeatComponent:
+                control: "~res:/UI/Screens3/Lobby/Common/Sidebar/SidebarItem/SideBarItem.yaml"
+                dataContainer: "nations"
+                args:
+                    "switchId": "int(_item)"
+                    "hoverOff": "account.tutorialData.isTutorialActive"
+                    "currentScreen": "eCurrentScreen.kTechTree"
+                    "inputEnabled": "when isNull(session.playerTanks.currentTank) -> true, not (_item == session.playerTanks.currentTank.info.nation and account.tutorialData.isTutorialActive) and (_item != selectedNation)"
+                    "lock": "when isNull(session.playerTanks.currentTank) -> false, _item == session.playerTanks.currentTank.info.nation and account.tutorialData.isTutorialActive"
+                    "select": "_item == selectedNation"
+                    "icon": "when _item == eNation.USA -> \"~res:/Gfx/Lobby/flags/flag_tank-tree_usa\", _item == eNation.GERMANY -> \"~res:/Gfx/Lobby/flags/flag_tank-tree_germany\", _item == eNation.USSR -> \"~res:/Gfx/Lobby/flags/flag_tank-tree_ussr\", _item == eNation.UK -> \"~res:/Gfx/Lobby/flags/flag_tank-tree_uk\", _item == eNation.JAPAN -> \"~res:/Gfx/Lobby/flags/flag_tank-tree_japan\", _item == eNation.CHINA -> \"~res:/Gfx/Lobby/flags/flag_tank-tree_china\", _item == eNation.FRANCE -> \"~res:/Gfx/Lobby/flags/flag_tank-tree_france\", _item == eNation.EUROPEAN -> \"~res:/Gfx/Lobby/flags/flag_tank-tree_european\", _item == eNation.OTHER -> \"~res:/Gfx/Lobby/flags/flag_tank-tree_other\", \"\""

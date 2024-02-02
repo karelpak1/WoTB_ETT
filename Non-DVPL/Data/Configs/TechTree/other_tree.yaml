@@ -1,0 +1,97 @@
+premium_rows: 0
+
+tanks:
+#<!-- TIER_1 -->
+    Oth10_WarDuck:
+        position: [1, 1]
+#<!-- TIER_5 -->
+    Oth35_PanzerMejai:
+        position: [5, 1]
+    Oth24_StuH_42HW:
+        position: [5, 2]
+    Oth15_RustCrab:
+        position: [5, 3]
+    Oth26_StrvM42HW:
+        position: [5, 4]
+    Oth29_A15HW:
+        position: [5, 5]
+    Oth17_BDT-5A:
+        position: [5, 6]
+#<!-- TIER_6 -->
+    Oth33_Blizzard_BP:
+        position: [6, 1]
+    Strv_74A2:
+        position: [6, 2]
+    Oth31_T150BP:
+        position: [6, 3]
+    Oth27_M24_AMX:
+        position: [6, 4]
+    Oth18_BDT-5B:
+        position: [6, 5]
+#<!-- TIER_7 -->
+    Oth25_HWT20_FalconFire:
+        position: [7, 1]
+    Oth39_T20_S2:
+        position: [7, 2]
+    AMX_dracula:
+        position: [7, 3]
+    Sega_Edelweiss:
+        position: [7, 4]
+    Oth42_ForestWitch_HW23:
+        position: [7, 5]
+    Oth14_MdM_AshKnight:
+        position: [7, 6]
+    Oth12_Sega_Hafen:
+        position: [7, 7]
+    Van_Helsing:
+        position: [7, 8]
+    Oth06_Sega_Lupus:
+        position: [7, 9]
+    Oth23_Werewolf:
+        position: [7, 10]
+    Oth20_M4FL10:
+        position: [7, 11]
+    Oth36_Indien_Panzer_S1:
+        position: [7, 12]
+    Sega_Nameless:
+        position: [7, 13]
+    Oth34_PanzerMummy:
+        position: [7, 14]
+    Oth09_WH_Predator:
+        position: [7, 15]
+    Oth46_Charioteer_S3:
+        position: [7, 16]
+    Oth16_KV_TG:
+        position: [7, 17]
+    Oth28_Sturmfeur_HW:
+        position: [7, 18]
+    Oth08_WH_Vindicator:
+        position: [7, 19]
+    Oth22_Sega_Vulcan:
+        position: [7, 20]
+    WZ-135G_FT:
+        position: [7, 21]
+    Oth19_BDT-5C:
+        position: [7, 22]
+#<!-- TIER_8 -->
+    Oth37_T26_E4_SuperPershing_S1:
+        position: [8, 1]
+    Oth40_TVP_46_S2:
+        position: [8, 2]
+    Akawara:
+        position: [8, 3]
+    Oth47_AMX_13_90_S3:
+        position: [8, 4]
+    Oth30_T54MS:
+        position: [8, 5]
+    Oth44_Charioteer_T:
+        position: [8, 6]
+#<!-- TIER_9 -->
+    Oth48_EMIL_1951E1_S3:
+        position: [9, 1]
+    Oth41_Centurion_Mk3_S2:
+        position: [9, 2]
+    Oth38_50TP_Tyszkiewicza_S1:
+        position: [9, 3]
+    Oth11_T-55A:
+        position: [9, 4]
