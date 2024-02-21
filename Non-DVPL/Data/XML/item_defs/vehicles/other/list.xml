@@ -784,6 +784,26 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth44_Charioteer_T>
+	<Oth45_Sandstriker>
+		<id>50</id>
+		<userString>#other_vehicles:Oth45_Sandstriker</userString>
+		<shortUserString>#other_vehicles:Oth45_Sandstriker_short</shortUserString>
+		<description>#other_vehicles:Oth45_Sandstriker_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth45_Sandstriker>
 	<Oth46_Charioteer_S3>
 		<id>55</id>
 		<userString>#other_vehicles:Oth46_Charioteer_S3</userString>

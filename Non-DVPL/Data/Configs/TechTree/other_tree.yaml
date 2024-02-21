@@ -78,14 +78,16 @@ tanks:
         position: [8, 1]
     Oth40_TVP_46_S2:
         position: [8, 2]
-    Akawara:
+    Oth45_Sandstriker:
         position: [8, 3]
-    Oth47_AMX_13_90_S3:
+    Akawara:
         position: [8, 4]
-    Oth30_T54MS:
+    Oth47_AMX_13_90_S3:
         position: [8, 5]
-    Oth44_Charioteer_T:
+    Oth30_T54MS:
         position: [8, 6]
+    Oth44_Charioteer_T:
+        position: [8, 7]
 #<!-- TIER_9 -->
     Oth48_EMIL_1951E1_S3:
         position: [9, 1]

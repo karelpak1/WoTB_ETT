@@ -120,6 +120,22 @@
 "usa:Pershing": ['other:Oth40_TVP_46_S2','other:Oth30_T54MS']
 "usa:T69": ['other:Oth37_T26_E4_SuperPershing_S1','other:Oth30_T54MS']
 "ussr:T-44": ['other:Akawara','other:Oth40_TVP_46_S2']
+#Heavy
+"european:S18_EMIL_1951E1": ['other:Oth45_Sandstriker']
+"european:Pl13_53TP_Markowskiego": ['other:Oth45_Sandstriker']
+"european:Cz18_TNH_105_1000": ['other:Oth45_Sandstriker']
+"france:AMX_50_100": ['other:Oth45_Sandstriker']
+"germany:VK4502A": ['other:Oth45_Sandstriker']
+"germany:G115_VK10001P": ['other:Oth45_Sandstriker']
+"germany:PzVIB_Tiger_II": ['other:Oth45_Sandstriker']
+"china:Ch50_BZ_166": ['other:Oth45_Sandstriker']
+"china:Ch11_110": ['other:Oth45_Sandstriker']
+"japan:J27_Chi_Se": ['other:Oth45_Sandstriker']
+"uk:GB11_Caernarvon": ['other:Oth45_Sandstriker']
+"usa:T32": ['other:Oth45_Sandstriker']
+"usa:M-3-Y": ['other:Oth45_Sandstriker']
+"ussr:IS-3": ['other:Oth45_Sandstriker']
+"ussr:KV4": ['other:Oth45_Sandstriker']
 #<!-- TIER_9 -->
 #Medium
 "european:It12_Prototipo_Standard_B": ['other:Oth11_T-55A','other:Oth41_Centurion_Mk3_S2']
