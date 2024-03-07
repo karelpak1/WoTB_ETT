@@ -38,6 +38,8 @@ tanks:
     GB07_Matilda:
         position: [4, 15]
 #<!-- TIER_5 -->
+    GB116_Harry_Hopkins:
+        position: [5, 7]
     GB44_Archer_Custom:
         position: [5, 8]
     GB51_Excelsior:
@@ -129,6 +131,8 @@ tanks:
         position: [8, 16]
 #<!-- TIER_9 -->
     GB106_Cobra:
+        position: [9, 10]
+    GB110_FV4201_Chieftain_Prototype:
         position: [9, 11]
     GB32_Tortoise:
         position: [9, 12]

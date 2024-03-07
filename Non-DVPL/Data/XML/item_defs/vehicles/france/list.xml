@@ -436,11 +436,13 @@
 		<id>250</id>
 		<userString>#france_vehicles:FCM_50t</userString>
 		<description>#france_vehicles:FCM_50t_descr</description>
-		<price>7350<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>mediumTank aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
+		<tags>mediumTank collectible aimingStabilizer_Mk2_user largeCaliberTankRammer_user wetCombatPack_class2_user enhancedTorsions5t_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -540,11 +542,13 @@
 		<userString>#france_vehicles:F71_AMX_30_prototype</userString>
 		<shortUserString>#france_vehicles:F71_AMX_30_prototype_short</shortUserString>
 		<description>#france_vehicles:F71_AMX_30_prototype_descr</description>
-		<price>15000<gold/>
+		<price>10000<gold/>
 		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>scout</arcade>

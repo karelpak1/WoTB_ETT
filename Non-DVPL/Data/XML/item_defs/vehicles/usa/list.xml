@@ -742,11 +742,13 @@
 		<id>62</id>
 		<userString>#usa_vehicles:M60</userString>
 		<description>#usa_vehicles:M60_descr</description>
-		<price>250<gold/>
+		<price>15000<gold/>
 		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton eventCamouflage_user</tags>
+		<tags>mediumTank collectible aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton eventCamouflage_user</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_support</arcade>

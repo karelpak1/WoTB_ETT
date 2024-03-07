@@ -1288,11 +1288,13 @@
 		<userString>#germany_vehicles:G_KpfPz_70</userString>
 		<shortUserString>#germany_vehicles:G_KpfPz_70_short</shortUserString>
 		<description>#germany_vehicles:G_KpfPz_70_descr</description>
-		<price>15000<gold/>
+		<price>10000<gold/>
 		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user enhancedBelwillWashers_user</tags>
+		<tags>heavyTank collectible largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user enhancedBelwillWashers_user</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>revenger</arcade>

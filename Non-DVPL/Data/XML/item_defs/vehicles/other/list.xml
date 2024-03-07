@@ -430,9 +430,11 @@
 		<description>#other_vehicles:Oth25_HWT20_FalconFire_descr</description>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<tags>heavyTank collectible eventCamouflage_user fictional</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>cavalry</arcade>

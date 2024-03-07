@@ -1107,4 +1107,43 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz20_ShPTK_TVP_100>
+	<It30_CC_mod_64_Prem>
+		<id>65</id>
+		<userString>#european_vehicles:It30_CC_mod_64_Prem</userString>
+		<shortUserString>#european_vehicles:It30_CC_mod_64_Prem_short</shortUserString>
+		<description>#european_vehicles:It30_CC_mod_64_Prem_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</It30_CC_mod_64_Prem>
+	<It115_Rinoceronte>
+		<id>69</id>
+		<userString>#european_vehicles:It115_Rinoceronte</userString>
+		<shortUserString>#european_vehicles:It115_Rinoceronte_short</shortUserString>
+		<description>#european_vehicles:It115_Rinoceronte_descr</description>
+		<price>30000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</It115_Rinoceronte>
 </root>

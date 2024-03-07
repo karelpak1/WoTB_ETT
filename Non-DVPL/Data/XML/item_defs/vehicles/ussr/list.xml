@@ -1142,11 +1142,13 @@
 		<userString>#ussr_vehicles:K-91</userString>
 		<shortUserString>#ussr_vehicles:K-91_short</shortUserString>
 		<description>#ussr_vehicles:K-91_descr</description>
-		<price>15000<gold/>
+		<price>10000<gold/>
 		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
+		<tags>heavyTank collectible enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>revenger</arcade>
@@ -1719,7 +1721,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1729,4 +1731,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R187_Object_590>
+	<R192_K_2>
+		<id>106</id>
+		<userString>#ussr_vehicles:R192_K_2</userString>
+		<shortUserString>#ussr_vehicles:R192_K_2_short</shortUserString>
+		<description>#ussr_vehicles:R192_K_2_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating sinai</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R192_K_2>
 </root>
