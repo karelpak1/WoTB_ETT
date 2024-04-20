@@ -190,6 +190,8 @@ tanks:
     G103_RU_251:
         position: [8, 26]
 #<!-- TIER_9 -->
+    G165_Erich_Koncept:
+        position: [9, 14]
     G_KpfPz_70:
         position: [9, 15]
     G162_Project_Kpz_07P_E:

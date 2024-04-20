@@ -62,11 +62,11 @@
 "ussr:KV2": ['other:Oth31_T150BP']
 #<!-- TIER_7 -->
 #Medium
-"european:S13_Leo": ['other:AMX_dracula','other:Oth36_Indien_Panzer_S1']
+"european:S13_Leo": ['other:Oth49_TM_04_NT','other:Oth36_Indien_Panzer_S1']
 "european:It09_P43_ter": ['other:Oth12_Sega_Hafen','other:Oth19_BDT-5C']
 "european:Cz05_T34-100": ['other:Oth20_M4FL10','other:Oth19_BDT-5C']
 "european:Pl20_CS_44": ['other:Oth39_T20_S2','other:Sega_Edelweiss']
-"germany:PzV": ['other:AMX_dracula','other:Sega_Edelweiss']
+"germany:PzV": ['other:AMX_dracula','other:Oth49_TM_04_NT']
 "germany:VK3002DB": ['other:Oth36_Indien_Panzer_S1','other:Oth39_T20_S2']
 "china:Ch04_T34_1": ['other:AMX_dracula','other:Sega_Edelweiss']
 "japan:Chi_Ri": ['other:Oth12_Sega_Hafen','other:Oth19_BDT-5C']

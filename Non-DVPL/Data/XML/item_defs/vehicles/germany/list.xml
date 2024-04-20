@@ -1057,11 +1057,13 @@
 		<userString>#germany_vehicles:DickerMax</userString>
 		<shortUserString>#germany_vehicles:DickerMax_short</shortUserString>
 		<description>#germany_vehicles:DickerMax_descr</description>
-		<price>2900<gold/>
-	</price>
+		<price>3500<gold/>
+		</price>
+		<sellPrice>1750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user noImprovedVentilation</tags>
+		<tags>AT-SPG mediumAT-SPG enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user noImprovedVentilation collectible</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -1164,11 +1166,13 @@
 		<userString>#germany_vehicles:G120_M41_90</userString>
 		<shortUserString>#germany_vehicles:G120_M41_90_short</shortUserString>
 		<description>#germany_vehicles:G120_M41_90_descr</description>
-		<price>7120<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions3t_user</tags>
+		<tags>lightTank mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions3t_user collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -1201,10 +1205,12 @@
 		<description>#germany_vehicles:S01_Frankentank_descr</description>
 		<shortUserString>#germany_vehicles:S01_Frankentank_short</shortUserString>
 		<notInShop>false</notInShop>
-		<price>10000<gold/>
+		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<tags>heavyTank eventCamouflage_user fictional collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
@@ -1329,9 +1335,11 @@
 		<description>#germany_vehicles:G136_Tiger_131_descr</description>
 		<price>3500<gold/>
 		</price>
+		<sellPrice>1750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user</tags>
+		<tags>heavyTank beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user eventCamouflage_user collectible</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1345,11 +1353,13 @@
 		<userString>#germany_vehicles:G114_Rheinmetall_Scorpion</userString>
 		<shortUserString>#germany_vehicles:G114_Rheinmetall_Scorpion_short</shortUserString>
 		<description>#germany_vehicles:G114_Rheinmetall_Scorpion_descr</description>
-		<price>7100<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG noImprovedVentilation enhancedSprings_class2_user wetCombatPack_class1_user largeCaliberTankRammer_user</tags>
+		<tags>AT-SPG mediumAT-SPG noImprovedVentilation enhancedSprings_class2_user wetCombatPack_class1_user largeCaliberTankRammer_user collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -1935,4 +1945,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G119_Panzer58_SH>
+	<G165_Erich_Koncept>
+		<id>109</id>
+		<userString>#germany_vehicles:G165_Erich_Koncept</userString>
+		<shortUserString>#germany_vehicles:G165_Erich_Koncept_short</shortUserString>
+		<description>#germany_vehicles:G165_Erich_Koncept_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G165_Erich_Koncept>
 </root>

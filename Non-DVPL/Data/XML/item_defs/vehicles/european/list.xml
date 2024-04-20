@@ -310,11 +310,13 @@
 		<userString>#european_vehicles:Pl03_PzV_Pudel</userString>
 		<shortUserString>#european_vehicles:Pl03_PzV_Pudel_short</shortUserString>
 		<description>#european_vehicles:Pl03_PzV_Pudel_descr</description>
-		<price>2900<gold/>
+		<price>3500<gold/>
 		</price>
+		<sellPrice>1750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank beast eventCamouflage_user</tags>
+		<tags>mediumTank beast eventCamouflage_user collectible</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -536,9 +538,11 @@
 		<description>#european_vehicles:S26_Lancen_C_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>sniper</arcade>

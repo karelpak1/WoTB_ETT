@@ -1209,11 +1209,13 @@
 		<userString>#usa_vehicles:A124_T54E2</userString>
 		<shortUserString>#usa_vehicles:A124_T54E2_short</shortUserString>
 		<description>#usa_vehicles:A124_T54E2_descr</description>
-		<price>7200<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -1227,11 +1229,13 @@
 		<userString>#usa_vehicles:A111_T25_Pilot</userString>
 		<shortUserString>#usa_vehicles:A111_T25_Pilot_short</shortUserString>
 		<description>#usa_vehicles:A111_T25_Pilot_descr</description>
-		<price>7200<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1706,11 +1710,13 @@
 		<userString>#usa_vehicles:A142_Pawlack_Tank</userString>
 		<shortUserString>#usa_vehicles:A142_Pawlack_Tank_short</shortUserString>
 		<description>#usa_vehicles:A142_Pawlack_Tank_descr</description>
-		<price>2500<gold/>
+		<price>3500<gold/>
 		</price>
+		<sellPrice>1750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>close_assault</arcade>

@@ -53,26 +53,28 @@ tanks:
         position: [7, 11]
     Oth36_Indien_Panzer_S1:
         position: [7, 12]
-    Sega_Nameless:
+    Oth49_TM_04_NT:
         position: [7, 13]
-    Oth34_PanzerMummy:
+    Sega_Nameless:
         position: [7, 14]
-    Oth09_WH_Predator:
+    Oth34_PanzerMummy:
         position: [7, 15]
-    Oth46_Charioteer_S3:
+    Oth09_WH_Predator:
         position: [7, 16]
-    Oth16_KV_TG:
+    Oth46_Charioteer_S3:
         position: [7, 17]
-    Oth28_Sturmfeur_HW:
+    Oth16_KV_TG:
         position: [7, 18]
-    Oth08_WH_Vindicator:
+    Oth28_Sturmfeur_HW:
         position: [7, 19]
-    Oth22_Sega_Vulcan:
+    Oth08_WH_Vindicator:
         position: [7, 20]
-    WZ-135G_FT:
+    Oth22_Sega_Vulcan:
         position: [7, 21]
-    Oth19_BDT-5C:
+    WZ-135G_FT:
         position: [7, 22]
+    Oth19_BDT-5C:
+        position: [7, 23]
 #<!-- TIER_8 -->
     Oth37_T26_E4_SuperPershing_S1:
         position: [8, 1]

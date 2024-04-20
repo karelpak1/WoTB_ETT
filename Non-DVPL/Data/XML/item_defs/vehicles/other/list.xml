@@ -391,10 +391,13 @@
 		<userString>#other_vehicles:Oth23_Werewolf</userString>
 		<shortUserString>#other_vehicles:Oth23_Werewolf_short</shortUserString>
 		<description>#other_vehicles:Oth23_Werewolf_descr</description>
-		<price>5000<gold/></price>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<tags>heavyTank eventCamouflage_user fictional collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -609,9 +612,11 @@
 		<description>#other_vehicles:Oth34_PanzerMummy_descr</description>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank eventCamouflage_user fictional</tags>
+		<tags>heavyTank eventCamouflage_user fictional collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>revenger</arcade>
@@ -868,4 +873,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth48_EMIL_1951E1_S3>
+	<Oth49_TM_04_NT>
+		<id>58</id>
+		<userString>#other_vehicles:Oth49_TM_04_NT</userString>
+		<shortUserString>#other_vehicles:Oth49_TM_04_NT_short</shortUserString>
+		<description>#other_vehicles:Oth49_TM_04_NT_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth49_TM_04_NT>
 </root>

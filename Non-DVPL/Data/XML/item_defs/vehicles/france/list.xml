@@ -642,11 +642,13 @@
 		<userString>#france_vehicles:F69_AMX_13D</userString>
 		<shortUserString>#france_vehicles:F69_AMX_13D_short</shortUserString>
 		<description>#france_vehicles:F69_AMX_13D_descr</description>
-		<price>7000<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank fictional eventCamouflage_user</tags>
+		<tags>lightTank fictional eventCamouflage_user collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -736,11 +738,13 @@
 		<userString>#france_vehicles:F89_Canon_dassaut_105</userString>
 		<shortUserString>#france_vehicles:F89_Canon_dassaut_105_short</shortUserString>
 		<description>#france_vehicles:F19_F89_Canon_dassaut_105_descr</description>
-		<price>7350<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG</tags>
+		<tags>AT-SPG mediumAT-SPG collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -797,12 +801,20 @@
 		<userString>#france_vehicles:Bat-Chat-25CL</userString>
 		<shortUserString>#france_vehicles:Bat-Chat-25CL_short</shortUserString>
 		<description>#france_vehicles:Bat-Chat-25CL_descr</description>
-		<price>500<gold/>
+		<price>10000<gold/> 
 		</price>
+		<sellPrice>5000<gold/> 
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame noRating</tags>
+		<tags>lightTank collectible eventCamouflage_user fictional</tags>
 		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Bat-Chat-25CL>
 	<F117_Alt_Proto_AMX_30>
@@ -897,7 +909,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

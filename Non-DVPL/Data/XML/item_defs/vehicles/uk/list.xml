@@ -473,9 +473,11 @@
 		<shortUserString>#gb_vehicles:GB87_Chieftain_T95_turret_short</shortUserString>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user</tags>
+		<tags>heavyTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -539,11 +541,13 @@
 		<id>211</id>
 		<userString>#gb_vehicles:GB71_AT_15A</userString>
 		<description>#gb_vehicles:GB71_AT_15A_descr</description>
-		<price>5100<gold/>
+		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>AT-SPG heavyAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class3_user</tags>
+		<tags>AT-SPG heavyAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class3_user collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -900,11 +904,13 @@
 		<userString>#uk_vehicles:GB97_Chimera</userString>
 		<shortUserString>#uk_vehicles:GB97_Chimera_short</shortUserString>
 		<description>#uk_vehicles:GB97_Chimera_descr</description>
-		<price>7000<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1146,11 +1152,13 @@
 		<userString>#uk_vehicles:GB112_Caliban</userString>
 		<shortUserString>#uk_vehicles:GB112_Caliban_short</shortUserString>
 		<description>#uk_vehicles:GB112_Caliban_descr</description>
-		<price>7600<gold/>
+		<price>7500<gold/>
         </price>
+        <sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>devastator</arcade>
