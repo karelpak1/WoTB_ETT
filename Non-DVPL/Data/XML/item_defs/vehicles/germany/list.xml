@@ -1097,11 +1097,13 @@
 		<userString>#germany_vehicles:Panther_M10</userString>
 		<shortUserString>#germany_vehicles:Panther_M10_short</shortUserString>
 		<description>#germany_vehicles:Panther_M10_descr</description>
-		<price>4750<gold/>
-    </price>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>mediumTank beast enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
+		<tags>mediumTank collectible beast enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>
@@ -1188,9 +1190,11 @@
 		<description>#germany_vehicles:G118_VK4503_descr</description>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<tags>heavyTank collectible enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1456,9 +1460,11 @@
 		<description>#germany_vehicles:G_E-75TS_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
@@ -1632,11 +1638,13 @@
 		<userString>#germany_vehicles:G109_Steyr_WT</userString>
 		<shortUserString>#germany_vehicles:G109_Steyr_WT_short</shortUserString>
 		<description>#germany_vehicles:G109_Steyr_WT_descr</description>
-		<price>5500<gold/>
+		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG</tags>
+		<tags>AT-SPG mediumAT-SPG collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -1673,9 +1681,11 @@
 		<description>#germany_vehicles:G142_M48RPz_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank eventCamouflage_user</tags>
+		<tags>mediumTank eventCamouflage_user collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1692,9 +1702,11 @@
 		<description>#germany_vehicles:G_E-75RT_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>

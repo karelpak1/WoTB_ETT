@@ -60,9 +60,9 @@ tanks:
         position: [5, 18]
     SU-85:
         position: [5, 20]
-    T-34:
-        position: [5, 21]
     KV1:
+        position: [5, 21]
+    T-34:
         position: [5, 24]
 #<!-- TIER_6 --> 
     R140_M4A2_Loza:
@@ -85,13 +85,13 @@ tanks:
         position: [6, 18]
     SU-100:
         position: [6, 20]
-    T-34-85:
-        position: [6, 21]
-    MT25:
-        position: [6, 23]
     KV-1s:
-        position: [6, 24]
+        position: [6, 21]
     KV2:
+        position: [6, 22]
+    T-34-85:
+        position: [6, 23]
+    MT25:
         position: [6, 25]
 #<!-- TIER_7 -->
     R71_IS_2B:
@@ -112,15 +112,15 @@ tanks:
         position: [7, 19]
     SU100M1:
         position: [7, 20]
-    T-43:
-        position: [7, 21]
-    R107_LTB:
-        position: [7, 22]
-    R131_LTG:
-        position: [7, 23]
     IS:
-        position: [7, 24]
+        position: [7, 21]
     KV-3:
+        position: [7, 22]
+    T-43:
+        position: [7, 23]
+    R107_LTB:
+        position: [7, 24]
+    R131_LTG:
         position: [7, 25]
 #<!-- TIER_8 -->
     IS-2Sh:
@@ -163,13 +163,13 @@ tanks:
         position: [8, 19]
     SU-101:
         position: [8, 20]
-    T-44:
-        position: [8, 21]
-    R109_T54S:
-        position: [8, 23]
     IS-3:
-        position: [8, 24]
+        position: [8, 21]
     KV4:
+        position: [8, 22]
+    T-44:
+        position: [8, 23]
+    R109_T54S:
         position: [8, 25]
 #<!-- TIER_9 -->
     K-91:
@@ -182,13 +182,13 @@ tanks:
         position: [9, 19]
     SU122_54:
         position: [9, 20]
-    T-54:
-        position: [9, 22]
-    R_Object_84:
-        position: [9, 23]
     IS8:
-        position: [9, 24]
+        position: [9, 21]
     ST_I:
+        position: [9, 22]
+    T-54:
+        position: [9, 24]
+    R_Object_84:
         position: [9, 25]
 #<!-- TIER_10 -->
     R110_Object_260:
@@ -205,13 +205,13 @@ tanks:
         position: [10, 19]
     Object263:
         position: [10, 20]
-    Object_140:
-        position: [10, 21]
-    T62A:
-        position: [10, 22]
-    R132_T100LT:
-        position: [10, 23]
     IS-7:
-        position: [10, 24]
+        position: [10, 21]
     IS-4:
+        position: [10, 22]
+    Object_140:
+        position: [10, 23]
+    T62A:
+        position: [10, 24]
+    R132_T100LT:
         position: [10, 25]

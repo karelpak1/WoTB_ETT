@@ -584,11 +584,13 @@
 		<userString>#france_vehicles:F73_M4A1_Revalorise</userString>
 		<shortUserString>#france_vehicles:F73_M4A1_Revalorise_short</shortUserString>
 		<description>#france_vehicles:F73_M4A1_Revalorise_descr</description>
-		<price>7200<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -663,11 +665,13 @@
 		<userString>#france_vehicles:F84_Somua_SM</userString>
 		<shortUserString>#france_vehicles:F84_Somua_SM_short</shortUserString>
 		<description>#france_vehicles:F84_Somua_SM_descr</description>
-		<price>7000<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -803,7 +807,7 @@
 		<description>#france_vehicles:Bat-Chat-25CL_descr</description>
 		<price>10000<gold/> 
 		</price>
-		<sellPrice>5000<gold/> 
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>

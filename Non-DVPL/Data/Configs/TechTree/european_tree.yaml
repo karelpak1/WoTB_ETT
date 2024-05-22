@@ -19,7 +19,7 @@ tanks:
     S02_StrvM42:
         position: [5, 13]
     Pl17_DS_PZlnz:
-        position: [5, 17]
+        position: [5, 18]
 #<!-- TIER_6 -->
     Cz08_T-25BPS:
         position: [6, 4]
@@ -43,12 +43,12 @@ tanks:
         position: [6, 13]
     Cz29_Skoda_P-JS:
         position: [6, 14]
-    It10_P43_bis:
-        position: [6, 15]
     Cz08_T-25:
+        position: [6, 15]
+    It10_P43_bis:
         position: [6, 16]
     Pl18_BUGI:
-        position: [6, 17]
+        position: [6, 18]
 #<!-- TIER_7 -->
     Pl119_CS_52_LIS:
         position: [7, 8]
@@ -64,12 +64,14 @@ tanks:
         position: [7, 13]
     Cz19_Vz_44_1:
         position: [7, 14]
-    It09_P43_ter:
-        position: [7, 15]
     Cz05_T34-100:
+        position: [7, 15]
+    It116_Carro_d_assalto_P88:
         position: [7, 16]
-    Pl20_CS_44:
+    It09_P43_ter:
         position: [7, 17]
+    Pl20_CS_44:
+        position: [7, 18]
 #<!-- TIER_8 -->
     It22_Progetto_C45_mod_71:
         position: [8, 1]
@@ -99,12 +101,14 @@ tanks:
         position: [8, 13]
     Cz18_TNH_105_1000:
         position: [8, 14]
-    It14_P44_Pantera:
-        position: [8, 15]
     Cz07_TVP_46:
+        position: [8, 15]
+    It117_ProgettoCC55mod54:
         position: [8, 16]
-    Pl23_CS_53:
+    It14_P44_Pantera:
         position: [8, 17]
+    Pl23_CS_53:
+        position: [8, 18]
 #<!-- TIER_9 -->
     Pl08_50TP_prot:
         position: [9, 10]
@@ -116,16 +120,16 @@ tanks:
         position: [9, 13]
     Cz16_TNH_T_vz51:
         position: [9, 14]
-    It12_Prototipo_Standard_B:
-        position: [9, 15]
     Cz02_T50:
+        position: [9, 15]
+    It119_ProgettoC50mod66:
         position: [9, 16]
-    Pl22_CS_59:
+    It12_Prototipo_Standard_B:
         position: [9, 17]
+    Pl22_CS_59:
+        position: [9, 18]
 #<!-- TIER_10 -->
     It20_Car_Comb_45t:
-        position: [10, 8]
-    It115_Rinoceronte:
         position: [10, 9]
     S31_Strv_K:
         position: [10, 10]
@@ -137,9 +141,11 @@ tanks:
         position: [10, 13]
     Cz17_Vz_55:
         position: [10, 14]
-    It08_Progetto_M40_mod65:
-        position: [10, 15]
     Cz04_T50_51:
+        position: [10, 15]
+    It115_Rinoceronte:
         position: [10, 16]
-    Pl21_CS_63:
+    It08_Progetto_M40_mod65:
         position: [10, 17]
+    Pl21_CS_63:
+        position: [10, 18]

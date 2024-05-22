@@ -1033,11 +1033,13 @@
 		<userString>#uk_vehicles:GB94_Centurion_Mk5-1_RAAC</userString>
 		<shortUserString>#uk_vehicles:GB94_Centurion_Mk5-1_RAAC_short</shortUserString>
 		<description>#uk_vehicles:GB94_Centurion_Mk5-1_RAAC_descr</description>
-		<price>7200<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1113,11 +1115,13 @@
 		<userString>#uk_vehicles:GB109_GSOR_1008</userString>
 		<shortUserString>#uk_vehicles:GB109_GSOR_1008_short</shortUserString>
 		<description>#uk_vehicles:GB109_GSOR_1008_descr</description>
-		<price>7200<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG</tags>
+		<tags>AT-SPG mediumAT-SPG collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -1154,7 +1158,7 @@
 		<description>#uk_vehicles:GB112_Caliban_descr</description>
 		<price>7500<gold/>
         </price>
-        <sellPrice>3750<gold/>
+		<sellPrice>3750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1172,11 +1176,13 @@
 		<userString>#uk_vehicles:GB_Churchill_MkVIII</userString>
 		<shortUserString>#uk_vehicles:GB_Churchill_MkVIII_short</shortUserString>
 		<description>#uk_vehicles:GB_Churchill_MkVIII_descr</description>
-		<price>500<gold/>
+		<price>3500<gold/>
         </price>
+		<sellPrice>1750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
@@ -1288,13 +1294,13 @@
 		<userString>#uk_vehicles:GB116_Harry_Hopkins</userString>
 		<shortUserString>#uk_vehicles:GB116_Harry_Hopkins_short</shortUserString>
 		<description>#uk_vehicles:GB116_Harry_Hopkins_descr</description>
-		<price>500<gold/>
+		<price>2500<gold/>
 		</price>
-		<sellPrice>250<gold/>
+		<sellPrice>1250<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating</tags>
+		<tags>mediumTank collectible</tags>
 		<level>5</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1315,7 +1321,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

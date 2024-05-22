@@ -895,11 +895,13 @@
 		<id>214</id>
 		<userString>#ussr_vehicles:SU100Y</userString>
 		<description>#ussr_vehicles:SU100Y_descr</description>
-		<price>3000<gold/>
-    </price>
+		<price>3500<gold/>
+		</price>
+		<sellPrice>1750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<tags>AT-SPG collectible heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -1479,11 +1481,13 @@
 		<userString>#ussr_vehicles:R160_object_244</userString>
 		<shortUserString>#ussr_vehicles:R160_object_244_short</shortUserString>
 		<description>#ussr_vehicles:R160_object_244_descr</description>
-		<price>3000<gold/>
+		<price>3500<gold/>
 		</price>
+		<sellPrice>1750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai</tags>
+		<tags>heavyTank collectible sinai</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1750,7 +1754,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating sinai</tags>
+		<tags>heavyTank collectible sinai</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

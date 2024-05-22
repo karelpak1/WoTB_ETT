@@ -531,10 +531,13 @@
 		<userString>#other_vehicles:Oth30_T54MS</userString>
 		<shortUserString>#other_vehicles:Oth30_T54MS_short</shortUserString>
 		<description>#other_vehicles:Oth30_T54MS_descr</description>
-		<price>7200<gold/></price>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank fictional eventCamouflage_user</tags>
+		<tags>mediumTank fictional eventCamouflage_user collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>
@@ -894,4 +897,65 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth49_TM_04_NT>
+	<Oth66_E100ANN_S4>
+		<id>64</id>
+		<userString>#other_vehicles:Oth66_E100ANN_S4</userString>
+		<shortUserString>#other_vehicles:Oth66_E100ANN_S4_short</shortUserString>
+		<description>#other_vehicles:Oth66_E100ANN_S4_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth66_E100ANN_S4>
+	<Oth67_FV215b_183ANN_S4>
+		<id>65</id>
+		<userString>#other_vehicles:Oth67_FV215b_183ANN_S4</userString>
+		<shortUserString>#other_vehicles:Oth67_FV215b_183ANN_S4_short</shortUserString>
+		<description>#other_vehicles:Oth67_FV215b_183ANN_S4_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>1000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth67_FV215b_183ANN_S4>
+	<Oth68_KV2ANN_S4>
+		<id>66</id>
+		<userString>#other_vehicles:Oth68_KV2ANN_S4</userString>
+		<shortUserString>#other_vehicles:Oth68_KV2ANN_S4_short</shortUserString>
+		<description>#other_vehicles:Oth68_KV2ANN_S4_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>1500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth68_KV2ANN_S4>
 </root>

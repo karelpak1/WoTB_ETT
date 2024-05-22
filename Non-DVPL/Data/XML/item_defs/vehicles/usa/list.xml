@@ -967,11 +967,13 @@
 		<userString>#usa_vehicles:A102_T28_concept</userString>
 		<description>#usa_vehicles:A102_T28_concept_descr</description>
 		<shortUserString>#usa_vehicles:A102_T28_concept_short</shortUserString>
-		<price>4950<gold/>
+		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedVertical_springs_class3_user</tags>
+		<tags>AT-SPG heavyAT-SPG collectible largeCaliberTankRammer_user wetCombatPack_class2_user enhancedVertical_springs_class3_user</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -1457,9 +1459,11 @@
 		<description>#usa_vehicles:A130_Super_Hellcat_descr</description>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG</tags>
+		<tags>AT-SPG mediumAT-SPG collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>long_support</arcade>
@@ -1770,9 +1774,11 @@
 		<description>#usa_vehicles:A136_T42_descr</description>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1824,4 +1830,22 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</M4A3E8TUR>
+	<A150_MBT_B>
+		<id>114</id>
+		<userString>#usa_vehicles:A150_MBT_B</userString>
+		<shortUserString>#usa_vehicles:A150_MBT_B_short</shortUserString>
+		<description>#usa_vehicles:A150_MBT_B_descr</description>
+		<price>10000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A150_MBT_B>
 </root>

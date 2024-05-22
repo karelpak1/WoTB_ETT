@@ -616,11 +616,13 @@
 		<userString>#european_vehicles:Pl119_CS_52_LIS</userString>
 		<shortUserString>#european_vehicles:Pl119_CS_52_LIS_short</shortUserString>
 		<description>#european_vehicles:Pl119_CS_52_LIS_descr</description>
-		<price>4900<gold/>
+		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -835,11 +837,13 @@
 		<userString>#european_vehicles:S32_Bofors_Tornvagn</userString>
 		<shortUserString>#european_vehicles:S32_Bofors_Tornvagn_short</shortUserString>
 		<description>#european_vehicles:S32_Bofors_Tornvagn_descr</description>
-		<price>7600<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -973,9 +977,11 @@
 		<description>#european_vehicles:S23_Strv_81_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1122,7 +1128,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<tags>AT-SPG heavyAT-SPG collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_support</arcade>
@@ -1132,16 +1138,62 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It30_CC_mod_64_Prem>
+	<It117_ProgettoCC55mod54>
+		<id>66</id>
+		<userString>#european_vehicles:It117_ProgettoCC55mod54</userString>
+		<shortUserString>#european_vehicles:It117_ProgettoCC55mod54_short</shortUserString>
+		<description>#european_vehicles:It117_ProgettoCC55mod54_descr</description>
+		<price>2600000</price>
+		<enrichmentPermanentCost>12900</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</It117_ProgettoCC55mod54>
+	<It119_ProgettoC50mod66>
+		<id>67</id>
+		<userString>#european_vehicles:It119_ProgettoC50mod66</userString>
+		<shortUserString>#european_vehicles:It119_ProgettoC50mod66_short</shortUserString>
+		<description>#european_vehicles:It119_ProgettoC50mod66_descr</description>
+		<price>3500000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</It119_ProgettoC50mod66>
+	<It116_Carro_d_assalto_P88>
+		<id>68</id>
+		<userString>#european_vehicles:It116_Carro_d_assalto_P88</userString>
+		<shortUserString>#european_vehicles:It116_Carro_d_assalto_P88_short</shortUserString>
+		<description>#european_vehicles:It116_Carro_d_assalto_P88_descr</description>
+		<price>1450000</price>
+		<enrichmentPermanentCost>10200</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</It116_Carro_d_assalto_P88>
 	<It115_Rinoceronte>
 		<id>69</id>
 		<userString>#european_vehicles:It115_Rinoceronte</userString>
 		<shortUserString>#european_vehicles:It115_Rinoceronte_short</shortUserString>
 		<description>#european_vehicles:It115_Rinoceronte_descr</description>
-		<price>30000<gold/>
-		</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>

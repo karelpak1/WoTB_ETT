@@ -35,67 +35,73 @@ tanks:
         position: [7, 2]
     AMX_dracula:
         position: [7, 3]
-    Sega_Edelweiss:
+    Oth66_E100ANN_S4:
         position: [7, 4]
-    Oth42_ForestWitch_HW23:
+    Sega_Edelweiss:
         position: [7, 5]
-    Oth14_MdM_AshKnight:
+    Oth42_ForestWitch_HW23:
         position: [7, 6]
-    Oth12_Sega_Hafen:
+    Oth14_MdM_AshKnight:
         position: [7, 7]
-    Van_Helsing:
+    Oth12_Sega_Hafen:
         position: [7, 8]
-    Oth06_Sega_Lupus:
+    Van_Helsing:
         position: [7, 9]
-    Oth23_Werewolf:
+    Oth06_Sega_Lupus:
         position: [7, 10]
-    Oth20_M4FL10:
+    Oth23_Werewolf:
         position: [7, 11]
-    Oth36_Indien_Panzer_S1:
+    Oth20_M4FL10:
         position: [7, 12]
-    Oth49_TM_04_NT:
+    Oth36_Indien_Panzer_S1:
         position: [7, 13]
-    Sega_Nameless:
+    Oth49_TM_04_NT:
         position: [7, 14]
-    Oth34_PanzerMummy:
+    Sega_Nameless:
         position: [7, 15]
-    Oth09_WH_Predator:
+    Oth34_PanzerMummy:
         position: [7, 16]
-    Oth46_Charioteer_S3:
+    Oth09_WH_Predator:
         position: [7, 17]
-    Oth16_KV_TG:
+    Oth46_Charioteer_S3:
         position: [7, 18]
-    Oth28_Sturmfeur_HW:
+    Oth16_KV_TG:
         position: [7, 19]
-    Oth08_WH_Vindicator:
+    Oth28_Sturmfeur_HW:
         position: [7, 20]
-    Oth22_Sega_Vulcan:
+    Oth08_WH_Vindicator:
         position: [7, 21]
-    WZ-135G_FT:
+    Oth22_Sega_Vulcan:
         position: [7, 22]
-    Oth19_BDT-5C:
+    WZ-135G_FT:
         position: [7, 23]
+    Oth19_BDT-5C:
+        position: [7, 24]
 #<!-- TIER_8 -->
-    Oth37_T26_E4_SuperPershing_S1:
+    Oth67_FV215b_183ANN_S4:
         position: [8, 1]
-    Oth40_TVP_46_S2:
+    Oth37_T26_E4_SuperPershing_S1:
         position: [8, 2]
-    Oth45_Sandstriker:
+    Oth40_TVP_46_S2:
         position: [8, 3]
-    Akawara:
+    Oth45_Sandstriker:
         position: [8, 4]
-    Oth47_AMX_13_90_S3:
+    Akawara:
         position: [8, 5]
-    Oth30_T54MS:
+    Oth47_AMX_13_90_S3:
         position: [8, 6]
-    Oth44_Charioteer_T:
+    Oth30_T54MS:
         position: [8, 7]
+    Oth44_Charioteer_T:
+        position: [8, 8]
 #<!-- TIER_9 -->
     Oth48_EMIL_1951E1_S3:
         position: [9, 1]
     Oth41_Centurion_Mk3_S2:
         position: [9, 2]
-    Oth38_50TP_Tyszkiewicza_S1:
+    Oth68_KV2ANN_S4:
         position: [9, 3]
-    Oth11_T-55A:
+    Oth38_50TP_Tyszkiewicza_S1:
         position: [9, 4]
+    Oth11_T-55A:
+        position: [9, 5]

@@ -38,7 +38,7 @@ tanks:
     M8A1:
         position: [4, 19]
     M7_med:
-        position: [4, 22]
+        position: [4, 20]
 #<!-- TIER_5 -->
     A05_M4_105BD:
         position: [5, 13]
@@ -175,6 +175,8 @@ tanks:
         position: [8, 24]
 #<!-- TIER_9 -->
     A125_AEP_1:
+        position: [9, 15]
+    A150_MBT_B:
         position: [9, 16]
     A146_TL_7_120:
         position: [9, 17]
