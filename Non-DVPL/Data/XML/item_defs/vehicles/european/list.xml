@@ -273,9 +273,11 @@
 		<description>#european_vehicles:S25_EMIL_51_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -819,11 +821,13 @@
 		<userString>#european_vehicles:It22_Progetto_C45_mod_71</userString>
 		<shortUserString>#european_vehicles:It22_Progetto_C45_mod_71_short</shortUserString>
 		<description>#european_vehicles:It22_Progetto_C45_mod_71_descr</description>
-		<price>7600<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>

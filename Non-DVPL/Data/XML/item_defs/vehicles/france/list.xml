@@ -605,11 +605,13 @@
 		<userString>#france_vehicles:F69_AMX_13_57GF</userString>
 		<shortUserString>#france_vehicles:F69_AMX_13_57GF_short</shortUserString>
 		<description>#france_vehicles:F69_AMX_13_57GF_descr</description>
-		<price>4900<gold/>
+		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank wetCombatPack_class1_user enhancedTorsions1t_user</tags>
+		<tags>lightTank wetCombatPack_class1_user enhancedTorsions1t_user collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -704,11 +706,13 @@
 		<userString>#france_vehicles:F116_Bat_Chat_Bourrasque</userString>
 		<shortUserString>#france_vehicles:F116_Bat_Chat_Bourrasque_short</shortUserString>
 		<description>#france_vehicles:F116_Bat_Chat_Bourrasque_descr</description>
-		<price>7350<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -922,4 +926,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F115_Lorraine_50t>
+	<F119_Projet_Murat>
+		<id>82</id>
+		<userString>#france_vehicles:F119_Projet_Murat</userString>
+		<shortUserString>#france_vehicles:F119_Projet_Murat_short</shortUserString>
+		<description>#france_vehicles:F119_Projet_Murat_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F119_Projet_Murat>
 </root>

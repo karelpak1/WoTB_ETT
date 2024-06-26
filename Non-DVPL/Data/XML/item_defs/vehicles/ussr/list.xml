@@ -848,7 +848,7 @@
 		<id>210</id>
 		<userString>#ussr_vehicles:SU_85I</userString>
 		<description>#ussr_vehicles:SU_85I_descr</description>
-		<price>2300<gold/>
+		<price>2500<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -967,9 +967,11 @@
 		<description>#ussr_vehicles:R71_IS_2B_descr</description>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user</tags>
+		<tags>heavyTank sinai enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>revenger</arcade>
@@ -1039,11 +1041,13 @@
 		<userString>#ussr_vehicles:R115_IS-3_auto</userString>
 		<description>#ussr_vehicles:R115_IS-3_auto_descr</description>
 		<shortUserString>#ussr_vehicles:R115_IS-3_auto_short</shortUserString>
-		<price>15000<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai enhancedTorsions5t_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional eventCamouflage_user</tags>
+		<tags>heavyTank sinai enhancedTorsions5t_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional eventCamouflage_user collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>revenger</arcade>
@@ -1091,7 +1095,7 @@
 		<id>251</id>
 		<userString>#ussr_vehicles:T-34-85_Victory</userString>
 		<description>#ussr_vehicles:T-34-85_Victory_descr</description>
-		<price>3300<gold/>
+		<price>3500<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -1266,9 +1270,11 @@
 		<description>#ussr_vehicles:R134_Object_252U_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai</tags>
+		<tags>heavyTank sinai collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -1305,9 +1311,11 @@
 		<description>#ussr_vehicles:R63_ST_IBD_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank fictional</tags>
+		<tags>heavyTank fictional collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

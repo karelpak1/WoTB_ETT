@@ -1440,11 +1440,13 @@
 		<userString>#germany_vehicles:G138_VK16801P</userString>
 		<shortUserString>#germany_vehicles:G138_VK16801P_short</shortUserString>
 		<description>#germany_vehicles:G138_VK16801P_descr</description>
-		<price>7300<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
@@ -1539,11 +1541,13 @@
 		<userString>#germany_vehicles:G112_JagdPanzer_105</userString>
 		<shortUserString>#germany_vehicles:G112_JagdPanzer_105_short</shortUserString>
 		<description>#germany_vehicles:G112_JagdPanzer_105_descr</description>
-		<price>7200<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG</tags>
+		<tags>AT-SPG mediumAT-SPG collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>sniper</arcade>
@@ -1580,9 +1584,11 @@
 		<description>#germany_vehicles:G147_mPanzer_64_descr</description>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank</tags>
+		<tags>lightTank collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -1862,9 +1868,11 @@
 		<description>#germany_vehicles:G154_Kpz_07_RH_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>sniper</arcade>
@@ -1927,7 +1935,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank beast collectible InGame noRating</tags>
+		<tags>heavyTank beast collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1947,7 +1955,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1968,7 +1976,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating</tags>
+		<tags>mediumTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1978,4 +1986,46 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G165_Erich_Koncept>
+	<G166_LKpz_70_K>
+		<id>110</id>
+		<userString>#germany_vehicles:G166_LKpz_70_K</userString>
+		<shortUserString>#germany_vehicles:G166_LKpz_70_K_short</shortUserString>
+		<description>#germany_vehicles:G166_LKpz_70_K_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G166_LKpz_70_K>
+	<G98_Waffentrager_E100>
+		<id>113</id>
+		<userString>#germany_vehicles:G98_Waffentrager_E100</userString>
+		<shortUserString>#germany_vehicles:G98_Waffentrager_E100_short</shortUserString>
+		<description>#germany_vehicles:G98_Waffentrager_E100_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G98_Waffentrager_E100>
 </root>

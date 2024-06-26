@@ -369,11 +369,13 @@
 		<userString>#china_vehicles:Ch26_59_Patton</userString>
 		<shortUserString>#china_vehicles:Ch26_59_Patton_short</shortUserString>
 		<description>#china_vehicles:Ch26_59_Patton_descr</description>
-		<price>7250<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -438,7 +440,7 @@
 		<userString>#china_vehicles:Ch39_WZ120_1G_FT</userString>
 		<shortUserString>#china_vehicles:Ch39_WZ120_1G_FT_short</shortUserString>
 		<description>#china_vehicles:Ch39_WZ120_1G_FT_descr</description>
-		<price>7200<gold/>
+		<price>7500<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -901,4 +903,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch47_BZ_176>
+	<Ch60_Type59_spc>
+		<id>53</id>
+		<userString>#china_vehicles:Ch60_Type59_spc</userString>
+		<shortUserString>#china_vehicles:Ch60_Type59_spc_short</shortUserString>
+		<description>#china_vehicles:Ch60_Type59_spc_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>berserk</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch60_Type59_spc>
 </root>

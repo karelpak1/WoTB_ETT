@@ -41,9 +41,11 @@
 		<shortUserString>#other_vehicles:Sega_Nameless_short</shortUserString>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional eventCamouflage_user</tags>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional eventCamouflage_user collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -111,11 +113,13 @@
 		<userString>#other_vehicles:AMX_dracula</userString>
 		<shortUserString>#other_vehicles:AMX_dracula_short</shortUserString>
 		<description>#other_vehicles:AMX_dracula_descr</description>
-		<price>4900<gold/>
+		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank eventCamouflage_user enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional</tags>
+		<tags>mediumTank eventCamouflage_user enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -131,9 +135,11 @@
 		<shortUserString>#other_vehicles:Sega_Lupus_short</shortUserString>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional eventCamouflage_user</tags>
+		<tags>heavyTank enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user aimingStabilizer_Mk2_user fictional eventCamouflage_user collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -355,7 +361,10 @@
 		<userString>#other_vehicles:Oth20_M4FL10</userString>
 		<shortUserString>#other_vehicles:Oth20_M4FL10_short</shortUserString>
 		<description>#other_vehicles:Oth20_M4FL10_descr</description>
-		<price>5200<gold/></price>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<combatRole>
@@ -364,7 +373,7 @@
 			<lunar>moon_rover</lunar>
 			<gravitizing>hunter</gravitizing>
 		</combatRole>
-		<tags>mediumTank</tags>
+		<tags>mediumTank collectible</tags>
 		<level>7</level>
 		<configurationModes>development production</configurationModes>
 	</Oth20_M4FL10>
@@ -375,9 +384,11 @@
 		<description>#other_vehicles:Oth22_Sega_Vulcan_descr</description>
 		<price>5000<gold/>
 		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank fictional eventCamouflage_user</tags>
+		<tags>heavyTank fictional eventCamouflage_user collectible</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
@@ -897,6 +908,68 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth49_TM_04_NT>
+	<Oth50_STT>
+		<id>60</id>
+		<userString>#other_vehicles:Oth50_STT</userString>
+		<shortUserString>#other_vehicles:Oth50_STT_short</shortUserString>
+		<description>#other_vehicles:Oth50_STT_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible fictional eventCamouflage_user</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth50_STT>
+	<Oth51_FD_24>
+		<id>61</id>
+		<userString>#other_vehicles:Oth51_FD_24</userString>
+		<shortUserString>#other_vehicles:Oth51_FD_24_short</shortUserString>
+		<description>#other_vehicles:Oth51_FD_24_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth51_FD_24>
+	<Oth53_Rammer>
+		<id>63</id>
+		<userString>#other_vehicles:Oth53_Rammer</userString>
+		<shortUserString>#other_vehicles:Oth53_Rammer_short</shortUserString>
+		<description>#other_vehicles:Oth53_Rammer_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible eventCamouflage_user fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth53_Rammer>
 	<Oth66_E100ANN_S4>
 		<id>64</id>
 		<userString>#other_vehicles:Oth66_E100ANN_S4</userString>

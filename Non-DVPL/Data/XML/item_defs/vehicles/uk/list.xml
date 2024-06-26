@@ -524,7 +524,7 @@
 		<id>210</id>
 		<userString>#gb_vehicles:GB63_TOG_II</userString>
 		<description>#gb_vehicles:GB63_TOG_II_descr</description>
-		<price>3100<gold/>
+		<price>3500<gold/>
 		</price>
 		<notInShop>false</notInShop>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
@@ -561,8 +561,8 @@
 		<id>212</id>
 		<userString>#gb_vehicles:GB51_Excelsior</userString>
 		<description>#gb_vehicles:GB51_Excelsior_descr</description>
-		<price>2400<gold/>
-    </price>
+		<price>2500<gold/>
+    	</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class3_user</tags>
 		<level>5</level>
@@ -716,7 +716,7 @@
 		<userString>#uk_vehicles:GB_Churchill_MkVI</userString>
 		<shortUserString>#uk_vehicles:GB_Churchill_MkVI_short</shortUserString>
 		<description>#uk_vehicles:GB_Churchill_MkVI_descr</description>
-		<price>3100<gold/>
+		<price>3500<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
@@ -925,11 +925,13 @@
 		<userString>#uk_vehicles:GB93_Caernarvon_AX</userString>
 		<shortUserString>#uk_vehicles:GB93_Caernarvon_AX_short</shortUserString>
 		<description>#uk_vehicles:GB93_Caernarvon_AX_descr</description>
-		<price>7000<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>

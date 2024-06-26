@@ -3,7 +3,7 @@
 		<id>0</id>
 		<userString>#usa_vehicles:T14</userString>
 		<description>#usa_vehicles:T14_descr</description>
-		<price>2400<gold/>
+		<price>2500<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
@@ -1159,11 +1159,13 @@
 		<userString>#usa_vehicles:A117_T26E5</userString>
 		<shortUserString>#usa_vehicles:A117_T26E5_short</shortUserString>
 		<description>#usa_vehicles:A117_T26E5_descr</description>
-		<price>7200<gold/>
+		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1539,9 +1541,11 @@
 		<description>#usa_vehicles:A132_T77_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1578,9 +1582,11 @@
 		<description>#usa_vehicles:A141_M-4-Y_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1755,9 +1761,11 @@
 		<description>#usa_vehicles:A151_TS_60_descr</description>
 		<price>7500<gold/>
 		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG heavyAT-SPG</tags>
+		<tags>AT-SPG heavyAT-SPG collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_support</arcade>

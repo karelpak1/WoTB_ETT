@@ -39,44 +39,48 @@ tanks:
         position: [7, 4]
     Sega_Edelweiss:
         position: [7, 5]
-    Oth42_ForestWitch_HW23:
+    Oth50_STT:
         position: [7, 6]
-    Oth14_MdM_AshKnight:
+    Oth42_ForestWitch_HW23:
         position: [7, 7]
-    Oth12_Sega_Hafen:
+    Oth14_MdM_AshKnight:
         position: [7, 8]
-    Van_Helsing:
+    Oth12_Sega_Hafen:
         position: [7, 9]
-    Oth06_Sega_Lupus:
+    Van_Helsing:
         position: [7, 10]
-    Oth23_Werewolf:
+    Oth06_Sega_Lupus:
         position: [7, 11]
-    Oth20_M4FL10:
+    Oth23_Werewolf:
         position: [7, 12]
-    Oth36_Indien_Panzer_S1:
+    Oth20_M4FL10:
         position: [7, 13]
-    Oth49_TM_04_NT:
+    Oth36_Indien_Panzer_S1:
         position: [7, 14]
-    Sega_Nameless:
+    Oth49_TM_04_NT:
         position: [7, 15]
-    Oth34_PanzerMummy:
+    Sega_Nameless:
         position: [7, 16]
-    Oth09_WH_Predator:
+    Oth34_PanzerMummy:
         position: [7, 17]
-    Oth46_Charioteer_S3:
+    Oth09_WH_Predator:
         position: [7, 18]
-    Oth16_KV_TG:
+    Oth53_Rammer:
         position: [7, 19]
-    Oth28_Sturmfeur_HW:
+    Oth46_Charioteer_S3:
         position: [7, 20]
-    Oth08_WH_Vindicator:
+    Oth16_KV_TG:
         position: [7, 21]
-    Oth22_Sega_Vulcan:
+    Oth28_Sturmfeur_HW:
         position: [7, 22]
-    WZ-135G_FT:
+    Oth08_WH_Vindicator:
         position: [7, 23]
-    Oth19_BDT-5C:
+    Oth22_Sega_Vulcan:
         position: [7, 24]
+    WZ-135G_FT:
+        position: [7, 25]
+    Oth19_BDT-5C:
+        position: [7, 26]
 #<!-- TIER_8 -->
     Oth67_FV215b_183ANN_S4:
         position: [8, 1]
@@ -94,6 +98,8 @@ tanks:
         position: [8, 7]
     Oth44_Charioteer_T:
         position: [8, 8]
+    Oth51_FD_24:
+        position: [8, 9]
 #<!-- TIER_9 -->
     Oth48_EMIL_1951E1_S3:
         position: [9, 1]
