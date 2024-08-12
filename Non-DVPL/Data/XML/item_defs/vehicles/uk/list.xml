@@ -1332,4 +1332,67 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB110_FV4201_Chieftain_Prototype>
+	<GB109_GSOR_1008_Fearless>
+		<id>94</id>
+		<userString>#uk_vehicles:GB109_GSOR_1008_Fearless</userString>
+		<shortUserString>#uk_vehicles:GB109_GSOR_1008_Fearless_short</shortUserString>
+		<description>#uk_vehicles:GB109_GSOR_1008_Fearless_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible eventCamouflage_user fictional</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB109_GSOR_1008_Fearless>
+	<GB114_Vickers_MBT_Mk3>
+		<id>95</id>
+		<userString>#uk_vehicles:GB114_Vickers_MBT_Mk3</userString>
+		<shortUserString>#uk_vehicles:GB114_Vickers_MBT_Mk3_short</shortUserString>
+		<description>#uk_vehicles:GB114_Vickers_MBT_Mk3_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB114_Vickers_MBT_Mk3>
+	<GB108_A46>
+		<id>96</id>
+		<userString>#uk_vehicles:GB108_A46</userString>
+		<shortUserString>#uk_vehicles:GB108_A46_short</shortUserString>
+		<description>#uk_vehicles:GB108_A46_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible InGame noRating</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB108_A46>
 </root>

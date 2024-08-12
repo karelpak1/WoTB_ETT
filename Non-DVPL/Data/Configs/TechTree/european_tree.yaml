@@ -130,6 +130,8 @@ tanks:
         position: [9, 18]
 #<!-- TIER_10 -->
     It20_Car_Comb_45t:
+        position: [10, 8]
+    It21_Lion:
         position: [10, 9]
     S31_Strv_K:
         position: [10, 10]

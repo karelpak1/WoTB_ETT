@@ -98,8 +98,10 @@ tanks:
         position: [8, 7]
     Oth44_Charioteer_T:
         position: [8, 8]
-    Oth51_FD_24:
+    Oth52_Toxique:
         position: [8, 9]
+    Oth51_FD_24:
+        position: [8, 10]
 #<!-- TIER_9 -->
     Oth48_EMIL_1951E1_S3:
         position: [9, 1]

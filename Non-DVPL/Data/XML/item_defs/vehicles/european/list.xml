@@ -1206,4 +1206,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</It115_Rinoceronte>
+	<It21_Lion>
+		<id>70</id>
+		<userString>#european_vehicles:It21_Lion</userString>
+		<shortUserString>#european_vehicles:It21_Lion_short</shortUserString>
+		<description>#european_vehicles:It21_Lion_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</It21_Lion>
 </root>
