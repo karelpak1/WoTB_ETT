@@ -47,40 +47,44 @@ tanks:
         position: [7, 8]
     Oth12_Sega_Hafen:
         position: [7, 9]
-    Van_Helsing:
+    Oth72_Hazard_I:
         position: [7, 10]
-    Oth06_Sega_Lupus:
+    Van_Helsing:
         position: [7, 11]
-    Oth23_Werewolf:
+    Oth70_Lightbringer:
         position: [7, 12]
-    Oth20_M4FL10:
+    Oth06_Sega_Lupus:
         position: [7, 13]
-    Oth36_Indien_Panzer_S1:
+    Oth23_Werewolf:
         position: [7, 14]
-    Oth49_TM_04_NT:
+    Oth20_M4FL10:
         position: [7, 15]
-    Sega_Nameless:
+    Oth36_Indien_Panzer_S1:
         position: [7, 16]
-    Oth34_PanzerMummy:
+    Oth49_TM_04_NT:
         position: [7, 17]
-    Oth09_WH_Predator:
+    Sega_Nameless:
         position: [7, 18]
-    Oth53_Rammer:
+    Oth34_PanzerMummy:
         position: [7, 19]
-    Oth46_Charioteer_S3:
+    Oth09_WH_Predator:
         position: [7, 20]
-    Oth16_KV_TG:
+    Oth53_Rammer:
         position: [7, 21]
-    Oth28_Sturmfeur_HW:
+    Oth46_Charioteer_S3:
         position: [7, 22]
-    Oth08_WH_Vindicator:
+    Oth16_KV_TG:
         position: [7, 23]
-    Oth22_Sega_Vulcan:
+    Oth28_Sturmfeur_HW:
         position: [7, 24]
-    WZ-135G_FT:
+    Oth08_WH_Vindicator:
         position: [7, 25]
-    Oth19_BDT-5C:
+    Oth22_Sega_Vulcan:
         position: [7, 26]
+    WZ-135G_FT:
+        position: [7, 27]
+    Oth19_BDT-5C:
+        position: [7, 28]
 #<!-- TIER_8 -->
     Oth67_FV215b_183ANN_S4:
         position: [8, 1]
@@ -92,24 +96,30 @@ tanks:
         position: [8, 4]
     Akawara:
         position: [8, 5]
-    Oth47_AMX_13_90_S3:
+    Oth73_Nemini:
         position: [8, 6]
-    Oth30_T54MS:
+    Oth69_Souleater:
         position: [8, 7]
-    Oth44_Charioteer_T:
+    Oth47_AMX_13_90_S3:
         position: [8, 8]
-    Oth52_Toxique:
+    Oth30_T54MS:
         position: [8, 9]
-    Oth51_FD_24:
+    Oth44_Charioteer_T:
         position: [8, 10]
+    Oth52_Toxique:
+        position: [8, 11]
+    Oth51_FD_24:
+        position: [8, 12]
 #<!-- TIER_9 -->
-    Oth48_EMIL_1951E1_S3:
+    Oth74_Argonaut:
         position: [9, 1]
-    Oth41_Centurion_Mk3_S2:
+    Oth48_EMIL_1951E1_S3:
         position: [9, 2]
-    Oth68_KV2ANN_S4:
+    Oth41_Centurion_Mk3_S2:
         position: [9, 3]
-    Oth38_50TP_Tyszkiewicza_S1:
+    Oth68_KV2ANN_S4:
         position: [9, 4]
-    Oth11_T-55A:
+    Oth38_50TP_Tyszkiewicza_S1:
         position: [9, 5]
+    Oth11_T-55A:
+        position: [9, 6]

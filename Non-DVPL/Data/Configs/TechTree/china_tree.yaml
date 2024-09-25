@@ -83,6 +83,8 @@ tanks:
         position: [8, 14]
 #<!-- TIER_9 -->
     Ch59_BZ58_2:
+        position: [9, 6]
+    Ch56_BZ_74_1:
         position: [9, 7]
     Ch47_BZ_176:
         position: [9, 8]

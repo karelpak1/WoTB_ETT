@@ -924,4 +924,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch60_Type59_spc>
+	<Ch56_BZ_74_1>
+		<id>54</id>
+		<userString>#china_vehicles:Ch56_BZ_74_1</userString>
+		<shortUserString>#china_vehicles:Ch56_BZ_74_1_short</shortUserString>
+		<description>#china_vehicles:Ch56_BZ_74_1_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch56_BZ_74_1>
 </root>

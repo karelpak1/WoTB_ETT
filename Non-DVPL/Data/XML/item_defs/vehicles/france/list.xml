@@ -931,13 +931,9 @@
 		<userString>#france_vehicles:F119_Projet_Murat</userString>
 		<shortUserString>#france_vehicles:F119_Projet_Murat_short</shortUserString>
 		<description>#france_vehicles:F119_Projet_Murat_descr</description>
-		<price>15000<gold/>
-		</price>
-		<sellPrice>7500<gold/>
-		</sellPrice>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating</tags>
+		<tags>mediumTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -947,4 +943,55 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F119_Projet_Murat>
+	<F126_AMX_13_M24>
+		<id>83</id>
+		<userString>#france_vehicles:F126_AMX_13_M24</userString>
+		<shortUserString>#france_vehicles:F126_AMX_13_M24_short</shortUserString>
+		<description>#france_vehicles:F126_AMX_13_M24_descr</description>
+		<price>1400000</price>
+		<enrichmentPermanentCost>10300</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F126_AMX_13_M24>
+	<F123_ERAC_105_Proto>
+		<id>84</id>
+		<userString>#france_vehicles:F123_ERAC_105_Proto</userString>
+		<shortUserString>#france_vehicles:F123_ERAC_105_Proto_short</shortUserString>
+		<description>#france_vehicles:F123_ERAC_105_Proto_descr</description>
+		<price>2480000</price>
+		<enrichmentPermanentCost>12800</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F123_ERAC_105_Proto>
+	<F120_Project_Louis>
+		<id>85</id>
+		<userString>#france_vehicles:F120_Project_Louis</userString>
+		<shortUserString>#france_vehicles:F120_Project_Louis_short</shortUserString>
+		<description>#france_vehicles:F120_Project_Louis_descr</description>
+		<price>3520000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>mediumTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F120_Project_Louis>
 </root>
