@@ -216,6 +216,8 @@ tanks:
         position: [9, 25]
 #<!-- TIER_10 -->
     G144_Kpz_50t :
+        position: [10, 14]
+    G125_Spz_57_Rh:
         position: [10, 15]
     G_VK9001P:
         position: [10, 16]

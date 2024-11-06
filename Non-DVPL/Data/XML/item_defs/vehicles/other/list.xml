@@ -1093,6 +1093,26 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth70_Lightbringer>
+	<Oth71_Titan_Strife>
+		<id>69</id>
+		<userString>#other_vehicles:Oth71_Titan_Strife</userString>
+		<shortUserString>#other_vehicles:Oth71_Titan_Strife_short</shortUserString>
+		<description>#other_vehicles:Oth71_Titan_Strife_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth71_Titan_Strife>
 	<Oth72_Hazard_I>
 		<id>70</id>
 		<userString>#other_vehicles:Oth72_Hazard_I</userString>

@@ -2007,6 +2007,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G166_LKpz_70_K>
+	<G125_Spz_57_Rh>
+		<id>112</id>
+		<userString>#germany_vehicles:G125_Spz_57_Rh</userString>
+		<shortUserString>#germany_vehicles:G125_Spz_57_Rh_short</shortUserString>
+		<description>#germany_vehicles:G125_Spz_57_Rh_descr</description>
+		<price>10<gold/>
+		</price>
+		<sellPrice>10<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G125_Spz_57_Rh>
 	<G98_Waffentrager_E100>
 		<id>113</id>
 		<userString>#germany_vehicles:G98_Waffentrager_E100</userString>
