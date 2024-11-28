@@ -121,7 +121,9 @@ tanks:
         position: [9, 3]
     Oth68_KV2ANN_S4:
         position: [9, 4]
-    Oth38_50TP_Tyszkiewicza_S1:
+    Oth75_Braniaq_DM5:
         position: [9, 5]
-    Oth11_T-55A:
+    Oth38_50TP_Tyszkiewicza_S1:
         position: [9, 6]
+    Oth11_T-55A:
+        position: [9, 7]

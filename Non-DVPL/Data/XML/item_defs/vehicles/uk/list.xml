@@ -1385,7 +1385,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank collectible</tags>
+		<tags>lightTank collectible eventCamouflage_user</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>scout</arcade>
