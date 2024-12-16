@@ -1196,4 +1196,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth75_Braniaq_DM5>
+	<Oth77_Prowler>
+		<id>75</id>
+		<userString>#other_vehicles:Oth77_Prowler</userString>
+		<shortUserString>#other_vehicles:Oth77_Prowler_short</shortUserString>
+		<description>#other_vehicles:Oth77_Prowler_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth77_Prowler>
 </root>

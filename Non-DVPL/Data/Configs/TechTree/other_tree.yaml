@@ -96,22 +96,24 @@ tanks:
         position: [8, 4]
     Akawara:
         position: [8, 5]
-    Oth73_Nemini:
+    Oth77_Prowler:
         position: [8, 6]
-    Oth69_Souleater:
+    Oth73_Nemini:
         position: [8, 7]
-    Oth47_AMX_13_90_S3:
+    Oth69_Souleater:
         position: [8, 8]
-    Oth30_T54MS:
+    Oth47_AMX_13_90_S3:
         position: [8, 9]
-    Oth44_Charioteer_T:
+    Oth30_T54MS:
         position: [8, 10]
-    Oth71_Titan_Strife:
+    Oth44_Charioteer_T:
         position: [8, 11]
-    Oth52_Toxique:
+    Oth71_Titan_Strife:
         position: [8, 12]
-    Oth51_FD_24:
+    Oth52_Toxique:
         position: [8, 13]
+    Oth51_FD_24:
+        position: [8, 14]
 #<!-- TIER_9 -->
     Oth74_Argonaut:
         position: [9, 1]

@@ -994,4 +994,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F120_Project_Louis>
+	<F140_Sentinelle>
+		<id>86</id>
+		<userString>#france_vehicles:F140_Sentinelle</userString>
+		<shortUserString>#france_vehicles:F140_Sentinelle_short</shortUserString>
+		<description>#france_vehicles:F140_Sentinelle_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F140_Sentinelle>
 </root>

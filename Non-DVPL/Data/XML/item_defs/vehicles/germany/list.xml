@@ -2039,7 +2039,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>AT-SPG mediumAT-SPG collectible InGame noRating</tags>
+		<tags>AT-SPG mediumAT-SPG collectible eventCamouflage_user</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>sniper</arcade>
