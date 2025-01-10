@@ -994,8 +994,29 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F120_Project_Louis>
-	<F140_Sentinelle>
+	<F127_ELC_AMX_901_Proto>
 		<id>86</id>
+		<userString>#france_vehicles:F127_ELC_AMX_901_Proto</userString>
+		<shortUserString>#france_vehicles:F127_ELC_AMX_901_Proto_short</shortUserString>
+		<description>#france_vehicles:F127_ELC_AMX_901_Proto_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank InGame noRating collectible</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F127_ELC_AMX_901_Proto>
+	<F140_Sentinelle>
+		<id>87</id>
 		<userString>#france_vehicles:F140_Sentinelle</userString>
 		<shortUserString>#france_vehicles:F140_Sentinelle_short</shortUserString>
 		<description>#france_vehicles:F140_Sentinelle_descr</description>

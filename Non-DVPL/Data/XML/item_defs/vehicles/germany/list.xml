@@ -2007,18 +2007,31 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G166_LKpz_70_K>
+	<G126_HWK_12>
+		<id>111</id>
+		<userString>#germany_vehicles:G126_HWK_12</userString>
+		<shortUserString>#germany_vehicles:G126_HWK_12_short</shortUserString>
+		<description>#germany_vehicles:G126_HWK_12_descr</description>
+		<price>3500000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>lightTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G126_HWK_12>
 	<G125_Spz_57_Rh>
 		<id>112</id>
 		<userString>#germany_vehicles:G125_Spz_57_Rh</userString>
 		<shortUserString>#germany_vehicles:G125_Spz_57_Rh_short</shortUserString>
 		<description>#germany_vehicles:G125_Spz_57_Rh_descr</description>
-		<price>10<gold/>
-		</price>
-		<sellPrice>10<gold/>
-		</sellPrice>
+		<price>6500000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>lightTank collectible InGame noRating</tags>
+		<tags>lightTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>scout</arcade>

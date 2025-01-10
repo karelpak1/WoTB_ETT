@@ -1196,6 +1196,26 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth75_Braniaq_DM5>
+	<Oth76_Destiny>
+		<id>74</id>
+		<userString>#other_vehicles:Oth76_Destiny</userString>
+		<shortUserString>#other_vehicles:Oth76_Destiny_short</shortUserString>
+		<description>#other_vehicles:Oth76_Destiny_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>1500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth76_Destiny>
 	<Oth77_Prowler>
 		<id>75</id>
 		<userString>#other_vehicles:Oth77_Prowler</userString>
