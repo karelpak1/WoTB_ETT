@@ -191,12 +191,14 @@ tanks:
         position: [8, 26]
 #<!-- TIER_9 -->
     G165_Erich_Koncept:
-        position: [9, 13]
+        position: [9, 12]
     G_KpfPz_70:
-        position: [9, 14]
+        position: [9, 13]
     G166_LKpz_70_K:
-        position: [9, 15]
+        position: [9, 14]
     G162_Project_Kpz_07P_E:
+        position: [9, 15]
+    G167_Tiger_Maus:
         position: [9, 16]
     Waffentrager_IV_CL:
         position: [9, 17]     

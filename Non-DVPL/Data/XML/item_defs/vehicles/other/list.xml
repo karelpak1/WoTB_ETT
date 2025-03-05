@@ -1227,7 +1227,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible fictional eventCamouflage_user InGame noRating</tags>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>revenger</arcade>

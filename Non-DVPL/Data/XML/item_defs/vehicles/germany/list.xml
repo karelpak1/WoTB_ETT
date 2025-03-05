@@ -2062,4 +2062,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G98_Waffentrager_E100>
+	<G167_Tiger_Maus>
+		<id>114</id>
+		<userString>#germany_vehicles:G167_Tiger_Maus</userString>
+		<shortUserString>#germany_vehicles:G167_Tiger_Maus_short</shortUserString>
+		<description>#germany_vehicles:G167_Tiger_Maus_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank beast collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G167_Tiger_Maus>
 </root>
