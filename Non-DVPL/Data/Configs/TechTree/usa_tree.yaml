@@ -175,6 +175,8 @@ tanks:
         position: [8, 24]
 #<!-- TIER_9 -->
     A125_AEP_1:
+        position: [9, 14]
+    A175_ATAC:
         position: [9, 15]
     A150_MBT_B:
         position: [9, 16]

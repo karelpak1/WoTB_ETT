@@ -1856,4 +1856,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A150_MBT_B>
+	<A175_ATAC>
+		<id>115</id>
+		<userString>#usa_vehicles:A175_ATAC</userString>
+		<shortUserString>#usa_vehicles:A175_ATAC_short</shortUserString>
+		<description>#usa_vehicles:A175_ATAC_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A175_ATAC>
 </root>

@@ -1212,7 +1212,7 @@
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>berserk</hellgames>
-			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth76_Destiny>

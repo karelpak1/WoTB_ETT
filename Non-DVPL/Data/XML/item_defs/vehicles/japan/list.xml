@@ -552,7 +552,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -561,4 +561,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J36_Type_63_HT>
+	<J20_Type_2605>
+		<id>31</id>
+		<userString>#japan_vehicles:J20_Type_2605</userString>
+		<shortUserString>#japan_vehicles:J20_Type_2605_short</shortUserString>
+		<description>#japan_vehicles:J20_Type_2605_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J20_Type_2605>
 </root>

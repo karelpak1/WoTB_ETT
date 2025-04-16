@@ -1005,7 +1005,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame noRating collectible</tags>
+		<tags>lightTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>scout</arcade>
