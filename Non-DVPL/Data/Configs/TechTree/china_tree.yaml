@@ -20,10 +20,8 @@ tanks:
         position: [5, 11]
 #<!-- TIER_6 -->
     Type_58BP:
-        position: [6, 4]
-    Type_58TU:
         position: [6, 5]
-    Type_58TUR:
+    Type_58TU:
         position: [6, 6]
     Ch24_Type64:
         position: [6, 7]
@@ -39,6 +37,8 @@ tanks:
         position: [6, 14]
 #<!-- TIER_7 -->
     Ch42_M41D:
+        position: [7, 7]
+    Type_58TUR:
         position: [7, 8]
     Ch02_Type62:
         position: [7, 9]
@@ -102,10 +102,12 @@ tanks:
         position: [9, 14]
 #<!-- TIER_10 -->
     Ch44_114_SP2:
-        position: [10, 6]
+        position: [10, 5]
     Ch25_121_mod_1971B:
-        position: [10, 7]
+        position: [10, 6]
     Ch52_WZ_122_6_F3:
+        position: [10, 7]
+    Ch57_BZT_70:
         position: [10, 8]
     Ch41_WZ_111_5A:
         position: [10, 9]

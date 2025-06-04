@@ -1714,14 +1714,14 @@
 		<userString>#ussr_vehicles:T34_85TUR</userString>
 		<shortUserString>#ussr_vehicles:T34_85TUR_short</shortUserString>
 		<description>#ussr_vehicles:T34_85TUR_descr</description>
-		<price>500<gold/>
+		<price>5000<gold/>
 		</price>
 		<sellPrice>500<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank collectible eventCamouflage_user</tags>
-		<level>6</level>
+		<level>7</level>
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>vampire_2</hellgames>

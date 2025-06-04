@@ -763,14 +763,14 @@
 		<userString>#china_vehicles:Type_58TUR</userString>
 		<shortUserString>#china_vehicles:Type_58TUR_short</shortUserString>
 		<description>#china_vehicles:Type_58TUR_descr</description>
-		<price>500<gold/>
+		<price>5000<gold/>
 		</price>
 		<sellPrice>500<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank collectible eventCamouflage_user</tags>
-		<level>6</level>
+		<level>7</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>berserk</hellgames>
@@ -944,4 +944,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch56_BZ_74_1>
+	<Ch57_BZT_70>
+		<id>55</id>
+		<userString>#china_vehicles:Ch57_BZT_70</userString>
+		<shortUserString>#china_vehicles:Ch57_BZT_70_short</shortUserString>
+		<description>#china_vehicles:Ch57_BZT_70_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch57_BZT_70>
 </root>

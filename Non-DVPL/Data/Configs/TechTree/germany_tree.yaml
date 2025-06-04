@@ -72,22 +72,20 @@ tanks:
         position: [5, 25]
 #<!-- TIER_6 -->
     VK2801_BP:
-        position: [6, 6]
-    G_VK3502_BP:
         position: [6, 7]
-    DickerMax:
+    G_VK3502_BP:
         position: [6, 8]
-    Nashorn_BP:
+    DickerMax:
         position: [6, 9]
-    PzVI_AusfBP:
+    Nashorn_BP:
         position: [6, 10]
-    JagdPzIV_AusfBP:
+    PzVI_AusfBP:
         position: [6, 11]
-    PzIV_schmalturm:
+    JagdPzIV_AusfBP:
         position: [6, 12]
-    PzVI_AusfTU:
+    PzIV_schmalturm:
         position: [6, 13]
-    PzVI_AusfTUR:
+    PzVI_AusfTU:
         position: [6, 14]
     G136_Tiger_131:
         position: [6, 15]
@@ -109,16 +107,18 @@ tanks:
         position: [6, 26]
 #<!-- TIER_7 -->
     G85_Auf_Panther:
-        position: [7, 11]
+        position: [7, 10]
     E-25:
-        position: [7, 12]
+        position: [7, 11]
     G147_mPanzer_64:
-        position: [7, 13]
+        position: [7, 12]
     Panther_M10:
-        position: [7, 14]
+        position: [7, 13]
     G109_Steyr_WT:
-        position: [7, 15]
+        position: [7, 14]
     S01_Frankentank:
+        position: [7, 15]
+    PzVI_AusfTUR:
         position: [7, 16]
     G118_VK4503:
         position: [7, 17]

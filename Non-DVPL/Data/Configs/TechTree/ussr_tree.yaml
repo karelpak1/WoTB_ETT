@@ -66,16 +66,14 @@ tanks:
         position: [5, 24]
 #<!-- TIER_6 --> 
     R140_M4A2_Loza:
-        position: [6, 10]
-    R160_object_244:
         position: [6, 11]
-    SU100Y:
+    R160_object_244:
         position: [6, 12]
-    T150:
+    SU100Y:
         position: [6, 13]
-    T34_85TU:
+    T150:
         position: [6, 14]
-    T34_85TUR:
+    T34_85TU:
         position: [6, 15]
     T-34-85_Victory:
         position: [6, 16]
@@ -95,15 +93,17 @@ tanks:
         position: [6, 25]
 #<!-- TIER_7 -->
     R71_IS_2B:
-        position: [7, 12]
+        position: [7, 11]
     R175_IS_2E:
-        position: [7, 13]
+        position: [7, 12]
     R116_ISU122C_Berlin:
-        position: [7, 14]
+        position: [7, 13]
     KV-13:
-        position: [7, 15]
+        position: [7, 14]
     SU122_44:
-        position: [7, 16]
+        position: [7, 15]
+    T34_85TUR:
+        position: [6, 16]
     T-34-85_Rudy:
         position: [7, 17]
     R98_T44_85:
