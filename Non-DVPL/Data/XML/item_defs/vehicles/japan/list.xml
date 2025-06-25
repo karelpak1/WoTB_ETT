@@ -581,4 +581,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J20_Type_2605>
+	<J38_Type_95_Ji_Ro>
+		<id>32</id>
+		<userString>#japan_vehicles:J38_Type_95_Ji_Ro</userString>
+		<shortUserString>#japan_vehicles:J38_Type_95_Ji_Ro_short</shortUserString>
+		<description>#japan_vehicles:J38_Type_95_Ji_Ro_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J38_Type_95_Ji_Ro>
 </root>
