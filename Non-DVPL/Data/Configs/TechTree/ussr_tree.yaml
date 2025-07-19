@@ -103,7 +103,7 @@ tanks:
     SU122_44:
         position: [7, 15]
     T34_85TUR:
-        position: [6, 16]
+        position: [7, 16]
     T-34-85_Rudy:
         position: [7, 17]
     R98_T44_85:

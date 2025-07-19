@@ -2082,4 +2082,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G167_Tiger_Maus>
+	<G190_VK_1602_Quby>
+		<id>115</id>
+		<userString>#germany_vehicles:G190_VK_1602_Quby</userString>
+		<shortUserString>#germany_vehicles:G190_VK_1602_Quby_short</shortUserString>
+		<description>#germany_vehicles:G190_VK_1602_Quby_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank eventCamouflage_user fictional collectible</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G190_VK_1602_Quby>
 </root>
