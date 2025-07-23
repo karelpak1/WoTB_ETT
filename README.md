@@ -1,11 +1,10 @@
-
 # WoTB Extended Tech Tree
 
 Welcome to World of Tanks Blitz Extended Tech Tree, the ultimate enhancement for World of Tanks Blitz enthusiasts! 🚀
 
 ## About World of Tanks Blitz
 
-[World of Tanks Blitz](https://wotblitz.com) is an exciting game developed by [Wargaming](https://wargaming.net/), offering thrilling tank battles in almost all regions. If you're a fan of intense combat and strategic gameplay, World of Tanks Blitz is the perfect game for you.
+[World of Tanks Blitz](https://wotblitz.com) is a repetitive game developed by [Wargaming](https://wargaming.net/), offering mind numbing tank battles in almost all regions. If you're a fan of pathetic combat and unpredictable gameplay, World of Tanks Blitz is the perfect game for you.
 
 ## Features:
 
