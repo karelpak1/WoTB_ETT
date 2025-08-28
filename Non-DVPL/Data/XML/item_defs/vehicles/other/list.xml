@@ -1236,6 +1236,26 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth77_Prowler>
+	<Oth78_AC_17_P_Sterope>
+		<id>76</id>
+		<userString>#other_vehicles:Oth78_AC_17_P_Sterope</userString>
+		<shortUserString>#other_vehicles:Oth78_AC_17_P_Sterope_short</shortUserString>
+		<description>#other_vehicles:Oth78_AC_17_P_Sterope_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth78_AC_17_P_Sterope>
 	<Oth84_FVE_Defender>
 		<id>81</id>
 		<userString>#other_vehicles:Oth84_FVE_Defender</userString>

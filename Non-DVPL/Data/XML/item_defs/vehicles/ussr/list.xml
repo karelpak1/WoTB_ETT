@@ -1771,4 +1771,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</R192_K_2>
+	<R217_Object_Kust>
+		<id>107</id>
+		<userString>#ussr_vehicles:R217_Object_Kust</userString>
+		<shortUserString>#ussr_vehicles:R217_Object_Kust_short</shortUserString>
+		<description>#ussr_vehicles:R217_Object_Kust_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</R217_Object_Kust>
 </root>
