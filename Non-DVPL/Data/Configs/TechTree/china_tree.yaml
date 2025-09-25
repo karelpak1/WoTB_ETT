@@ -83,12 +83,14 @@ tanks:
         position: [8, 14]
 #<!-- TIER_9 -->
     Ch59_BZ58_2:
-        position: [9, 6]
+        position: [9, 5]
     Ch56_BZ_74_1:
-        position: [9, 7]
+        position: [9, 6]
     Ch47_BZ_176:
-        position: [9, 8]
+        position: [9, 7]
     Ch45_WZ_114:
+        position: [9, 8]
+    Ch40_WZ120G_FT:
         position: [9, 9]
     Ch37_WZ-111G_FT:
         position: [9, 10]

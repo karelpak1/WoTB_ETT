@@ -1406,7 +1406,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -1416,4 +1416,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB128_Nemesis>
+	<GB141_GSOR_the_TANK>
+		<id>98</id>
+		<userString>#uk_vehicles:GB141_GSOR_the_TANK</userString>
+		<shortUserString>#uk_vehicles:GB141_GSOR_the_TANK_short</shortUserString>
+		<description>#uk_vehicles:GB141_GSOR_the_TANK_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire</hellgames>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB141_GSOR_the_TANK>
 </root>

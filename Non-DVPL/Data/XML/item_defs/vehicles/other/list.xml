@@ -1256,6 +1256,46 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth78_AC_17_P_Sterope>
+	<Oth79_AC_17_Alcyone>
+		<id>77</id>
+		<userString>#other_vehicles:Oth79_AC_17_Alcyone</userString>
+		<shortUserString>#other_vehicles:Oth79_AC_17_Alcyone_short</shortUserString>
+		<description>#other_vehicles:Oth79_AC_17_Alcyone_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth79_AC_17_Alcyone>
+	<Oth82_AC_14_Pleione>
+		<id>80</id>
+		<userString>#other_vehicles:Oth82_AC_14_Pleione</userString>
+		<shortUserString>#other_vehicles:Oth82_AC_14_Pleione_short</shortUserString>
+		<description>#other_vehicles:Oth82_AC_14_Pleione_descr</description>
+		<price>3500<gold/>
+		</price>
+		<sellPrice>1750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank fictional collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth82_AC_14_Pleione>
 	<Oth84_FVE_Defender>
 		<id>81</id>
 		<userString>#other_vehicles:Oth84_FVE_Defender</userString>
@@ -1277,4 +1317,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth84_FVE_Defender>
+	<Oth83_AC_13_Merope>
+		<id>82</id>
+		<userString>#other_vehicles:Oth83_AC_13_Merope</userString>
+		<shortUserString>#other_vehicles:Oth83_AC_13_Merope_short</shortUserString>
+		<description>#other_vehicles:Oth83_AC_13_Merope_descr</description>
+		<price>3500<gold/>
+		</price>
+		<sellPrice>1750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank fictional collectible InGame noRating</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth83_AC_13_Merope>
 </root>

@@ -2103,4 +2103,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G190_VK_1602_Quby>
+	<G168_KJpz_T_III>
+		<id>116</id>
+		<userString>#germany_vehicles:G168_KJpz_T_III</userString>
+		<shortUserString>#germany_vehicles:G168_KJpz_T_III_short</shortUserString>
+		<description>#germany_vehicles:G168_KJpz_T_III_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G168_KJpz_T_III>
 </root>

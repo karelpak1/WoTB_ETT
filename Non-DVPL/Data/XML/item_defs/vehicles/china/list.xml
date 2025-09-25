@@ -964,4 +964,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch57_BZT_70>
+	<Ch40_WZ120G_FT>
+		<id>56</id>
+		<userString>#china_vehicles:Ch40_WZ120G_FT</userString>
+		<shortUserString>#china_vehicles:Ch40_WZ120G_FT_short</shortUserString>
+		<description>#china_vehicles:Ch40_WZ120G_FT_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>hunter_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch40_WZ120G_FT>
 </root>

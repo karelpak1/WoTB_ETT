@@ -154,8 +154,10 @@ tanks:
         position: [9, 19]
 #<!-- TIER_10 -->
     GB84_Chieftain_Mk6:
-        position: [10, 12]
+        position: [10, 11]
     GB92_FV217:
+        position: [10, 12]
+    GB141_GSOR_the_TANK:
         position: [10, 13]
     GB91_Super_Conqueror:
         position: [10, 14]
