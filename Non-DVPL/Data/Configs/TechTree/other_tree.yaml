@@ -18,16 +18,18 @@ tanks:
     Oth17_BDT-5A:
         position: [5, 6]
 #<!-- TIER_6 -->
-    Oth33_Blizzard_BP:
+    Oth65_PzVIllM_Tigeom:
         position: [6, 1]
-    Strv_74A2:
+    Oth33_Blizzard_BP:
         position: [6, 2]
-    Oth31_T150BP:
+    Strv_74A2:
         position: [6, 3]
-    Oth27_M24_AMX:
+    Oth31_T150BP:
         position: [6, 4]
-    Oth18_BDT-5B:
+    Oth27_M24_AMX:
         position: [6, 5]
+    Oth18_BDT-5B:
+        position: [6, 6]
 #<!-- TIER_7 -->
     Oth83_AC_13_Merope:
         position: [7, 1]

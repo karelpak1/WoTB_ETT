@@ -908,6 +908,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth49_TM_04_NT>
+	<Oth65_PzVIllM_Tigeom>
+		<id>59</id>
+		<userString>#other_vehicles:Oth65_PzVIllM_Tigeom</userString>
+		<shortUserString>#other_vehicles:Oth65_PzVIllM_Tigeom_short</shortUserString>
+		<description>#other_vehicles:Oth65_PzVIllM_Tigeom_descr</description>
+		<price>5000<gold/>
+		</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank InGame noRating</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth65_PzVIllM_Tigeom>
 	<Oth50_STT>
 		<id>60</id>
 		<userString>#other_vehicles:Oth50_STT</userString>
@@ -1247,7 +1265,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible fictional InGame noRating</tags>
+		<tags>heavyTank collectible fictional</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
