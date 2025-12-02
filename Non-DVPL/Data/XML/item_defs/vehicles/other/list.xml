@@ -825,6 +825,65 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth45_Sandstriker>
+	<Oth61_Pz_VM_Set>
+		<id>51</id>
+		<userString>#other_vehicles:Oth61_Pz_VM_Set</userString>
+		<shortUserString>#other_vehicles:Oth61_Pz_VM_Set_short</shortUserString>
+		<description>#other_vehicles:Oth61_Pz_VM_Set_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank fictional eventCamouflage_user</tags>
+		<level>4</level>
+		<configurationModes>development production</configurationModes>
+	</Oth61_Pz_VM_Set>
+	<Oth62_Pz_VlD_Set>
+		<id>52</id>
+		<userString>#other_vehicles:Oth62_Pz_VlD_Set</userString>
+		<shortUserString>#other_vehicles:Oth62_Pz_VlD_Set_short</shortUserString>
+		<description>#other_vehicles:Oth62_Pz_VlD_Set_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>3600</enrichmentPermanentCost>
+		<tags>heavyTank fictional</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth62_Pz_VlD_Set>
+	<Oth63_Pz_VllF_Set>
+		<id>53</id>
+		<userString>#other_vehicles:Oth63_Pz_VllF_Set</userString>
+		<shortUserString>#other_vehicles:Oth63_Pz_VllF_Set_short</shortUserString>
+		<description>#other_vehicles:Oth63_Pz_VllF_Set_descr</description>
+		<price>900000</price>
+		<enrichmentPermanentCost>4800</enrichmentPermanentCost>
+		<tags>heavyTank fictional</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth63_Pz_VllF_Set>
+	<Oth64_Pz_VlllK_Set>
+		<id>54</id>
+		<userString>#other_vehicles:Oth64_Pz_VlllK_Set</userString>
+		<shortUserString>#other_vehicles:Oth64_Pz_VlllK_Set_short</shortUserString>
+		<description>#other_vehicles:Oth64_Pz_VlllK_Set_descr</description>
+		<price>1490000</price>
+		<enrichmentPermanentCost>10400</enrichmentPermanentCost>
+		<tags>heavyTank fictional</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth64_Pz_VlllK_Set>
 	<Oth46_Charioteer_S3>
 		<id>55</id>
 		<userString>#other_vehicles:Oth46_Charioteer_S3</userString>
@@ -917,7 +976,7 @@
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating</tags>
+		<tags>heavyTank fictional</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1279,13 +1338,9 @@
 		<userString>#other_vehicles:Oth79_AC_17_Alcyone</userString>
 		<shortUserString>#other_vehicles:Oth79_AC_17_Alcyone_short</shortUserString>
 		<description>#other_vehicles:Oth79_AC_17_Alcyone_descr</description>
-		<price>15000<gold/>
-		</price>
-		<sellPrice>7500<gold/>
-		</sellPrice>
+		<price>6500000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank fictional</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1294,18 +1349,50 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth79_AC_17_Alcyone>
+	<Oth80_AC_16_Celeno>
+		<id>78</id>
+		<userString>#other_vehicles:Oth80_AC_16_Celeno</userString>
+		<shortUserString>#other_vehicles:Oth80_AC_16_Celeno_short</shortUserString>
+		<description>#other_vehicles:Oth80_AC_16_Celeno_descr</description>
+		<price>3600000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank fictional</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth80_AC_16_Celeno>
+	<Oth81_AC_15_Taygete>
+		<id>79</id>
+		<userString>#other_vehicles:Oth81_AC_15_Taygete</userString>
+		<shortUserString>#other_vehicles:Oth81_AC_15_Taygete_short</shortUserString>
+		<description>#other_vehicles:Oth81_AC_15_Taygete_descr</description>
+		<price>2600000</price>
+		<enrichmentPermanentCost>12700</enrichmentPermanentCost>
+		<tags>heavyTank fictional</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth81_AC_15_Taygete>
 	<Oth82_AC_14_Pleione>
 		<id>80</id>
 		<userString>#other_vehicles:Oth82_AC_14_Pleione</userString>
 		<shortUserString>#other_vehicles:Oth82_AC_14_Pleione_short</shortUserString>
 		<description>#other_vehicles:Oth82_AC_14_Pleione_descr</description>
-		<price>3500<gold/>
+		<price>7500<gold/>
 		</price>
-		<sellPrice>1750<gold/>
+		<sellPrice>3750<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank fictional collectible InGame noRating</tags>
+		<tags>heavyTank fictional collectible</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -1340,17 +1427,17 @@
 		<userString>#other_vehicles:Oth83_AC_13_Merope</userString>
 		<shortUserString>#other_vehicles:Oth83_AC_13_Merope_short</shortUserString>
 		<description>#other_vehicles:Oth83_AC_13_Merope_descr</description>
-		<price>3500<gold/>
+		<price>5000<gold/>
 		</price>
-		<sellPrice>1750<gold/>
+		<sellPrice>2500<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank fictional collectible InGame noRating</tags>
+		<tags>heavyTank fictional collectible</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
-			<hellgames>vampire_2</hellgames>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1397,4 +1484,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth85_Ghoul>
+	<Oth93_Convoyer>
+		<id>88</id>
+		<userString>#other_vehicles:Oth93_Convoyer</userString>
+		<shortUserString>#other_vehicles:Oth93_Convoyer_short</shortUserString>
+		<description>#other_vehicles:Oth93_Convoyer_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible fictional eventCamouflage_user InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth93_Convoyer>
 </root>

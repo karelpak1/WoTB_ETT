@@ -1,35 +1,42 @@
-premium_rows: 0
+premium_rows: 29
 
 tanks:
 #<!-- TIER_1 -->
     Oth10_WarDuck:
-        position: [1, 1]
+        position: [1, 28]
+#<!-- TIER_4 -->
+    Oth61_Pz_VM_Set:
+        position: [4, 30]
 #<!-- TIER_5 -->
     Oth35_PanzerMejai:
-        position: [5, 1]
+        position: [5, 24]
     Oth24_StuH_42HW:
-        position: [5, 2]
+        position: [5, 25]
     Oth15_RustCrab:
-        position: [5, 3]
+        position: [5, 26]
     Oth26_StrvM42HW:
-        position: [5, 4]
+        position: [5, 27]
     Oth29_A15HW:
-        position: [5, 5]
+        position: [5, 28]
     Oth17_BDT-5A:
-        position: [5, 6]
+        position: [5, 29]
+    Oth62_Pz_VlD_Set:
+        position: [5, 30]
 #<!-- TIER_6 -->
     Oth65_PzVIllM_Tigeom:
-        position: [6, 1]
+        position: [6, 24]
     Oth33_Blizzard_BP:
-        position: [6, 2]
+        position: [6, 25]
     Strv_74A2:
-        position: [6, 3]
+        position: [6, 26]
     Oth31_T150BP:
-        position: [6, 4]
+        position: [6, 27]
     Oth27_M24_AMX:
-        position: [6, 5]
+        position: [6, 28]
     Oth18_BDT-5B:
-        position: [6, 6]
+        position: [6, 29]
+    Oth63_Pz_VllF_Set:
+        position: [6, 30]
 #<!-- TIER_7 -->
     Oth83_AC_13_Merope:
         position: [7, 1]
@@ -89,62 +96,70 @@ tanks:
         position: [7, 28]
     Oth19_BDT-5C:
         position: [7, 29]
+    Oth64_Pz_VlllK_Set:
+        position: [7, 30]
 #<!-- TIER_8 -->
     Oth82_AC_14_Pleione:
-        position: [8, 1]
-    Oth85_Ghoul:
-        position: [8, 2]
-    Oth67_FV215b_183ANN_S4:
-        position: [8, 3]
-    Oth37_T26_E4_SuperPershing_S1:
-        position: [8, 4]
-    Oth40_TVP_46_S2:
-        position: [8, 5]
-    Oth45_Sandstriker:
-        position: [8, 6]
-    Akawara:
-        position: [8, 7]
-    Oth77_Prowler:
-        position: [8, 8]
-    Oth73_Nemini:
-        position: [8, 9]
-    Oth69_Souleater:
-        position: [8, 10]
-    Oth47_AMX_13_90_S3:
-        position: [8, 11]
-    Oth30_T54MS:
-        position: [8, 12]
-    Oth44_Charioteer_T:
         position: [8, 13]
-    Oth71_Titan_Strife:
+    Oth85_Ghoul:
         position: [8, 14]
-    Oth52_Toxique:
+    Oth93_Convoyer:
         position: [8, 15]
-    Oth51_FD_24:
+    Oth67_FV215b_183ANN_S4:
         position: [8, 16]
+    Oth37_T26_E4_SuperPershing_S1:
+        position: [8, 17]
+    Oth45_Sandstriker:
+        position: [8, 18]
+    Oth40_TVP_46_S2:
+        position: [8, 19]
+    Akawara:
+        position: [8, 20]
+    Oth77_Prowler:
+        position: [8, 21]
+    Oth73_Nemini:
+        position: [8, 22]
+    Oth69_Souleater:
+        position: [8, 23]
+    Oth47_AMX_13_90_S3:
+        position: [8, 24]
+    Oth30_T54MS:
+        position: [8, 25]
+    Oth44_Charioteer_T:
+        position: [8, 26]
+    Oth71_Titan_Strife:
+        position: [8, 27]
+    Oth52_Toxique:
+        position: [8, 28]
+    Oth51_FD_24:
+        position: [8, 29]
+    Oth81_AC_15_Taygete:
+        position: [8, 30]
 #<!-- TIER_9 -->
     Oth78_AC_17_P_Sterope:
-        position: [9, 1]
+        position: [9, 19]
     Oth74_Argonaut:
-        position: [9, 2]
+        position: [9, 20]
     Oth76_Destiny:
-        position: [9, 3]
+        position: [9, 21]
     Oth48_EMIL_1951E1_S3:
-        position: [9, 4]
+        position: [9, 22]
     Oth84_FVE_Defender:
-        position: [9, 5]
+        position: [9, 23]
     Oth41_Centurion_Mk3_S2:
-        position: [9, 6]
+        position: [9, 24]
     Oth86_Survivalist:
-        position: [9, 7]
+        position: [9, 25]
     Oth68_KV2ANN_S4:
-        position: [9, 8]
+        position: [9, 26]
     Oth75_Braniaq_DM5:
-        position: [9, 9]
+        position: [9, 27]
     Oth38_50TP_Tyszkiewicza_S1:
-        position: [9, 10]
+        position: [9, 28]
     Oth11_T-55A:
-        position: [9, 11]
+        position: [9, 29]
+    Oth80_AC_16_Celeno:
+        position: [9, 30]
 #<!-- TIER_10 -->
     Oth79_AC_17_Alcyone:
-        position: [10, 1]
+        position: [10, 30]
