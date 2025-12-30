@@ -1,83 +1,83 @@
-premium_rows: 11
+premium_rows: 10
 
 tanks:
 #<!-- TIER_1 -->
     F01_Vickers_MkF:
-        position: [1, 14]
+        position: [1, 13]
 #<!-- TIER_2 -->
     Pl06_10TP:
-        position: [2, 14]
+        position: [2, 13]
 #<!-- TIER_3 -->
     Pl07_14TP:
-        position: [3, 14]
+        position: [3, 13]
 #<!-- TIER_4 -->
     S04_Lago-I:
-        position: [4, 14]
+        position: [4, 13]
 #<!-- TIER_5 -->
     It15_Semovente_M41:
-        position: [5, 12]
+        position: [5, 11]
     Pl33_SDP_Wz_40:
-        position: [5, 13]
+        position: [5, 12]
     S02_StrvM42:
-        position: [5, 14]
+        position: [5, 13]
     Pl17_DS_PZlnz:
-        position: [5, 20]
+        position: [5, 19]
 #<!-- TIER_6 -->
     Cz08_T-25BPS:
-        position: [6, 5]
+        position: [6, 4]
     Cz08_T-25BP:
-        position: [6, 6]
+        position: [6, 5]
     Cz29_Skoda_P-JS_BP:
-        position: [6, 7]
+        position: [6, 6]
     It10_P43_BD:
-        position: [6, 8]
+        position: [6, 7]
     Pl03_PzV_Pudel:
-        position: [6, 9]
+        position: [6, 8]
     It10_P43_bis_BP:
-        position: [6, 10]
+        position: [6, 9]
     S07_Strv74BP:
-        position: [6, 11]
+        position: [6, 10]
     It16_Bassoto:
-        position: [6, 12]
+        position: [6, 11]
     Pl32_SDP_Wz_44:
-        position: [6, 13]
+        position: [6, 12]
     S07_Strv_74:
-        position: [6, 14]
+        position: [6, 13]
     Pl10_40TP_Habicha:
-        position: [6, 15]
+        position: [6, 14]
     Cz29_Skoda_P-JS:
-        position: [6, 16]
+        position: [6, 15]
     Cz08_T-25:
-        position: [6, 17]
+        position: [6, 16]
     It10_P43_bis:
-        position: [6, 18]
+        position: [6, 17]
     Pl18_BUGI:
-        position: [6, 20]
+        position: [6, 19]
 #<!-- TIER_7 -->
     Pl119_CS_52_LIS:
-        position: [7, 9]
+        position: [7, 8]
     S13_Leo_NY:
-        position: [7, 10]
+        position: [7, 9]
     Cz15_Skoda_T-45:
-        position: [7, 11]
+        position: [7, 10]
     It17_Semovente_mod_56:
-        position: [7, 12]
+        position: [7, 11]
     Pl31_SDP_Wz_57D:
-        position: [7, 13]
+        position: [7, 12]
     S13_Leo:
-        position: [7, 14]
+        position: [7, 13]
     Pl11_45TP_Habicha:
-        position: [7, 15]
+        position: [7, 14]
     Cz19_Vz_44_1:
-        position: [7, 16]
+        position: [7, 15]
     Cz05_T34-100:
-        position: [7, 17]
+        position: [7, 16]
     It116_Carro_d_assalto_P88:
-        position: [7, 18]
+        position: [7, 17]
     It09_P43_ter:
-        position: [7, 19]
+        position: [7, 18]
     Pl20_CS_44:
-        position: [7, 20]
+        position: [7, 19]
 #<!-- TIER_8 -->
     It22_Progetto_C45_mod_71:
         position: [8, 1]
@@ -91,79 +91,79 @@ tanks:
         position: [8, 5]
     Cz20_ShPTK_TVP_100:
         position: [8, 6]
-    Cz13_T-27:
-        position: [8, 7]
     Cz14_Skoda_T-56:
-        position: [8, 8]
+        position: [8, 7]
     It30_CC_mod_64_Prem:
-        position: [8, 9]
+        position: [8, 8]
     S23_Strv_81:
-        position: [8, 10]
+        position: [8, 9]
     S32_Bofors_Tornvagn:
-        position: [8, 11]
+        position: [8, 10]
     It18_Semovente_mod_64:
-        position: [8, 12]
+        position: [8, 11]
     Pl30_SDP_Wz58T:
-        position: [8, 13]
+        position: [8, 12]
     S18_EMIL_1951E1:
-        position: [8, 14]
+        position: [8, 13]
     Pl13_53TP_Markowskiego:
-        position: [8, 15]
+        position: [8, 14]
     Cz18_TNH_105_1000:
-        position: [8, 16]
+        position: [8, 15]
     Cz07_TVP_46:
-        position: [8, 17]
+        position: [8, 16]
     It117_ProgettoCC55mod54:
-        position: [8, 18]
+        position: [8, 17]
     It14_P44_Pantera:
-        position: [8, 19]
+        position: [8, 18]
     Pl23_CS_53:
-        position: [8, 20]
+        position: [8, 19]
 #<!-- TIER_9 -->
     Pl08_50TP_prot:
-        position: [9, 11]
+        position: [9, 9]
+    Cz13_T-27:
+        position: [9, 10]
     It19_Controcarro_1MK2_Ciclope:
-        position: [9, 12]
+        position: [9, 11]
     Pl28_SDP_Wz_60:
-        position: [9, 13]
+        position: [9, 12]
     S17_EMIL_1952E2:
-        position: [9, 14]
+        position: [9, 13]
     Pl05_50TP_Tyszkiewicza:
-        position: [9, 15]
+        position: [9, 14]
     Cz16_TNH_T_vz51:
-        position: [9, 16]
+        position: [9, 15]
     Cz02_T50:
-        position: [9, 17]
+        position: [9, 16]
     It119_ProgettoC50mod66:
-        position: [9, 18]
+        position: [9, 17]
     It12_Prototipo_Standard_B:
-        position: [9, 19]
+        position: [9, 18]
     Pl22_CS_59:
-        position: [9, 20]
+        position: [9, 19]
 #<!-- TIER_10 -->
     It20_Car_Comb_45t:
-        position: [10, 8]
+        position: [10, 7]
     It35_Felice:
-        position: [10, 9]
+        position: [10, 8]
     It21_Lion:
-        position: [10, 10]
+        position: [10, 9]
     S31_Strv_K:
-        position: [10, 11]
+        position: [10, 10]
     It21_Controcarro3_Minotauro:
-        position: [10, 12]
+        position: [10, 11]
     Pl29_NC_Wz_70T:
-        position: [10, 13]
+        position: [10, 12]
     S16_Kranvagn:
-        position: [10, 14]
+        position: [10, 13]
     Pl15_60TP:
-        position: [10, 15]
+        position: [10, 14]
     Cz17_Vz_55:
-        position: [10, 16]
+        position: [10, 15]
     Cz04_T50_51:
-        position: [10, 17]
+        position: [10, 16]
     It115_Rinoceronte:
-        position: [10, 18]
+        position: [10, 17]
     It08_Progetto_M40_mod65:
-        position: [10, 19]
+        position: [10, 18]
     Pl21_CS_63:
-        position: [10, 20]
+        position: [10, 19]

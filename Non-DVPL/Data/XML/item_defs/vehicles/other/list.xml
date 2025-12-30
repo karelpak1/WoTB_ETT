@@ -1484,6 +1484,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth85_Ghoul>
+	<Oth91_AC_U_MT_10>
+		<id>86</id>
+		<userString>#other_vehicles:Oth91_AC_U_MT_10</userString>
+		<shortUserString>#other_vehicles:Oth91_AC_U_MT_10_short</shortUserString>
+		<description>#other_vehicles:Oth91_AC_U_MT_10_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank fictional collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth91_AC_U_MT_10>
 	<Oth93_Convoyer>
 		<id>88</id>
 		<userString>#other_vehicles:Oth93_Convoyer</userString>

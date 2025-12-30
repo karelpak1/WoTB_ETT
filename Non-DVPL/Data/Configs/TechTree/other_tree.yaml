@@ -161,5 +161,7 @@ tanks:
     Oth80_AC_16_Celeno:
         position: [9, 30]
 #<!-- TIER_10 -->
+    Oth91_AC_U_MT_10:
+        position: [10, 29]
     Oth79_AC_17_Alcyone:
         position: [10, 30]

@@ -1460,14 +1460,14 @@
 		<userString>#germany_vehicles:G_E-75TS</userString>
 		<shortUserString>#germany_vehicles:G_E-75TS_short</shortUserString>
 		<description>#germany_vehicles:G_E-75TS_descr</description>
-		<price>7500<gold/>
+		<price>10000<gold/>
 		</price>
-		<sellPrice>3750<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank collectible</tags>
-		<level>8</level>
+		<level>9</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
 			<hellgames>werewolf</hellgames>
@@ -2124,4 +2124,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</G168_KJpz_T_III>
+	<G14_KpfPz_70R>
+		<id>119</id>
+		<userString>#germany_vehicles:G14_KpfPz_70R</userString>
+		<shortUserString>#germany_vehicles:G14_KpfPz_70R_short</shortUserString>
+		<description>#germany_vehicles:G14_KpfPz_70R_descr</description>
+		<price>10<gold/>
+		</price>
+		<sellPrice>10<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible noRandom noRating noNanomaps noTournamentsNanomaps noTournamentsRandom</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</G14_KpfPz_70R>
 </root>

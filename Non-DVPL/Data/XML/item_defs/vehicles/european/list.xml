@@ -418,12 +418,12 @@
 		<userString>#european_vehicles:Cz13_T-27</userString>
 		<shortUserString>#european_vehicles:Cz13_T-27_short</shortUserString>
 		<description>#european_vehicles:Cz13_T-27_descr</description>
-		<price>7500<gold/>
+		<price>10000<gold/>
 		</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank</tags>
-		<level>8</level>
+		<level>9</level>
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
