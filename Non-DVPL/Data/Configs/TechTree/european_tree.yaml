@@ -79,25 +79,25 @@ tanks:
     Pl20_CS_44:
         position: [7, 19]
 #<!-- TIER_8 -->
-    It22_Progetto_C45_mod_71:
+    Pl24_56TP:
         position: [8, 1]
-    S25_EMIL_51:
+    It22_Progetto_C45_mod_71:
         position: [8, 2]
-    S26_Lancen_C:
+    S25_EMIL_51:
         position: [8, 3]
-    It13_Progetto_M35_mod_46:
+    S26_Lancen_C:
         position: [8, 4]
-    Pl27_SDP_Wz_66T:
+    It13_Progetto_M35_mod_46:
         position: [8, 5]
-    Cz20_ShPTK_TVP_100:
+    Pl27_SDP_Wz_66T:
         position: [8, 6]
-    Cz14_Skoda_T-56:
+    Cz20_ShPTK_TVP_100:
         position: [8, 7]
-    It30_CC_mod_64_Prem:
+    Cz14_Skoda_T-56:
         position: [8, 8]
-    S23_Strv_81:
+    It30_CC_mod_64_Prem:
         position: [8, 9]
-    S32_Bofors_Tornvagn:
+    S23_Strv_81:
         position: [8, 10]
     It18_Semovente_mod_64:
         position: [8, 11]
@@ -119,8 +119,10 @@ tanks:
         position: [8, 19]
 #<!-- TIER_9 -->
     Pl08_50TP_prot:
-        position: [9, 9]
+        position: [9, 8]
     Cz13_T-27:
+        position: [9, 9]
+    S32_Bofors_Tornvagn:
         position: [9, 10]
     It19_Controcarro_1MK2_Ciclope:
         position: [9, 11]

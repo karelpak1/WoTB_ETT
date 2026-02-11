@@ -1309,14 +1309,14 @@
 		<userString>#ussr_vehicles:R63_ST_IBD</userString>
 		<shortUserString>#ussr_vehicles:R63_ST_IBD_short</shortUserString>
 		<description>#ussr_vehicles:R63_ST_IBD_descr</description>
-		<price>7500<gold/>
+		<price>10000<gold/>
 		</price>
-		<sellPrice>3750<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank fictional collectible</tags>
-		<level>8</level>
+		<level>9</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf</hellgames>

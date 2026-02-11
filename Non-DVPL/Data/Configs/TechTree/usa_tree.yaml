@@ -1,129 +1,129 @@
-premium_rows: 17
+premium_rows: 16
 
 tanks:
 #<!-- TIER_1 -->
     M2_lt:
-        position: [1, 20]
+        position: [1, 19]
     T1_Cunningham:
-        position: [1, 16]
+        position: [1, 15]
 #<!-- TIER_2 -->
     T18:
-        position: [2, 13]
+        position: [2, 12]
     T1_E6:
-        position: [2, 14]
+        position: [2, 13]
     T2_lt:
-        position: [2, 15]
+        position: [2, 14]
     T2_med:
-        position: [2, 16]
+        position: [2, 15]
     T7_Combat_Car:
-        position: [2, 17]
+        position: [2, 16]
     M3_Stuart:
-        position: [2, 20]
+        position: [2, 19]
 #<!-- TIER_3 -->
     M2_med:
-        position: [3, 15]
+        position: [3, 14]
     T82:
-        position: [3, 16]
+        position: [3, 15]
     M22_Locust:
-        position: [3, 17]
+        position: [3, 16]
     M5_Stuart:
-        position: [3, 20]
+        position: [3, 19]
 #<!-- TIER_4 -->
     M3_Grant:
-        position: [4, 15]
+        position: [4, 14]
     T40:
-        position: [4, 16]
+        position: [4, 15]
     A77_T6M:
-        position: [4, 17]
+        position: [4, 16]
     M8A1:
-        position: [4, 19]
+        position: [4, 18]
     M7_med:
-        position: [4, 20]
+        position: [4, 19]
 #<!-- TIER_5 -->
     A05_M4_105BD:
-        position: [5, 13]
+        position: [5, 12]
     M4A2E4:
-        position: [5, 14]
+        position: [5, 13]
     Ram-II:
-        position: [5, 15]
+        position: [5, 14]
     T14:
-        position: [5, 16]
+        position: [5, 15]
     T49:
-        position: [5, 17]
+        position: [5, 16]
     M10_Wolverine:
-        position: [5, 19]
+        position: [5, 18]
     T1_hvy:
-        position: [5, 20]
+        position: [5, 19]
     M4_Sherman:
-        position: [5, 22]
+        position: [5, 21]
 #<!-- TIER_6 -->
     M18E2BP:
-        position: [6, 6]
+        position: [6, 5]
     M6E2V2_BP:
-        position: [6, 7]
+        position: [6, 6]
     M36_BP:
-        position: [6, 8]
+        position: [6, 7]
     M24_Chaffee_BP:
-        position: [6, 9]
+        position: [6, 8]
     A104_M4A3E8A:
-        position: [6, 10]
+        position: [6, 9]
     Sherman_Jumbo:
-        position: [6, 11]
+        position: [6, 10]
     M6E2BP:
-        position: [6, 12]
+        position: [6, 11]
     A142_Pawlack_Tank:
-        position: [6, 13]
+        position: [6, 12]
     T21_BP:
-        position: [6, 14]
+        position: [6, 13]
     M4A3E8_BP:
-        position: [6, 15]
+        position: [6, 14]
     M4A3E8TU:
-        position: [6, 16]
+        position: [6, 15]
     T21:
-        position: [6, 17]
+        position: [6, 16]
     M18_Hellcat:
-        position: [6, 18]
+        position: [6, 17]
     M36_Slagger:
-        position: [6, 19]
+        position: [6, 18]
     M6:
-        position: [6, 20]
+        position: [6, 19]
     M4A3E8_Sherman:
-        position: [6, 22]
+        position: [6, 21]
     A94_T37:
-        position: [6, 23]
+        position: [6, 22]
     M24_Chaffee:
-        position: [6, 24]
+        position: [6, 23]
 #<!-- TIER_7 -->
     M6A2E1:
-        position: [7, 10]
+        position: [7, 9]
     M4A3E8TUR:
-        position: [7, 11]
+        position: [7, 10]
     A130_Super_Hellcat:
-        position: [7, 12]
+        position: [7, 11]
     T23E3:
-        position: [7, 13]
+        position: [7, 12]
     A121_T26E3:
-        position: [7, 14]
+        position: [7, 13]
     A102_T28_concept:
-        position: [7, 15]
+        position: [7, 14]
     A136_T42:
-        position: [7, 16]
+        position: [7, 15]
     T49_Rocket:
-        position: [7, 17]
+        position: [7, 16]
     T25_2:
-        position: [7, 18]
+        position: [7, 17]
     T25_AT:
-        position: [7, 19]
+        position: [7, 18]
     T29:
-        position: [7, 20]
+        position: [7, 19]
     M-7-Y:
-        position: [7, 21]
+        position: [7, 20]
     T20:
-        position: [7, 22]
+        position: [7, 21]
     T71:
-        position: [7, 23]
+        position: [7, 22]
     M41_Bulldog:
-        position: [7, 24]
+        position: [7, 23]
 #<!-- TIER_8 -->
     A140_ASTRON_REX_105:
         position: [8, 1]
@@ -157,69 +157,69 @@ tanks:
         position: [8, 15]
     A122_TS-5:
         position: [8, 16]
-    A151_TS_60:
-        position: [8, 17]
     T28_Prototype:
-        position: [8, 18]
+        position: [8, 17]
     T28:
-        position: [8, 19]
+        position: [8, 18]
     T32:
-        position: [8, 20]
+        position: [8, 19]
     M-3-Y:
-        position: [8, 21]
+        position: [8, 20]
     Pershing:
-        position: [8, 22]
+        position: [8, 21]
     T69:
-        position: [8, 23]
+        position: [8, 22]
     A100_T49:
-        position: [8, 24]
+        position: [8, 23]
 #<!-- TIER_9 -->
     A125_AEP_1:
-        position: [9, 13]
+        position: [9, 11]
     A175_ATAC:
-        position: [9, 14]
+        position: [9, 12]
     M46_CL:
-        position: [9, 15]
+        position: [9, 13]
     A150_MBT_B:
-        position: [9, 16]
+        position: [9, 14]
     A146_TL_7_120:
-        position: [9, 17]
+        position: [9, 15]
+    A151_TS_60:
+        position: [9, 16]
     T30:
-        position: [9, 18]
+        position: [9, 17]
     T95:
-        position: [9, 19]
+        position: [9, 18]
     M103:
-        position: [9, 20]
+        position: [9, 19]
     M-5-Y:
-        position: [9, 21]
+        position: [9, 20]
     M46_Patton:
-        position: [9, 22]
+        position: [9, 21]
     T54E1:
-        position: [9, 23]
+        position: [9, 22]
     A99_T92E1:
-        position: [9, 24]
+        position: [9, 23]
 #<!-- TIER_10 -->
     A128_Concept_1b:
-        position: [10, 13]
+        position: [10, 12]
     M60:
-        position: [10, 14]
+        position: [10, 13]
     A116_XM551_Exp:
-        position: [10, 15]
+        position: [10, 14]
     A95_T95E6:
-        position: [10, 16]
+        position: [10, 15]
     A153_XM66F:
-        position: [10, 17]
+        position: [10, 16]
     T110E4:
-        position: [10, 18]
+        position: [10, 17]
     T110E3:
-        position: [10, 19]
+        position: [10, 18]
     T110:
-        position: [10, 20]
+        position: [10, 19]
     M-6-Y:
-        position: [10, 21]
+        position: [10, 20]
     M48A1:
-        position: [10, 22]
+        position: [10, 21]
     T57_58:
-        position: [10, 23]
+        position: [10, 22]
     A116_XM551:
-        position: [10, 24]
+        position: [10, 23]

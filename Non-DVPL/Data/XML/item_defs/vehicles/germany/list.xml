@@ -444,7 +444,7 @@
 		<tags>mediumTank beast enhancedTorsions5t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>sniper</arcade>
+			<arcade>cavalry</arcade>
 			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>hunter</gravitizing>
@@ -1541,14 +1541,14 @@
 		<userString>#germany_vehicles:G112_JagdPanzer_105</userString>
 		<shortUserString>#germany_vehicles:G112_JagdPanzer_105_short</shortUserString>
 		<description>#germany_vehicles:G112_JagdPanzer_105_descr</description>
-		<price>7500<gold/>
+		<price>10000<gold/>
 		</price>
-		<sellPrice>3750<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>AT-SPG mediumAT-SPG collectible</tags>
-		<level>8</level>
+		<level>9</level>
 		<combatRole>
 			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>

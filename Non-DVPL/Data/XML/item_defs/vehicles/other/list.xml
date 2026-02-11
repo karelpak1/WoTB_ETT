@@ -1505,6 +1505,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth91_AC_U_MT_10>
+	<Oth92_JagdPantherII_Titan>
+		<id>87</id>
+		<userString>#other_vehicles:Oth92_JagdPantherII_Titan</userString>
+		<shortUserString>#other_vehicles:Oth92_JagdPantherII_Titan_short</shortUserString>
+		<description>#other_vehicles:Oth92_JagdPantherII_Titan_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>revenger</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth92_JagdPantherII_Titan>
 	<Oth93_Convoyer>
 		<id>88</id>
 		<userString>#other_vehicles:Oth93_Convoyer</userString>
@@ -1516,7 +1537,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible fictional eventCamouflage_user InGame noRating</tags>
+		<tags>heavyTank collectible fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>revenger</arcade>

@@ -100,32 +100,34 @@ tanks:
         position: [7, 30]
 #<!-- TIER_8 -->
     Oth82_AC_14_Pleione:
-        position: [8, 13]
+        position: [8, 12]
     Oth85_Ghoul:
-        position: [8, 14]
+        position: [8, 13]
     Oth93_Convoyer:
-        position: [8, 15]
+        position: [8, 14]
     Oth67_FV215b_183ANN_S4:
-        position: [8, 16]
+        position: [8, 15]
     Oth37_T26_E4_SuperPershing_S1:
-        position: [8, 17]
+        position: [8, 16]
     Oth45_Sandstriker:
-        position: [8, 18]
+        position: [8, 17]
     Oth40_TVP_46_S2:
-        position: [8, 19]
+        position: [8, 18]
     Akawara:
-        position: [8, 20]
+        position: [8, 19]
     Oth77_Prowler:
-        position: [8, 21]
+        position: [8, 20]
     Oth73_Nemini:
-        position: [8, 22]
+        position: [8, 21]
     Oth69_Souleater:
-        position: [8, 23]
+        position: [8, 22]
     Oth47_AMX_13_90_S3:
-        position: [8, 24]
+        position: [8, 23]
     Oth30_T54MS:
-        position: [8, 25]
+        position: [8, 24]
     Oth44_Charioteer_T:
+        position: [8, 25]
+    Oth92_JagdPantherII_Titan:
         position: [8, 26]
     Oth71_Titan_Strife:
         position: [8, 27]

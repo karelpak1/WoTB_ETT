@@ -1780,14 +1780,14 @@
 		<userString>#usa_vehicles:A151_TS_60</userString>
 		<shortUserString>#usa_vehicles:A151_TS_60_short</shortUserString>
 		<description>#usa_vehicles:A151_TS_60_descr</description>
-		<price>7500<gold/>
+		<price>10000<gold/>
 		</price>
-		<sellPrice>3750<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>AT-SPG heavyAT-SPG collectible</tags>
-		<level>8</level>
+		<level>9</level>
 		<combatRole>
 			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
