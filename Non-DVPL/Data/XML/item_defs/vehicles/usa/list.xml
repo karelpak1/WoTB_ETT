@@ -1898,4 +1898,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A175_ATAC>
+	<A178_SPHT>
+		<id>117</id>
+		<userString>#usa_vehicles:A178_SPHT</userString>
+		<shortUserString>#usa_vehicles:A178_SPHT_short</shortUserString>
+		<description>#usa_vehicles:A178_SPHT_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A178_SPHT>
 </root>

@@ -602,4 +602,21 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J38_Type_95_Ji_Ro>
+	<J39_Type_5_Exp>
+		<id>35</id>
+		<userString>#japan_vehicles:J39_Type_5_Exp</userString>
+		<shortUserString>#japan_vehicles:J39_Type_5_Exp_short</shortUserString>
+		<description>#japan_vehicles:J39_Type_5_Exp_descr</description>
+		<price>0</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J39_Type_5_Exp>
 </root>

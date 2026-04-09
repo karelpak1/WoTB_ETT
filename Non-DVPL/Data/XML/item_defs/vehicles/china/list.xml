@@ -369,14 +369,14 @@
 		<userString>#china_vehicles:Ch26_59_Patton</userString>
 		<shortUserString>#china_vehicles:Ch26_59_Patton_short</shortUserString>
 		<description>#china_vehicles:Ch26_59_Patton_descr</description>
-		<price>7500<gold/>
+		<price>10000<gold/>
 		</price>
-		<sellPrice>3750<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank collectible</tags>
-		<level>8</level>
+		<level>9</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
 			<hellgames>vampire</hellgames>
@@ -390,14 +390,14 @@
 		<userString>#china_vehicles:Ch14_T34_3</userString>
 		<shortUserString>#china_vehicles:Ch14_T34_3_short</shortUserString>
 		<description>#china_vehicles:Ch14_T34_3_descr</description>
-		<price>7500<gold/>
+		<price>10000<gold/>
 		</price>
-		<sellPrice>3750<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>mediumTank collectible</tags>
-		<level>8</level>
+		<level>9</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>
 			<hellgames>berserk</hellgames>

@@ -1440,14 +1440,14 @@
 		<userString>#germany_vehicles:G138_VK16801P</userString>
 		<shortUserString>#germany_vehicles:G138_VK16801P_short</shortUserString>
 		<description>#germany_vehicles:G138_VK16801P_descr</description>
-		<price>7500<gold/>
+		<price>10000<gold/>
 		</price>
-		<sellPrice>3750<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank collectible</tags>
-		<level>8</level>
+		<level>9</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
 			<hellgames>werewolf_2</hellgames>

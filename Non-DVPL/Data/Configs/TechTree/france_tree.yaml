@@ -77,19 +77,19 @@ tanks:
         position: [8, 5]
     F116_Bat_Chat_Bourrasque:
         position: [8, 6]
-    F127_ELC_AMX_901_Proto:
+    F131_Brennos:
         position: [8, 7]
-    FCM_50t:
+    F127_ELC_AMX_901_Proto:
         position: [8, 8]
-    F19_Lorraine40t:
+    FCM_50t:
         position: [8, 9]
-    F19_Lorraine40t_Com:
+    F19_Lorraine40t:
         position: [8, 10]
-    F73_M4A1_Revalorise:
+    F19_Lorraine40t_Com:
         position: [8, 11]
-    F140_Sentinelle:
+    F73_M4A1_Revalorise:
         position: [8, 12]
-    F84_Somua_SM:
+    F140_Sentinelle:
         position: [8, 13]
     AMX_AC_Mle1948:
         position: [8, 14]
@@ -101,12 +101,14 @@ tanks:
         position: [8, 17]
 #<!-- TIER_9 -->
     F71_AMX_30_prototype:
-        position: [9, 10]
+        position: [9, 9]
     Bat-Chat-25CL:
-        position: [9, 11]
+        position: [9, 10]
     F114_Projet_4_1:
-        position: [9, 12]
+        position: [9, 11]
     F115_Lorraine_50t:
+        position: [9, 12]
+    F84_Somua_SM:
         position: [9, 13]
     AMX50_Foch:
         position: [9, 14]

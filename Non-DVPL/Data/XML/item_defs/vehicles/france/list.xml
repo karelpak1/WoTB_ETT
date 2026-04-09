@@ -667,14 +667,14 @@
 		<userString>#france_vehicles:F84_Somua_SM</userString>
 		<shortUserString>#france_vehicles:F84_Somua_SM_short</shortUserString>
 		<description>#france_vehicles:F84_Somua_SM_descr</description>
-		<price>7500<gold/>
+		<price>10000<gold/>
 		</price>
-		<sellPrice>3750<gold/>
+		<sellPrice>5000<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
 		<tags>heavyTank collectible</tags>
-		<level>8</level>
+		<level>9</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>werewolf</hellgames>
@@ -1035,4 +1035,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</F140_Sentinelle>
+	<F131_Brennos>
+		<id>89</id>
+		<userString>#france_vehicles:F131_Brennos</userString>
+		<shortUserString>#france_vehicles:F131_Brennos_short</shortUserString>
+		<description>#france_vehicles:F131_Brennos_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</F131_Brennos>
 </root>
