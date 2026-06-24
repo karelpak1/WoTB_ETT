@@ -1903,10 +1903,13 @@
 		<userString>#usa_vehicles:A178_SPHT</userString>
 		<shortUserString>#usa_vehicles:A178_SPHT_short</shortUserString>
 		<description>#usa_vehicles:A178_SPHT_descr</description>
-		<price>0</price>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>

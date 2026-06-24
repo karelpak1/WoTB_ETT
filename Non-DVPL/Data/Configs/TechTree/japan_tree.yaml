@@ -68,6 +68,8 @@ tanks:
     J27_Chi_Se:
         position: [8, 7]
 #<!-- TIER_9 -->
+    J49_Kame:
+        position: [9, 4]
     J21_Ho_Ri:
         position: [9, 5]
     Type_61:
