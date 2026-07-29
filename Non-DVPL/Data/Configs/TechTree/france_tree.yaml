@@ -120,8 +120,10 @@ tanks:
         position: [9, 17]
 #<!-- TIER_10 -->
     F72_AMX_30:
-        position: [10, 12]
+        position: [10, 11]
     F82_AMX_M4_Mle1949_Ter:
+        position: [10, 12]
+    F142_M47_Chevalier:
         position: [10, 13]
     AMX_50Fosh_155:
         position: [10, 14]

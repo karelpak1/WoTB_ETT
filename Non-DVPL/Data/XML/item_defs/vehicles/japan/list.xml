@@ -630,7 +630,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating collectible</tags>
+		<tags>mediumTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>devastator</arcade>

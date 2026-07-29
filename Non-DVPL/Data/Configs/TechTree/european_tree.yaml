@@ -121,8 +121,12 @@ tanks:
         position: [8, 20]
 #<!-- TIER_9 -->
     Pl08_50TP_prot:
-        position: [9, 7]
+        position: [9, 5]
     S37_Ambassador:
+        position: [9, 6]
+    It38_Donnola:
+        position: [9, 7]
+    Pl120_Wz61_Ussar:
         position: [9, 8]
     Cz13_T-27:
         position: [9, 9]

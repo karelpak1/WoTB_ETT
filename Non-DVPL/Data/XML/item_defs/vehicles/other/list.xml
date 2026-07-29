@@ -1546,4 +1546,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth93_Convoyer>
+	<Oth98_AMX_50_100_Titan>
+		<id>97</id>
+		<userString>#other_vehicles:Oth98_AMX_50_100_Titan</userString>
+		<shortUserString>#other_vehicles:Oth98_AMX_50_100_Titan_short</shortUserString>
+		<description>#other_vehicles:Oth98_AMX_50_100_Titan_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank fictional collectible InGame noRating eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>stormtrooper</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth98_AMX_50_100_Titan>
 </root>

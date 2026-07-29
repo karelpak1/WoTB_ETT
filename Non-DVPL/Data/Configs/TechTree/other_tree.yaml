@@ -100,6 +100,8 @@ tanks:
         position: [7, 30]
 #<!-- TIER_8 -->
     Oth82_AC_14_Pleione:
+        position: [8, 11]
+    Oth98_AMX_50_100_Titan:
         position: [8, 12]
     Oth85_Ghoul:
         position: [8, 13]
