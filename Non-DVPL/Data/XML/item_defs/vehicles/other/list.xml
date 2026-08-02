@@ -1546,6 +1546,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth93_Convoyer>
+	<Oth97_CNO_Consul>
+		<id>96</id>
+		<userString>#other_vehicles:Oth97_CNO_Consul</userString>
+		<shortUserString>#other_vehicles:Oth97_CNO_Consul_short</shortUserString>
+		<description>#other_vehicles:Oth97_CNO_Consul_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG mediumAT-SPG collectible fictional eventCamouflage_user</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>berserk</gravitizing>
+			<lunar>moon_rover</lunar>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth97_CNO_Consul>
 	<Oth98_AMX_50_100_Titan>
 		<id>97</id>
 		<userString>#other_vehicles:Oth98_AMX_50_100_Titan</userString>
