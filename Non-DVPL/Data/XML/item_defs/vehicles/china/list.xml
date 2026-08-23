@@ -124,6 +124,12 @@
 		<tags>lightTank enhancedSuspension_Vikkers_user</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</Ch07_Vickers_MkE_Type_BT26>
 	<Ch11_110>
 		<id>11</id>
@@ -149,6 +155,12 @@
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>scout</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</Ch09_M5>
 	<Ch16_WZ_131>
 		<id>13</id>
@@ -223,6 +235,12 @@
 		<tags>mediumTank wetCombatPack_class1_user</tags>
 		<level>3</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</Ch08_Type97_Chi_Ha>
 	<Ch21_T34>
 		<id>18</id>
@@ -434,6 +452,12 @@
 		<tags>lightTank</tags>
 		<level>2</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</Ch_LT_vz38>
 	<Ch39_WZ120_1G_FT>
 		<id>27</id>
@@ -985,4 +1009,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Ch40_WZ120G_FT>
+	<Ch66_121_2_Ziqiang>
+		<id>60</id>
+		<userString>#china_vehicles:Ch66_121_2_Ziqiang</userString>
+		<shortUserString>#china_vehicles:Ch66_121_2_Ziqiang_short</shortUserString>
+		<description>#china_vehicles:Ch66_121_2_Ziqiang_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank collectible InGame noRating</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Ch66_121_2_Ziqiang>
 </root>

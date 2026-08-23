@@ -25,6 +25,12 @@
 		<tags>mediumTank collectible enhancedVertical_elastic_elements_user</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</GB05_Vickers_Medium_Mk_II>
 	<GB07_Matilda>
 		<id>3</id>
@@ -36,6 +42,11 @@
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_elastic_elements_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_support</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</GB07_Matilda>
 	<GB21_Cromwell>
 		<id>4</id>
@@ -85,6 +96,12 @@
 		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_elastic_elements_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>revenger</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</GB06_Vickers_Medium_Mk_III>
 	<GB08_Churchill_I>
 		<id>11</id>
@@ -178,6 +195,12 @@
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>4</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>revenger</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</GB04_Valentine>
 	<GB03_Cruiser_Mk_I>
 		<id>20</id>
@@ -193,6 +216,12 @@
 		<tags>lightTank collectible enhancedVertical_springs_user</tags>
 		<level>2</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</GB03_Cruiser_Mk_I>
 	<GB22_Comet>
 		<id>21</id>
@@ -274,6 +303,12 @@
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedSuspension_Christie_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</GB60_Covenanter>
 	<GB69_Cruiser_Mk_II>
 		<id>27</id>
@@ -285,6 +320,12 @@
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>1</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>hunter_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_hunter</gravitizing>
+	    </combatRole>
 	</GB69_Cruiser_Mk_II>
 	<GB70_FV4202_105>
 		<id>28</id>
@@ -313,6 +354,12 @@
 		<tags>mediumTank wetCombatPack_class1_user enhancedSuspension_Christie_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_hunter</gravitizing>
+	    </combatRole>
 	</GB59_Cruiser_Mk_IV>
 	<GB58_Cruiser_Mk_III>
 		<id>30</id>
@@ -324,6 +371,12 @@
 		<tags>mediumTank enhancedSuspension_Christie_user</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>revenger</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</GB58_Cruiser_Mk_III>
 	<GB42_Valentine_AT>
 		<id>31</id>
@@ -338,6 +391,12 @@
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>devastator</arcade>
+	        <hellgames>hunter_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_hunter</gravitizing>
+	    </combatRole>
 	</GB42_Valentine_AT>
 	<GB39_Universal_CarrierQF2>
 		<id>32</id>
@@ -353,6 +412,12 @@
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>devastator</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</GB39_Universal_CarrierQF2>
 	<GB72_AT15>
 		<id>33</id>
@@ -395,6 +460,12 @@
 		<tags>AT-SPG lightAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>berserk</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>berserk</gravitizing>
+	    </combatRole>
 	</GB57_Alecto>
 	<GB48_FV215b_183>
 		<id>36</id>
@@ -587,6 +658,12 @@
 		<tags>lightTank collectible</tags>
 		<level>2</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>berserk</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>berserk</gravitizing>
+	    </combatRole>
 	</GB76_Mk_VIC>
 	<GB85_Cromwell_Berlin>
 		<id>218</id>
@@ -671,6 +748,12 @@
 		<tags>mediumTank collectible mediumCaliberTankRammer_user enhancedSprings_user wetCombatPack_class1_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>hunter_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_hunter</gravitizing>
+	    </combatRole>
 	</Sentinel_AC1>
 	<GB01_Medium_Mark_I_tutorial_bot>
 		<id>254</id>
@@ -1436,4 +1519,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</GB141_GSOR_the_TANK>
+	<GB86_Mark_I_Male>
+		<id>101</id>
+		<userString>#uk_vehicles:GB86_Mark_I_Male</userString>
+		<shortUserString>#uk_vehicles:GB86_Mark_I_Male_short</shortUserString>
+		<description>#uk_vehicles:GB86_Mark_I_Male_descr</description>
+		<price>10<gold/>
+		</price>
+		<sellPrice>10<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible eventCamouflage_user</tags>
+		<level>1</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</GB86_Mark_I_Male>
 </root>

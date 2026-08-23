@@ -9,6 +9,11 @@
 		<tags>heavyTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_support</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</D2>
 	<RenaultFT>
 		<id>2</id>
@@ -32,6 +37,11 @@
 		<tags>heavyTank mediumCaliberTankRammer_user wetCombatPack_class2_user enhancedSprings_class3_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</B1>
 	<D1>
 		<id>6</id>
@@ -47,6 +57,12 @@
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</D1>
 	<FCM_36Pak40>
 		<id>9</id>
@@ -62,6 +78,12 @@
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
 		<level>3</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_support</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</FCM_36Pak40>
 	<ARL_44>
 		<id>10</id>
@@ -93,6 +115,12 @@
 		<tags>mediumTank collectible wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_user</tags>
 		<level>4</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</AMX40>
 	<AMX_50_100>
 		<id>12</id>
@@ -187,6 +215,12 @@
 		<tags>mediumTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>revenger</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</AMX38>
 	<AMX_50B>
 		<id>24</id>
@@ -267,6 +301,12 @@
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user</tags>
 		<level>2</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>devastator</arcade>
+	        <hellgames>hunter_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_hunter</gravitizing>
+	    </combatRole>
 	</RenaultFT_AC>
 	<RenaultUE57>
 		<id>32</id>
@@ -282,6 +322,12 @@
 		<tags>AT-SPG collectible lightAT-SPG wetCombatPack_class1_user enhancedSprings_user</tags>
 		<level>3</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>berserk</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>berserk</gravitizing>
+	    </combatRole>
 	</RenaultUE57>
 	<Somua_Sau_40>
 		<id>38</id>
@@ -293,6 +339,12 @@
 		<tags>AT-SPG lightAT-SPG wetCombatPack_class1_user mediumCaliberTankRammer_user improvedVentilation_class1_user enhancedSprings_user</tags>
 		<level>4</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</Somua_Sau_40>
 	<S_35CA>
 		<id>39</id>
@@ -497,6 +549,12 @@
 		<tags>mediumTank wetCombatPack_class1_user enhancedHorizontal_springs_user</tags>
 		<level>1</level>
 		<configurationModes>development production supertest</configurationModes>
+	    <combatRole>
+	        <arcade>halfheavy</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</RenaultR35>
 	<F82_AMX_M4_Mle1949_Ter>
 		<id>17</id>

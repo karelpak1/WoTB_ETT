@@ -111,6 +111,12 @@
 		<tags>mediumTank</tags>
 		<level>4</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</S04_Lago-I>
 	<Pl07_14TP>
 		<id>8</id>
@@ -122,6 +128,12 @@
 		<tags>lightTank</tags>
 		<level>3</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</Pl07_14TP>
 	<Pl06_10TP>
 		<id>9</id>
@@ -133,6 +145,12 @@
 		<tags>lightTank</tags>
 		<level>2</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</Pl06_10TP>
 	<F01_Vickers_MkF>
 		<id>10</id>
@@ -144,6 +162,12 @@
 		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>sniper</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</F01_Vickers_MkF>
 	<It13_Progetto_M35_mod_46>
 		<id>11</id>
@@ -1401,10 +1425,10 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible InGame noRating collectible</tags>
+		<tags>mediumTank collectible</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>close_assault</arcade>
+			<arcade>cavalry</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>berserk</gravitizing>
@@ -1422,12 +1446,13 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank InGame noRating collectible</tags>
+		<tags>mediumTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</S37_Ambassador>
@@ -1442,7 +1467,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank InGame noRating collectible</tags>
+		<tags>heavyTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -1490,4 +1515,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Pl120_Wz61_Ussar>
+	<Cz44_Zmije>
+		<id>91</id>
+		<userString>#european_vehicles:Cz44_Zmije</userString>
+		<shortUserString>#european_vehicles:Cz44_Zmije_short</shortUserString>
+		<description>#european_vehicles:Cz44_Zmije_descr</description>
+		<price>15000<gold/>
+		</price>
+		<sellPrice>7500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumAT-SPG AT-SPG collectible InGame noRating</tags>
+		<level>10</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz44_Zmije>
 </root>

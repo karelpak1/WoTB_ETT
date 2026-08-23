@@ -2,9 +2,11 @@ premium_rows: 13
 
 tanks:
 #<!-- TIER_1 -->
-    GB01_Medium_Mark_I:
+    GB86_Mark_I_Male:
         position: [1, 11]
     GB_Mark_I:
+        position: [1, 12]
+    GB01_Medium_Mark_I:
         position: [1, 12]
     GB69_Cruiser_Mk_II:
         position: [1, 16]

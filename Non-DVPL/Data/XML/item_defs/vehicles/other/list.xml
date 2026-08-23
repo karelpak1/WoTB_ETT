@@ -835,6 +835,11 @@
 		<tags>heavyTank fictional eventCamouflage_user</tags>
 		<level>4</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</Oth61_Pz_VM_Set>
 	<Oth62_Pz_VlD_Set>
 		<id>52</id>
@@ -1546,6 +1551,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth93_Convoyer>
+	<Oth95_MTU_defender>
+		<id>94</id>
+		<userString>#other_vehicles:Oth95_MTU_defender</userString>
+		<shortUserString>#other_vehicles:Oth95_MTU_defender_short</shortUserString>
+		<description>#other_vehicles:Oth95_MTU_defender_descr</description>
+		<price>7500<gold/>
+		</price>
+		<sellPrice>3750<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>lightTank fictional collectible eventCamouflage_user</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>scout</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth95_MTU_defender>
 	<Oth97_CNO_Consul>
 		<id>96</id>
 		<userString>#other_vehicles:Oth97_CNO_Consul</userString>

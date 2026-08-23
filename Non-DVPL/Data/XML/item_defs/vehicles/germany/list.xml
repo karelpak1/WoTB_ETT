@@ -42,6 +42,12 @@
 		<tags>lightTank enhancedSprings_user</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</Pz35t>
 	<StuGIII>
 		<id>04</id>
@@ -104,6 +110,12 @@
 		<tags>AT-SPG lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</Hetzer>
 	<PzII>
 		<id>08</id>
@@ -115,6 +127,12 @@
 		<tags>lightTank enhancedSprings_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</PzII>
 	<VK3601H>
 		<id>09</id>
@@ -178,6 +196,12 @@
 		<tags>lightTank collectible enhancedSprings_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</Pz38t>
 	<PanzerJager_I>
 		<id>14</id>
@@ -193,6 +217,12 @@
 		<tags>AT-SPG collectible lightAT-SPG</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</PanzerJager_I>
 	<JagdPanther>
 		<id>15</id>
@@ -238,6 +268,12 @@
 		<tags>mediumTank enhancedTorsions3t_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</PzIII>
 	<PzIII_A>
 		<id>19</id>
@@ -253,6 +289,12 @@
 		<tags>lightTank collectible grousers_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>scout</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</PzIII_A>
 	<PzVIB_Tiger_II>
 		<id>20</id>
@@ -301,6 +343,12 @@
 		<tags>lightTank collectible enhancedTorsions1t_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>scout</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</PzII_Luchs>
 	<PzIII_IV>
 		<id>25</id>
@@ -337,6 +385,12 @@
 		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user wetCombatPack_class1_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</G20_Marder_II>
 	<Maus>
 		<id>27</id>
@@ -433,6 +487,12 @@
 		<tags>lightTank collectible enhancedSprings_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>scout</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</Pz38_NA>
 	<Panther_II>
 		<id>33</id>
@@ -648,6 +708,12 @@
 		<tags>lightTank collectible</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</Pz_II_AusfG>
 	<DW_II>
 		<id>52</id>
@@ -663,6 +729,11 @@
 		<tags>heavyTank collectible enhancedTorsions3t_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class2_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</DW_II>
 	<Indien_Panzer>
 		<id>54</id>
@@ -822,6 +893,12 @@
 		<tags>mediumTank collectible enhancedLevers_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</Pz_IV_AusfA>
 	<Pz_IV_AusfD>
 		<id>68</id>
@@ -833,6 +910,12 @@
 		<tags>mediumTank enhancedLevers_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</Pz_IV_AusfD>
 	<G103_RU_251>
 		<id>72</id>
@@ -916,6 +999,12 @@
 		<tags>lightTank collectible enhancedTorsions1t_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_support</arcade>
+	        <hellgames>berserk</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>berserk</gravitizing>
+	    </combatRole>
 	</PzII_J>
 	<S35_captured>
 		<id>203</id>
@@ -931,6 +1020,12 @@
 		<tags>mediumTank collectible</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</S35_captured>
 	<B-1bis_captured>
 		<id>204</id>
@@ -946,6 +1041,11 @@
 		<tags>heavyTank collectible</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>revenger</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</B-1bis_captured>
 	<H39_captured>
 		<id>205</id>
@@ -961,6 +1061,12 @@
 		<tags>lightTank collectible</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>werewolf</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf</gravitizing>
+	    </combatRole>
 	</H39_captured>
 	<Lowe>
 		<id>212</id>
@@ -1011,6 +1117,12 @@
 		<tags>lightTank collectible enhancedSprings_user wetCombatPack_class1_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>scout</arcade>
+	        <hellgames>berserk</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>berserk</gravitizing>
+	    </combatRole>
 	</T-15>
 	<PzIV_Hydro>
 		<id>215</id>
@@ -1143,6 +1255,11 @@
 		<tags>heavyTank collectible wetCombatPack_class1_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>revenger</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</G100_Gtraktor_Krupp>
 	<G106_PzKpfwPanther_AusfF>
 		<id>235</id>

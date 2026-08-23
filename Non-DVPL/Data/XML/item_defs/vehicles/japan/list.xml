@@ -9,6 +9,12 @@
 		<tags>mediumTank</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>halfheavy</arcade>
+	        <hellgames>berserk</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>berserk</gravitizing>
+	    </combatRole>
 	</Chi_Ni>
 	<NC27>
 		<id>2</id>
@@ -32,6 +38,12 @@
 		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>berserk</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>berserk</gravitizing>
+	    </combatRole>
 	</Ha_Go>
 	<Chi_Ri>
 		<id>4</id>
@@ -77,6 +89,12 @@
 		<tags>mediumTank enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</Chi_He>
 	<Chi_To>
 		<id>7</id>
@@ -105,6 +123,12 @@
 		<tags>mediumTank wetCombatPack_class1_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</Chi_Ha>
 	<Ke_Ni>
 		<id>9</id>
@@ -120,6 +144,12 @@
 		<tags>lightTank collectible enhancedSprings_user wetCombatPack_class1_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>berserk</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>berserk</gravitizing>
+	    </combatRole>
 	</Ke_Ni>
 	<STA_1>
 		<id>10</id>
@@ -152,6 +182,12 @@
 		<tags>lightTank collectible enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>berserk</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>berserk</gravitizing>
+	    </combatRole>
 	</Ke_Ho>
 	<Type_61>
 		<id>13</id>
@@ -199,6 +235,12 @@
 		<tags>lightTank enhancedSuspension_Christie_user wetCombatPack_class1_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_hunter</gravitizing>
+	    </combatRole>
 	</Ke_Ni_B>
 	<PzVI_GuP>
 		<id>248</id>
@@ -273,6 +315,12 @@
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user fictional eventCamouflage_user</tags>
 		<level>4</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
 	</G09_Hetzer_GuP>
 	<J20_Ho_Ri_type3>
@@ -602,15 +650,30 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J38_Type_95_Ji_Ro>
+	<J23_Mi_To>
+		<id>34</id>
+		<userString>#japan_vehicles:J23_Mi_To</userString>
+		<shortUserString>#japan_vehicles:J23_Mi_To_short</shortUserString>
+		<description>#japan_vehicles:J23_Mi_To_descr</description>
+		<price>400000</price>
+		<enrichmentPermanentCost>4000</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>5</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>berserk</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>production development</configurationModes>
+	</J23_Mi_To>
 	<J39_Type_5_Exp>
 		<id>35</id>
 		<userString>#japan_vehicles:J39_Type_5_Exp</userString>
 		<shortUserString>#japan_vehicles:J39_Type_5_Exp_short</shortUserString>
 		<description>#japan_vehicles:J39_Type_5_Exp_descr</description>
-		<price>0</price>
+		<price>6100000</price>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<notInShop>false</notInShop>
-		<tags>heavyTank collectible InGame noRating</tags>
+		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
 			<arcade>dreadnought</arcade>
@@ -619,6 +682,70 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</J39_Type_5_Exp>
+	<J40_Type_4>
+		<id>36</id>
+		<userString>#japan_vehicles:J40_Type_4</userString>
+		<shortUserString>#japan_vehicles:J40_Type_4_short</shortUserString>
+		<description>#japan_vehicles:J40_Type_4_descr</description>
+		<price>3640000</price>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J40_Type_4>
+	<J28_O_I_100>
+		<id>37</id>
+		<userString>#japan_vehicles:J28_O_I_100</userString>
+		<shortUserString>#japan_vehicles:J28_O_I_100_short</shortUserString>
+		<description>#japan_vehicles:J28_O_I_100_descr</description>
+		<price>1450300</price>
+		<enrichmentPermanentCost>10600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J28_O_I_100>
+	<J41_O_I_120>
+		<id>38</id>
+		<userString>#japan_vehicles:J41_O_I_120</userString>
+		<shortUserString>#japan_vehicles:J41_O_I_120_short</shortUserString>
+		<description>#japan_vehicles:J41_O_I_120_descr</description>
+		<price>2610000</price>
+		<enrichmentPermanentCost>13600</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>8</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J41_O_I_120>
+	<J24_Mi_To_130_tons>
+		<id>39</id>
+		<userString>#japan_vehicles:J24_Mi_To_130_tons</userString>
+		<shortUserString>#japan_vehicles:J24_Mi_To_130_tons_short</shortUserString>
+		<description>#japan_vehicles:J24_Mi_To_130_tons_descr</description>
+		<price>885000</price>
+		<enrichmentPermanentCost>5200</enrichmentPermanentCost>
+		<tags>heavyTank</tags>
+		<level>6</level>
+		<combatRole>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf_2</hellgames>
+			<gravitizing>werewolf_2</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</J24_Mi_To_130_tons>
 	<J49_Kame>
 		<id>40</id>
 		<userString>#japan_vehicles:J49_Kame</userString>

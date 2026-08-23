@@ -32,6 +32,8 @@ tanks:
         position: [5, 6]
     J30_Mitsu_108:
         position: [5, 7]
+    J23_Mi_To:
+        position: [5, 8]
 #<!-- TIER_6 -->
     J29_Ju_Nu_BP:
         position: [6, 2]
@@ -43,6 +45,8 @@ tanks:
         position: [6, 6]
     J29_Ju_Nu:
         position: [6, 7]
+    J24_Mi_To_130_tons:
+        position: [6, 8]
 #<!-- TIER_7 -->
     IS-2_GuP:
         position: [7, 4]
@@ -52,6 +56,8 @@ tanks:
         position: [7, 6]
     J28_Ju_To:
         position: [7, 7]
+    J28_O_I_100:
+        position: [7, 8]
 #<!-- TIER_8 -->
     J31_Type_5_Ka_Ri:
         position: [8, 1]
@@ -67,6 +73,8 @@ tanks:
         position: [8, 6]
     J27_Chi_Se:
         position: [8, 7]
+    J41_O_I_120:
+        position: [8, 8]
 #<!-- TIER_9 -->
     J49_Kame:
         position: [9, 4]
@@ -76,10 +84,10 @@ tanks:
         position: [9, 6]
     J26_Type_68:
         position: [9, 7]
+    J40_Type_4:
+        position: [9, 8]
 #<!-- TIER_10 -->
     J20_Type_2605:
-        position: [10, 3]
-    J39_Type_5_Exp:
         position: [10, 4]
     J20_Ho_Ri_type3:
         position: [10, 5]
@@ -87,3 +95,5 @@ tanks:
         position: [10, 6]
     J25_Type71:
         position: [10, 7]
+    J39_Type_5_Exp:
+        position: [10, 8]

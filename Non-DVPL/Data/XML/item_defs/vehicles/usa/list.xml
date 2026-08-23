@@ -24,6 +24,12 @@
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>scout</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</M3_Stuart>
 	<T1_Cunningham>
 		<id>2</id>
@@ -112,6 +118,12 @@
 		<tags>lightTank enhancedVertical_springs_user</tags>
 		<level>1</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</M2_lt>
 	<T30>
 		<id>10</id>
@@ -159,6 +171,12 @@
 		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</M3_Grant>
 	<T1_hvy>
 		<id>13</id>
@@ -220,6 +238,12 @@
 		<tags>mediumTank collectible mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</M2_med>
 	<M5_Stuart>
 		<id>20</id>
@@ -231,6 +255,12 @@
 		<tags>lightTank wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>scout</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</M5_Stuart>
 	<M7_med>
 		<id>21</id>
@@ -242,6 +272,12 @@
 		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</M7_med>
 	<T2_med>
 		<id>22</id>
@@ -257,6 +293,12 @@
 		<tags>mediumTank collectible mediumCaliberTankRammer_user</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</T2_med>
 	<Pershing>
 		<id>23</id>
@@ -288,6 +330,12 @@
 		<tags>AT-SPG collectible lightAT-SPG improvedVentilation_class1_user enhancedVertical_springs_user enhancedVertical_springs_user</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>devastator</arcade>
+	        <hellgames>hunter</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>hunter</gravitizing>
+	    </combatRole>
 	</T18>
 	<T82>
 		<id>25</id>
@@ -302,6 +350,12 @@
 		<tags>AT-SPG collectible lightAT-SPG mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>close_assault</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</T82>
 	<M10_Wolverine>
 		<id>27</id>
@@ -350,6 +404,12 @@
 		<tags>AT-SPG collectible mediumAT-SPG noImprovedVentilation wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</T40>
 	<T28>
 		<id>32</id>
@@ -480,6 +540,12 @@
 		<tags>AT-SPG lightAT-SPG noImprovedVentilation wetCombatPack_class1_user mediumCaliberTankRammer_user enhancedVertical_springs_user</tags>
 		<level>4</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>stormtrooper</arcade>
+	        <hellgames>vampire_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>vampire_2</gravitizing>
+	    </combatRole>
 	</M8A1>
 	<T49>
 		<id>41</id>
@@ -823,6 +889,12 @@
 		<tags>lightTank collectible</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>scout</arcade>
+	        <hellgames>vampire</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_vampire</gravitizing>
+	    </combatRole>
 	</T2_lt>
 	<Ram-II>
 		<id>202</id>
@@ -894,6 +966,12 @@
 		<tags>lightTank collectible wetCombatPack_class1_user enhancedVertical_springs_user</tags>
 		<level>3</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>scout</arcade>
+	        <hellgames>hunter_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_hunter</gravitizing>
+	    </combatRole>
 	</M22_Locust>
 	<M6A2E1_exp>
 		<id>207</id>
@@ -927,6 +1005,12 @@
 		<tags>lightTank collectible</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_hunter</gravitizing>
+	    </combatRole>
 	</T1_E6>
 	<T7_Combat_Car>
 		<id>215</id>
@@ -942,6 +1026,12 @@
 		<tags>lightTank collectible</tags>
 		<level>2</level>
 		<configurationModes>production development supertest</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>hunter_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>gravitizing_hunter</gravitizing>
+	    </combatRole>
 	</T7_Combat_Car>
 	<A104_M4A3E8A>
 		<id>219</id>
@@ -1074,6 +1164,12 @@
 		<tags>mediumTank mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedVertical_springs_class2_user</tags>
 		<level>4</level>
 		<configurationModes>development production</configurationModes>
+	    <combatRole>
+	        <arcade>cavalry</arcade>
+	        <hellgames>werewolf_2</hellgames>
+	        <lunar>moon_rover</lunar>
+	        <gravitizing>werewolf_2</gravitizing>
+	    </combatRole>
 	</A77_T6M>
 	<M2_lt_tutorial_bot>
 		<id>72</id>
