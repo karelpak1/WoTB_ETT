@@ -2,10 +2,10 @@ premium_rows: 16
 
 tanks:
 #<!-- TIER_1 -->
-    M2_lt:
-        position: [1, 19]
     T1_Cunningham:
         position: [1, 15]
+    M2_lt:
+        position: [1, 19]
 #<!-- TIER_2 -->
     T18:
         position: [2, 12]
@@ -20,11 +20,11 @@ tanks:
     M3_Stuart:
         position: [2, 19]
 #<!-- TIER_3 -->
-    M2_med:
-        position: [3, 14]
-    T82:
-        position: [3, 15]
     M22_Locust:
+        position: [3, 14]
+    M2_med:
+        position: [3, 15]
+    T82:
         position: [3, 16]
     M5_Stuart:
         position: [3, 19]
@@ -173,16 +173,18 @@ tanks:
         position: [8, 23]
 #<!-- TIER_9 -->
     A125_AEP_1:
-        position: [9, 11]
+        position: [9, 10]
     A175_ATAC:
-        position: [9, 12]
+        position: [9, 11]
     M46_CL:
-        position: [9, 13]
+        position: [9, 12]
     A150_MBT_B:
-        position: [9, 14]
+        position: [9, 13]
     A146_TL_7_120:
-        position: [9, 15]
+        position: [9, 14]
     A151_TS_60:
+        position: [9, 15]
+    A168_XM_57:
         position: [9, 16]
     T30:
         position: [9, 17]

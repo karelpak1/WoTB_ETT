@@ -122,7 +122,7 @@
 		<tags>mediumTank eventCamouflage_user enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional collectible</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>scout</arcade>
+			<arcade>close_assault</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -430,8 +430,8 @@
 		<tags>AT-SPG mediumAT-SPG eventCamouflage_user collectible fictional</tags>
 		<level>5</level>
 		<combatRole>
-			<arcade>close_support</arcade>
-			<hellgames>hunter_2</hellgames>
+			<arcade>devastator</arcade>
+			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
@@ -674,7 +674,7 @@
 		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>revenger</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>werewolf_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>werewolf_2</gravitizing>
@@ -851,8 +851,8 @@
 		<tags>heavyTank fictional</tags>
 		<level>5</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -867,8 +867,8 @@
 		<tags>heavyTank fictional</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -883,8 +883,8 @@
 		<tags>heavyTank fictional</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -984,8 +984,8 @@
 		<tags>heavyTank fictional</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>close_assault</arcade>
+			<hellgames>berserk</hellgames>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1067,7 +1067,7 @@
 		<tags>heavyTank collectible eventCamouflage_user fictional</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>werewolf</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
@@ -1333,7 +1333,7 @@
 		<level>9</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1348,8 +1348,8 @@
 		<tags>heavyTank fictional</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>close_support</arcade>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1364,8 +1364,8 @@
 		<tags>heavyTank fictional</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1380,8 +1380,8 @@
 		<tags>heavyTank fictional</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>devastator</arcade>
+			<hellgames>vampire_2</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1420,7 +1420,7 @@
 		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -1441,8 +1441,8 @@
 		<tags>heavyTank fictional collectible</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>long_support</arcade>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1462,7 +1462,7 @@
 		<level>9</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>
-			<hellgames>berserk</hellgames>
+			<hellgames>werewolf_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>berserk</gravitizing>
 		</combatRole>
@@ -1483,7 +1483,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
-			<hellgames>vampire_2</hellgames>
+			<hellgames>werewolf</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
@@ -1572,6 +1572,27 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth95_MTU_defender>
+	<Oth96_Morbid>
+		<id>95</id>
+		<userString>#other_vehicles:Oth96_Morbid</userString>
+		<shortUserString>#other_vehicles:Oth96_Morbid_short</shortUserString>
+		<description>#other_vehicles:Oth96_Morbid_descr</description>
+		<price>5000<gold/>
+		</price>
+		<sellPrice>2500<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>mediumTank eventCamouflage_user fictional collectible</tags>
+		<level>7</level>
+		<combatRole>
+			<arcade>halfheavy</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth96_Morbid>
 	<Oth97_CNO_Consul>
 		<id>96</id>
 		<userString>#other_vehicles:Oth97_CNO_Consul</userString>
@@ -1604,7 +1625,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank fictional collectible InGame noRating eventCamouflage_user</tags>
+		<tags>heavyTank fictional collectible eventCamouflage_user</tags>
 		<level>8</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>

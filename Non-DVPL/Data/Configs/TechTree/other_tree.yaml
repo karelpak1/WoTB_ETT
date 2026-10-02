@@ -1,42 +1,42 @@
-premium_rows: 29
+premium_rows: 30
 
 tanks:
 #<!-- TIER_1 -->
     Oth10_WarDuck:
-        position: [1, 28]
+        position: [1, 29]
 #<!-- TIER_4 -->
     Oth61_Pz_VM_Set:
-        position: [4, 30]
+        position: [4, 31]
 #<!-- TIER_5 -->
     Oth35_PanzerMejai:
-        position: [5, 24]
-    Oth24_StuH_42HW:
         position: [5, 25]
-    Oth15_RustCrab:
+    Oth24_StuH_42HW:
         position: [5, 26]
-    Oth26_StrvM42HW:
+    Oth15_RustCrab:
         position: [5, 27]
-    Oth29_A15HW:
+    Oth26_StrvM42HW:
         position: [5, 28]
-    Oth17_BDT-5A:
+    Oth29_A15HW:
         position: [5, 29]
-    Oth62_Pz_VlD_Set:
+    Oth17_BDT-5A:
         position: [5, 30]
+    Oth62_Pz_VlD_Set:
+        position: [5, 31]
 #<!-- TIER_6 -->
     Oth65_PzVIllM_Tigeom:
-        position: [6, 24]
-    Oth33_Blizzard_BP:
         position: [6, 25]
-    Strv_74A2:
+    Oth33_Blizzard_BP:
         position: [6, 26]
-    Oth31_T150BP:
+    Strv_74A2:
         position: [6, 27]
     Oth27_M24_AMX:
         position: [6, 28]
-    Oth18_BDT-5B:
+    Oth31_T150BP:
         position: [6, 29]
-    Oth63_Pz_VllF_Set:
+    Oth18_BDT-5B:
         position: [6, 30]
+    Oth63_Pz_VllF_Set:
+        position: [6, 31]
 #<!-- TIER_7 -->
     Oth83_AC_13_Merope:
         position: [7, 1]
@@ -72,36 +72,36 @@ tanks:
         position: [7, 16]
     Oth36_Indien_Panzer_S1:
         position: [7, 17]
-    Oth49_TM_04_NT:
+    Oth96_Morbid:
         position: [7, 18]
-    Sega_Nameless:
+    Oth49_TM_04_NT:
         position: [7, 19]
-    Oth34_PanzerMummy:
+    Sega_Nameless:
         position: [7, 20]
-    Oth09_WH_Predator:
+    Oth34_PanzerMummy:
         position: [7, 21]
-    Oth53_Rammer:
+    Oth09_WH_Predator:
         position: [7, 22]
-    Oth46_Charioteer_S3:
+    Oth53_Rammer:
         position: [7, 23]
-    Oth16_KV_TG:
+    Oth46_Charioteer_S3:
         position: [7, 24]
-    Oth28_Sturmfeur_HW:
+    Oth16_KV_TG:
         position: [7, 25]
-    Oth08_WH_Vindicator:
+    Oth28_Sturmfeur_HW:
         position: [7, 26]
-    Oth22_Sega_Vulcan:
+    Oth08_WH_Vindicator:
         position: [7, 27]
-    WZ-135G_FT:
+    Oth22_Sega_Vulcan:
         position: [7, 28]
-    Oth19_BDT-5C:
+    WZ-135G_FT:
         position: [7, 29]
-    Oth64_Pz_VlllK_Set:
+    Oth19_BDT-5C:
         position: [7, 30]
+    Oth64_Pz_VlllK_Set:
+        position: [7, 31]
 #<!-- TIER_8 -->
     Oth82_AC_14_Pleione:
-        position: [8, 10]
-    Oth98_AMX_50_100_Titan:
         position: [8, 11]
     Oth85_Ghoul:
         position: [8, 12]
@@ -127,7 +127,7 @@ tanks:
         position: [8, 22]
     Oth47_AMX_13_90_S3:
         position: [8, 23]
-    Oth30_T54MS:
+    Oth98_AMX_50_100_Titan:
         position: [8, 24]
     Oth44_Charioteer_T:
         position: [8, 25]
@@ -135,41 +135,43 @@ tanks:
         position: [8, 26]
     Oth71_Titan_Strife:
         position: [8, 27]
-    Oth52_Toxique:
+    Oth30_T54MS:
         position: [8, 28]
-    Oth51_FD_24:
+    Oth52_Toxique:
         position: [8, 29]
-    Oth81_AC_15_Taygete:
+    Oth51_FD_24:
         position: [8, 30]
+    Oth81_AC_15_Taygete:
+        position: [8, 31]
 #<!-- TIER_9 -->
     Oth78_AC_17_P_Sterope:
-        position: [9, 18]
-    Oth74_Argonaut:
         position: [9, 19]
-    Oth76_Destiny:
+    Oth74_Argonaut:
         position: [9, 20]
-    Oth48_EMIL_1951E1_S3:
+    Oth76_Destiny:
         position: [9, 21]
     Oth84_FVE_Defender:
         position: [9, 22]
-    Oth41_Centurion_Mk3_S2:
+    Oth48_EMIL_1951E1_S3:
         position: [9, 23]
-    Oth86_Survivalist:
+    Oth41_Centurion_Mk3_S2:
         position: [9, 24]
-    Oth68_KV2ANN_S4:
+    Oth86_Survivalist:
         position: [9, 25]
-    Oth75_Braniaq_DM5:
+    Oth68_KV2ANN_S4:
         position: [9, 26]
-    Oth38_50TP_Tyszkiewicza_S1:
+    Oth75_Braniaq_DM5:
         position: [9, 27]
-    Oth11_T-55A:
+    Oth38_50TP_Tyszkiewicza_S1:
         position: [9, 28]
-    Oth97_CNO_Consul:
+    Oth11_T-55A:
         position: [9, 29]
-    Oth80_AC_16_Celeno:
+    Oth97_CNO_Consul:
         position: [9, 30]
+    Oth80_AC_16_Celeno:
+        position: [9, 31]
 #<!-- TIER_10 -->
     Oth91_AC_U_MT_10:
-        position: [10, 29]
-    Oth79_AC_17_Alcyone:
         position: [10, 30]
+    Oth79_AC_17_Alcyone:
+        position: [10, 31]

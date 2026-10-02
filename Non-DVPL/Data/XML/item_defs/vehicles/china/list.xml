@@ -12,7 +12,7 @@
 		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user collectible</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>long_support</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>berserk</gravitizing>
@@ -47,7 +47,7 @@
 		<tags>mediumTank enhancedSuspension_Christie_user mediumCaliberTankRammer_user wetCombatPack_class1_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>revenger</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_vampire</gravitizing>
@@ -75,7 +75,7 @@
 		<tags>mediumTank enhancedTorsions3t_user mediumCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>halfheavy</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -188,7 +188,7 @@
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>werewolf</hellgames>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -218,7 +218,7 @@
 		<tags>mediumTank enhancedTorsions3t_user largeCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>werewolf_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>werewolf_2</gravitizing>
@@ -375,7 +375,7 @@
 		<tags>mediumTank collectible enhancedTorsions3t_user largeCaliberTankRammer_user wetCombatPack_class1_user aimingStabilizer_Mk1_user</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>long_support</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -396,8 +396,8 @@
 		<tags>mediumTank collectible</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
-			<hellgames>vampire</hellgames>
+			<arcade>sniper</arcade>
+			<hellgames>werewolf_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_vampire</gravitizing>
 		</combatRole>
@@ -580,7 +580,7 @@
 		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>dreadnought</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>werewolf</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
@@ -659,7 +659,7 @@
 		<tags>mediumTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>sniper</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -833,8 +833,8 @@
 		<tags>heavyTank</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>devastator</arcade>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -849,8 +849,8 @@
 		<tags>heavyTank</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>dreadnought</arcade>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -865,8 +865,8 @@
 		<tags>heavyTank</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>devastator</arcade>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>berserk</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -881,8 +881,8 @@
 		<tags>heavyTank</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
-			<hellgames>werewolf</hellgames>
+			<arcade>scout</arcade>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -901,7 +901,7 @@
 		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>close_assault</arcade>
 			<hellgames>werewolf</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
@@ -982,7 +982,7 @@
 		<tags>heavyTank collectible</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>stormtrooper</arcade>
+			<arcade>dreadnought</arcade>
 			<hellgames>werewolf</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>

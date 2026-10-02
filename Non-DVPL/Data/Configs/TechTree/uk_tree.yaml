@@ -3,10 +3,10 @@ premium_rows: 13
 tanks:
 #<!-- TIER_1 -->
     GB86_Mark_I_Male:
+        position: [1, 10]
+    GB01_Medium_Mark_I:
         position: [1, 11]
     GB_Mark_I:
-        position: [1, 12]
-    GB01_Medium_Mark_I:
         position: [1, 12]
     GB69_Cruiser_Mk_II:
         position: [1, 16]
@@ -63,12 +63,12 @@ tanks:
         position: [6, 5]
     GB40_Gun_Carrier_Churchill:
         position: [6, 6]
-    GB_Churchill_MkVIII:
-        position: [6, 7]
     GB_Churchill_MkVI:
+        position: [6, 7]
+    GB_Churchill_MkVIII:
         position: [6, 8]
     GB09_Churchill_VII_BP:
-        position: [6, 9]        
+        position: [6, 9]
     GB85_Cromwell_Berlin:
         position: [6, 10]
     GB40_Gun_Carrier_BP:
@@ -134,7 +134,7 @@ tanks:
     GB23_Centurion:
         position: [8, 16]
     GB_FV301:
-        position: [8, 17]  
+        position: [8, 17]
     GB11_Caernarvon:
         position: [8, 18]
 #<!-- TIER_9 -->

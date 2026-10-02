@@ -53,7 +53,7 @@
 		<level>6</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
-			<hellgames>werewolf</hellgames>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -85,7 +85,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_vampire</gravitizing>
@@ -101,7 +101,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -153,7 +153,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>vampire</hellgames>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -189,7 +189,7 @@
 		<level>5</level>
 		<combatRole>
 			<arcade>revenger</arcade>
-			<hellgames>werewolf</hellgames>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -310,7 +310,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>sniper</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -422,7 +422,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>hunter_2</hellgames>
+			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
@@ -437,8 +437,8 @@
 		<tags>AT-SPG heavyAT-SPG largeCaliberTankRammer_user wetCombatPack_class2_user enhancedHorizontal_springs_class3_user</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>revenger</arcade>
-			<hellgames>hunter_2</hellgames>
+			<arcade>close_support</arcade>
+			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_hunter</gravitizing>
 		</combatRole>
@@ -454,7 +454,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>sniper</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -577,7 +577,7 @@
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
-			<hellgames>werewolf</hellgames>
+			<hellgames>werewolf_2</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -679,7 +679,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedTorsions3t_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>revenger</arcade>
+			<arcade>close_assault</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -712,7 +712,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user patton</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>berserk</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>berserk</gravitizing>
@@ -730,7 +730,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>close_support</arcade>
-			<hellgames>vampire_2</hellgames>
+			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
@@ -747,7 +747,7 @@
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
-			<hellgames>werewolf</hellgames>
+			<hellgames>hunter</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -868,7 +868,7 @@
 		<tags>lightTank wetCombatPack_class1_user aimingStabilizer_Mk1_user enhancedTorsions3t_user largeCaliberTankRammer_user</tags>
 		<level>8</level>
 		<combatRole>
-			<arcade>scout</arcade>
+			<arcade>sniper</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_vampire</gravitizing>
@@ -1045,7 +1045,7 @@
 		<tags>mediumTank aimingStabilizer_Mk1_user mediumCaliberTankRammer_user wetCombatPack_class1_user enhancedHorizontal_springs_class2_user eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -1086,7 +1086,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>werewolf</hellgames>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>production development supertest</configurationModes>
@@ -1208,7 +1208,7 @@
 		<level>10</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
-			<hellgames>werewolf_2</hellgames>
+			<hellgames>berserk</hellgames>
 			<gravitizing>werewolf_2</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1280,7 +1280,7 @@
 		<tags>lightTank</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>close_support</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_hunter</gravitizing>
@@ -1297,7 +1297,7 @@
 		<tags>lightTank</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>stormtrooper</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_hunter</gravitizing>
@@ -1319,7 +1319,7 @@
 		<level>8</level>
 		<combatRole>
 			<arcade>long_support</arcade>
-			<hellgames>werewolf</hellgames>
+			<hellgames>hunter</hellgames>
 			<gravitizing>werewolf</gravitizing>
 		</combatRole>
 		<configurationModes>development production</configurationModes>
@@ -1378,7 +1378,7 @@
 		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
 		<level>6</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>vampire_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
@@ -1420,7 +1420,7 @@
 		<tags>lightTank collectible noRandom noRating noNanomaps noTournamentsNanomaps noTournamentsRandom eventCamouflage_user</tags>
 		<level>10</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>sniper</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_hunter</gravitizing>
@@ -1726,7 +1726,7 @@
 		<level>5</level>
 		<combatRole>
 			<arcade>halfheavy</arcade>
-			<hellgames>vampire_2</hellgames>
+			<hellgames>hunter</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>vampire_2</gravitizing>
 		</combatRole>
@@ -1948,7 +1948,7 @@
 		<tags>mediumTank collectible eventCamouflage_user</tags>
 		<level>7</level>
 		<combatRole>
-			<arcade>close_support</arcade>
+			<arcade>halfheavy</arcade>
 			<hellgames>hunter_2</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_hunter</gravitizing>
@@ -1987,7 +1987,7 @@
 		<tags>lightTank collectible</tags>
 		<level>9</level>
 		<combatRole>
-			<arcade>cavalry</arcade>
+			<arcade>scout</arcade>
 			<hellgames>vampire</hellgames>
 			<lunar>moon_rover</lunar>
 			<gravitizing>gravitizing_vampire</gravitizing>
@@ -2014,4 +2014,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</A178_SPHT>
+	<A168_XM_57>
+		<id>120</id>
+		<userString>#usa_vehicles:A168_XM_57</userString>
+		<shortUserString>#usa_vehicles:A168_XM_57_short</shortUserString>
+		<description>#usa_vehicles:A168_XM_57_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG collectible InGame noRating</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</A168_XM_57>
 </root>
