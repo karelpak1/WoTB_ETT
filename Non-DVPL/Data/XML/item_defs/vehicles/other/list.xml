@@ -835,11 +835,11 @@
 		<tags>heavyTank fictional eventCamouflage_user</tags>
 		<level>4</level>
 		<configurationModes>development production</configurationModes>
-	    <combatRole>
-	        <arcade>close_assault</arcade>
-	        <hellgames>werewolf</hellgames>
-	        <gravitizing>werewolf</gravitizing>
-	    </combatRole>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
 	</Oth61_Pz_VM_Set>
 	<Oth62_Pz_VlD_Set>
 		<id>52</id>
@@ -1634,4 +1634,25 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Oth98_AMX_50_100_Titan>
+	<Oth99_Relic>
+		<id>98</id>
+		<userString>#other_vehicles:Oth99_Relic</userString>
+		<shortUserString>#other_vehicles:Oth99_Relic_short</shortUserString>
+		<description>#other_vehicles:Oth99_Relic_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>AT-SPG heavyAT-SPG eventCamouflage_user fictional collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>close_assault</arcade>
+			<hellgames>berserk</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Oth99_Relic>
 </root>
