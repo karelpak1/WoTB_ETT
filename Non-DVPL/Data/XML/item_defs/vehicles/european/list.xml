@@ -111,12 +111,12 @@
 		<tags>mediumTank</tags>
 		<level>4</level>
 		<configurationModes>development production</configurationModes>
-	    <combatRole>
-	        <arcade>cavalry</arcade>
-	        <hellgames>vampire_2</hellgames>
-	        <lunar>moon_rover</lunar>
-	        <gravitizing>vampire_2</gravitizing>
-	    </combatRole>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire_2</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>vampire_2</gravitizing>
+		</combatRole>
 	</S04_Lago-I>
 	<Pl07_14TP>
 		<id>8</id>
@@ -128,12 +128,12 @@
 		<tags>lightTank</tags>
 		<level>3</level>
 		<configurationModes>development production</configurationModes>
-	    <combatRole>
-	        <arcade>cavalry</arcade>
-	        <hellgames>vampire</hellgames>
-	        <lunar>moon_rover</lunar>
-	        <gravitizing>gravitizing_vampire</gravitizing>
-	    </combatRole>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
 	</Pl07_14TP>
 	<Pl06_10TP>
 		<id>9</id>
@@ -145,12 +145,12 @@
 		<tags>lightTank</tags>
 		<level>2</level>
 		<configurationModes>development production</configurationModes>
-	    <combatRole>
-	        <arcade>cavalry</arcade>
-	        <hellgames>vampire</hellgames>
-	        <lunar>moon_rover</lunar>
-	        <gravitizing>gravitizing_vampire</gravitizing>
-	    </combatRole>
+		<combatRole>
+			<arcade>cavalry</arcade>
+			<hellgames>vampire</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>gravitizing_vampire</gravitizing>
+		</combatRole>
 	</Pl06_10TP>
 	<F01_Vickers_MkF>
 		<id>10</id>
@@ -162,12 +162,12 @@
 		<tags>lightTank</tags>
 		<level>1</level>
 		<configurationModes>development production</configurationModes>
-	    <combatRole>
-	        <arcade>sniper</arcade>
-	        <hellgames>hunter</hellgames>
-	        <lunar>moon_rover</lunar>
-	        <gravitizing>hunter</gravitizing>
-	    </combatRole>
+		<combatRole>
+			<arcade>sniper</arcade>
+			<hellgames>hunter</hellgames>
+			<lunar>moon_rover</lunar>
+			<gravitizing>hunter</gravitizing>
+		</combatRole>
 	</F01_Vickers_MkF>
 	<It13_Progetto_M35_mod_46>
 		<id>11</id>
@@ -1483,9 +1483,11 @@
 		<description>#european_vehicles:It38_Donnola_descr</description>
 		<price>10000<gold/>
 		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>lightTank InGame noRating</tags>
+		<tags>lightTank collectible</tags>
 		<level>9</level>
 		<combatRole>
 			<arcade>scout</arcade>
@@ -1536,4 +1538,24 @@
 		</combatRole>
 		<configurationModes>development production</configurationModes>
 	</Cz44_Zmije>
+	<Cz30_TBT>
+		<id>92</id>
+		<userString>#european_vehicles:Cz30_TBT</userString>
+		<shortUserString>#european_vehicles:Cz30_TBT_short</shortUserString>
+		<description>#european_vehicles:Cz30_TBT_descr</description>
+		<price>10000<gold/>
+		</price>
+		<sellPrice>5000<gold/>
+		</sellPrice>
+		<enrichmentPermanentCost>0</enrichmentPermanentCost>
+		<notInShop>false</notInShop>
+		<tags>heavyTank collectible</tags>
+		<level>9</level>
+		<combatRole>
+			<arcade>devastator</arcade>
+			<hellgames>werewolf</hellgames>
+			<gravitizing>werewolf</gravitizing>
+		</combatRole>
+		<configurationModes>development production</configurationModes>
+	</Cz30_TBT>
 </root>

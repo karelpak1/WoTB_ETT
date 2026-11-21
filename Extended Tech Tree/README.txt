@@ -3,7 +3,7 @@
 =======================================================================================
 		!!! Always make a backup before using modifications !!!
 
-For WoTB version: 11.21.x (only steam or download a modded apk file)
+For WoTB version: 11.22.x (only steam or download a modded apk file)
 
 Installation for Steam version:
 	Copy and Paste, Data folder in to 

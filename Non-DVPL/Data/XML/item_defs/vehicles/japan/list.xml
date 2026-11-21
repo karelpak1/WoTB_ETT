@@ -252,7 +252,7 @@
 		<sellPrice>1200<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>heavyTank collectible beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional eventCamouflage_user</tags>
+		<tags>heavyTank collectible beast enhancedTorsions5t_user largeCaliberTankRammer_user wetCombatPack_class2_user fictional eventCamouflage_user no_voiceover</tags>
 		<notInShop>false</notInShop>
 		<level>6</level>
 		<combatRole>
@@ -273,7 +273,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible enhancedLevers_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional eventCamouflage_user</tags>
+		<tags>mediumTank collectible enhancedLevers_user grousers_user mediumCaliberTankRammer_user wetCombatPack_class1_user fictional eventCamouflage_user no_voiceover</tags>
 		<level>5</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
@@ -313,7 +313,7 @@
 		<sellPrice>1200<gold/>
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
-		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user fictional eventCamouflage_user</tags>
+		<tags>AT-SPG collectible lightAT-SPG enhancedSprings_user mediumCaliberTankRammer_user wetCombatPack_class1_user improvedVentilation_class1_user fictional eventCamouflage_user no_voiceover</tags>
 		<level>4</level>
 		<combatRole>
 			<arcade>close_assault</arcade>
@@ -368,7 +368,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>heavyTank sinai collectible fictional eventCamouflage_user</tags>
+		<tags>heavyTank sinai collectible fictional eventCamouflage_user no_voiceover</tags>
 		<level>7</level>
 		<combatRole>
 			<arcade>stormtrooper</arcade>
@@ -388,7 +388,7 @@
 		</sellPrice>
 		<enrichmentPermanentCost>0</enrichmentPermanentCost>
 		<notInShop>false</notInShop>
-		<tags>mediumTank collectible fictional eventCamouflage_user</tags>
+		<tags>mediumTank collectible fictional eventCamouflage_user no_voiceover</tags>
 		<level>6</level>
 		<combatRole>
 			<arcade>cavalry</arcade>
